@@ -1,3 +1,19 @@
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+    return false;
+};
+
 function replaceDigitsWithCircledNumbers(text) {
     // Unicode offset for circled numbers: 9311 (0x2460)
     const unicodeOffset = 9311;
@@ -17,4 +33,23 @@ $(document).ready(function() {
     const convertedText = replaceDigitsWithCircledNumbers(originalText);
     $(this).html(convertedText);
   });
+
+  // Display on click
+  $(".seeMore").click(function(event) {
+    $(this).parent().find(".elementContents").slideToggle(700);
+
+    // Buttons
+    $(this).hide();
+    $(this).parent().find(".seeLessContainer").show();
+  });
+
+  $(".seeLess").click(function(event) {
+    $(this).parent().parent().find(".elementContents").slideToggle(400);
+
+    // Buttons
+    $(this).parent().hide();
+    $(this).parent().parent().find(".seeMore").show();
+  });
+
+
 });
