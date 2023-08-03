@@ -54,7 +54,7 @@ if ($filter == "element"){
 
             <div style="width:70%; margin-left:auto; margin-right: auto; margin-top: 50px; text-indent: 40px; max-width: 800px;">
             <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts? The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation.</p>
-            <p>Note: The goal of this site is to list a number of 'sonorities', as well as which sonorities are landmarks of a given composer. Even if you can find augmented chords in Bach's works, these aren't a staple of his style.</p>
+            <p>Note: The goal of this site is to list a number of 'sonorities', as well as which sonorities are landmarks of a given composer. Even if you can find augmented chords in Bach's works, they aren't a staple of his style.</p>
             </div>
 
         <?php } ?>
