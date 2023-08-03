@@ -32,14 +32,16 @@ function loadElement($element, $display) {
 
 
 		// If togglable add see more / less
-		if (!$display)
-			echo '<a class="seeMore">Show</a>';
+		if (!$display) {
+			// echo '<a class="seeMore">Show</a>';
+			echo '<div class="seeMore"><div class="seeMoreOverlay">Show</div></div>';
+		}
 
 		// Possibility to collapse or not by default
 		if ($display)
 			echo '<div class="elementContents">';
 		else
-			echo '<div class="elementContents" style="display: none">';
+			echo '<div class="elementContents" style="max-height: 100px">';
 
 		include "elements/".$element["pageName"].".html";
 

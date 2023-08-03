@@ -36,7 +36,8 @@ $(document).ready(function() {
 
   // Display on click
   $(".seeMore").click(function(event) {
-    $(this).parent().find(".elementContents").slideToggle(700);
+    // $(this).parent().find(".elementContents").slideToggle(700);
+    $(this).parent().find(".elementContents").css("max-height", "2000px");
 
     // Buttons
     $(this).hide();
@@ -44,12 +45,15 @@ $(document).ready(function() {
   });
 
   $(".seeLess").click(function(event) {
-    $(this).parent().parent().find(".elementContents").slideToggle(400);
+    // $(this).parent().parent().find(".elementContents").slideToggle(400);
+    $(this).parent().parent().find(".elementContents").css("max-height", "100px");
 
     // Buttons
     $(this).parent().hide();
     $(this).parent().parent().find(".seeMore").show();
-  });
 
+    // Scroll to top
+    $('html, body').scrollTop($(this).parent().parent().offset().top - 100);
+  });
 
 });

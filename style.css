@@ -49,8 +49,9 @@ p {
   /*  TODO MAX WIDTH CENTERED*/
   width: 90%;
   margin-left: 5%;
-  padding: 30px;
-  background-color: rgba(173, 216, 230, 0.2);
+  /* Top right bottom left */
+  padding: 30px 20px 30px 20px;
+  background-color: rgba(66, 66, 66);
   margin-bottom: 50px;
   border-radius: 20px;
 
@@ -69,6 +70,32 @@ p {
 }
 
 .elementContents {
+  width: 95%;
+  margin-left: 2.5%;
+  overflow: hidden;
+
+  -webkit-transition: all 0.3s ease;
+     -moz-transition: all 0.3s ease;
+      -ie-transition: all 0.3s ease;
+       -o-transition: all 0.3s ease;
+          transition: all 0.3s ease;
+}
+
+.seeMore {
+  position: relative;
+  width: 100%;
+}
+
+.seeMoreOverlay {
+  height:100px;
+  line-height: 100px;
+  width: 100%;
+  vertical-align: center;
+  position: absolute;
+  float: left;
+
+  backdrop-filter: blur(2px);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(50, 50, 50, .9));
 }
 
 .seeLessContainer{
