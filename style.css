@@ -1,0 +1,69 @@
+
+div {
+  text-align: center;
+}
+
+body {
+  background-color: #222 !important;
+  color: white !important;
+  min-width: fit-content;
+
+  font-family: 'REM', sans-serif !important;
+}
+
+p {
+  text-align: left;
+}
+
+
+.header {
+  background: #ccc !important; /*#555*/
+  width: 100% !impor;
+}
+
+.navbar {
+  width: 100%;
+  background: #888;
+}
+
+.navElement {
+  cursor: pointer;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  color : white !important;
+}
+
+.tag {
+  color : #777 !important;
+}
+
+.tagBox {
+  color : #777 !important;
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: -5px;
+}
+
+.element{
+  /*  TODO MAX WIDTH CENTERED*/
+  width: 90%;
+  margin-left: 5%;
+  padding: 30px;
+  background-color: rgba(173, 216, 230, 0.2);
+  margin-bottom: 50px;
+  border-radius: 20px;
+
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.elementTitle {
+  margin-bottom: 30px;
+}
+
+.elementExampleTitle {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
