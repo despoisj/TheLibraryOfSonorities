@@ -17,12 +17,20 @@ var getUrlParameter = function getUrlParameter(sParam) {
 function replaceDigitsWithCircledNumbers(text) {
     // Unicode offset for circled numbers: 9311 or 10111 (0x2460)
     const unicodeOffset = 10121; // For back background: soprano
+    const unicodeOffsetBass = 10111; // For back background: soprano
 
     // Regular expression to match digits with a caret symbol (^)
     const regex = /\^(\d)/g;
 
     // Replace matched digits with their corresponding circled numbers
-    return text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
+    text = text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
+
+
+    // Regular expression to match digits with a caret symbol (^)
+    const regexBass = /\*(\d)/g;
+
+    // Replace matched digits with their corresponding circled numbers
+    text = text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
 }
 
 $(document).ready(function() {

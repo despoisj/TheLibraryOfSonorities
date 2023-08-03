@@ -80,10 +80,9 @@ if ($filter == "element"){
 
                 <div style="margin-top: 30px; margin-bottom: 50px;">
                     <div style="width: 90%; margin-left: 5%;">
-                        <a class="navElement" href="index.php?filter=style&style=baroque">Baroque</a>
-                        <a class="navElement" href="index.php?filter=style&style=classical">Classical</a>
+                        <a class="navElement" href="index.php?filter=style&style=baroque">Baroque/Classical</a>
                         <a class="navElement" href="index.php?filter=style&style=romantic">Romantic</a>
-                        <a class="navElement" href="index.php?filter=style&style=late-romantic">Late-Romantic</a>
+                        <a class="navElement" href="index.php?filter=style&style=impressionism">Impressionism</a>
                     </div>
                 </div>
 
@@ -99,7 +98,10 @@ if ($filter == "element"){
                 } elseif ($filter == "composer") {
                     $title = ucfirst($composer);
                 } elseif ($filter == "style") {
-                    $title = "'" . ucfirst($style) . "' style";
+                    if($style == "baroque")
+                        $title = "Baroque/Classical";
+                    else
+                        $title = ucfirst($style);
                 } elseif ($filter == "harmony") {
                     $title = "Harmony";
                 } elseif ($filter == "texture") {

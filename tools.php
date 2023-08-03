@@ -15,6 +15,7 @@ function element($pageName, $title, $styles, $composers, $type) {
 
 // Define elements
 $mapping = [];
+// Romantic
 array_push($mapping, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
 array_push($mapping, element("V9_chord", "V9 Chord", ["romantic"], ["chopin"], "harmony"));
 array_push($mapping, element("moonlight_modulation", "'Moonlight Modulation'", ["romantic"], ["beethoven"], "harmony"));
@@ -23,13 +24,28 @@ array_push($mapping, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["b
 array_push($mapping, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
 array_push($mapping, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
 
+array_push($mapping, element("prinner", "The Prinner", ["baroque"], ["mozart"], "harmony"));
+
 array_push($mapping, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
 
 
 function loadElement($element, $display) {
 	// Loads a singular element
 
-	echo "<div class='element'>";
+	echo '<div class="element">';
+
+		// Test to differentiate romantic / baroque etc. 
+		echo "<div class='styleElementWrapper'>";
+
+			foreach($element["styles"] as $style){
+				if ($style == "romantic")
+					echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
+				elseif ($style == "baroque")
+					echo '<div class="styleElement"><a href="index.php?filter=style&style=baroque" style="text-decoration:none">🕰</a></div>';
+				elseif ($style == "impressionism")
+					echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
+			}
+		echo "</div>";
 
 		// Setup title link
 		echo '<h2 class="elementTitle"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
@@ -40,6 +56,7 @@ function loadElement($element, $display) {
 			// echo '<a class="seeMore">Show</a>';
 			echo '<div class="seeMore"><div class="seeMoreOverlay">Show</div></div>';
 		}
+
 
 		// Possibility to collapse or not by default
 		if ($display)
