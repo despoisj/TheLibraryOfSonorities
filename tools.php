@@ -20,6 +20,7 @@ array_push($mapping, element("V9_chord", "V9 Chord", ["romantic"], ["chopin"], "
 array_push($mapping, element("moonlight_modulation", "'Moonlight Modulation'", ["romantic"], ["beethoven"], "harmony"));
 array_push($mapping, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($mapping, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony"));
+array_push($mapping, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
 
 array_push($mapping, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
 

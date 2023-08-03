@@ -15,14 +15,14 @@ var getUrlParameter = function getUrlParameter(sParam) {
 };
 
 function replaceDigitsWithCircledNumbers(text) {
-    // Unicode offset for circled numbers: 9311 (0x2460)
-    const unicodeOffset = 9311;
+    // Unicode offset for circled numbers: 9311 or 10111 (0x2460)
+    const unicodeOffset = 10121; // For back background: soprano
 
     // Regular expression to match digits with a caret symbol (^)
     const regex = /\^(\d)/g;
 
     // Replace matched digits with their corresponding circled numbers
-    return text.replace(regex, (_, digit) => "<span style='font-size:20px'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
+    return text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
 }
 
 $(document).ready(function() {
@@ -37,7 +37,7 @@ $(document).ready(function() {
   // Display on click
   $(".seeMore").click(function(event) {
     // $(this).parent().find(".elementContents").slideToggle(700);
-    $(this).parent().find(".elementContents").css("max-height", "2000px");
+    $(this).parent().find(".elementContents").css("max-height", "5000px");
 
     // Buttons
     $(this).hide();
