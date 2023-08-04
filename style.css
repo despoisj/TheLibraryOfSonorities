@@ -127,8 +127,8 @@ p {
   float: left;
   font-size:18px;
 
-  backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
 
   background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(50, 50, 50, .9));
 }

@@ -28,6 +28,9 @@ array_push($mapping, element("prinner", "The Prinner", ["baroque"], ["mozart"], 
 
 array_push($mapping, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
 
+// Todo texture + harmoni
+array_push($mapping, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
+
 
 function loadElement($element, $display) {
 	// Loads a singular element
