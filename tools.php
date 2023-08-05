@@ -1,37 +1,5 @@
 <?php
-
-function element($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = []) {
-	// Create element
-	$element = [];
-	$element["pageName"] = $pageName;
-	$element["title"] = $title;
-	$element["styles"] = $styles;
-	$element["composers"] = $composers;
-	$element["type"] = $type; // harmony or texture
-	$element["emotions"] = $emotions;
-
-	return $element;
-}
-
-
-// Define elements
-$mapping = [];
-// Romantic
-array_push($mapping, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
-array_push($mapping, element("V9_chord", "V9 Chord", ["romantic"], ["chopin"], "harmony"));
-array_push($mapping, element("moonlight_modulation", "'Moonlight Modulation'", ["romantic"], ["beethoven"], "harmony"));
-array_push($mapping, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
-array_push($mapping, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony"));
-array_push($mapping, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
-array_push($mapping, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
-
-array_push($mapping, element("prinner", "The Prinner", ["baroque"], ["mozart"], "harmony"));
-
-array_push($mapping, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
-
-// Todo texture + harmoni
-array_push($mapping, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
-
+include 'library.php';
 
 function loadElement($element, $display) {
 	// Loads a singular element
@@ -44,7 +12,7 @@ function loadElement($element, $display) {
 			foreach($element["styles"] as $style){
 				if ($style == "romantic")
 					echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
-				elseif ($style == "baroque")
+				elseif ($style == "classical")
 					echo '<div class="styleElement"><a href="index.php?filter=style&style=baroque" style="text-decoration:none">🕰</a></div>';
 				elseif ($style == "impressionism")
 					echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
@@ -93,15 +61,15 @@ function loadElement($element, $display) {
 }
 
 function loadAllElements() {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		loadElement($element, False);
 	}
 }
 
 function loadStyle($style) {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		foreach ($element["styles"] as $currStyle){
 			if ($currStyle == $style){
 				loadElement($element, False);
@@ -111,8 +79,8 @@ function loadStyle($style) {
 }
 
 function loadComposer($composer) {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		foreach ($element["composers"] as $currComposer){
 			if ($currComposer == $composer){
 				loadElement($element, False);
@@ -122,8 +90,8 @@ function loadComposer($composer) {
 }
 
 function loadEmotion($emotion) {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		foreach ($element["emotions"] as $currEmotion){
 			if ($currEmotion == $emotion){
 				loadElement($element, False);
@@ -133,8 +101,8 @@ function loadEmotion($emotion) {
 }
 
 function loadType($type) {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		if ($element["type"] == $type){
 			loadElement($element, False);
 		}
@@ -142,8 +110,8 @@ function loadType($type) {
 }
 
 function loadSingleElement($elementName) {
-	global $mapping;
-	foreach ($mapping as $element) {
+	global $library;
+	foreach ($library as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, True); // Uncollapse
 		}

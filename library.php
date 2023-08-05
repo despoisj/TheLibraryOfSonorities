@@ -1,84 +1,35 @@
-<?php 
+<?php
 
-class Element {
-   public $pageName;
-   public $title;
-   public $styles;
-   public $composers;
-   public $type;
-   public $emotions;
+function element($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = []) {
+	// Create element
+	$element = [];
+	$element["pageName"] = $pageName;
+	$element["title"] = $title;
+	$element["styles"] = $styles;
+	$element["composers"] = $composers;
+	$element["type"] = $type; // harmony or texture
+	$element["emotions"] = $emotions;
 
-   public function __construct($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = []) {     
-       $this->pageName = $pageName;
-       $this->title = $title;
-       $this->styles = $styles;
-       $this->composers = $composers;
-       $this->type = $type;
-       $this->emotions = $emotions;
-   }
+	return $element;
 }
+
 
 // Define elements
 $library = [];
-
 // Romantic
-array_push($library, new Element(pageName: "chopin_chord",
-							 title:  "'Chopin Chord' (V7Add6)", 
-							 styles: ["romantic", "brilliant"], 
-							 composers: ["chopin", "scriabin"], 
-							 type: "harmony"));
+array_push($library, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
+array_push($library, element("V9_chord", "V9 Chord", ["romantic"], ["chopin"], "harmony"));
+array_push($library, element("moonlight_modulation", "'Moonlight Modulation'", ["romantic"], ["beethoven"], "harmony"));
+array_push($library, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
+array_push($library, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony"));
+array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
+array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
 
-array_push($library, new Element(pageName: "V9_chord",
-							 title:  "V9 Chord", 
-							 styles: ["romantic"], 
-							 composers: ["chopin"], 
-							 type: "harmony"));
+array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
 
-array_push($library, new Element(pageName: "moonlight_modulation",
-							 title:  "'Moonlight Modulation'", 
-							 styles: ["romantic"], 
-							 composers: ["beethoven"], 
-							 type: "harmony"));
+array_push($library, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
 
-array_push($library, new Element(pageName: "augmented_chord",
-							 title:  "Augmented Chords", 
-							 styles: ["romantic"], 
-							 composers: ["rachmaninoff"], 
-							 type: "harmony"));
-
-array_push($library, new Element(pageName: "ivM7_iiim7",
-							 title:  "IVMaj7 → iiim7", 
-							 styles: ["romantic"],
-							 composers: ["blumenfeld"],
-							 type: "harmony"));
-
-array_push($library, new Element(pageName: "chromatic_thirds", 
-							 title:"(Chromatic) Thirds",
-							 styles: ["romantic", "brilliant"], 
-							 composers: ["chopin"], 
-							 type: "harmony"));
-
-array_push($library, new Element(pageName: "ninth_arps", 
-							 title: "Arpeggios with added 9th",
-							 styles: ["romantic"], 
-							 composers: ["blumenfeld"], 
-							 type: "harmony"));
-
-array_push($library, new Element(pageName: "prinner", 
-							 title: "The Prinner", 
-							 styles: ["baroque"], 
-							 composers: ["mozart"], 
-							 type: "harmony"));
-
-array_push($library, new Element(pageName: "lh_arps", 
-							 title: "Left Hand Broken Arpeggios", 
-							 styles: ["romantic"], 
-							 composers: ["chopin", "scriabin"], 
-							 type: "texture"));
+array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "texture", ["triumphant", "happy"]));
 
 // Todo texture + harmony
-array_push($library, new Element(pageName: "lh_waltz", 
-							 title: "Left Hand Waltz Patterns", 
-							 styles: ["romantic"], 
-							 composers: ["chopin", "brahms", "tchaikovsky"], 
-							 type: "texture"));
+array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));

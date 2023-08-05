@@ -82,7 +82,7 @@ if ($filter == "element"){
 
                 <div style="margin-top: 30px; margin-bottom: 50px;">
                     <div style="width: 90%; margin-left: 5%;">
-                        <a class="navElement" href="index.php?filter=style&style=baroque">Baroque/Classical</a>
+                        <a class="navElement" href="index.php?filter=style&style=classical">Baroque/Classical</a>
                         <a class="navElement" href="index.php?filter=style&style=romantic">Romantic</a>
                         <a class="navElement" href="index.php?filter=style&style=impressionism">Impressionism</a>
                     </div>
@@ -114,7 +114,7 @@ if ($filter == "element"){
                 } elseif ($filter == "emotion") {
                     $title = ucfirst($emotion);
                 } elseif ($filter == "style") {
-                    if($style == "baroque")
+                    if($style == "classical")
                         $title = "Baroque/Classical";
                     else
                         $title = ucfirst($style);
