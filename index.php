@@ -17,6 +17,8 @@ if ($filter == "element"){
     $composer = htmlspecialchars($_GET["composer"]);
 } elseif ($filter == "style") {
     $style = htmlspecialchars($_GET["style"]);
+} elseif ($filter == "emotion") {
+    $emotion = htmlspecialchars($_GET["emotion"]);
 } 
 
 // Note: filter can also be "harmony", "texture" or nothing
@@ -86,6 +88,18 @@ if ($filter == "element"){
                     </div>
                 </div>
 
+            <?php } elseif ($filter == "emotion") { ?>
+
+                <div style="margin-top: 30px; margin-bottom: 50px;">
+                    <div style="width: 90%; margin-left: 5%;">
+                        <a class="navElement" href="index.php?filter=emotion&emotion=sad">Sad</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=happy">Happy</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=bittersweet">Bitterweet</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=triumphant">Triumphant</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=mystical">Mystical</a>
+                    </div>
+                </div>
+
              <?php } ?>
 
 
@@ -97,6 +111,8 @@ if ($filter == "element"){
                     $title = "Sonority";
                 } elseif ($filter == "composer") {
                     $title = ucfirst($composer);
+                } elseif ($filter == "emotion") {
+                    $title = ucfirst($emotion);
                 } elseif ($filter == "style") {
                     if($style == "baroque")
                         $title = "Baroque/Classical";
@@ -121,6 +137,8 @@ if ($filter == "element"){
                     loadComposer($composer);
                 elseif ($filter == "style")
                     loadStyle($style);
+                elseif ($filter == "emotion")
+                    loadEmotion($emotion);
                 elseif ($filter == "harmony" || $filter == "texture")
                     loadType($filter);
                 else

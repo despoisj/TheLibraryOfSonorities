@@ -1,6 +1,6 @@
 <?php
 
-function element($pageName, $title, $styles, $composers, $type) {
+function element($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = []) {
 	// Create element
 	$element = [];
 	$element["pageName"] = $pageName;
@@ -8,6 +8,7 @@ function element($pageName, $title, $styles, $composers, $type) {
 	$element["styles"] = $styles;
 	$element["composers"] = $composers;
 	$element["type"] = $type; // harmony or texture
+	$element["emotions"] = $emotions;
 
 	return $element;
 }
@@ -83,6 +84,9 @@ function loadElement($element, $display) {
 			foreach ($element["composers"] as $composer) {
 				echo "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>, ";
 			}
+			foreach ($element["emotions"] as $emotion) {
+				echo "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>, ";
+			}
 		echo "</div>";
 
 	echo "</div>";
@@ -111,6 +115,17 @@ function loadComposer($composer) {
 	foreach ($mapping as $element) {
 		foreach ($element["composers"] as $currComposer){
 			if ($currComposer == $composer){
+				loadElement($element, False);
+			}
+		}
+	}
+}
+
+function loadEmotion($emotion) {
+	global $mapping;
+	foreach ($mapping as $element) {
+		foreach ($element["emotions"] as $currEmotion){
+			if ($currEmotion == $emotion){
 				loadElement($element, False);
 			}
 		}

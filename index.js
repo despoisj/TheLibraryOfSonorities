@@ -31,6 +31,11 @@ function replaceDigitsWithCircledNumbers(text) {
 
     // Replace matched digits with their corresponding circled numbers
     text = text.replace(regexBass, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
+
+
+    // Replace -> by →
+    text = text.replaceAll("-&gt;","→");
+
     return text;
 }
 
