@@ -13,7 +13,7 @@ function loadElement($element, $display) {
 				if ($style == "romantic")
 					echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
 				elseif ($style == "classical")
-					echo '<div class="styleElement"><a href="index.php?filter=style&style=baroque" style="text-decoration:none">🕰</a></div>';
+					echo '<div class="styleElement"><a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰</a></div>';
 				elseif ($style == "impressionism")
 					echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
 			}
@@ -115,5 +115,21 @@ function loadSingleElement($elementName) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, True); // Uncollapse
 		}
+	}
+}
+
+function listElements() {
+	global $library;
+	// Lists all elements in compact form
+	foreach ($library as $element) {
+		$emoji = "";
+		if (in_array("romantic", $element["styles"]))
+			$emoji = $emoji . '<a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a>';
+		if (in_array("classical", $element["styles"]))
+			$emoji = $emoji . '<a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰️</a>';
+		if (in_array("impressionism", $element["styles"]))
+			$emoji = $emoji . '<a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a>';
+		
+		echo "<div><a href='index.php?filter=element&element=" . $element["pageName"] . "'>" . $element["title"] . "</a> " . $emoji . "</div>";
 	}
 }

@@ -61,12 +61,11 @@ if ($filter == "element"){
 
         <?php } ?>
 
-            
 
-        <!-- CONTENT -->
-        <div id="elements" style="margin-top: 50px;">
+        <div id="titles" style="margin-top: 30px;">
 
-            <!-- Local navbar for composer/style -->
+
+        <!-- Local navbar for composer/style -->
              <?php if ($filter == "composer") { ?>
 
                 <div style="margin-top: 30px; margin-bottom: 50px;">
@@ -128,6 +127,19 @@ if ($filter == "element"){
 
             ?>
             <h2 style="margin-bottom: 30px;"><?php echo $title; ?></h2>
+
+            <?php 
+                if ($filter == "")
+                    echo "<a href='list.php' style='padding-bottom:40px'>(view as list)</a>";
+                    
+            ?>
+        </div>
+
+            
+
+        <!-- CONTENT -->
+        <div id="elements" style="margin-top: 50px;">
+
 
 
             <?php
