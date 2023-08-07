@@ -19,8 +19,11 @@ $library = [];
 // Romantic
 array_push($library, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
 array_push($library, element("V9_chord", "V9 Chord", ["romantic"], ["chopin"], "harmony"));
-array_push($library, element("moonlight_modulation", "'Moonlight Modulation'", ["romantic"], ["beethoven"], "harmony"));
-array_push($library, element("rel_maj_modulation", "Relative Major Modulation", ["classical", "romantic"], [], "harmony"));
+array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
+
+array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven"], "harmony"));
+array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to III)", ["classical", "romantic"], [], "harmony"));
+
 array_push($library, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
 array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
