@@ -23,7 +23,9 @@
 
 <p>When combined with the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>, the resulting chord has an even richer sound. The chord can the ben understood as a V(b)13(b)9 chord.</p>
 
-<p>First measure of the Meno Mosso: Bb13|9: (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
+<p>• First measure of the Meno Mosso: Bb13|9: (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
+<p>• 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
+<p>• Same for mm. 2 at 3:40 and mm. 7 which ends with another classic Chopin Chord.</p>
 <?php yt("3QH8MstNkKg", 203) ?>
 
 <p>This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> 2-5-1 in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>

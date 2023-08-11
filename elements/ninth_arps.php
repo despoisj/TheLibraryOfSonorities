@@ -2,11 +2,11 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<p>Major version: first arpeggio up at 0:24 - E (F#) G# B i.e. ^1 (^2) ^3 ^5.</p>
-<p>Minor version: piano (top staff) arpeggios up/down end of mm. 2 & start of mm. 3 at 7:08 - C# (D#) E G# i.e. ^1 (^2) b^3 ^5.</p>
+<p>• Major version: first arpeggio up at 0:24 - E (F#) G# B i.e. ^1 (^2) ^3 ^5, also at 17:44.</p>
+<p>• Minor version: piano (top staff) arpeggios up/down end of mm. 2 & start of mm. 3 at 7:08 - C# (D#) E G# i.e. ^1 (^2) b^3 ^5.</p>
 <?php yt("eh3l8I-JT4Q", 24) ?>
 
-<p>Descending octave of EbMajAdd9: Eb-(F)-G-Bb, i.e. ^1 (^2) ^3 ^5.</p>
+<p>• Descending octave of EbMajAdd9: Eb-(F)-G-Bb, i.e. ^1 (^2) ^3 ^5.</p>
 <?php yt("cLxDWcBwuB8", 49) ?>
 
 <!-- ?start=49 -->
