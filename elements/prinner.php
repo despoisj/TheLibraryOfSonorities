@@ -2,4 +2,4 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bhGYOB4VWKA" frameborder="0" allowfullscreen></iframe>
+<?php yt("bhGYOB4VWKA") ?>

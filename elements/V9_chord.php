@@ -3,6 +3,6 @@
 <h4 class="elementExampleTitle">Examples</h4>
 <p>In the 3rd measure of the 2nd line.</p>
 <p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that many people play it as F natural, hence V9.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wv2kNjy2AZE?start=34&end=54" frameborder="0" allowfullscreen></iframe>
+<?php yt("Wv2kNjy2AZE", 34) ?>
 
 <iframe src="https://flat.io/embed/64ca4126ba575a9f83076033?_l=true&sharingKey=f7f4f5bc0c76b95568243afed1c64d6f66717238974585652da0417e0e3faff06666d7e628569c41b3b8c1f0bf873e409729027ea67f02e1eb738c7f27b24f4b" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

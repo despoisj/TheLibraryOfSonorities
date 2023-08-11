@@ -7,6 +7,6 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fy3JxUfE9ds?start=102" frameborder="0" allowfullscreen></iframe>
+<?php yt("Fy3JxUfE9ds", 102) ?>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eNBm9wD9zg0?start=18" frameborder="0" allowfullscreen></iframe>
+<?php yt("eNBm9wD9zg0", 18) ?>

@@ -4,7 +4,6 @@
 <p>5/3 -> 5+/3 -> 6</p>
 
 <!-- TODO CENTERING -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HocZnbMrC24?start=39&end=50" frameborder="0" allowfullscreen></iframe>
-
+<?php yt("HocZnbMrC24", 39) ?>
 
 <iframe src="https://flat.io/embed/64ca55598651f784731dce8a?_l=true&sharingKey=d551126e08404ac7775c39e3d4339f159968fe203e8095800d07c2c842766be745711790d82b164c0194239eae55066782b0c9a24688a83fb47d3671d15faa60" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

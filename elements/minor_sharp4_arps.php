@@ -2,6 +2,6 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1dq6PL0czY?start=9" frameborder="0" allowfullscreen></iframe>
+<?php yt("_1dq6PL0czY", 9) ?>
 
 <iframe src="https://flat.io/embed/64cff2dcdbb75500db3e8037?_l=true&sharingKey=0c956027ada2ac9baa0485193fd002cfc8adbce1c27e32bd922bc545842d7cf733727d49e4173c821eca9b2b5e63698f50cf5723424e4f4e5fe03a993f8f6f10" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

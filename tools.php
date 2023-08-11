@@ -36,7 +36,8 @@ function loadElement($element, $display) {
 		else
 			echo '<div class="elementContents" style="max-height: 100px">';
 
-		include "elements/".$element["pageName"].".html";
+		// Finally include the bulk of the page!
+		include "elements/".$element["pageName"].".php";
 
 		echo '</div>';
 
@@ -132,4 +133,11 @@ function listElements() {
 		
 		echo "<div><a href='index.php?filter=element&element=" . $element["pageName"] . "'>" . $element["title"] . "</a> " . $emoji . "</div>";
 	}
+}
+
+
+
+function yt($id, $start = 0) {
+	// Display wrapped youtube vieo
+	echo '<amp-youtube width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
 }

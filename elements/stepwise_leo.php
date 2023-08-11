@@ -4,9 +4,9 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <p>Stepwise Romanesca</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LJc-OCZo8Hc" frameborder="0" allowfullscreen></iframe>
+<?php yt("LJc-OCZo8Hc") ?>
 
 <p>Leo Romanesca</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/azB-_MlmhfI?start=69" frameborder="0" allowfullscreen></iframe>
+<?php yt("azB-_MlmhfI", 69) ?>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xNlF8f6bhFQ" frameborder="0" allowfullscreen></iframe>
+<?php yt("xNlF8f6bhFQ") ?>

@@ -2,7 +2,6 @@
 <p>Harmony often features repeated I -> I64 -> I ... or I6 -> I -> I6, as well as V65 -> V(7) -> ... blocks to get up/down motion in the bass (*3 -> *1, *1 -> *5, *7 -> *5 etc.), and similar structures on other harmonies.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tiTu6g2TqC8?start=1670" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4hIqwh7j0TI?start=10" frameborder="0" allowfullscreen></iframe>
-
+<?php yt("tiTu6g2TqC8", 1670) ?>
+<?php yt("4hIqwh7j0TI", 10) ?>
 
