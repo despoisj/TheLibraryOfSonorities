@@ -16,6 +16,11 @@
 <?php yt("xD5TKaa3lR8", 30) ?>
 <?php yt("-uwdGzclfi4") ?>
 
+
+<p style="margin-top: 30px;">2nd measure: E7 + C#(13th/6th)</p>
+<?php yt("3QH8MstNkKg", 302) ?>
+
+
 <iframe src="https://flat.io/embed/64ca10eb8651f7847317793d?_l=true&sharingKey=0ef4f94f608c46d92b82a15460de7ceceaa799a66347f55087ab413dc60af416655444e0f92fbdea32e7b4378c0ba1379dc73e1032ade12f6f19a574b8f61548" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
 
 
