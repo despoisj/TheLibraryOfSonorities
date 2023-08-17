@@ -30,6 +30,10 @@
 <p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) -> Ab</p>
 <?php yt("w5ZqmiXUAxk", 578) ?>
 
+<p style="margin-top: 30px;">• 4th measure: E7 (E-G#-B-D) + C (13th/6th) -> A</p>
+<p>Note: the F# can be considered as the 9th (see below) or just a decoration between B and G#</p>
+<?php yt("tVYlXlwbYA0", 18) ?>
+
 <!-- Ref -->
 <?php yt("-uwdGzclfi4") ?>
 
@@ -45,6 +49,10 @@
 <p>• 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
 <p>• Same for mm. 2 at 3:40 and mm. 7 which ends with another classic Chopin Chord.</p>
 <?php yt("3QH8MstNkKg", 203) ?>
+
+<p style="margin-top: 30px;">• 2nd line 2nd measure Eb7(9, 13): Eb7 (Eb-G-x-Db) + F (9th) + C (13th/6th), same next page mm. 5 with Gb7(9, 13)</p>
+<p style="margin-top: 30px;">Note: the difference made by the 9th is very subtle, and this can be considered just like a 'normal' chopin chord.</p>
+<?php yt("w5ZqmiXUAxk", 597) ?>
 
 <p>This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
 <p>As mentioned in the video, a simpler way to see (and play) it is to imagine the <b>IVMaj7 over *5 bass</b> (the author mentions playing iim7 but I don't think that's right, see the section in the article about the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), then resolve the 5th of that chord a half step below. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
