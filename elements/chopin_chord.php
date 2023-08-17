@@ -40,8 +40,8 @@
 <p>• Same for mm. 2 at 3:40 and mm. 7 which ends with another classic Chopin Chord.</p>
 <?php yt("3QH8MstNkKg", 203) ?>
 
-<p>This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> 2-5-1 in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
-<p>As mentioned in the video, a simpler way to see (and play) it is to imagine the <b>IVMaj7 over *5 bass</b> (the author mentions playing iim7 but I don't think that's right, see section below), then resolve the 5th of that chord a half step below. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
+<p>This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
+<p>As mentioned in the video, a simpler way to see (and play) it is to imagine the <b>IVMaj7 over *5 bass</b> (the author mentions playing iim7 but I don't think that's right, see the section in the article about the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), then resolve the 5th of that chord a half step below. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
 <?php yt("gchwLVCBVwo") ?>
 
 <iframe src="https://flat.io/embed/64d63dd342bb22e73caef80f?_l=true&sharingKey=81b4172f37e2952c1d8c6af5b388d523ea00fbc5097d43fe3d36293f4dd2134456a0b612f95f879538c71f4397cf63b3b38989bd8d1f6b63ff6da1c876240576" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
