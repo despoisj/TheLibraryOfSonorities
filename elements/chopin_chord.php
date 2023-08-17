@@ -28,11 +28,7 @@
 <?php yt("K1lOrkmkmiQ", 96) ?>
 
 <p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) -> Ab</p>
-<?php yt("K1lOrkmkmiQ", 96) ?>
-
-https://youtu.be/w5ZqmiXUAxk?t=581
-
-https://youtu.be/K1lOrkmkmiQ
+<?php yt("w5ZqmiXUAxk", 578) ?>
 
 <!-- Ref -->
 <?php yt("-uwdGzclfi4") ?>
