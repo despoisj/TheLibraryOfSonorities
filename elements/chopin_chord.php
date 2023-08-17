@@ -12,6 +12,9 @@
 <p>• Schubert: 2nd row, I64 (B G# E) -> B-D#-x-A + G# (13th/6th) -> I</p>
 <?php yt("Vy_HeH-pRfI", 611) ?>
 
+<p>• Fauré: 3rd measure: Ab-C-x-Gb + F (13th/6th) -> ... -> I</p>
+<?php yt("9s5E7ry50vs") ?>
+
 <p style="margin-top: 30px;">• 2nd measure</p>
 <?php yt("eOS0RJ15Wt8", 20) ?>
 
