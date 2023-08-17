@@ -2,8 +2,8 @@
 <img style="width:90%; background-color: white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dominant_chords_in_common_practice_period.png/1000px-Dominant_chords_in_common_practice_period.png">
 
 <h4 class="elementExampleTitle">Examples</h4>
-<p>• Measures 2. and 4.</p>
 
+<p>• Measures 2. and 4.</p>
 <?php yt("B_Qa9uVwhhU") ?>
 
 <p style="margin-top: 30px;">• 3rd beat of measure 1, 2 and 4</p>
