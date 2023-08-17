@@ -34,6 +34,12 @@
 <p>Note: the F# can be considered as the 9th (see below) or just a decoration between B and G#</p>
 <?php yt("tVYlXlwbYA0", 18) ?>
 
+
+<p style="margin-top: 30px;">• 3rd row, end of 2nd measure: C7 (C-x-x-Bb) + A (13th/6th) -> F</p>
+<?php yt("w5ZqmiXUAxk", 578) ?>
+
+https://youtu.be/i9t0nCfu9SI?t=21
+
 <!-- Ref -->
 <?php yt("-uwdGzclfi4") ?>
 
