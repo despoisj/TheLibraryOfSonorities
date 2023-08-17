@@ -24,6 +24,16 @@
 <p style="margin-top: 30px;">• 2nd measure: E7 + C#(13th/6th)</p>
 <?php yt("3QH8MstNkKg", 302) ?>
 
+<p style="margin-top: 30px;">• 3rd measure: A7 (A-C#-E-G) + F# (13th/6th)</p>
+<?php yt("K1lOrkmkmiQ", 96) ?>
+
+<p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) -> Ab</p>
+<?php yt("K1lOrkmkmiQ", 96) ?>
+
+https://youtu.be/w5ZqmiXUAxk?t=581
+
+https://youtu.be/K1lOrkmkmiQ
+
 <!-- Ref -->
 <?php yt("-uwdGzclfi4") ?>
 
