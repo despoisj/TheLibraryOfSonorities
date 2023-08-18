@@ -3,9 +3,14 @@
 <p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
-<p>In the 3rd measure of the 2nd line.</p>
+<p>• In the 3rd measure of the 2nd line.</p>
 <p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that many people play it as F natural, hence V9.</p>
 <?php yt("Wv2kNjy2AZE", 34) ?>
+
+
+<p style="margin-top: 30px;">• The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb</p>
+<p>Note: this piece displays both dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>) </p>
+<?php yt("U-fS3mR9KDA", 29) ?>
 
 
 <h3 class="elementExampleTitle">V with added 9th & 11th: V(9, 11)</h3>

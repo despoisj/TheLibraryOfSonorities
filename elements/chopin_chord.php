@@ -21,29 +21,46 @@
 <p style="margin-top: 30px;">• 3rd measure: Eb7: Eb-G-Bb-Db + C (13th/6th)</p>
 <?php yt("xD5TKaa3lR8", 30) ?>
 
-<p style="margin-top: 30px;">• 2nd measure: E7 + C#(13th/6th)</p>
-<?php yt("3QH8MstNkKg", 302) ?>
+<p style="margin-top: 30px;">• 2nd row 1st measure, 2nd measure: Bb7 + G, also at 6:44 and 6:53 etc.</p>
+<p style="margin-top: 30px;">• Also at 5:00, 2nd measure: E7 + C#(13th/6th)</p>
+<?php yt("3QH8MstNkKg", 388) ?>
 
 <p style="margin-top: 30px;">• 3rd measure: A7 (A-C#-E-G) + F# (13th/6th)</p>
 <?php yt("K1lOrkmkmiQ", 96) ?>
 
-<p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) -> Ab</p>
+<p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) resolving to Ab Major</p>
 <?php yt("w5ZqmiXUAxk", 578) ?>
 
 <p style="margin-top: 30px;">• 4th measure: E7 (E-G#-B-D) + C (13th/6th) -> A</p>
 <p>Note: the F# can be considered as the 9th (see below) or just a decoration between B and G#</p>
 <?php yt("tVYlXlwbYA0", 18) ?>
 
-
-<p style="margin-top: 30px;">• 3rd row, end of 2nd measure: C7 (C-x-x-Bb) + A (13th/6th) -> F</p>
+<p style="margin-top: 30px;">• 3rd row, end of 2nd measure: C7 (C-x-x-Bb) + A (13th/6th) resolving to F Major</p>
 <?php yt("i9t0nCfu9SI", 21) ?>
 
+<p style="margin-top: 30px;">• Last measure: Bb7 (B-D-x-Ab) + A (13th/6th) resolving to Eb Major</p>
+<p>Note: this piece displays dominant chords with accented 7th in melody, 9th (<a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), and 13th</p>
+<?php yt("U-fS3mR9KDA", 96) ?>
 
-<!-- Ref -->
-<?php yt("-uwdGzclfi4") ?>
+<p style="margin-top: 30px;">• 2nd row, 3rd measure: Eb7 + C</p>
+<?php yt("U-fS3mR9KDA", 524) ?>
+
+<p style="margin-top: 30px;">• 2nd row, 3rd measure: I64 -> C7 + A</p>
+<?php yt("U-fS3mR9KDA", 3047) ?>
+
+<p style="margin-top: 30px;">• 2nd row, 2nd measure: Ab7 + F</p>
+<?php yt("wuL7UC2glJM", 2419) ?>
 
 
 <iframe src="https://flat.io/embed/64ca10eb8651f7847317793d?_l=true&sharingKey=0ef4f94f608c46d92b82a15460de7ceceaa799a66347f55087ab413dc60af416655444e0f92fbdea32e7b4378c0ba1379dc73e1032ade12f6f19a574b8f61548" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
+
+
+
+<!-- Ref -->
+<h3 class="elementExampleTitle">References</h3>
+
+<?php yt("-uwdGzclfi4") ?>
+
 
 
 <h3 class="elementExampleTitle">Chopin Chord with added 9th: V(b)13(b)9</h3>
