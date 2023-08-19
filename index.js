@@ -51,7 +51,7 @@ $(document).ready(function() {
   // Display on click
   $(".seeMore").click(function(event) {
     // $(this).parent().find(".elementContents").slideToggle(700);
-    $(this).parent().find(".elementContents").css("max-height", "5000px");
+    $(this).parent().find(".elementContents").css("max-height", "20000px");
 
     // Buttons
     $(this).hide();
