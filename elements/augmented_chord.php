@@ -11,7 +11,7 @@
 <?php yt("vEGxyHe4Azo") ?>
 
 <p>• (Blumenfeld) Third line: 5/3 -> 5+/3 -> 6. Repeated a 2nd time.</p>
-<?php yt("sJ1HmN1j6QM", 90) ?>
+<?php yt("sJ1HmN1j6QM", 80) ?>
 
 <p>• (Fauré), 2nd row, 4th measure: Ab -> Ab+ -> F, i.e. ~I -> I+ -> IV</p>
 <?php yt("9RXkTbuCuvU", 276) ?>

@@ -51,6 +51,14 @@
 <p style="margin-top: 30px;">• 2nd row, 2nd measure: Ab7 + F</p>
 <?php yt("wuL7UC2glJM", 2419) ?>
 
+<p style="margin-top: 30px;">• 2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>
+<p>Note: this example is little more complex as we still have Db (*1) faintly sounding in the bass and the V chord in 642 inversion, but the sonority of the measure remains very similar, with the 13th/6th resolving down F -> Eb -> Db, with the VChop chord resolving to I as always. We get it in root position at 1:05.</p>
+<p>At 0:33 there is also a C7 chord briefly decorated with the b13th Ab -> G -> F.</p>
+<?php yt("73_jSjG1WrY", 7) ?>
+
+<p style="margin-top: 30px;">• 1st measure: Eb7 + C, 3rd measure B7 + G#</p>
+<?php yt("j3AMWk76UxE", 58) ?>
+
 
 <iframe src="https://flat.io/embed/64ca10eb8651f7847317793d?_l=true&sharingKey=0ef4f94f608c46d92b82a15460de7ceceaa799a66347f55087ab413dc60af416655444e0f92fbdea32e7b4378c0ba1379dc73e1032ade12f6f19a574b8f61548" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
 

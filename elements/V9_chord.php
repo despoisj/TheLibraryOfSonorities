@@ -4,17 +4,16 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 <p>• In the 3rd measure of the 2nd line.</p>
-<p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that many people play it as F natural, hence V9.</p>
+<p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that most people play it as F natural, hence the V9 sound.</p>
 <?php yt("Wv2kNjy2AZE", 34) ?>
 
 
 <p style="margin-top: 30px;">• The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb</p>
-<p>Note: this piece displays both dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>) </p>
+<p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>) </p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
 
 <h3 class="elementExampleTitle">V with added 9th & 11th: V(9, 11)</h3>
-
 <p>This chord is equivalent of playing iim7 (or simply IV triad) on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C, this is the 4-3 suspension mentioned in the <a target="_blank" href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>. In this example the 9th and 11th <b>resolve upwards</b> by step to 3rd and 5th then again to reach ^1 and ^3.</p>
 
 <p>The bar before last</p>
