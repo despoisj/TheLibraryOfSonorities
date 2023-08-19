@@ -3,60 +3,82 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<p>• Measures 2. and 4.</p>
+<?php tt("Gustav Exner - Album Leaf")?>
+<p>Measures 2. and 4.</p>
 <?php yt("B_Qa9uVwhhU") ?>
 
-<p style="margin-top: 30px;">• 3rd beat of measure 1, 2 and 4</p>
+<?php tt("Chopin - Prelude n°20")?>
+<p>3rd beat of measure 1, 2 and 4</p>
 <?php yt("XeX4X_1_lo0") ?>
 
-<p>• Schubert: 2nd row, I64 (B G# E) -> B-D#-x-A + G# (13th/6th) -> I</p>
+<?php tt("Schubert - Wanderer Fantasy")?>
+<p>2nd row, I64 (B G# E) -> B-D#-x-A + G# (13th/6th) -> I</p>
 <?php yt("Vy_HeH-pRfI", 611) ?>
 
-<p>• Fauré: 3rd measure: Ab-C-x-Gb + F (13th/6th) -> ... -> I</p>
+<?php tt("Fauré - Nocturne n°6")?>
+<p>3rd measure: Ab-C-x-Gb + F (13th/6th) -> ... -> I</p>
 <?php yt("9s5E7ry50vs") ?>
 
-<p style="margin-top: 30px;">• 2nd measure</p>
+<?php tt("Scriabin - Impromptu Op. 12 n°2")?>
+<p>2nd measure</p>
 <?php yt("eOS0RJ15Wt8", 20) ?>
 
-<p style="margin-top: 30px;">• 3rd measure: Eb7: Eb-G-Bb-Db + C (13th/6th)</p>
+<?php tt("Salomon Mazurette - Nocturne Op. 24")?>
+<p>3rd measure: Eb7: Eb-G-Bb-Db + C (13th/6th)</p>
 <?php yt("xD5TKaa3lR8", 30) ?>
 
-<p style="margin-top: 30px;">• 2nd row 1st measure, 2nd measure: Bb7 + G, also at 6:44 and 6:53 etc.</p>
-<p style="margin-top: 30px;">• Also at 5:00, 2nd measure: E7 + C#(13th/6th)</p>
+<?php tt("Chopin - Ballade n°1")?>
+<p>- 2nd row 1st measure, 2nd measure: Bb7 + G, also at 6:44 and 6:53 etc.</p>
+<p>- Also at 5:00, 2nd measure: E7 + C#(13th/6th)</p>
 <?php yt("3QH8MstNkKg", 388) ?>
 
-<p style="margin-top: 30px;">• 3rd measure: A7 (A-C#-E-G) + F# (13th/6th)</p>
+<?php tt("Sergei Lyapunov - Reverie du soir Op. 3")?>
+<p>3rd measure: A7 (A-C#-E-G) + F# (13th/6th)</p>
 <?php yt("K1lOrkmkmiQ", 96) ?>
 
-<p style="margin-top: 30px;">• Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) resolving to Ab Major</p>
+<?php tt("Sergei Lyapunov - Prelude Op. 6 n°5")?>
+<p>Final chords: Eb7 (Eb-G-x-Db) + C (13th/6th) resolving to Ab Major</p>
 <?php yt("w5ZqmiXUAxk", 578) ?>
 
-<p style="margin-top: 30px;">• 4th measure: E7 (E-G#-B-D) + C (13th/6th) -> A</p>
+<?php tt("Mischa Levitzki - Waltz in A Major Op. 2")?>
+<p>4th measure: E7 (E-G#-B-D) + C (13th/6th) -> A</p>
 <p>Note: the F# can be considered as the 9th (see below) or just a decoration between B and G#</p>
 <?php yt("tVYlXlwbYA0", 18) ?>
 
-<p style="margin-top: 30px;">• 3rd row, end of 2nd measure: C7 (C-x-x-Bb) + A (13th/6th) resolving to F Major</p>
+<?php tt("Maria Szymanowska - Nocturne in Bb Major")?>
+<p>3rd row, end of 2nd measure: C7 (C-x-x-Bb) + A (13th/6th) resolving to F Major</p>
 <?php yt("i9t0nCfu9SI", 21) ?>
 
-<p style="margin-top: 30px;">• Last measure: Bb7 (B-D-x-Ab) + A (13th/6th) resolving to Eb Major</p>
+<?php tt("John Field - Nocturne n°1")?>
+<p>Last measure: Bb7 (B-D-x-Ab) + A (13th/6th) resolving to Eb Major</p>
 <p>Note: this piece displays dominant chords with accented 7th in melody, 9th (<a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), and 13th</p>
 <?php yt("U-fS3mR9KDA", 96) ?>
 
-<p style="margin-top: 30px;">• 2nd row, 3rd measure: Eb7 + C</p>
+<?php tt("John Field - Nocturne n°3")?>
+<p>2nd row, 3rd measure: Eb7 + C</p>
 <?php yt("U-fS3mR9KDA", 524) ?>
 
-<p style="margin-top: 30px;">• 2nd row, 3rd measure: I64 -> C7 + A</p>
+<?php tt("John Field - Nocturne n°13")?>
+<p>2nd row, 3rd measure: I64 -> C7 + A</p>
 <?php yt("U-fS3mR9KDA", 3047) ?>
 
-<p style="margin-top: 30px;">• 2nd row, 2nd measure: Ab7 + F</p>
+<?php tt("Chopin - Nocturne Op. 27 n°2")?>
+<p>2nd row, 2nd measure: Ab7 + F</p>
 <?php yt("wuL7UC2glJM", 2419) ?>
 
-<p style="margin-top: 30px;">• 2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>
+<?php tt("Chopin - Nocturne Op. 32 n°1")?>
+<p>1st measure: F#7 + D#</p>
+<?php yt("wuL7UC2glJM", 2553) ?>
+
+
+<?php tt("Liszt - Consolation n°3")?>
+<p>2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>
 <p>Note: this example is little more complex as we still have Db (*1) faintly sounding in the bass and the V chord in 642 inversion, but the sonority of the measure remains very similar, with the 13th/6th resolving down F -> Eb -> Db, with the VChop chord resolving to I as always. We get it in root position at 1:05.</p>
 <p>At 0:33 there is also a C7 chord briefly decorated with the b13th Ab -> G -> F.</p>
 <?php yt("73_jSjG1WrY", 7) ?>
 
-<p style="margin-top: 30px;">• 1st measure: Eb7 + C, 3rd measure B7 + G#</p>
+<?php tt("Liszt - Romance")?>
+<p>1st measure: Eb7 + C, 3rd measure B7 + G#</p>
 <?php yt("j3AMWk76UxE", 58) ?>
 
 
@@ -66,7 +88,6 @@
 
 <!-- Ref -->
 <h3 class="elementExampleTitle">References</h3>
-
 <?php yt("-uwdGzclfi4") ?>
 
 
@@ -75,16 +96,19 @@
 
 <p>When combined with the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>, the resulting chord has an even richer sound. The chord can the ben understood as a V(b)13(b)9 chord.</p>
 
-<p>• First measure of the Meno Mosso: Bb13|9: (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
-<p>• 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
-<p>• Same for mm. 2 at 3:40 and mm. 7 which ends with another classic Chopin Chord.</p>
+<?php tt("Chopin - Ballade n°1")?>
+<p>- First measure of the Meno Mosso: Bb13|9: (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
+<p>- 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
+<p>- Same for mm. 2 at 3:40 and mm. 7 which ends with another classic Chopin Chord.</p>
 <?php yt("3QH8MstNkKg", 203) ?>
 
-<p style="margin-top: 30px;">• 2nd line 2nd measure Eb7(9, 13): Eb7 (Eb-G-x-Db) + F (9th) + C (13th/6th), same next page mm. 5 with Gb7(9, 13)</p>
-<p style="margin-top: 30px;">Note: the difference made by the 9th is very subtle, and this can be considered just like a 'normal' chopin chord.</p>
+<?php tt("Sergei Lyapunov - Prelude Op. 6 n°6")?>
+<p>• 2nd line 2nd measure Eb7(9, 13): Eb7 (Eb-G-x-Db) + F (9th) + C (13th/6th), same next page mm. 5 with Gb7(9, 13)</p>
+<p>Note: the difference made by the 9th is very subtle, and this can be considered just like a 'normal' chopin chord.</p>
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
-<p style="margin-top: 30px;">• 2nd measure: A7 (A-C#-x-x) + B (9th) + F# (13th/6th) -> D</p>
+<?php tt("Ervin Nyiregyházi - A Soldier of Fortune")?>
+<p>• 2nd measure: A7 (A-C#-x-x) + B (9th) + F# (13th/6th) -> D</p>
 <?php yt("owFH5u_RjFI", 34) ?>
 
 <p>This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>

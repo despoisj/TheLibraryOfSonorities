@@ -139,5 +139,13 @@ function listElements() {
 
 function yt($id, $start = 0) {
 	// Display wrapped youtube vieo
-	echo '<amp-youtube width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
+	echo '<amp-youtube layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
 }
+
+function tt($title) {
+	// Display composer and title (tt)
+	echo '<p class="pieceTitle"><b><i>' . $title .'</i></b></p>';
+}
+
+
+

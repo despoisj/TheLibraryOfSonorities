@@ -6,8 +6,6 @@ div {
 body {
   background-color: #222 !important;
   color: white !important;
-  min-width: fit-content;
-
   font-family: 'REM', sans-serif !important;
 }
 
@@ -147,7 +145,13 @@ p {
   margin-top: 50px;
 }
 
-.seeLess{
+.seeLess {
   color: white;
+}
+
+.pieceTitle {
+  text-align: center !important;
+  font-size: 17px;
+  margin-top: 34px !important; 
 }
 
