@@ -81,7 +81,7 @@
 <p>1st measure: Eb7 + C, 3rd measure B7 + G#</p>
 <?php yt("j3AMWk76UxE", 58) ?>
 
-
+<?php tt("Model")?>
 <iframe src="https://flat.io/embed/64ca10eb8651f7847317793d?_l=true&sharingKey=0ef4f94f608c46d92b82a15460de7ceceaa799a66347f55087ab413dc60af416655444e0f92fbdea32e7b4378c0ba1379dc73e1032ade12f6f19a574b8f61548" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
 
 
@@ -115,4 +115,5 @@
 <p>As mentioned in the video, a simpler way to see (and play) it is to imagine the <b>IVMaj7 over *5 bass</b> (the author mentions playing iim7 but I don't think that's right, see the section in the article about the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), then resolve the 5th of that chord a half step below. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
 <?php yt("gchwLVCBVwo") ?>
 
+<?php tt("Model")?>
 <iframe src="https://flat.io/embed/64d63dd342bb22e73caef80f?_l=true&sharingKey=81b4172f37e2952c1d8c6af5b388d523ea00fbc5097d43fe3d36293f4dd2134456a0b612f95f879538c71f4397cf63b3b38989bd8d1f6b63ff6da1c876240576" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

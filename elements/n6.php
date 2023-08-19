@@ -6,7 +6,9 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64</p>
+<?php tt("Nicolai von Wilm - Entblättere Rose")?>
+<p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64.</p>
 <?php yt("Fy3JxUfE9ds", 102) ?>
 
+<?php tt("Beethoven - Moonlight Sonata, 1st Mvt.")?>
 <?php yt("eNBm9wD9zg0", 18) ?>

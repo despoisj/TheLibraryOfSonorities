@@ -2,9 +2,12 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
+<?php tt("Mendelssohn - Song without words Op. 19 n°6") ?>
 <?php yt("-jkH7FLajpE", 1108) ?>
 
+<?php tt("Model") ?>
 <iframe src="https://flat.io/embed/64cfedfd1e12abce2db304ee?_l=true&sharingKey=2a64843a68f1275038ea7eeb5c8d4b0cb5d66702ab9ab1c36791e2e1b7a13f9eaf03416d35ce86159ea024099b7d670e791a6cb24946a499aec2966b016456d9" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
 
+<h4 class="elementExampleTitle">References</h4>
 <?php yt("-jkH7FLajpE") ?>
 
