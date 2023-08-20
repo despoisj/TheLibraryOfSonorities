@@ -24,5 +24,9 @@
 <p>4th measure: V -> V+ -> I</p>
 <?php yt("bRjKo0QEIuI", 839) ?>
 
+<?php tt("Anton Arensky - Etude, Op. 74 n°2") ?>
+<p>mm. 2-3: EMajAdd9 -> E+Add9 -> EMajAdd9 , i.e. I -> I+ -> I </p>
+<?php yt("cKrmr0jeuio", 117) ?>
+
 <?php tt("Model")?>
 <iframe src="https://flat.io/embed/64ca55598651f784731dce8a?_l=true&sharingKey=d551126e08404ac7775c39e3d4339f159968fe203e8095800d07c2c842766be745711790d82b164c0194239eae55066782b0c9a24688a83fb47d3671d15faa60" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

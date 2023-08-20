@@ -1,4 +1,4 @@
-<p>Addition of the ♮9th in triad arpeggios, either major or minor.</p>
+<p>The addition of the ♮9th in major or minor triad arpeggios gives a very lush romantic sound. It is sometimes complemented by the 6th/13th, which might be worthy of a dedicated section.</p>
 
 <h4 class="elementExampleTitle">Use of the ♮9th</h4>
 
@@ -16,8 +16,17 @@
 <?php yt("zYdEe8hacO4", 6) ?>
 
 <?php tt("Felix Blumenfeld - Etude, Op. 3 n°1") ?>
-<p>• Major version, Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
+<p>Major version, Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
 <?php yt("sJ1HmN1j6QM") ?>
+
+
+<?php tt("Anton Arensky - Etude, Op. 74 n°2") ?>
+<p>- Minor version as the intro bar: C-(D)-Eb-G with G then moving as a melody</p>
+<p>- Major version mm. 2: Eb-(F)-G-Bb with an added C (6th/13th), same at 2:17</p>
+<p>- Augmented version (ignoring the extra notes for now) mm. 3: Eb-(F)-G-Cb </p>
+<p>Note: for that one, the arpeggio outlines the Eb Harmonic Major scale, TODO investigate more, I surmise we will find it too in Rach, Moskowski etc.</p>
+<p>- There are many other 9th arps in this piece.</p>
+<?php yt("cKrmr0jeuio", 117) ?>
 
 
 <?php tt("Model") ?>
