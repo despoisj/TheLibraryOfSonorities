@@ -9,6 +9,10 @@
 <p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>).</p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
+<?php tt("John Field - Nocturne n°5")?>
+<p>Last measure: C7 + D -> E -> F.</p>
+<?php yt("U-fS3mR9KDA", 1111) ?>
+
 
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
 <p>In the 3rd measure of the 2nd line.</p>
