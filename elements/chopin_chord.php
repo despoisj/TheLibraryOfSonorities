@@ -1,4 +1,4 @@
-<p>The Chopin Chord is a Dominant 7th chord with the added 13th (also called 6th) sometimes voiced in 4ths with ^4 ^7 ^3 in the soprano, or ^4 ^7 b^3 in minor. Most often, the 13th resolves down to the 5th (^3 -> ^2) and then the chord resolves like a normal dominant 7th chord. The 6th/13th is an unprepared suspension.</p>
+<p>The Chopin Chord is a Dominant 7th chord with the added 13th (also called 6th) sometimes voiced in 4ths with ^4 ^7 ^3 in the soprano, or ^4 ^7 b^3 in minor. Most often, the 13th resolves down to the 5th (^3 -> ^2) and then the chord resolves like a normal dominant 7th chord. The 6th/13th is an unprepared suspension. Note that the 5th (^2) is sometimes omitted.</p>
 <img style="width:90%; background-color: white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dominant_chords_in_common_practice_period.png/1000px-Dominant_chords_in_common_practice_period.png">
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -70,6 +70,14 @@
 <p>1st measure: F#7 + D#</p>
 <?php yt("wuL7UC2glJM", 2553) ?>
 
+<?php tt("Anton Arensky - Nocturne, Op.36 n°3")?>
+<p>Ending chords: Ab7 + F</p>
+<p>Note: there are multiple Chopin Chords throughout the piece but this is the clearest form.</p>
+<?php yt("DYtb9tTxlSs", 203) ?>
+
+<?php tt("Anton Arensky - Piano Concerto Op. 2, 1st Mvt.")?>
+<p>Eb7 + C, then Bb7 + G. These 2 motifs are repeated throughout the piece.</p>
+<?php yt("Y4mx7kTW27s", 230) ?>
 
 <?php tt("Liszt - Consolation n°3")?>
 <p>2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>
