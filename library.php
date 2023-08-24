@@ -22,7 +22,7 @@ $library = [];
 array_push($library, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
 array_push($library, element("V9_chord", "V9 & V(9, 11) Chord in Major", ["romantic"], ["chopin"], "harmony"));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
-array_push($library, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
+array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ct_lt", "Common Tone & Leading Tone Diminished 7th Chords", ["romantic"], [], "harmony"));
 array_push($library, element("V_over_1", "V(7) over *1", ["romantic", "classical"], [], "harmony", ["dreamy"]));
 

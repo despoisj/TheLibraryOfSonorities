@@ -97,6 +97,11 @@
 <p>1st measure: Eb7 + C, 3rd measure B7 + G#</p>
 <?php yt("j3AMWk76UxE", 58) ?>
 
+<?php tt("Chopin - Nocturne Op. 48 n°1")?>
+<p>Minor version, 2nd row, 5th measure: G7 + Eb</p>
+<?php yt("107Iwx5RKSM", 109) ?>
+
+
 <?php tt("Model")?>
 <iframe src="https://flat.io/embed/64ca10eb8651f7847317793d?_l=true&sharingKey=0ef4f94f608c46d92b82a15460de7ceceaa799a66347f55087ab413dc60af416655444e0f92fbdea32e7b4378c0ba1379dc73e1032ade12f6f19a574b8f61548" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
 

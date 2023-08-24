@@ -32,5 +32,9 @@
 <p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IV7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>
 <?php yt("WR7IgPqscJE", 1182) ?>
 
+<?php tt("Vasily Kalinnikov - Waltz in A")?>
+<p>mm. 1: I -> I+ -> VMin7(Add13)/V -> V7</p>
+<?php yt("oLfvyClF0ZU", 3) ?>
+
 <?php tt("Model")?>
 <iframe src="https://flat.io/embed/64ca55598651f784731dce8a?_l=true&sharingKey=d551126e08404ac7775c39e3d4339f159968fe203e8095800d07c2c842766be745711790d82b164c0194239eae55066782b0c9a24688a83fb47d3671d15faa60" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
