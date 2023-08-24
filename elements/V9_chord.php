@@ -14,6 +14,11 @@
 <?php yt("U-fS3mR9KDA", 1111) ?>
 
 
+<?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
+<p>mm. 5: I64 -> V9 (E7 + F).</p>
+<?php yt("62vYPGOe9EM", 76) ?>
+
+
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
 <p>In the 3rd measure of the 2nd line.</p>
 <p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that most people play it as F natural, hence the V9 sound.</p>
