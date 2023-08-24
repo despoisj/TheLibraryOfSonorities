@@ -24,6 +24,7 @@ array_push($library, element("V9_chord", "V9 & V(9, 11) Chord in Major", ["roman
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_chord", "Augmented Chords", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ct_lt", "Common Tone & Leading Tone Diminished 7th Chords", ["romantic"], [], "harmony"));
+array_push($library, element("V_over_1", "V(7) over *1", [], [], "harmony", ["dreamy"]));
 
 // Modulation
 array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven"], "harmony"));

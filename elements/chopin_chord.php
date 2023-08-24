@@ -8,7 +8,7 @@
 <?php yt("B_Qa9uVwhhU") ?>
 
 <?php tt("Chopin - Prelude n°20")?>
-<p>3rd beat of measure 1, 2 and 4</p>
+<p>Minor version: 3rd beat of measure 1, 2 and 4</p>
 <?php yt("XeX4X_1_lo0") ?>
 
 <?php tt("Schubert - Wanderer Fantasy")?>
@@ -78,6 +78,10 @@
 <?php tt("Anton Arensky - Piano Concerto Op. 2, 1st Mvt.")?>
 <p>Eb7 + C, then Bb7 + G. These 2 motifs are repeated throughout the piece.</p>
 <?php yt("Y4mx7kTW27s", 230) ?>
+
+<?php tt("Mélanie Chasselon - Nocturne 'Abandon'")?>
+<p>Minor version: G7 + Eb.</p>
+<?php yt("NCo8IGl5T9w", 39) ?>
 
 <?php tt("Liszt - Consolation n°3")?>
 <p>2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>

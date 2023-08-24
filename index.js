@@ -22,7 +22,8 @@ function replaceDigitsWithCircledNumbers(text) {
     // Unicode offset for circled numbers: 9311 or 10111 (0x2460)
 
     // Replace matched digits with their corresponding circled numbers
-    text = text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
+    // text = text.replace(regex, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
+    text = text.replace(regex, (_, digit) => "<span>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
 
 
     // Regular expression to match digits with a star symbol (*)
@@ -30,7 +31,8 @@ function replaceDigitsWithCircledNumbers(text) {
     const unicodeOffsetBass = 10111; // For back background: soprano
 
     // Replace matched digits with their corresponding circled numbers
-    text = text.replace(regexBass, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
+    // text = text.replace(regexBass, (_, digit) => "<span style='font-size:20px;'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
+    text = text.replace(regexBass, (_, digit) => "<span'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
 
 
     // Replace -> by →
