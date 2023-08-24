@@ -13,6 +13,11 @@
 <p>mm. 2: Bbm -> F7/*1 -> Bbm, i.e. i -> V7/*1 -> i. </p>
 <?php yt("wuL7UC2glJM") ?>
 
+<?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
+<p>mm. 1-2: Cm -> G7/*1 -> Cm, i.e. i -> V7/*1 -> i. </p>
+<p>The accented Ab could make this into a Vb9 chord.</p>
+<?php yt("xIqx0MOsNfo") ?>
+
 
 <h4 class="elementExampleTitle">References for the Quiescenza & Pedal points.</h4>
 

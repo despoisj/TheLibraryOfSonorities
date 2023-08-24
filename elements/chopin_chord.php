@@ -83,6 +83,10 @@
 <p>Minor version: G7 + Eb.</p>
 <?php yt("NCo8IGl5T9w", 39) ?>
 
+<?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
+<p>Minor version, mm. 2: G7 + Eb.</p>
+<?php yt("xIqx0MOsNfo", 30) ?>
+
 <?php tt("Liszt - Consolation n°3")?>
 <p>2nd row, 2nd measure: Ab7 (Ab-C-Eb-Gb) + F</p>
 <p>Note: this example is little more complex as we still have Db (*1) faintly sounding in the bass and the V chord in 642 inversion, but the sonority of the measure remains very similar, with the 13th/6th resolving down F -> Eb -> Db, with the VChop chord resolving to I as always. We get it in root position at 1:05.</p>
