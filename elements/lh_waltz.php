@@ -7,15 +7,15 @@
 <?php tt("Chopin - Waltz Op. 64 n°3")?>
 <p>- I -> I/*5 -> I -> I/*5 then V7/*2 -> V7 -> V7/*2 -> V7.</p>
 <p>&nbsp;&nbsp; = I -> I64 -> I -> I64 then V43 -> V7 -> V43.</p>
-<p>&nbsp;&nbsp; = Tonic over (*1 -> *5 -> *1 -> *5) then Dominant 7th over (*2 -> *5 -> *2).</p>
+<p>&nbsp;&nbsp; = Tonic over [*1 -> *5 -> *1 -> *5] then Dominant 7th over [*2 -> *5 -> *2].</p>
 <p>- At 22:10, I/*1 -> I/*3 -> I/*1 -> I/*3 then V7/*5 -> V7/*2 etc. followed by a rising bassline.</p>
 <p>- At 34:48, I/*1 -> V7/*2 -> V7/*7 -> I/*1, followed by a pedal point, then at 35:35, V/*7 -> I/*1 -> V/*5 -> I/*1,</p>
 <p>- At 38:30, V7/*5 -> I/*1, and there are countless more.</p>
 <?php yt("tiTu6g2TqC8", 1670) ?>
 
 <?php tt("Shostakovich - Lyric Waltz")?>
-<p>- At 0:00, Tonic (F) over (*1 -> *5 -> *1 -> *5)</p>
-<p>- At 0:36, Dominant (C7) over (*2 -> *5 -> *2 -> *5)</p>
+<p>- At 0:00, Tonic (F) over [*1 -> *5 -> *1 -> *5]</p>
+<p>- At 0:36, Dominant (C7) over [*2 -> *5 -> *2 -> *5]</p>
 <?php yt("4hIqwh7j0TI", 10) ?>
 
 <?php tt("Tchaikovsky - Waltz of the Flowers") ?>
@@ -27,7 +27,15 @@
 <p>6x segments of [I/*1 -> I/*5] then 8x segements of [V/*2 -> V/*5]</p>
 <?php yt("FA3JJdmwJU8", 7) ?>
 
-
-<?php tt("Respighi - Valse Caressante")?>
-<p>Tonic (Eb) over (*1 -> *5 -> *1 -> *5).</p>
+<?php tt("Ottorino Respighi - Valse Caressante")?>
+<p>Tonic (Eb) over [*1 -> *5 -> *1 -> *5 -> 1* -> 3*] then Dominant (Bb7) over [*2 -> *5].</p>
 <?php yt("hYffdSe4gpM", 4) ?>
+
+<?php tt("Dmitri Shostakovich - Waltz from 'Pirogov', Op. 76")?>
+<p>Multiple repeatitions of V7 (Eb) over [*2 -> *5] -> I (Ab) over [*1 -> *5].</p>
+<p>Typical patterns at 0:50 too</p>
+<?php yt("WiYAl1oOlZ8", 125) 
+
+<?php tt("Cornelius Gurlitt - 'Blackthorn', Op. 215 n°1")?>
+<p>I/*1 x4 -> V/*2 x2 -> V/*5 x2.</p>
+<?php yt("WD6wHfUb-kU", 37) ?>

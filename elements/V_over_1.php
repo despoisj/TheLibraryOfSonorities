@@ -18,6 +18,10 @@
 <p>The accented Ab could make this into a Vb9 chord.</p>
 <?php yt("xIqx0MOsNfo") ?>
 
+<?php tt("John Field - Nocturne n°6")?>
+<p>mm. 1: F -> C7/*1 -> F i.e. I -> V7/*1 -> I</p>
+<?php yt("U-fS3mR9KDA", 1275) ?>
+
 
 <h4 class="elementExampleTitle">References for the Quiescenza & Pedal points.</h4>
 
