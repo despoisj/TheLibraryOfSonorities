@@ -36,5 +36,10 @@
 <p>mm. 1: I -> I+ -> VMin7(Add13)/V -> V7</p>
 <?php yt("oLfvyClF0ZU", 3) ?>
 
+<?php tt("Chopin - Etude Op. 25 n°1")?>
+<p>I -> I+ -> IV</p>
+<?php yt("g0hoN6_HDVU", 1858) ?>
+
+
 <?php tt("Model")?>
 <iframe src="https://flat.io/embed/64ca55598651f784731dce8a?_l=true&sharingKey=d551126e08404ac7775c39e3d4339f159968fe203e8095800d07c2c842766be745711790d82b164c0194239eae55066782b0c9a24688a83fb47d3671d15faa60" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>

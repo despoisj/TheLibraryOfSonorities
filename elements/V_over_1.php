@@ -22,6 +22,10 @@
 <p>mm. 1: F -> C7/*1 -> F i.e. I -> V7/*1 -> I</p>
 <?php yt("U-fS3mR9KDA", 1275) ?>
 
+<?php tt("Chopin - Etude Op. 25 n°1")?>
+<p>mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
+<?php yt("g0hoN6_HDVU", 1850) ?>
+
 
 <h4 class="elementExampleTitle">References for the Quiescenza & Pedal points.</h4>
 
