@@ -43,7 +43,8 @@ require_once "tools.php";
             The invaluable compilations from John A. Rice aka <a target="_blank" href="https://www.youtube.com/@settecentista8469">Settecentista</a><br><br>
             All the videos, lessons, courses and books from <a target="_blank" href="https://www.youtube.com/@cedarvillemusic">John Mortensen</a> including <a target="_blank" href="http://improvplanet.thinkific.com">ImprovPlanet</a><br><br>
             Content from Derek Remeš, especially his <a target="_blank" href="https://derekremes.com/wp-content/uploads/compendium_english.pdf">Compendium</a><br><br>
-            Improvisation videos from Michael Koch aka <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">EnBlancEtNoit</a><br><br>
+            Improvisation videos from Michael Koch aka <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">EnBlancEtNoir</a><br><br>
+            Videos from <a target="_blank" href="https://www.youtube.com/@NahreSol">Nahre Sol</a><br><br>
             Interviews by <a target="_blank" href="https://www.youtube.com/@NikhilHoganShow">Nikhil Hogan</a><br><br>
 
             

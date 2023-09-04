@@ -1,4 +1,4 @@
-<p>Playing a V chord (V7, V9, VChopin etc.) over *1 gives a dreamy(?) sound?. It often happens inbetween tonic harmony: I -> V7/I -> I or i -> V7/*1 -> i.</p>
+<p>Playing a V chord (V7, V9, VChopin etc.) over *1 gives a dreamy(?) sound. It often happens inbetween tonic harmony: I -> V7/*1 -> I or i -> V7/*1 -> i.</p>
 <p>This type of sound is also typically found in the historical progression known as Quiescenza: [I -> I7 -> IV -> V7 -> I] over a *1 pedal point. </p>
 <p>Note: despite the distinctive sound of the examples below, other examples (see video below on pedal points) show that in energetic music (Beethoven, Mozart examples) this can sound quite different, so texture and tempo might be important to achieving this particular sweet dreamy sonority.</p>
 

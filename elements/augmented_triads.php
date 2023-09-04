@@ -17,7 +17,7 @@
 <?php yt("sJ1HmN1j6QM", 80) ?>
 
 <?php tt("Fauré - Romance sans paroles Op. 17 n°3")?>
-<p>2nd row, 4th measure: Ab -> Ab+ -> F, i.e. ~I -> I+ -> IV</p>
+<p>2nd row, 4th measure: Ab -> Ab+ -> Fm6/3 -> Fm, i.e. ~I -> I+ -> vi6 -> vi</p>
 <?php yt("9RXkTbuCuvU", 276) ?>
 
 <?php tt("Schubert - Impromptu Op. 90 n°4")?>
@@ -29,11 +29,11 @@
 <?php yt("cKrmr0jeuio", 117) ?>
 
 <?php tt("Anton Arensky - Piano Trio No. 1, Op. 32 in D minor, 3rd Mvt.") ?>
-<p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IV7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>
+<p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IVM7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>
 <?php yt("WR7IgPqscJE", 1182) ?>
 
 <?php tt("Vasily Kalinnikov - Waltz in A")?>
-<p>mm. 1: I -> I+ -> VMin7(Add13)/V -> V7</p>
+<p>mm. 1: I -> I+ -> iiMin7(Add13) -> V7</p>
 <?php yt("oLfvyClF0ZU", 3) ?>
 
 <?php tt("Chopin - Etude Op. 25 n°1")?>
