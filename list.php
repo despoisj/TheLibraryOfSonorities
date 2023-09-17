@@ -33,7 +33,7 @@ require_once "tools.php";
             include "navbar.html";
         ?>
 
-        <div>
+        <div style="margin-bottom:200px">
             <h2 style="margin-top:50px; margin-bottom: 30px;">List of all sonorities</h2>
 
             <?php
@@ -41,6 +41,9 @@ require_once "tools.php";
 
             ?>
         </div>
+
+        <!-- Not sure why but this works for opacity -->
+        <div style="height:1px"></div>
 
         
 

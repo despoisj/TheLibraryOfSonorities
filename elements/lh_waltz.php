@@ -34,7 +34,7 @@
 <?php tt("Dmitri Shostakovich - Waltz from 'Pirogov', Op. 76")?>
 <p>Multiple repeatitions of V7 (Eb) over [*2 -> *5] -> I (Ab) over [*1 -> *5].</p>
 <p>Typical patterns at 0:50 too</p>
-<?php yt("WiYAl1oOlZ8", 125) 
+<?php yt("WiYAl1oOlZ8", 125) ?>
 
 <?php tt("Cornelius Gurlitt - 'Blackthorn', Op. 215 n°1")?>
 <p>I/*1 x4 -> V/*2 x2 -> V/*5 x2.</p>

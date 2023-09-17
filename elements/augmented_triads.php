@@ -3,13 +3,13 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Schubert - Ave Maria D839")?>
-<p>5/3 -> 5+/3 -> 6</p>
+<p>5/3 -> 5+/3 -> 6/3</p>
 <?php yt("HocZnbMrC24", 39) ?>
 
 
 <?php tt("Schumann - Little Study Op. 64")?>
 <p>- First bar of 2nd line: I -> I6/3+ -> IV</p>
-<p>- First bar of 4th line: V -> V5+/3 -> I</p>
+<p>- First bar of 4th line: V -> V+ -> I</p>
 <?php yt("vEGxyHe4Azo") ?>
 
 <?php tt("Felix Blumenfeld - Etude Op. 3 n°1")?>

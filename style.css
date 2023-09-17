@@ -1,12 +1,29 @@
-
 div {
   text-align: center;
 }
 
-body {
+body {  
   background-color: #222 !important;
   color: white !important;
   font-family: 'REM', sans-serif !important;
+
+  background-image: url("imgs/back.jpg");
+  background-repeat: repeat;
+
+  position: relative !important;
+  isolation: isolate;
+}
+
+body::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  height: inherit;
+
+  background: #111;
+  opacity: 0.6;
+  z-index: -1;
+  isolation: isolate;
 }
 
 p {
@@ -92,6 +109,8 @@ p {
 
 .elementTitle {
   margin-bottom: 30px;
+  text-decoration: underline;
+  text-decoration-color: #777;
 }
 
 .elementExampleTitle {
