@@ -1,16 +1,17 @@
-<p>The Waltz style is characterized by a 3/4 time signature, "Bass + Chord + Chord" left hand pattern, often with an alternance of tonic and dominant chords, the two chords following the bass are often identical.</p>
+<p>The Waltz style is characterized by a 3/4 time signature, "Bass + Chord + Chord" left hand pattern, often with an alternance of tonic and dominant chords, the two chords following the bass are often identical. In some waltzes, the left hand pattern is simplified to feature only one note at a time, "Bass + Chord tone #1 + Chord tone n°2" with the chord tones taken from the same chord, like "C + G + E" for a C major chord.</p>
 <p>Harmony often features repeated I -> I64 -> I ... or I6 -> I -> I6, as well as V65 -> V(7) -> ... blocks to get an up/down motion in the bass (*3 -> *1, *1 -> *5, *2 -> *5, etc.), and similar structures on other harmonies. Note that it's one of the rare times where we find a I64 chord that isn't cadential.</p>
 <p>We also often find tonic or dominant pedal points, as well as passages where the bass is accented and moves up or down by diatonic/chromatic steps.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<?php tt("Chopin - Waltz Op. 64 n°3")?>
+<?php tt("Chopin - Waltzes")?>
 <p>- I -> I/*5 -> I -> I/*5 then V7/*2 -> V7 -> V7/*2 -> V7.</p>
 <p>&nbsp;&nbsp; = I -> I64 -> I -> I64 then V43 -> V7 -> V43.</p>
 <p>&nbsp;&nbsp; = Tonic over [*1 -> *5 -> *1 -> *5] then Dominant 7th over [*2 -> *5 -> *2].</p>
 <p>- At 22:10, I/*1 -> I/*3 -> I/*1 -> I/*3 then V7/*5 -> V7/*2 etc. followed by a rising bassline.</p>
 <p>- At 34:48, I/*1 -> V7/*2 -> V7/*7 -> I/*1, followed by a pedal point, then at 35:35, V/*7 -> I/*1 -> V/*5 -> I/*1,</p>
-<p>- At 38:30, V7/*5 -> I/*1, and there are countless more.</p>
+<p>- At 38:30, V7/*5 -> I/*1, and there are countless more throughout Chopin waltzes.</p>
+<p>- Note: at 18:11 & 40:28, you can see the "simplified" pattern: "Bass + Chord tone #1 + Chord tone n°2" here with #1 higher than #2.</p>
 <?php yt("tiTu6g2TqC8", 1670) ?>
 
 <?php tt("Shostakovich - Lyric Waltz")?>
@@ -29,7 +30,12 @@
 
 <?php tt("Ottorino Respighi - Valse Caressante")?>
 <p>Tonic (Eb) over [*1 -> *5 -> *1 -> *5 -> 1* -> 3*] then Dominant (Bb7) over [*2 -> *5].</p>
-<?php yt("hYffdSe4gpM", 4) ?>
+<?php yt("hYffdSe4gpM", 19) ?>
+
+<?php tt("Felix Blumenfeld - Valse-Etude in F major, Op. 4")?>
+<p>Tonic (F) over [*1 -> *5] then Dominant (C7) over [*2 -> *2-> *5 -> *4].</p>
+<p>Note: this kind of simplified left hand is quite common, listen and you can hear the accented blocks of 2 measures.</p>
+<?php yt("lEKBE4B-N28", 4) ?>
 
 <?php tt("Dmitri Shostakovich - Waltz from 'Pirogov', Op. 76")?>
 <p>Multiple repeatitions of V7 (Eb) over [*2 -> *5] -> I (Ab) over [*1 -> *5].</p>
