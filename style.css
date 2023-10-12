@@ -22,7 +22,7 @@ p {
 
 .header {
 /*  background-color: rgba(235, 203, 166) !important;*/
-  background: url("imgs/text.png");
+  background: url("imgs/text.jpg");
   background-size: cover;
   width: 100% !important;
 }
@@ -67,13 +67,12 @@ p {
   margin-right: auto;
 
 /*  background-color: rgba(66, 66, 66);*/
-  background-color: rgba(43, 32, 25, 0.8);
+/*  background-color: rgba(43, 32, 25, 0.8);*/
+  background-image: url("imgs/text_light.jpg");
+  color: rgba(30,30,30) !important;
+  background-size: contain;
 
   border: 1mm solid rgba(255, 255, 255, .1);
-
-  background-size: cover;
-  background-position: center; 
-  background-origin: border-box;
 
   transition: box-shadow 0.25s ease-in-out;
 
@@ -81,6 +80,10 @@ p {
 }
 
 .elementSmall{
+  background-size: cover;
+  background-position: center; 
+  background-origin: border-box;
+
   box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4)
 }
 .elementSmall:hover{
