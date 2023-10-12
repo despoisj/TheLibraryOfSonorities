@@ -55,12 +55,14 @@ p {
   margin-left: 5%;
   /* Top right bottom left */
   padding: 30px 20px 30px 20px;
-  background-color: rgba(66, 66, 66);
   margin-bottom: 50px;
   border-radius: 20px;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+
+/*  background-color: rgba(66, 66, 66);*/
+  background-color: rgba(43, 32, 25, 0.8);
 
   border: 1mm solid rgba(255, 255, 255, .1);
 
