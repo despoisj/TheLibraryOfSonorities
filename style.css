@@ -30,7 +30,9 @@ p {
 .navbar {
   width: 100%;
 /*  background: #888;*/
-background-color: rgba(48, 16, 7);
+/*background-color: rgba(48, 16, 7);*/
+  background-color: rgba(31, 16, 12);
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4)
 }
 
 .navElement {
@@ -78,6 +80,9 @@ background-color: rgba(48, 16, 7);
   z-index: 1;
 }
 
+.elementSmall{
+  box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4)
+}
 .elementSmall:hover{
   box-shadow: 0px 0px 10px 5px rgba(255, 241, 181, 0.25)
 }
