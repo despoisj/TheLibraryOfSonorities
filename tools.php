@@ -127,7 +127,7 @@ function listElements() {
 
 function yt($id, $start = 0) {
 	// Display wrapped youtube vieo
-	echo '<amp-youtube layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
+	echo '<amp-youtube style="border-radius:10px" layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
 }
 
 function tt($title) {
