@@ -136,7 +136,7 @@ if ($filter == "element"){
             
 
         <!-- CONTENT -->
-        <div id="elements" style="margin-top: 50px;">
+        <div id="elements" style="margin-top: 50px; margin-bottom:150px">
 
 
 

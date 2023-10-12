@@ -7,20 +7,20 @@ function loadElement($element, $display) {
 	if ($display)
 		echo '<div class="element">';
 	else
-		echo '<div onclick=\'location.href="index.php?filter=element&element=' . $element["pageName"] . '"\' class="element" style="cursor: pointer; background-image: url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/'. $element["pageName"] .'.jpg\');">';
+		echo '<div onclick=\'location.href="index.php?filter=element&element=' . $element["pageName"] . '"\' class="element" style="cursor: pointer; background-image: url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/'. $element["pageName"] .'.jpg\');">';
 
 		// Test to differentiate romantic / baroque etc. 
-		echo "<div class='styleElementWrapper'>";
+		// echo "<div class='styleElementWrapper'>";
 
-			foreach($element["styles"] as $style){
-				if ($style == "romantic")
-					echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
-				elseif ($style == "classical")
-					echo '<div class="styleElement"><a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰</a></div>';
-				elseif ($style == "impressionism")
-					echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
-			}
-		echo "</div>";
+		// 	foreach($element["styles"] as $style){
+		// 		if ($style == "romantic")
+		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
+		// 		elseif ($style == "classical")
+		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰</a></div>';
+		// 		elseif ($style == "impressionism")
+		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
+		// 	}
+		// echo "</div>";
 
 		// Setup title link
 		if (!$display){

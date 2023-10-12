@@ -70,7 +70,14 @@ p {
   background-position: center; 
   background-origin: border-box;
 
+  transition: box-shadow 0.25s ease-in-out;
+
   z-index: 1;
+}
+
+.element:hover{
+  box-shadow: 0px 0px 10px 5px rgba(255, 241, 181, 0.25)
+
 }
 
 .styleElementWrapper{
