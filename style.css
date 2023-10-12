@@ -7,23 +7,12 @@ body {
   color: white !important;
   font-family: 'REM', sans-serif !important;
 
-  background-image: url("imgs/back.jpg");
+  background-image: url("imgs/back_opa.png"),
+                    url("imgs/back_opa.png"), 
+                    url("imgs/back.jpg");
   background-repeat: repeat;
 
   position: relative !important;
-  isolation: isolate;
-}
-
-body::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  height: inherit;
-
-  background: #111;
-  opacity: 0.6;
-  z-index: -1;
-  isolation: isolate;
 }
 
 p {
@@ -69,10 +58,15 @@ p {
   background-color: rgba(66, 66, 66);
   margin-bottom: 50px;
   border-radius: 20px;
-
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+
+  border: 1mm solid rgba(255, 255, 255, .1);
+
+  background-size: cover;
+  background-position: center; 
+  background-origin: border-box;
 
   z-index: 1;
 }
@@ -107,10 +101,40 @@ p {
   filter: drop-shadow(0 0 2px rgba(255, 211, 89, 1.0));
 }
 
+.illustration {
+  height: 100px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  background-position: center;
+  background-size: cover;
+
+  border: 1mm solid rgba(255, 255, 255, .1);
+  border-radius: 20px;
+  background-origin: border-box;
+
+  text-align: center;
+
+  position: relative;
+}
+
 .elementTitle {
   margin-bottom: 30px;
   text-decoration: underline;
   text-decoration-color: #777;
+  width: 90%;
+}
+
+.elementTitleFull {
+  text-decoration: underline;
+  text-decoration-color: #777;
+  width: 90%;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .elementExampleTitle {

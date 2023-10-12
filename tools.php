@@ -4,7 +4,10 @@ include 'library.php';
 function loadElement($element, $display) {
 	// Loads a singular element
 
-	echo '<div class="element">';
+	if ($display)
+		echo '<div class="element">';
+	else
+		echo '<div class="element" style="background-image: url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/'. $element["pageName"] .'.jpg\');">';
 
 		// Test to differentiate romantic / baroque etc. 
 		echo "<div class='styleElementWrapper'>";
@@ -20,30 +23,28 @@ function loadElement($element, $display) {
 		echo "</div>";
 
 		// Setup title link
-		echo '<h2 class="elementTitle"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
-
-
-		// If togglable add see more / less
-		if (!$display) {
-			// echo '<a class="seeMore">Show</a>';
-			echo '<div class="seeMore"><div class="seeMoreOverlay">Show</div></div>';
+		if (!$display){
+			echo '<h2 class="elementTitle"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
 		}
 
-
 		// Possibility to collapse or not by default
-		if ($display)
+		if ($display){
+
+			echo '<div class="illustration" style="background-image: url(\'imgs/backgrounds/opa.png\'),  url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/' . $element["pageName"]. '.jpg\');" />';
+
+			// Title
+			echo '<h2 class="elementTitleFull"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
+
+			echo '</div>';
+
+
 			echo '<div class="elementContents">';
-		else
-			echo '<div class="elementContents" style="max-height: 100px">';
+			
+			// Finally include the bulk of the page!
+			include "elements/".$element["pageName"].".php";
 
-		// Finally include the bulk of the page!
-		include "elements/".$element["pageName"].".php";
-
-		echo '</div>';
-
-		// If togglable add see more / less
-		if (!$display)
-			echo '<div class="seeLessContainer" style="display:none;"><a class="seeLess">Hide</a></div>';
+			echo '</div>';
+		}
 
 		// Tags
 		echo "<div class='tagBox'>";

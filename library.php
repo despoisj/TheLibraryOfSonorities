@@ -1,6 +1,6 @@
 <?php
 
-function element($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = []) {
+function element($pageName, $title, $styles = [], $composers = [], $type = "harmony", $emotions = [], $img="") {
 	// Create element
 	$element = [];
 	$element["pageName"] = $pageName;
@@ -33,8 +33,11 @@ array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i
 // Progressions
 array_push($library, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
 
-// Arps
+// Todo texture + harmony
 array_push($library, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
+array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
+
+// Arps
 array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
 array_push($library, element("minor_sharp4_arps", "Minor Arpeggios with added #4", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
 
@@ -43,6 +46,3 @@ array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romanti
 
 array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
 array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
-
-// Todo texture + harmony
-array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));

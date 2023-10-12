@@ -131,12 +131,6 @@ if ($filter == "element"){
 
             ?>
             <h2 style="margin-bottom: 30px;"><?php echo $title; ?></h2>
-
-            <?php 
-                if ($filter == "")
-                    echo "<a href='list.php' style='padding-bottom:40px'>(view as list)</a>";
-                    
-            ?>
         </div>
 
             
