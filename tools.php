@@ -1,39 +1,26 @@
 <?php
 include 'library.php';
 
-function loadElement($element, $display) {
+function loadElement($element, $fullSize) {
 	// Loads a singular element
 
-	if ($display)
+	if ($fullSize)
 		echo '<div class="element">';
 	else
 		echo '<div onclick=\'location.href="index.php?filter=element&element=' . $element["pageName"] . '"\' class="element elementSmall" style="cursor: pointer; background-image: url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/'. $element["pageName"] .'.jpg\');">';
 
-		// Test to differentiate romantic / baroque etc. 
-		// echo "<div class='styleElementWrapper'>";
-
-		// 	foreach($element["styles"] as $style){
-		// 		if ($style == "romantic")
-		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a></div>';
-		// 		elseif ($style == "classical")
-		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰</a></div>';
-		// 		elseif ($style == "impressionism")
-		// 			echo '<div class="styleElement"><a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a></div>';
-		// 	}
-		// echo "</div>";
-
 		// Setup title link
-		if (!$display){
-			echo '<h2 class="elementTitle"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
+		if (!$fullSize){
+			echo '<h2 class="elementTitle"><a class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
 		}
 
 		// Possibility to collapse or not by default
-		if ($display){
+		if ($fullSize){
 
 			echo '<div class="illustration" style="background-image: url(\'imgs/backgrounds/opa.png\'),  url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/' . $element["pageName"]. '.jpg\');" />';
 
 			// Title
-			echo '<h2 class="elementTitleFull"><a style="color:white; text-decoration:none" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
+			echo '<h2 class="elementTitleFull"><a  class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
 
 			echo '</div>';
 

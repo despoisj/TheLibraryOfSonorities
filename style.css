@@ -1,10 +1,16 @@
+/* Main colors */
+:root {
+    --brown: rgb(31, 16, 12);
+    --beige: rgb(242, 229, 216);
+}
+
 div {
   text-align: center;
 }
 
 body {  
   background-color: #222 !important;
-  color: white !important;
+  color: var(--beige) !important;
   font-family: 'REM', sans-serif !important;
 
   background-image: url("imgs/back_opa.png"),
@@ -31,7 +37,7 @@ p {
   width: 100%;
 /*  background: #888;*/
 /*background-color: rgba(48, 16, 7);*/
-  background-color: rgba(31, 16, 12);
+  background-color: var(--brown);
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4)
 }
 
@@ -40,15 +46,15 @@ p {
   margin-left: 10px;
   margin-right: 10px;
   text-decoration: none;
-  color : white !important;
+  color : var(--beige) !important;
 }
 
 .tag {
-  color : #777 !important;
+  color : #888 !important;
 }
 
 .tagBox {
-  color : #777 !important;
+  color : #888 !important;
   text-align: left;
   margin-top: 30px;
   margin-bottom: -5px;
@@ -69,8 +75,11 @@ p {
 /*  background-color: rgba(66, 66, 66);*/
 /*  background-color: rgba(43, 32, 25, 0.8);*/
   background-image: url("imgs/text_light.jpg");
-  color: rgba(30,30,30) !important;
   background-size: contain;
+
+/*  color: rgba(30,30,30) !important;*/
+  color: var(--brown) !important;
+
 
   border: 1mm solid rgba(255, 255, 255, .1);
 
@@ -87,37 +96,7 @@ p {
   box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4)
 }
 .elementSmall:hover{
-  box-shadow: 0px 0px 10px 5px rgba(255, 241, 181, 0.25)
-}
-
-.styleElementWrapper{
-/*  background-color: rgba(54, 39, 39);*/
-/*NOTHING SO FAR BUT MAYBE IF I ADD PRINNER ETC*/
-  width: 50px;
-  height:1px;
-  margin-top: -15px;
-  float: left;
-  text-align: left;
-
-  display: inline-block;
-}
-
-.styleElement{
-  width: 20px;
-  height: 1px;
-  display: inline-block;
-  opacity: 30%;
-
-  -webkit-transition: all 0.2s ease;
-     -moz-transition: all 0.2s ease;
-      -ie-transition: all 0.2s ease;
-       -o-transition: all 0.2s ease;
-          transition: all 0.2s ease;
-}
-
-.styleElement:hover{
-  opacity: 50%;
-  filter: drop-shadow(0 0 2px rgba(255, 211, 89, 1.0));
+  box-shadow: 0px 0px 10px 5px rgba(237, 195, 157, 0.25)
 }
 
 .illustration {
@@ -155,6 +134,11 @@ p {
   transform: translate(-50%, -50%);
 }
 
+.elementTitleLink{
+  color: var(--beige);
+  text-decoration: none;
+}
+
 .elementExampleTitle {
   margin-top: 50px;
   margin-bottom: 20px;
@@ -170,44 +154,6 @@ p {
       -ie-transition: all 0.3s ease;
        -o-transition: all 0.3s ease;
           transition: all 0.3s ease;
-}
-
-.seeMore {
-  position: relative;
-  width: 100%;
-}
-
-.seeMoreOverlay {
-  height:100px;
-  line-height: 100px;
-  width: 100%;
-  vertical-align: center;
-  position: absolute;
-  float: left;
-  font-size:18px;
-
-  -webkit-backdrop-filter: blur(2px);
-  backdrop-filter: blur(2px);
-
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(50, 50, 50, .9));
-}
-
-.seeMoreOverlay:hover {
-  font-size: 20px;
-
-  -webkit-transition: all 0.4s ease;
-     -moz-transition: all 0.4s ease;
-      -ie-transition: all 0.4s ease;
-       -o-transition: all 0.4s ease;
-          transition: all 0.4s ease;
-}
-
-.seeLessContainer {
-  margin-top: 50px;
-}
-
-.seeLess {
-  color: white;
 }
 
 .pieceTitle {
