@@ -21,13 +21,16 @@ p {
 
 
 .header {
-  background: #ccc !important; /*#555*/
+/*  background-color: rgba(235, 203, 166) !important;*/
+  background: url("imgs/text.png");
+  background-size: cover;
   width: 100% !important;
 }
 
 .navbar {
   width: 100%;
-  background: #888;
+/*  background: #888;*/
+background-color: rgba(48, 16, 7);
 }
 
 .navElement {
