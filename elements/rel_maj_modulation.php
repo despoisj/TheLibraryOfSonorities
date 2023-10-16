@@ -11,7 +11,7 @@
 
 <?php tt("Beethoven - Choral Fantasy, Op. 80") ?>
 <p>i (Cm) -> [iv (Fm) ->] V/III (Bb7) -> III (Eb)</p>
-<p>Note: here insteadd of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> *b7 -> *b3</p>
+<p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p>
 <?php yt("GAs0zEGY7yw") ?>
 
 <?php tt("'La Folia'") ?>

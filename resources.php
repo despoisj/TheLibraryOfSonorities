@@ -8,6 +8,7 @@ require_once "tools.php";
 ?>
 
 <!DOCTYPE html>
+<html translate="no">
 <html lang="en">
     <head>
     <meta charset="UTF-8">

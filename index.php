@@ -26,6 +26,7 @@ if ($filter == "element"){
 ?>
 
 <!DOCTYPE html>
+<html translate="no">
 <html lang="en">
     <head>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
