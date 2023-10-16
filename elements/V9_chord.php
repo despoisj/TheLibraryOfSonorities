@@ -1,6 +1,6 @@
 <h3 class="elementExampleTitle">V9 in Major</h3>
 
-<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that, as traditional voice leading wants the 9th to resolve down instead of up, this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
+<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 

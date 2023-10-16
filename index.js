@@ -14,6 +14,11 @@ var getUrlParameter = function getUrlParameter(sParam) {
     return false;
 };
 
+function makeItem(text, itemclass, page) {
+    // Ex V9, v9, V9_chord
+    return "<a href='index.php?filter=element&element="+ page +"' style='text-decoration:none'><span class='item "+ itemclass +"'>"+ text +"</span></a>"
+}
+
 function replaceDigitsWithCircledNumbers(text) {
 
     // Regular expression to match digits with a caret symbol (^)
@@ -40,9 +45,14 @@ function replaceDigitsWithCircledNumbers(text) {
     // Replace -> by →
     text = text.replaceAll("-&gt;","→");
 
+    text = text.replaceAll(/(LT°7|LT°)/g, makeItem("$1", "lt7", "ct_lt"));
+    text = text.replaceAll(/([A-Za-z]?)CT°7/g, makeItem("$1CT°7", "ct7", "ct_lt"));
+    
+    text = text.replaceAll(/VChM/g, makeItem("VCh<small><small>Maj</small></small>", "vchMaj", "chopin_chord"));
+    text = text.replaceAll(/VChm/g, makeItem("VCh<small><small>min</small></small>", "vchMin", "chopin_chord"));
 
-    text = text.replaceAll(/(LT°7|LT°)/g, "<span class='item lt7'>LT°7</span>");
-    text = text.replaceAll(/([A-Za-z]?)CT°7|([A-Za-z]?)CT°/g, "<span class='item ct7'>$1CT°7</span>");
+    text = text.replaceAll(/V9(?!.*<\/h[1-9]>)/g, makeItem("V9", "v9", "V9_chord"));
+    // text = text.replaceAll(/V(9,11)(?!.*<\/h[1-9]>)/g, "<span class='item v9'>V7<small>(9,11)</small></span>");
 
     return text;
 }

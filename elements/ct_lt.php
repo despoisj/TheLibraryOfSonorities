@@ -1,5 +1,5 @@
 <p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> I.</p>
-<p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the previous/following chord, in many cases as a prolongation of the tonic through a I -> CT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7).</p>
+<p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the previous/following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7).</p>
 <p>As both are often used on a *1 pedal point between two tonic harmonies, the dreamy sonority is very similar to the sonority of <a href="index.php?filter=element&element=V_over_1">V(7)/*1</a>.</p>
 
 
@@ -16,6 +16,10 @@
 <?php tt("John Field - Nocturne n°5") ?>
 <p>B -> B°7 -> B, i.e. I -> ICT°7 -> I then I -> LT°7 -> I</p>
 <?php yt("U-fS3mR9KDA", 1087) ?>
+
+<?php tt("Liszt - Consolation n°3")?>
+<p>mm 3-4 measure: Db -> Db°7 -> ... -> D, i.e. I -> ICT°7 -> ... -> I</p>
+<?php yt("73_jSjG1WrY", 7) ?>
 
 
 <?php tt("Chopin - Nocturne Op. 9 n°2")?>
@@ -39,7 +43,7 @@
 <h4 class="elementExampleTitle">W.I.P. Examples</h4>
 
 <?php tt("Sergei Bortkievicz - Prelude Op. 33 n°7") ?>
-<p>- 2nd measure: F# -> F#°7 (with added E# -> D#) -> F#</p>
+<p>- 3nd measure: F# -> F#°7 (with added E# -> D#) -> F#</p>
 <p>- Same at 1:54, 2nd measure: F# -> ~ F#°7 (with E# -> D#) -> F#</p>
 <p>Note: I'm not 100% sure for that one because E# contributes a lot to the sound, but it is very similar. We can find a similar chord in the Mozkowski concerto (see below).</p>
 <?php yt("hDtDq4GmLqU", 11) ?>
