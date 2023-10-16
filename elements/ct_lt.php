@@ -1,5 +1,6 @@
 <p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> I.</p>
 <p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the previous/following chord, in many cases as a prolongation of the tonic through a I -> CT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7).</p>
+<p>As both are often used on a *1 pedal point between two tonic harmonies, the dreamy sonority is very similar to the sonority of <a href="index.php?filter=element&element=V_over_1">V(7)/*1</a>.</p>
 
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -8,16 +9,31 @@
 <p>2nd row, mm 3-4: A major -> A°7 -> ~ A major, i.e I -> ICT°7 -> I</p>
 <?php yt("eAVG0f_4IKI", 18) ?>
 
-
 <?php tt("Tchaikovsky - Waltz of the Flowers") ?>
 <p>mm 1-2: A -> A°7 -> A, i.e. I -> ICT°7 -> I</p>
 <?php yt("rXVxvdecrsM") ?>
-
 
 <?php tt("John Field - Nocturne n°5") ?>
 <p>B -> B°7 -> B, i.e. I -> ICT°7 -> I then I -> LT°7 -> I</p>
 <?php yt("U-fS3mR9KDA", 1087) ?>
 
+
+<?php tt("Chopin - Nocturne Op. 9 n°2")?>
+<p>mm. 1: Eb (x2) -> D°7/*1 -> Eb, i.e. I -> LT°7/*1 -> I. </p>
+<?php yt("YGRO05WcNDk") ?>
+
+<?php tt("Chopin - Nocturne n°20")?>
+<p>2nd row, mm. 1: C#m -> D°/*1 -> C#m, i.e. I -> LT°/*1 -> I. </p>
+<?php yt("tVV3SIvncD4", 20) ?>
+
+<?php tt("Ignaz Brüll - Melodie in A minor, Op. 53 n°2")?>
+<p>mm. 5: E -> A°7 -> E -> E7 -> , i.e. I -> ~LT°7 -> I in E (the V of the key of A minor).</p>
+<p>Note: the E with the LT°7 chord is similar to when we have LT°7/*1, except here it's buried inside the texture.</p>
+<?php yt("JQ0YZTUGCKI", 14) ?>
+
+<?php tt("Felix Blumenfeld - Etude for the Left Hand, Op. 36") ?>
+<p>Ab -> G°7/Ab, i.e. I -> LT°7/*1</p>
+<?php yt("nGiO9foYa4A") ?>
 
 
 <h4 class="elementExampleTitle">W.I.P. Examples</h4>

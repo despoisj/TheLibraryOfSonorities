@@ -26,6 +26,7 @@ function replaceDigitsWithCircledNumbers(text) {
     text = text.replace(regex, (_, digit) => "<span>" + String.fromCharCode(parseInt(digit) + unicodeOffset) + "</span>");
 
 
+
     // Regular expression to match digits with a star symbol (*)
     const regexBass = /\*(\d)/g;
     const unicodeOffsetBass = 10111; // For back background: soprano
@@ -35,8 +36,13 @@ function replaceDigitsWithCircledNumbers(text) {
     text = text.replace(regexBass, (_, digit) => "<span'>" + String.fromCharCode(parseInt(digit) + unicodeOffsetBass) + "</span>");
 
 
+
     // Replace -> by →
     text = text.replaceAll("-&gt;","→");
+
+
+    text = text.replaceAll(/(LT°7|LT°)/g, "<span class='item lt7'>LT°7</span>");
+    text = text.replaceAll(/([A-Za-z]?)CT°7|([A-Za-z]?)CT°/g, "<span class='item ct7'>$1CT°7</span>");
 
     return text;
 }
@@ -48,28 +54,6 @@ $(document).ready(function() {
     const originalText = $(this).html();
     const convertedText = replaceDigitsWithCircledNumbers(originalText);
     $(this).html(convertedText);
-  });
-
-  // Display on click
-  $(".seeMore").click(function(event) {
-    // $(this).parent().find(".elementContents").slideToggle(700);
-    $(this).parent().find(".elementContents").css("max-height", "20000px");
-
-    // Buttons
-    $(this).hide();
-    $(this).parent().find(".seeLessContainer").show();
-  });
-
-  $(".seeLess").click(function(event) {
-    // $(this).parent().parent().find(".elementContents").slideToggle(400);
-    $(this).parent().parent().find(".elementContents").css("max-height", "100px");
-
-    // Buttons
-    $(this).parent().hide();
-    $(this).parent().parent().find(".seeMore").show();
-
-    // Scroll to top
-    $('html, body').scrollTop($(this).parent().parent().offset().top - 100);
   });
 
 });

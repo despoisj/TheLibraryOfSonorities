@@ -19,8 +19,8 @@ function loadElement($element, $fullSize) {
 
 			echo '<div class="illustration" style="background-image: url(\'imgs/backgrounds/opa.png\'),  url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/' . $element["pageName"]. '.jpg\');" />';
 
-			// Title
-			echo '<h2 class="elementTitleFull"><a  class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
+				// Title
+				echo '<h2 class="elementTitleFull"><a  class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h2>";
 
 			echo '</div>';
 
@@ -106,23 +106,6 @@ function loadSingleElement($elementName) {
 		}
 	}
 }
-
-function listElements() {
-	global $library;
-	// Lists all elements in compact form
-	foreach ($library as $element) {
-		$emoji = "";
-		if (in_array("romantic", $element["styles"]))
-			$emoji = $emoji . '<a href="index.php?filter=style&style=romantic" style="text-decoration:none">🌹</a>';
-		if (in_array("classical", $element["styles"]))
-			$emoji = $emoji . '<a href="index.php?filter=style&style=classical" style="text-decoration:none">🕰️</a>';
-		if (in_array("impressionism", $element["styles"]))
-			$emoji = $emoji . '<a href="index.php?filter=style&style=impressionism" style="text-decoration:none">🖼️</a>';
-		
-		echo "<div><a href='index.php?filter=element&element=" . $element["pageName"] . "'>" . $element["title"] . "</a> " . $emoji . "</div>";
-	}
-}
-
 
 
 function yt($id, $start = 0) {

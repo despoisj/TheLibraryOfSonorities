@@ -25,6 +25,10 @@ p {
   text-align: left;
 }
 
+p a {
+  color: #444 !important;
+}
+
 
 .header {
 /*  background-color: rgba(235, 203, 166) !important;*/
@@ -148,6 +152,7 @@ p {
   width: 95%;
   margin-left: 2.5%;
   overflow: hidden;
+  padding-top: 5px; 
 
   -webkit-transition: all 0.3s ease;
      -moz-transition: all 0.3s ease;
@@ -160,5 +165,22 @@ p {
   text-align: center !important;
   font-size: 17px;
   margin-top: 36px !important; 
+}
+
+.item {
+  border-radius: 5px;
+  border: 2px solid rgba(255, 255, 255, .2);
+  padding: 3px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+/* Test for inline elements */
+.lt7 {
+  background-color: rgba(193, 225, 193, 0.7);
+}
+
+.ct7 {
+  background-color: rgba(167, 199, 231, 0.7);
 }
 
