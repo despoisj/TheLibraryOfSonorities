@@ -2,7 +2,7 @@
 
 <h4 class="elementExampleTitle">References</h4>
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Neapolitan_chord">Wikipedia</a>
+<p style="text-align: center;"><a target="_blank" href="https://en.wikipedia.org/wiki/Neapolitan_chord">Wikipedia</a></p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
