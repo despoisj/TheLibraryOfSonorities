@@ -1,23 +1,26 @@
 <h3 class="elementExampleTitle">V9 in Major</h3>
 
-<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1.</p>
+<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that, as traditional voice leading wants the 9th to resolve down instead of up, this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
+
+
+<?php tt("John Field - Nocturne n°5")?>
+<p>Last measure: C7 + D -> E -> F.</p>
+<?php yt("U-fS3mR9KDA", 1111) ?>
+
+<?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
+<p>mm. 4: A7 + B -> C# -> D.</p>
+<?php yt("dFg02WEwlCM", 33) ?>
 
 <?php tt("John Field - Nocturne n°1")?>
 <p>The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb.</p>
 <p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>).</p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
-<?php tt("John Field - Nocturne n°5")?>
-<p>Last measure: C7 + D -> E -> F.</p>
-<?php yt("U-fS3mR9KDA", 1111) ?>
-
-
 <?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
 <p>mm. 5: I64 -> V9 (E7 + F).</p>
 <?php yt("62vYPGOe9EM", 76) ?>
-
 
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
 <p>In the 3rd measure of the 2nd line.</p>

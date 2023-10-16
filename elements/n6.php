@@ -13,5 +13,9 @@
 <?php tt("Beethoven - Moonlight Sonata, 1st Mvt.")?>
 <?php yt("eNBm9wD9zg0", 18) ?>
 
+<?php tt("Beethoven - Appassionata Sonata, 3rd Mvt.")?>
+<p>Fm x2 -> N6 -> *5 *6 *4 *5 *1 cadence</p>
+<?php yt("QImFm4Y_QPM", 1069) ?>
+
 <?php tt("More Examples")?>
 <?php yt("ebWiF3XW4dU", 890) ?>
