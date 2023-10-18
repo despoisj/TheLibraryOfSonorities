@@ -118,5 +118,3 @@ function tt($title) {
 	echo '<p class="pieceTitle"><b><i>' . $title .'</i></b></p>';
 }
 
-
-

@@ -29,7 +29,7 @@
 <?php yt("FA3JJdmwJU8", 7) ?>
 
 <?php tt("Ottorino Respighi - Valse Caressante")?>
-<p>Tonic (Eb) over [*1 -> *5 -> *1 -> *5 -> 1* -> 3*] then Dominant (Bb7) over [*2 -> *5].</p>
+<p>Tonic (Eb) over [*1 -> *5 -> *1 -> *5 -> *1 -> *3] then Dominant (Bb7) over [*2 -> *5].</p>
 <?php yt("hYffdSe4gpM", 4) ?>
 
 <?php tt("Felix Blumenfeld - Valse-Etude in F major, Op. 4")?>

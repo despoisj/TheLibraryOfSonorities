@@ -45,4 +45,5 @@ array_push($library, element("minor_sharp4_arps", "Minor Arpeggios with added #4
 array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
 
 array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
+array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));
 array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
