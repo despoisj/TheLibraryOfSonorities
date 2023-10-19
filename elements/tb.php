@@ -29,6 +29,11 @@
 <p>Note: This one can't be nicely explained by modulation alone, as we would need to see it as a tiny modulation to G Major. This special case is what Professor John Mortensen calls "3 - 6/#4/2 - 6", where a stepwise descending bassline is harmonized with alternative chords of the 5th and 6th. Each chord of the 5th starts a short 6/#4/2 TB. This sound belongs to the Tied Bass family, and I find it particularly striking when starting on a minor chord.</p>
 <?php yt("mn6b-hD_af8", 24) ?>
 
+<?php tt("Samuel Maykapar - Arietta in a minor")?>
+<p>mm 3-: TB sequence using 642 and 65 chords. This creates a sound very similar to the circle of fifth sequence.</p>
+<p>Here, like many minor sequences, we need the leading tone to stay in the key, otherwise they melt away into the relative major.</p>
+<?php yt("dcapH7xANkI") ?>
+
 <?php tt("Handel - Zadok the Priest, HWV 258")?>
 <p>-mm. 1-3: Major 53 -> 6/4/2 -> Minor 6 ↓2HS -> 6/#4/2 -> Major 6 ↓1HS</p>
 <p>i.e. TB sequence in D Major -> G Major</p>

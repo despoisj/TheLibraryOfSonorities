@@ -10,12 +10,20 @@
 <p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64.</p>
 <?php yt("Fy3JxUfE9ds", 102) ?>
 
+<?php tt("Samuel Maykapar - Arietta in a minor")?>
+<p>mm. 3: N6 -> i64 -> V -> i</p>
+<?php yt("dcapH7xANkI", 51) ?>
+
 <?php tt("Beethoven - Moonlight Sonata, 1st Mvt.")?>
 <?php yt("eNBm9wD9zg0", 18) ?>
 
 <?php tt("Beethoven - Appassionata Sonata, 3rd Mvt.")?>
 <p>Fm x2 -> N6 -> *5 *6 *4 *5 *1 cadence</p>
 <?php yt("QImFm4Y_QPM", 1069) ?>
+
+<?php tt("Shostakovich - Prelude from 'The Gadly'")?>
+<p>N6 -> i64 -> V -> i</p>
+<?php yt("zBNIlyTVIOY", 62) ?>
 
 <?php tt("More Examples")?>
 <?php yt("ebWiF3XW4dU", 890) ?>
