@@ -37,10 +37,17 @@
 <?php tt("Handel - Zadok the Priest, HWV 258")?>
 <p>-mm. 1-3: Major 53 -> 6/4/2 -> Minor 6 ↓2HS -> 6/#4/2 -> Major 6 ↓1HS</p>
 <p>i.e. TB sequence in D Major -> G Major</p>
+<p>Note: we find the exact same sequence and sonority in the <i>UEFA Champions League Anthem</i> by Tony Britten.</p>
 <?php yt("F-6Z9IU5BVk", 9) ?>
 
-<?php tt("Tony Britten - UEFA Champions League Anthem")?>
-<p>Major 53 -> 6/4/2 -> Minor 6 ↓2HS</p>
-<p>i.e. TB sequence in D Major -> G Major</p>
-<?php yt("4LKCX8QLkL8", 120) ?>
 
+<h4 class="elementExampleTitle">The Morte</h4>
+
+<?php tt("Tchaikovsky/Pletnev - 'Pas de Deux' (Nutcracker Suite)")?>
+<p>-2nd row: Em -> EDom42 -> A6</p>
+<p>i.e. Minor 53 -> 6/#4/2 -> Major 6 ↓1HS</p>
+<p>This specific sonority falls in the Tied Bass, 3-#4-6, as well as another from the same family: the <a href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">Morte</a>. In this case, the 63 chord on B or Bb is omitted, but it helps understand why this sonority is very similar to the 3-#4-6. It is the same sonority we would get in minor descending RO if we played v minor on *5 instead of V major. This sonority also belongs to the Wedge/Omnibus family because of the contrary motion of the bass & soprano.</p>
+<?php yt("hEc3jhG7Qow", 69) ?>
+
+<?php tt("Reduction: with 63 then without")?>
+<?php fl("653159d76df93293352006f0?_l=true&sharingKey=36c1e290ae593d4d31b64d25570a76cd7b491716081571cd1f8ff11bb7236b631184de3ed3c96c0cdc1747628be4f5a4a6efb1a4b3b52b212bb69fc554fc4984") ?>

@@ -30,8 +30,7 @@
 
 
 <?php tt("Model") ?>
-<iframe src="https://flat.io/embed/64cbcb30cea9315acaa336b1?_l=true&sharingKey=f91c1a2f012e15aeeec6f9ee3f1835288d928d442b43b710c0f5fa327bf94022ae363f4f59c35ace7fb2f1326092682f1a1cc16510c8ea1c7319efdcbefffcc5" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
-
+<?php fl("64cbcb30cea9315acaa336b1?_l=true&sharingKey=f91c1a2f012e15aeeec6f9ee3f1835288d928d442b43b710c0f5fa327bf94022ae363f4f59c35ace7fb2f1326092682f1a1cc16510c8ea1c7319efdcbefffcc5") ?>
 
 <h4 class="elementExampleTitle">Use of the b9th</h4>
 <p>The b9th is often found as an extension of a dominant sound, noted V7b9, and gives the eerie sound of the Diminished 7th chord. One easy way to remember and play it is to view the V7b9 chord as a V7 chord with a °7 chord on top of the third, fifth or sevents (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>

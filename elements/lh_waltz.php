@@ -52,4 +52,4 @@
 <?php yt("WD6wHfUb-kU", 37) ?>
 
 <?php tt("Model")?>
-<iframe src="https://flat.io/embed/650a135f5f5c99b4150a30a0?_l=true&sharingKey=7b2e1680524f4d29ab203cac3281b7a2fed930da6c37c6098d2557dfcfee3f26413f31c4604f470e3adfe715d6d49800220dbf94f80cbe74930ee5f0d5ee9970" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>
+<?php fl("650a135f5f5c99b4150a30a0?_l=true&sharingKey=7b2e1680524f4d29ab203cac3281b7a2fed930da6c37c6098d2557dfcfee3f26413f31c4604f470e3adfe715d6d49800220dbf94f80cbe74930ee5f0d5ee9970") ?>

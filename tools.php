@@ -108,13 +108,22 @@ function loadSingleElement($elementName) {
 }
 
 
-function yt($id, $start = 0) {
-	// Display wrapped youtube vieo
-	echo '<amp-youtube style="border-radius:10px" layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
+function yt($id, $start = 0, $defaultYT = false) {
+	if ($defaultYT) {
+		echo '<iframe style="border-radius:10px" width="560" height="315" src="https://www.youtube.com/embed/'. $id .'?start='. $start .'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
+	} else {
+		// Display wrapped youtube vieo
+		echo '<amp-youtube style="border-radius:10px" layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
+	}
 }
 
 function tt($title) {
 	// Display composer and title (tt)
 	echo '<p class="pieceTitle"><b><i>' . $title .'</i></b></p>';
+}
+
+function fl($link) {
+	// Flat.io embed
+	echo '<iframe style="width:100%; border-radius:10px" src="https://flat.io/embed/'. $link .'" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>';
 }
 
