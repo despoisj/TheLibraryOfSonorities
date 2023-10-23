@@ -12,18 +12,31 @@
 <?php yt("dFg02WEwlCM", 33) ?>
 
 <?php tt("John Field - Nocturne n°1")?>
-<p>The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb.</p>
+<p>The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb (but an octave lower).</p>
 <p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>).</p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
 <?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
-<p>mm. 5: I64 -> V9 (E7 + F).</p>
+<p>mm. 5: I64 -> V9 (E7 + F#).</p>
 <?php yt("62vYPGOe9EM", 76) ?>
 
+<?php tt("Franz Burgmüller - Am Weihnachtsbaum, Op. 100* n°1")?>
+<p>Note: This is listed as Op. 100 n°1, but there are two Op. 100, this is not the etudes but the "2 pieces", for which this is the only recording available.</p>
+<p>3rd row: G9 (G7 + A).</p>
+<?php yt("gfomsmuZ2Po", 82) ?>
+
+
+<h3 class="elementExampleTitle">(WIP) VMaj9 -> V7</h3>
+
+<p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of the ♮7 -> b7 and the landmark 9 -> 3 sound. To me, it's very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
+
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
-<p>In the 3rd measure of the 2nd line.</p>
-<p>Note: the V9 chord isn't exact as there's a F# instead of a F natural, but it seems in the recordings that most people play it as F natural, hence the V9 sound.</p>
+<p>In the 3rd measure of the 2nd line: GMaj9 -> G7</p>
 <?php yt("Wv2kNjy2AZE", 34) ?>
+
+<?php tt("Mykola Lysenko - Aveu, Op. 37 n°1")?>
+<p>mm. 1: EbMaj9 -> Eb7 -> ... -> Ab</p>
+<?php yt("GFRWQwaT2AQ", 80) ?>
 
 
 <h3 class="elementExampleTitle">V with added 9th & 11th: V(9, 11)</h3>

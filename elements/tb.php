@@ -1,4 +1,4 @@
-<p>The tied bass is the action of following a consonant chord on a given bass by a disonnant 642 chord on the same bass note. The bass note is then considered to be the dissonance and must resolve down by step, usually to a chord of the 6th, 6/5, or a 7th chord.</p>
+<p>The Tied Bass is the action of following a consonant chord on a given bass by a disonnant 642 chord on the same bass note. The bass note is then considered to be the dissonance and must resolve down by step, usually to a chord of the 6th, 6/5, or a 7th chord.</p>
 <p>Note: this is very similar to the <a href="index.php?filter=element&element=stepwise_leo">Stepwise Romanesca</a> schema, as well as the <i>"Cascade/U2D3" sequence</i>, with only a change in the way the bass moves.</p>
 
 <p style="margin-top: 40px;">There are multiple sonorities derived from this, especially in the tied bass sequence, or "42 - 6" sequence. The main factors are: whether you start on a major or minor sound, which 642 chord you pick, and to which bass - ↓1 or ↓2 Half Step(s) - and sound you resolve it, see in the examples below. The most used chords are 6/4/2, b6/4/2, 6/#4/2 "dominant", b6/4/b2 "neapolitan".</p>
@@ -24,10 +24,16 @@
 <p>i.e. TB sequence in D minor.</p>
 <?php yt("3oHATwEpUqE", 109) ?>
 
+
+
 <?php tt("J.S. Bach - Prelude in C minor, BWV 921")?>
 <p>mm. 2-: Minor 53 -> 6/#4/2 -> Minor 6 ↓2HS</p>
 <p>Note: This one can't be nicely explained by modulation alone, as we would need to see it as a tiny modulation to G Major. This special case is what Professor John Mortensen calls "3 - 6/#4/2 - 6", where a stepwise descending bassline is harmonized with alternative chords of the 5th and 6th. Each chord of the 5th starts a short 6/#4/2 TB. This sound belongs to the Tied Bass family, and I find it particularly striking when starting on a minor chord.</p>
 <?php yt("mn6b-hD_af8", 24) ?>
+
+<?php tt("J.S. Bach - Brandenburg Concerto n°3")?>
+<p>mm. 2: Major 53 -> 6/#4/2 -> 6</p>
+<?php yt("XAzn7cfNS-c", 621) ?>
 
 <?php tt("Samuel Maykapar - Arietta in a minor")?>
 <p>mm 3-: TB sequence using 642 and 65 chords. This creates a sound very similar to the circle of fifth sequence.</p>
@@ -41,6 +47,7 @@
 <?php yt("F-6Z9IU5BVk", 9) ?>
 
 
+
 <h4 class="elementExampleTitle">The Morte</h4>
 
 <?php tt("Tchaikovsky/Pletnev - 'Pas de Deux' (Nutcracker Suite)")?>
@@ -51,3 +58,26 @@
 
 <?php tt("Reduction: with 63 then without")?>
 <?php fl("653159d76df93293352006f0?_l=true&sharingKey=36c1e290ae593d4d31b64d25570a76cd7b491716081571cd1f8ff11bb7236b631184de3ed3c96c0cdc1747628be4f5a4a6efb1a4b3b52b212bb69fc554fc4984") ?>
+
+<?php tt("Brahms - Symphony n°3, 3rd Mvt.")?>
+<p>mm. 4-: Again the same i -> I7/b*7 (V42/iv) -> iv6 sound.</p>
+<?php yt("107Iwx5RKSM", 17) ?>
+
+<?php tt("Tomaso Vitali - Chaconne in G Major")?>
+<p>We find the same i -> I7/b*7 -> iv6 sound.</p>
+<?php yt("06eQlCgLzeE", 38) ?>
+
+<?php tt("Dmitri Shostakovich - Prelude from 'The Gadfly'")?>
+<p>i -> I7/b*7 -> iv6</p>
+<?php yt("s_HmPmDo-VM", 36) ?>
+
+
+<?php tt("Chopin - Nocturne Op. 48 n°1")?>
+<p>Here's another similar sound, this time the dominant 6#42 sound is triggered from ♮*7</p>
+<p>At 9:54 there's yet another, starting from V -> V42/N -> N6</p>
+<p>To easily get the V -> V/N sound, use contrary motion: lower the bass by 1 HS and raise the chord by 1HS. Note that V/N is the key's Augmented 6th chord, here in inversion.</p>
+<?php yt("u0yREiMOY1I", 308) ?>
+
+
+
+

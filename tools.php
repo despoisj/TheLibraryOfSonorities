@@ -109,6 +109,7 @@ function loadSingleElement($elementName) {
 
 
 function yt($id, $start = 0, $defaultYT = false) {
+	// AMP Seems to bug with Safari sometimes, so in case, use default youtube
 	if ($defaultYT) {
 		echo '<iframe style="border-radius:10px" width="560" height="315" src="https://www.youtube.com/embed/'. $id .'?start='. $start .'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
 	} else {
@@ -127,3 +128,51 @@ function fl($link) {
 	echo '<iframe style="width:100%; border-radius:10px" src="https://flat.io/embed/'. $link .'" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>';
 }
 
+
+
+
+
+
+
+
+
+
+function isSafari() { 
+  $u_agent = $_SERVER['HTTP_USER_AGENT'];
+
+  // Next get the name of the useragent yes seperately and for good reason
+  if(preg_match('/MSIE/i',$u_agent) && !preg_match('/Opera/i',$u_agent)){
+    $bname = 'Internet Explorer';
+    $ub = "MSIE";
+    return false;
+  } elseif(preg_match('/Firefox/i',$u_agent)){
+    $bname = 'Mozilla Firefox';
+    $ub = "Firefox";
+    return false;
+  } elseif(preg_match('/OPR/i',$u_agent)){
+    $bname = 'Opera';
+    $ub = "Opera";
+    return false;
+  } elseif(preg_match('/Chrome/i',$u_agent) && !preg_match('/Edge/i',$u_agent)){
+    $bname = 'Google Chrome';
+    $ub = "Chrome";
+    return false;
+  } elseif(preg_match('/Safari/i',$u_agent) && !preg_match('/Edge/i',$u_agent)){
+    $bname = 'Apple Safari';
+    $ub = "Safari";
+    return true;
+  } elseif(preg_match('/Netscape/i',$u_agent)){
+    $bname = 'Netscape';
+    $ub = "Netscape";
+    return false;
+  } elseif(preg_match('/Edge/i',$u_agent)){
+    $bname = 'Edge';
+    $ub = "Edge";
+    return false;
+  } elseif(preg_match('/Trident/i',$u_agent)){
+    $bname = 'Internet Explorer';
+    $ub = "MSIE";
+    return false;
+  }
+
+} 

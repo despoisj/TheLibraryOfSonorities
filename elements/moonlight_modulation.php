@@ -1,4 +1,4 @@
-<p>This modulation moves down a third from any minor chord to the Major scale a Major third below (ex. amin -> FMaj). It is often used to go from i to bVI, or from iii back to I. The basslines often descends twice by step: *1 b*7 b*6 supporting 5/b3 -> 6/4/3 -> 5/3 harmony.</p>
+<p>This modulation moves down a third from any minor chord to the Major scale a Major third below (ex. amin -> FMaj). It is often used to go from i to bVI, or from iii back to I. The basslines often descends twice by whole step: *1 b*7 b*6 supporting 5/b3 -> 6/4/3 -> 5/3 harmony.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -18,6 +18,12 @@
 <p>After a I64 -> V -> I in Bm mm. 2, we get mm. 3-4 Bm -> D7 -> G</p>
 <p>Note: here the bass is *1 b*3 b*6</p>
 <?php yt("dFg02WEwlCM", 464) ?>
+
+<?php tt("Chopin - Nocturne Op. 62 n°2")?>
+<p>mm. 3-4: C#min -> B-D-E-G# -> Amaj</p>
+<?php yt("9AZaVTm3dKM", 12) ?>
+
+
 
 <?php tt("Model")?>
 <?php fl("64ca3fdeaeee0065c425b807?_l=true&sharingKey=3f4b36dcce4c5fc8b7d8c32c195eda39850450ea3c336672d43b0b187f4135c24bc90957b49ebc0edd77774384fea771f3243bcf4fcb28bc9d4c157155811ad0") ?>

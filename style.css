@@ -71,7 +71,8 @@ p a {
   /* Top right bottom left */
   padding: 20px 20px 20px 20px;
   margin-bottom: 50px;
-  border-radius: 20px;
+  border-radius: 8px; 
+  /*  Might be better with no border radius? More pro?*/
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -110,13 +111,15 @@ p a {
   background-size: cover;
 
   border: 1mm solid rgba(255, 255, 255, .1);
-  border-radius: 10px;
+  border-radius: 5px;
   background-origin: border-box;
 
   text-align: center;
 
   position: relative;
 }
+
+/*TODO DIFFEREND ROUNDING FOR FULL ELEMENT AND DISPLAY*/
 
 .elementTitle {
   margin-bottom: 30px;
