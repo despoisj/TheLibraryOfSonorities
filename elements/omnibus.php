@@ -3,12 +3,16 @@
 <p>Note that the <a href="index.php?filter=element&element=moonlight_modulation">Moonlight Modulation</a> is also a wedge motion expanding the octave.</p>
 <p><b>Usage: </b>The Omnibus is a great tool to expand a V7 chord, or any dominant 7th chord. The Le-Sol-Fi-Sol provides an escape from that expansion to resolve that dominant 7th chord as an augmented 6th chord. Basically, after 3 stages of Omnibus wedge from a dominant chord, you can either keep expanding the wedge, or backtrack and resolve the original chord as an augmented 6th chord.</p>
 
+
+
 <h4 class="elementExampleTitle">References</h4>
 <p style="text-align: center;"><a target="_blank" href="https://en.wikipedia.org/wiki/Omnibus_progression">Omnibus Progression</a></p>
 <p style="text-align: center;"><a target="_blank" href="https://musictheoryexamples.com/18VE.html">List of Voice Exchange & Wedges in Repertoire</a></p>
 
 <p style="text-align: center;"><a target="_blank" href="https://en.wikipedia.org/wiki/Vasili_Byros">Le-Sol-Fi-Sol (Byros)</a></p>
 <p style="text-align: center;"><a target="_blank" href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark">Morte (Rice)</a></p>
+
+
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -28,5 +32,10 @@
 <p>Morte & Le-Sol-Fi-Sol Half Cadence</p>
 <?php yt("3oHATwEpUqE", 58) ?>
 
-<?php tt("The Morte")?>
+<?php tt("Mozart - Piano Sonata n°6 in D Major, K284")?>
+<p>mm. 4, then on the 2nd row, wedge motion with rising melody. On the third measure of the 2nd row, the F7 chord resolves outwards like an augmented 6th chord to i64 in a minor.</p>
+<p>Note that the Dm6 -> F7 sonority is the 'Moonlight Modulation' (i -> V/bVI).</p>
+<?php yt("qbmAfCklg5M", 950) ?>
+
+<?php tt("Examples of 'The Morte'")?>
 <?php yt("Y4vhH7zJziw") ?>

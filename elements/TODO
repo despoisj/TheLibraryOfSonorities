@@ -7,6 +7,8 @@ nocturne chopin
 I IVM7
 https://www.youtube.com/watch?v=pTYvpsQ2if4
 
+
+
 I -> I64 min -> I
 https://www.youtube.com/watch?v=y2lyMnLkOAY 1:43
 
@@ -24,39 +26,31 @@ https://www.youtube.com/watch?v=ZC7GleTGtkY 43 rach sound I -> ^4 65 / 1
 Good to know then gozs to Chord of 6th on I
 RACH SOUND
 
+GORGEOUS SOUND BRAHMS
+https://www.youtube.com/watch?v=g9kCOzZ7h2M
+*4 65 sound in minor normal BUT with extensions/suspensions: G=11 from perspective of ii, also I think Eb=9 works well, then Bb=13. I thought b9 #11, but just naming wrong, major chord 1HS above.
+For figured bass: *4 Min65 + 9-8 (G), 
 
 
 
-<?php tt("John Field - Nocturne n°5") ?>
-<p>I -> iii</p>
-<p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
-<?php yt("U-fS3mR9KDA", 1104) ?>
+Modulation I -> iii
+	<?php tt("John Field - Nocturne n°5") ?>
+	<p>I -> iii</p>
+	<p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
+	<?php yt("U-fS3mR9KDA", 1104) ?>
 
 
 
-C B+ (where??)
-etude 25 1
-
-
-
-
-
-V9 NORMAL BUT IMPOSSIBLE TO FIND AUDIO OF THIS PIECE
-https://www.youtube.com/watch?v=gfomsmuZ2Po
-
-
-
-Thing where i -> b6DOM -> bVI
-https://www.youtube.com/watch?v=s_HmPmDo-VM
--> Morte Wedge beginning, but is i -> b7Dom -> b6
 
 Wedge
 https://youtu.be/qbmAfCklg5M?si=swhQVH2wlaSpMStk&t=950
 
 
 
+
 Vb9
 https://www.youtube.com/watch?v=107Iwx5RKSM End of 2nd row 2nd measure D7b9
+
 
 i64 Converging HC
 https://www.youtube.com/watch?v=NCo8IGl5T9w
@@ -78,3 +72,7 @@ https://www.youtube.com/watch?v=hDtDq4GmLqU 2:00 environ before double bar
 Rach sound
 https://www.youtube.com/watch?v=hDtDq4GmLqU 1:28
 Same sound for melody with DMaj -> LT°7 -> DMaj ! very similar to HarmMin and *4 minor65
+
+
+
+

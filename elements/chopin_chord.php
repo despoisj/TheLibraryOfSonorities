@@ -129,9 +129,9 @@
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
 
-<p style="margin-top: 40px;">This chord is referenced in the video below, note that in this case there is a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears this suspensions is reminiscent of the 54-53 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in Jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
-<p>As mentioned in the video, a simpler way to see (and play) it is to imagine the <b>IVMaj7 over *5 bass</b> (the author mentions playing iim7 but I don't think that's right, see the section in the article about the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>), then resolve the 5th of that chord a half step below. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
-<?php yt("gchwLVCBVwo") ?>
+<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
+<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
+<?php yt("gchwLVCBVwo", 205) ?>
 
 <?php tt("Model")?>
 <?php fl("64d63dd342bb22e73caef80f?_l=true&sharingKey=81b4172f37e2952c1d8c6af5b388d523ea00fbc5097d43fe3d36293f4dd2134456a0b612f95f879538c71f4397cf63b3b38989bd8d1f6b63ff6da1c876240576") ?>
