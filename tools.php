@@ -35,14 +35,25 @@ function loadElement($element, $fullSize) {
 
 		// Tags
 		echo "<div class='tagBox'>";
+			// To avoid trailing commas, first get all elements, then echo them.
+			$tags = [];
+
 			foreach ($element["styles"] as $style) {
-				echo "<i><a class='tag' href='index.php?filter=style&style=" . $style . "'>" . ucfirst($style) . "</a></i>, ";
+				array_push($tags, "<i><a class='tag' href='index.php?filter=style&style=" . $style . "'>" . ucfirst($style) . "</a></i>");
 			}
 			foreach ($element["composers"] as $composer) {
-				echo "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>, ";
+				array_push($tags, "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>");
 			}
 			foreach ($element["emotions"] as $emotion) {
-				echo "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>, ";
+				array_push($tags, "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>");
+			}
+			// Echo tags
+			for ($i=0; $i < count($tags); $i++) {
+				echo $tags[$i];
+			  if ($i < count($tags) - 1) {
+			  	// Add trailing comma
+			  	echo ", ";
+			  }
 			}
 		echo "</div>";
 
