@@ -43,7 +43,7 @@ array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romanti
 array_push($library, element("minor_sharp4_arps", "Minor Arpeggios with added #4", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
 
 // Other
-array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "harmony"));
+array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin"], "texture"));
 
 array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
 array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));

@@ -57,11 +57,8 @@ if ($filter == "element"){
         <?php if ($filter == "") { ?>
 
             <div style="width:70%; margin-left:auto; margin-right: auto; margin-top: 50px; margin-bottom:80px; text-indent: 40px; max-width: 800px;">
-            <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts? The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation.</p>
-            <p>This site aim to list a number of interesting 'sonorities', as well as which sonorities are landmarks* of a given composer or style. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce. My goal is to help you identify the sounds you like so that you can use them in your improvisation, rather than trying to be exhaustive in the voice leading and exceptions of each improvisational device. For that purpose, check out the external resources.</p>
-
-            <br>
-            <p style="font-size:14px"><i>* For example, you can find augmented chords in Bach's works but they aren't a staple of his style.</i></p>
+            <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts?</p>
+            <p>The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce.</p>
             </div>
 
         <?php } ?>
