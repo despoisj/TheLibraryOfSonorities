@@ -1,5 +1,5 @@
-<p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> I.</p>
 <p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the previous/following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7).</p>
+<p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> I.</p>
 <p>As both are often used on a *1 pedal point between two tonic harmonies, the dreamy sonority is very similar to the sonority of <a href="index.php?filter=element&element=V_over_1">V(7)/*1</a>.</p>
 
 
