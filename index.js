@@ -45,8 +45,8 @@ function replaceDigitsWithCircledNumbers(text) {
     // Replace -> by →
     text = text.replaceAll("-&gt;","→");
 
-    text = text.replaceAll(/(LT°7|LT°)/g, makeItem("$1", "lt7", "ct_lt"));
-    text = text.replaceAll(/([A-Za-z]?)CT°7/g, makeItem("$1CT°7", "ct7", "ct_lt"));
+    text = text.replaceAll(/(LT°7|LT°)(?!.*<\/h[1-9]>)/g, makeItem("$1", "lt7", "ct_lt"));
+    text = text.replaceAll(/([A-Za-z]?)CT°7(?!.*<\/h[1-9]>)/g, makeItem("$1CT°7", "ct7", "ct_lt"));
     
     text = text.replaceAll(/VChM/g, makeItem("VCh<small><small>Maj</small></small>", "vchMaj", "chopin_chord"));
     text = text.replaceAll(/VChm/g, makeItem("VCh<small><small>min</small></small>", "vchMin", "chopin_chord"));

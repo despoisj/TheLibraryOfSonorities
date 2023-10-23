@@ -40,18 +40,19 @@
 <?php yt("nGiO9foYa4A") ?>
 
 
-<h4 class="elementExampleTitle">W.I.P. Examples</h4>
+<h4 class="elementExampleTitle">(W.I.P.) Diminished 7ths with 'Whole Step' Suspensions</h4>
+
+<p>In <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz theory</a>, it is common practice to enrich Diminished 7th chords by adding notes that are one whole step up from any of the chord tones. For exemple on a C°7 chord you can add any of D, F, G# or B - a.k.a. notes from a D°7 chord. The two late romantic examples below have a very rich diminished sonority, and feature a similar "whole step" suspension.</p>
 
 <?php tt("Sergei Bortkievicz - Prelude Op. 33 n°7") ?>
 <p>- 3nd measure: F# -> F#°7 (with added E# -> D#) -> F#</p>
 <p>- Same at 1:54, 2nd measure: F# -> ~ F#°7 (with E# -> D#) -> F#</p>
-<p>Note: I'm not 100% sure for that one because E# contributes a lot to the sound, but it is very similar. We can find a similar chord in the Mozkowski concerto (see below).</p>
 <?php yt("hDtDq4GmLqU", 11) ?>
+
 
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major, Andante") ?>
 <p>4th measure: C#m63 -> B#°7/E# (with added B -> A) -> C#m63 -> B#°7 -> C#m</p>
 <p>i.e I6 -> LT°7 inverted (with added B -> A) -> I6 -> LT°7 (with added G# -> F#) -> I</p>
-<p>Like for the Bortkievicz example, we have a diminished seventh (here LT°7) with an extra note in a melody. In both case the note is a whole step above one of the chord tones - which is a common practice for tensions in <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz</a> - and resolves down by step. It might be interesting to investigate more.</p>
 <?php yt("eh3l8I-JT4Q", 980) ?>
 
 

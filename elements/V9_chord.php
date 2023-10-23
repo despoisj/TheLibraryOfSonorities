@@ -26,7 +26,7 @@
 <?php yt("gfomsmuZ2Po", 82) ?>
 
 
-<h3 class="elementExampleTitle">(WIP) VMaj9 -> V7</h3>
+<h3 class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
 
 <p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of the ♮7 -> b7 and the landmark 9 -> 3 sound. To me, it's very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
 
