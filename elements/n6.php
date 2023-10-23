@@ -10,6 +10,10 @@
 <p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64.</p>
 <?php yt("Fy3JxUfE9ds", 102) ?>
 
+<?php tt("Rachmaninoff - Etude-Tableau Op. 33 n°8") ?>
+<p> i -> ivm7 -> N6 -> V -> i</p>
+<?php yt("3i_tYDkUvlU", 116) ?>
+
 <?php tt("Samuel Maykapar - Arietta in a minor")?>
 <p>mm. 3: N6 -> i64 -> V -> i</p>
 <?php yt("dcapH7xANkI", 51) ?>

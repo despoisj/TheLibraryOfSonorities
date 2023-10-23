@@ -40,10 +40,10 @@ array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"
 
 // Arps
 array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
-array_push($library, element("minor_sharp4_arps", "Minor Arpeggios with added #4", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
 
 // Other
 array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin", "rachmaninoff"], "texture"));
+
 
 array_push($library, element("picardy_third", "Picardy Third", ["romantic"], ["chopin"], "harmony"));
 
@@ -51,5 +51,6 @@ array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"]
 array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));
 array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
 
-
+// WIP
+array_push($library, element("harmonic_minor", "(WIP) Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
 
