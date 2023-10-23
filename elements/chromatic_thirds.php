@@ -28,3 +28,7 @@
 <?php tt("Chopin - Waltzes") ?>
 <p>- 7:01 (Waltz n°2), 33:56 (Waltz n°9), 39:10 (Waltz n°11), 41:40 (Waltz n°12), etc.</p>
 <?php yt("tiTu6g2TqC8", 421) ?>
+
+<?php tt("Rachmaninoff - Moment Musical n°3") ?>
+<p>Lots of thirds throughout the piece.</p>
+<?php yt("Pzvkj1PHBAc", 860) ?>
