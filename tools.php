@@ -163,8 +163,10 @@ function addComments($uniqueID){
 	<div id='disqus_thread'></div>
 	<script>
 	    var disqus_config = function () {
-	    	this.page.url = 'https://thelibraryofsonorities.com/" . $uniqueID. "';
-	    	this.page.identifier = '" . $uniqueID. "';
+	    	this.page.url = 'https://thelibraryofsonorities.com/" . $uniqueID. ".html';
+	    	this.page.identifier = '" . $uniqueID. "_0';
+
+	    	this.page.title = 'title_" . $uniqueID. "';
 	    };
 	    (function() { 
 
