@@ -16,6 +16,10 @@
 <p>The last three measures of the intro display the same G harmonic minor / D phrygian dominant sound over a V chord.</p>
 <?php yt("6l-25AUgjVs", 42) ?>
 
+<?php tt("Samuel Maykapar - Arietta in A minor") ?>
+<p>mm. 7: Descending A harmonic minor (note the G#).</p>
+<?php yt("dcapH7xANkI", 86) ?>
+
 
 <h3 class="elementExampleTitle">Hungarian Minor</h3>
 <p>If we raise the 4th degree of the harmonic minor scale, we obtain the double harmonic minor or <a href="https://en.wikipedia.org/wiki/Harmonic_minor_scale">Hungarian Minor</a> scale. Portion of the scale can be used, like adding the #4 degree in a minor ^1 b^3 ^5 arpeggio to create a mysterious sound, or longer scale runs for an even more ominous sonority.</p>

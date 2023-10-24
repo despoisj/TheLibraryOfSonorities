@@ -21,3 +21,8 @@
 <p>Eb minor -> Eb Major.</p>
 <?php yt("kY768DAyTuk", 236) ?>
 
+<?php tt("Samuel Maykapar - Arietta in A minor")?>
+<p>- At 2:10, the first measure of the 2nd row gives an A major (A7) sound in a piece where we always had A minor.</p>
+<p>- At 2:50 the piece ends with the A major chord.</p>
+<?php yt("dcapH7xANkI", 130) ?>
+
