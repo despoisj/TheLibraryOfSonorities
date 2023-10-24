@@ -65,6 +65,9 @@ function loadAllElements() {
 	foreach ($library as $element) {
 		loadElement($element, False);
 	}
+
+	// Comments using uuid
+	addComments("mainPage");
 }
 
 function loadStyle($style) {
@@ -76,6 +79,9 @@ function loadStyle($style) {
 			}
 		}
 	}
+
+	// Comments using uuid
+	addComments("style_" . $style);
 }
 
 function loadComposer($composer) {
@@ -87,6 +93,9 @@ function loadComposer($composer) {
 			}
 		}
 	}
+
+	// Comments using uuid
+	addComments("composer_" . $style);
 }
 
 function loadEmotion($emotion) {
@@ -98,6 +107,9 @@ function loadEmotion($emotion) {
 			}
 		}
 	}
+
+	// Comments using uuid
+	// No comments for emotions at the moment
 }
 
 function loadType($type) {
@@ -107,6 +119,9 @@ function loadType($type) {
 			loadElement($element, False);
 		}
 	}
+
+	// Comments using uuid
+	// No comments for harmony / texture at the moment
 }
 
 function loadSingleElement($elementName) {
@@ -116,6 +131,9 @@ function loadSingleElement($elementName) {
 			loadElement($element, True); // Uncollapse
 		}
 	}
+
+	// Comments using uuid
+	addComments("element_" . $elementName);
 }
 
 
@@ -139,9 +157,27 @@ function fl($link) {
 	echo '<iframe style="width:100%; border-radius:10px" src="https://flat.io/embed/'. $link .'" height="315" width="560" frameBorder="0" allowfullscreen allow="autoplay; midi"></iframe>';
 }
 
+function addComments($uniqueID){
+	// Adds disqus comments for the page
+	echo "
+	<div id='disqus_thread'></div>
+	<script>
+	    var disqus_config = function () {
+	    	this.page.url = 'https://thelibraryofsonorities.com/" . $uniqueID. "';
+	    	this.page.identifier = '" . $uniqueID. "';
+	    };
+	    (function() { 
 
-
-
+		    // DON'T EDIT BELOW THIS LINE
+		    var d = document, s = d.createElement('script');
+		    s.src = 'https://thelibraryofsonorities.disqus.com/embed.js';
+		    s.setAttribute('data-timestamp', +new Date());
+		    (d.head || d.body).appendChild(s);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a>
+	</noscript>";
+}
 
 
 

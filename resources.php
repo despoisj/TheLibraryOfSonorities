@@ -47,15 +47,10 @@ require_once "tools.php";
             Improvisation videos from Michael Koch aka <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">EnBlancEtNoir</a><br><br>
             Videos from <a target="_blank" href="https://www.youtube.com/@NahreSol">Nahre Sol</a><br><br>
             Interviews by <a target="_blank" href="https://www.youtube.com/@NikhilHoganShow">Nikhil Hogan</a><br><br>
-            Historical videos from <a target="_blank" href="https://www.youtube.com/@EarlyMusicSources">Early Music Sources</a><br><br>
-            
+            Historical videos from <a target="_blank" href="https://www.youtube.com/@EarlyMusicSources">Early Music Sources</a><br><br>      
 
         </div>
 
-        <!-- Not sure why but this works for opacity -->
-        <div style="height:1px"></div>
-
-        
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
