@@ -165,6 +165,7 @@ function addComments($uniqueID){
 	    var disqus_config = function () {
 	    	this.page.url = 'https://thelibraryofsonorities.com/" . $uniqueID. ".html';
 	    	this.page.identifier = '" . $uniqueID. "_0';
+	    	// See https://github.com/disqus/disqus-react/issues/83
 
 	    	this.page.title = 'title_" . $uniqueID. "';
 	    };
