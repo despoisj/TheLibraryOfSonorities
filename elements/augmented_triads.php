@@ -46,7 +46,7 @@
 <?php yt("WR7IgPqscJE", 1182) ?>
 
 <?php tt("Vasily Kalinnikov - Waltz in A")?>
-<p>mm. 1: I -> I+ -> iiMin7(Add13) -> V7</p>
+<p>mm. 1: I -> I+ -> iimin7(Add13) -> V7</p>
 <?php yt("oLfvyClF0ZU", 3) ?>
 
 <?php tt("Chopin - Etude Op. 25 n°1")?>

@@ -15,8 +15,8 @@
 <?php yt("U-fS3mR9KDA", 2073) ?>
 
 <?php tt("Rachmaninoff - Elegie, Op. 3 n°1") ?>
-<p>Thirds at 3:01, sixths at 4:19.</p>
-<?php yt("OipkSouZPhyk", 181) ?>
+<p>Thirds at 3:31, sixths at 5:06.</p>
+<?php yt("zFTDNRmoRXw", 211) ?>
 
 <?php tt("Chopin - Grande Polonaise Brillante, Op. 22") ?>
 <?php yt("jJ130s7BiSM", 539) ?>
