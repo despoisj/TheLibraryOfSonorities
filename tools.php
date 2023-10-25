@@ -95,7 +95,7 @@ function loadComposer($composer) {
 	}
 
 	// Comments using uuid
-	addComments("composer_" . $style);
+	addComments("composer_" . $composer);
 }
 
 function loadEmotion($emotion) {
@@ -122,6 +122,7 @@ function loadType($type) {
 
 	// Comments using uuid
 	// No comments for harmony / texture at the moment
+	addComments("type_" . $type);
 }
 
 function loadSingleElement($elementName) {
