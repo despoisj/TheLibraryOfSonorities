@@ -184,6 +184,43 @@ function addComments($uniqueID){
 }
 
 
+function getLastUpdate(){
+	// Scans all files to find latest modification
+	$files = getDirContents(".");
+
+	$lastFiletime = 0;
+	foreach ($files as $file) {
+		$currFileTime = filemtime($file);
+		if ($currFileTime > $lastFiletime){
+			// New last update found, change
+			$lastFiletime = $currFileTime;
+		}
+	}
+
+	return date("F d, Y", $lastFiletime);
+}
+
+function getDirContents($dir, &$results = array()) {
+	// List all files for check date last update
+	// Modified to ignore "." dirs for git etc.
+    $files = scandir($dir);
+
+    foreach ($files as $key => $value) {
+    		if (substr($value, 0, 1) === "."){
+    			continue;
+    		}
+
+        $path = realpath($dir . DIRECTORY_SEPARATOR . $value);
+        if (!is_dir($path)) {
+            $results[] = $path;
+        } else if ($value != "." && $value != "..") {
+            getDirContents($path, $results);
+            $results[] = $path;
+        }
+    }
+
+    return $results;
+}
 
 
 

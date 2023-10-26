@@ -106,6 +106,7 @@ if ($filter == "element"){
 
             
             <?php 
+                $isHomePage = false;
 
                 // Define title for section
                 if ($filter == "element"){
@@ -125,10 +126,25 @@ if ($filter == "element"){
                     $title = "Texture";
                 } else {
                     $title = "All sonorities";
+                    $isHomePage = true;
                 }
 
+                // Display title
+                if ($isHomePage){
+                    // Special case
+                    echo '<h2>';
+                    echo $title;
+                    echo '</h2>';
+                    echo "<i style='opacity:0.5'><small>Latest update: " . getLastUpdate() . "</small></i>";
+                } else {
+                    echo '<h2 style="margin-bottom: 30px;">';
+                    echo $title;
+                    echo '</h2>';
+                }
+
+
             ?>
-            <h2 style="margin-bottom: 30px;"><?php echo $title; ?></h2>
+
         </div>
 
             
