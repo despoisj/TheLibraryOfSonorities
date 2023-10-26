@@ -34,5 +34,10 @@
 <p>Note: the B♮ is art of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
 <?php yt("UyxpeLh7z3s") ?>
 
+<?php tt("Rachmaninoff - 4 Pieces, n°2 Prelude") ?>
+<p>mm. 2: EbMinor + A♮ (#^4) and D♮ (#^7)</p>
+<?php yt("FDSDprWUl9Q") ?>
+
+
 <?php tt("Model for 1 b^3 #^4 ^5 arpeggios") ?>
 <?php fl("64cff2dcdbb75500db3e8037?_l=true&sharingKey=0c956027ada2ac9baa0485193fd002cfc8adbce1c27e32bd922bc545842d7cf733727d49e4173c821eca9b2b5e63698f50cf5723424e4f4e5fe03a993f8f6f10") ?>
