@@ -44,6 +44,7 @@ require_once "tools.php";
             All the videos, lessons, courses and books from <a target="_blank" href="https://www.youtube.com/@cedarvillemusic">John Mortensen</a> including <a target="_blank" href="http://improvplanet.thinkific.com">ImprovPlanet</a><br><br>
             Content from Derek Remeš, especially his <a target="_blank" href="https://derekremes.com/wp-content/uploads/compendium_english.pdf">Compendium</a><br><br>
             Database of music theory passages on <a target="_blank" href="https://musictheoryexamples.com">musictheoryexamples.com</a><br><br>
+            Detailed articles from Ewald Demeyere on <a target="_blank" href="https://essaysonmusic.com ">essaysonmusic.com </a><br><br>
             Improvisation videos from Michael Koch aka <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">EnBlancEtNoir</a><br><br>
             Videos from <a target="_blank" href="https://www.youtube.com/@NahreSol">Nahre Sol</a><br><br>
             Interviews by <a target="_blank" href="https://www.youtube.com/@NikhilHoganShow">Nikhil Hogan</a><br><br>
