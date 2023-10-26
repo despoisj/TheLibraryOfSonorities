@@ -11,6 +11,10 @@
 <p>mm. 4: A7 + B -> C# -> D.</p>
 <?php yt("dFg02WEwlCM", 33) ?>
 
+<?php tt("Liszt - Romance")?>
+<p>2nd row, mm. 2: D7 + E -> F# -> G.</p>
+<?php yt("j3AMWk76UxE", 94) ?>
+
 <?php tt("John Field - Nocturne n°1")?>
 <p>The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb (but an octave lower).</p>
 <p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>).</p>
