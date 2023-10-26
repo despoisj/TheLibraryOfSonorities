@@ -12,6 +12,10 @@
 <p>- 34:33 (Nocturne n°8), 1:07:33 (Nocturne n°16), probably more.</p>
 <?php yt("U-fS3mR9KDA", 2073) ?>
 
+<?php tt("Chopin - Mazurka Op. 24 n°1") ?>
+<p>Thirds at 1:02</p>
+<?php yt("3STKpu_FS9g", 61) ?>
+
 <?php tt("Rachmaninoff - Elegie, Op. 3 n°1") ?>
 <p>Thirds at 3:31, sixths at 5:06.</p>
 <?php yt("zFTDNRmoRXw", 211) ?>
