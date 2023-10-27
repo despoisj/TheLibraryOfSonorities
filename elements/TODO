@@ -1,38 +1,51 @@
-I -> I64 min -> I
-https://www.youtube.com/watch?v=y2lyMnLkOAY 1:43
+	I -> I64 min -> I
+	https://www.youtube.com/watch?v=y2lyMnLkOAY 1:43
 
-https://www.youtube.com/watch?v=wuL7UC2glJM 0:19
-(In Db locally) I IV I iv65
-
-Intro piano iv in major
-https://www.youtube.com/watch?v=6eonV4mLc6U
-
-<?php tt("Dmitri Shostakovich - Waltz from 'Pirogov', Op. 76")?>
-ALSO AT 1:20 IV -> iv I think
-<?php yt("WiYAl1oOlZ8", 125) ?>
-
-https://www.youtube.com/watch?v=ZC7GleTGtkY 43 rach sound I -> ^4 65 / 1
-Good to know then gozs to Chord of 6th on I
-RACH SOUND
-
-GORGEOUS SOUND BRAHMS
-https://www.youtube.com/watch?v=g9kCOzZ7h2M
-*4 65 sound in minor normal BUT with extensions/suspensions are just natural minor scale.
-Donc rien de spécial, just the 4m65
-
-Rach sound
-https://www.youtube.com/watch?v=hDtDq4GmLqU 1:28
-Same sound for melody with DMaj -> LT°7 -> DMaj ! very similar to HarmMin and *4 minor65
-
-Rach 23 4
-https://youtu.be/1qoPDQzXVmk?si=Hbre4ArXE2zdXD7w&t=213
-DMaj LT°7 Dmaj, but LT on 4 so kinda like 65 except 6b5
+	Beethoven: eh, Intro piano iv in major
+	https://www.youtube.com/watch?v=6eonV4mLc6U
 
 
+	https://www.youtube.com/watch?v=WiYAl1oOlZ8 1:20 IV iv
 
-Double harmonic major:
-https://www.youtube.com/watch?v=cujQf77BHRI @ 1:38:
-C scale with Ab and Db
+
+	Harm Major (b6) (RACH SOUND)
+		Chopin
+		https://www.youtube.com/watch?v=wuL7UC2glJM 0:19
+		(In Db locally) I IV I iv65
+
+		Servin
+		https://www.youtube.com/watch?v=ZC7GleTGtkY 
+		0:43 rach sound I -> ^4 65 / 1 (or not?). Good to know then gozs to Chord of 6th on I
+
+		~ D harmonic major scale
+		https://www.youtube.com/watch?v=hDtDq4GmLqU 1:28
+		Same sound for melody with DMaj -> LT°7 -> DMaj ! very similar to HarmMin and *4 minor65
+		- LH mm2 is SAME as mm1, respelled with A# but respelled?
+
+		Rach 23 4
+		https://youtu.be/1qoPDQzXVmk?t=213
+		DMaj LT°7 Dmaj, but LT on 4 so kinda like 65 except 6b5
+
+
+	Double harmonic major (b6 b2):
+		https://www.youtube.com/watch?v=cujQf77BHRI @ 1:38:
+		C scale with Ab and Db
+
+	Harmonic major #7 a.k.a. Mixolydian b6
+		Liszt: https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE
+
+		First bar 1:46, G Harmonic Major (Major b6 with Eb), arp is a MinorMajor inversion.
+		Second bar: Same but Fnat aka Mixo b6 beark, mode of Mel Minor, here C mel minor
+
+
+	...
+
+	GORGEOUS SOUND BRAHMS
+		https://www.youtube.com/watch?v=g9kCOzZ7h2M
+		*4 65 sound in minor normal, suspensions are just natural minor scale.
+		Donc rien de spécial, just the 4m65
+
+
 
 
 Monte Principale AKA chain of rising V-Is, better with 7ths
@@ -44,24 +57,24 @@ Monte Principale AKA chain of rising V-Is, better with 7ths
 
 
 
-Liszt: Harmonic?
-
+Reverse Pic Third
 	https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE
 
-	First bar 1:46, G Harmonic Major (Major b6 with Eb), arp is a MinorMajor inversion.
-	Second bar: Same but Fnat aka (Mixo b6 beark, mode of Mel Minor), here C mel minor
-
-	Then at 1:53 gorgeous triumph
-
-	Reverse Pic third!
 
 
+Triumphant wedge:
 
-TODO Sound Ge+6 to major64? triumphant? ref? EBEN?
+	- Sound Ge+6 to major64? Find first other example, EBEN ?
+
+	- Liszt https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE @0:49 or 1:53
+		- GMaj -> wedge G- & D+ into i64 of III
+		-> i64 -> V7 (normal)
+		NOTE: it's a diatonic Harmonic Major move
 
 
-I IVM7
-https://www.youtube.com/watch?v=pTYvpsQ2if4
+Extended harmonies:
+	Fauré I IVM7
+	https://www.youtube.com/watch?v=pTYvpsQ2if4
 
 
 Modulation I -> iii
@@ -71,8 +84,9 @@ Modulation I -> iii
 	<?php yt("U-fS3mR9KDA", 1104) ?>
 
 
-Vb9
-https://www.youtube.com/watch?v=107Iwx5RKSM End of 2nd row 2nd measure D7b9
+Vb9 Chopin
+https://www.youtube.com/watch?v=107Iwx5RKSM 
+2nd row 2nd measure D7b9
 
 
 i64 Converging HC
@@ -90,7 +104,9 @@ Unknown arp, Bb E F (Bbmaj) + Enat
 Lydian arp?
 
 
-
 https://www.youtube.com/watch?v=cujQf77BHRI
 First arps C -> Ab6? gorgeous modal sound
+Chromatic mediant? I -> bVI6
+
+
 

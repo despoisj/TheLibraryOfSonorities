@@ -29,6 +29,10 @@
 <p>- At 0:50 the violent arpeggios highlight the full A hungarian minor scale with both #4 (D#) and #7 (G#).</p>
 <?php yt("_1dq6PL0czY", 9) ?>
 
+<?php tt("Vasily Prisovsky - Rêverie, Op. 64") ?>
+<p>mm. 1-2: Bmin + E♮ (#^4) gives a subtle hungarian minor sonority.</p>
+<?php yt("IqZiaVorenY") ?>
+
 <?php tt("Rachmaninoff - Prelude Op. 23 n°7") ?>
 <p>mm. 1: Cminor + F# (#^4), mm. 2 we get the B♮ (#^7)</p>
 <p>Note: the B♮ is art of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
