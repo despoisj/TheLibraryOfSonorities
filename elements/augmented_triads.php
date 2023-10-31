@@ -41,6 +41,13 @@
 <p>mm. 2-3: EMajAdd9 -> E+Add9 -> EMajAdd9 , i.e. I -> I+ -> I </p>
 <?php yt("cKrmr0jeuio", 117) ?>
 
+<?php tt("Chopin - Sonata, Op. 35, 1st Mvt.") ?>
+<p>mm. 4 then again last measure of the page: D7 -> D7+ -> G , i.e. V -> V+ -> I </p>
+<?php yt("VUk3_qTTVg4", 138) ?>
+
+
+https://youtu.be/VUk3_qTTVg4?si=xXamE4-kICysd5_G&t=151
+
 <?php tt("Anton Arensky - Piano Trio No. 1, Op. 32 in D minor, 3rd Mvt.") ?>
 <p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IVM7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>
 <?php yt("WR7IgPqscJE", 1182) ?>

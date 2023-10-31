@@ -26,12 +26,15 @@
 		https://youtu.be/1qoPDQzXVmk?t=213
 		DMaj LT°7 Dmaj, but LT on 4 so kinda like 65 except 6b5
 
+		Arensky
+		https://youtu.be/cKrmr0jeuio?si=cnUQk7sqlxHkN5aD&t=121 at 2:00 measure 2 second half: EbMajor over Eb (like minor64 on ^4)
+
 
 	Double harmonic major (b6 b2):
 		https://www.youtube.com/watch?v=cujQf77BHRI @ 1:38:
 		C scale with Ab and Db
 
-	Harmonic major #7 a.k.a. Mixolydian b6
+	Harmonic major w/ #7 (b6 #7) a.k.a. Mixolydian b6
 		Liszt: https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE
 
 		First bar 1:46, G Harmonic Major (Major b6 with Eb), arp is a MinorMajor inversion.
@@ -49,20 +52,16 @@
 
 
 Monte Principale AKA chain of rising V-Is, better with 7ths
-- My way
-- requiem fauré (To check)
-- https://www.youtube.com/watch?v=ZC7GleTGtkY (starting middle second row)
-- Fauré nocturne 4 36: Gm7 -> C7(42) -> aHD7
+	- My way
+	- requiem fauré (To check)
+	- Servin https://www.youtube.com/watch?v=ZC7GleTGtkY (starting middle second row)
+	- Fauré nocturne 4 36: Gm7 -> C7(42) -> aHD7
 
-
-
-
-Reverse Pic Third
-	https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE
 
 
 
 Triumphant wedge:
+	Seems to be I -> III
 
 	- Sound Ge+6 to major64? Find first other example, EBEN ?
 
@@ -71,22 +70,28 @@ Triumphant wedge:
 		-> i64 -> V7 (normal)
 		NOTE: it's a diatonic Harmonic Major move
 
-
-Extended harmonies:
-	Fauré I IVM7
-	https://www.youtube.com/watch?v=pTYvpsQ2if4
-
-
 Modulation I -> iii
+	Field 
+	https://www.youtube.com/watch?v=U-fS3mR9KDA 
 	<?php tt("John Field - Nocturne n°5") ?>
 	<p>I -> iii</p>
 	<p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
 	<?php yt("U-fS3mR9KDA", 1104) ?>
 
 
-Vb9 Chopin
-https://www.youtube.com/watch?v=107Iwx5RKSM 
-2nd row 2nd measure D7b9
+
+
+Reverse Pic Third
+	https://www.youtube.com/watch?time_continue=108&v=j3AMWk76UxE
+
+
+Extended harmonies:
+	Fauré I IVM7
+	https://www.youtube.com/watch?v=pTYvpsQ2if4
+
+
+
+
 
 
 i64 Converging HC
@@ -94,8 +99,9 @@ https://www.youtube.com/watch?v=NCo8IGl5T9w
 
 
 V7sus
-https://www.youtube.com/watch?v=hDtDq4GmLqU 2:00 environ before double bar 
-(Mouais very different from bach)
+	- Bach Prelude C
+	- https://www.youtube.com/watch?v=hDtDq4GmLqU 2:00 environ before double bar 
+	(Mouais very different from bach)
 
 
 
@@ -110,3 +116,48 @@ Chromatic mediant? I -> bVI6
 
 
 
+Pathetique TB/Morte I6 (G6) -> 642 on Bb -> 6 on Ab / Wedge
+https://youtu.be/M_124D_7KoU?si=BogWTmUBO2RXZjuI&t=32
+Wedge at 2:48
+
+
+
+
+
+
+
+Vb9:
+	
+	<h4 class="elementExampleTitle">V7b9 chord</h4>
+	<p>The b9th is often found as an extension of a dominant sound, noted V7b9, and gives the eerie sound of the Diminished 7th chord. One easy way to remember and play it is to view the V7b9 chord as a V7 chord with a °7 chord on top of the third, fifth or sevents (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>
+
+	<?php tt("Chopin - Nocturne Op. 48 n°1") ?>
+	<p>2nd row, 2nd measure: i64 -> Vb9 (D7 + Eb) -> i</p>
+	<?php yt("107Iwx5RKSM", 35) ?>
+
+	<?php tt("Beethoven - 'Pathétique' Sonata, 1st Mvt.") ?>
+	<p>2nd row: G7 + accented Ab (b9) at the end</p>
+	<?php yt("M_124D_7KoU", 98) ?>
+
+	<?php tt("Liszt - Romance") ?>
+	<p>Last measure : E7 + F (b9th).</p>
+	<p>Note: here, the shift from Eminor to E7 is a sonority in itself.</p>
+	<?php yt("j3AMWk76UxE", 81) ?>
+
+
+
+
+
+
+
+
+Fr+ Strong scriabin / impressionist sound, resolve down to minor? or like V, it's a V7b5, or just I I+Fr I
+Or move 
+
+
+Bakulina Rach Subdom, ivmin7b5
+TRISTAN CHORD although not same in spirit blablabla
+Is the same as Fr+ with sus appogiatura??
+
+
+TODO explore 9th arps with pentatonic, other 9th chords etc.

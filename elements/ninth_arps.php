@@ -1,4 +1,5 @@
-<p>The addition of the ♮9th in major or minor triad arpeggios gives a very lush romantic sound. It is sometimes complemented by the 6th/13th, which might be worthy of a dedicated section.</p>
+<p>The addition of the ♮9th in major or minor triad arpeggios gives a very lush romantic sound. </p>
+<p>(W.I.P) Some arpeggios also add scale degree ^6 in major, thus using the major pentatonic scale fully. This might be worthy of investigation, although sometimes arpeggios add so many notes that they just end up being scale runs. We need to see how the ^6 works out in major/minor.</p>
 
 <h4 class="elementExampleTitle">Use of the ♮9th</h4>
 
@@ -31,10 +32,3 @@
 
 <?php tt("Model") ?>
 <?php fl("64cbcb30cea9315acaa336b1?_l=true&sharingKey=f91c1a2f012e15aeeec6f9ee3f1835288d928d442b43b710c0f5fa327bf94022ae363f4f59c35ace7fb2f1326092682f1a1cc16510c8ea1c7319efdcbefffcc5") ?>
-
-<h4 class="elementExampleTitle">Use of the b9th</h4>
-<p>The b9th is often found as an extension of a dominant sound, noted V7b9, and gives the eerie sound of the Diminished 7th chord. One easy way to remember and play it is to view the V7b9 chord as a V7 chord with a °7 chord on top of the third, fifth or sevents (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>
-
-<?php tt("Liszt - Romance") ?>
-<p style="margin-top: 30px;">• (Liszt) Last measure : E7 + F (b9th).</p>
-<?php yt("j3AMWk76UxE", 81) ?>
