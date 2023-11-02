@@ -30,21 +30,9 @@
 <?php yt("gfomsmuZ2Po", 82) ?>
 
 
-<h3 class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
-
-<p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of the ♮7 -> b7 and the landmark 9 -> 3 sound. To me, it's very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
-
-<?php tt("Alexander Griboyedov - Waltz in E minor")?>
-<p>In the 3rd measure of the 2nd line: GMaj9 -> G7</p>
-<?php yt("Wv2kNjy2AZE", 34) ?>
-
-<?php tt("Mykola Lysenko - Aveu, Op. 37 n°1")?>
-<p>mm. 1: EbMaj9 -> Eb7 -> ... -> Ab</p>
-<?php yt("GFRWQwaT2AQ", 80) ?>
-
-
-<h3 class="elementExampleTitle">V with added 9th & 11th: V(9, 11)</h3>
-<p>This chord is equivalent of playing iim7 (or simply IV triad) on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C, this is the 4-3 suspension mentioned in the <a target="_blank" href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>. In this example the 9th and 11th <b>resolve upwards</b> by step to 3rd and 5th then again to reach ^1 and ^3.</p>
+<h3 class="elementExampleTitle">V7 with added 9th & 11th</h3>
+<p>We can enhance the upward 9th by playing it in thirds with the 11th, resulting in a V11 chord. In this example the 9th and 11th <b>resolve upwards</b> by step to the 3rd and 5th then again to reach ^1 and ^3. The melody follows ^6 ^1 -> ^7 ^2 -> ^1 ^3.</p>
+<p><b>Keyboard tip:</b> you can get this chord by playing iim7 on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C. </p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -52,6 +40,20 @@
 <p>At 16:38, the bar before last.</p>
 <p>At 17:32, 2nd row, first staff, 2nd bar in E major: B (*5) in bass, and after I64 (B G# E) we get a dim chord that transforms into F#min7 over B i.e. B7(9,11) i.e. iim7/*5 with the 9th and 11th resolving up: C# -> D#, E -> F#.</p>
 <?php yt("eh3l8I-JT4Q", 998) ?>
+
+
+<h3 class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
+
+<p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of #^4 -> ^4 -> ^1 and the landmark ^6 -> ^7 -> ^1 of the V9. To me, this makes it very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
+
+<?php tt("Alexander Griboyedov - Waltz in E minor")?>
+<p>In the 3rd measure of the 2nd line: GMaj9 -> G7 -> I</p>
+<?php yt("Wv2kNjy2AZE", 34) ?>
+
+<?php tt("Mykola Lysenko - Aveu, Op. 37 n°1")?>
+<p>mm. 1: EbMaj9 -> Eb7 -> ... -> Ab</p>
+<?php yt("GFRWQwaT2AQ", 80) ?>
+
 
 <?php tt("Model")?>
 <?php fl("64ca4126ba575a9f83076033?_l=true&sharingKey=f7f4f5bc0c76b95568243afed1c64d6f66717238974585652da0417e0e3faff06666d7e628569c41b3b8c1f0bf873e409729027ea67f02e1eb738c7f27b24f4b") ?>

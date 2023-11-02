@@ -43,5 +43,5 @@
 <?php yt("FDSDprWUl9Q") ?>
 
 
-<?php tt("Model for 1 b^3 #^4 ^5 arpeggios") ?>
+<?php tt("Model for 1 b^3 #^4 ^5 & 1 b^3 #^4 ^5 #^7 arpeggios") ?>
 <?php fl("64cff2dcdbb75500db3e8037?_l=true&sharingKey=0c956027ada2ac9baa0485193fd002cfc8adbce1c27e32bd922bc545842d7cf733727d49e4173c821eca9b2b5e63698f50cf5723424e4f4e5fe03a993f8f6f10") ?>

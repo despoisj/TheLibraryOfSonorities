@@ -177,6 +177,7 @@ p a {
   margin-left: 2px;
   margin-right: 2px;
   color: var(--brown) !important;
+  background-origin: border-box !important;
 }
 
 /* Test for inline elements */
@@ -203,6 +204,22 @@ p a {
 .v9 {
   /* Green */
   background-color: rgba(193, 225, 193, 0.7);
+}
+
+.v7b9 {
+  /* Dark Blueish-Green */
+  background-color: rgba(0, 102, 102, 0.7);
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.vchMaj9 {
+  /* Yellow */
+  background: linear-gradient(90deg, rgba(255, 231, 163, 0.7) 0%, rgba(193, 225, 193, 0.7) 100%);
+}
+
+.vchMinb9 {
+  /*  Blue */
+  background: linear-gradient(90deg, rgba(167, 199, 231, 0.7) 0%, rgba(167, 199, 231, 0.7) 30%, rgba(0, 102, 102, 0.7) 100%);
 }
 
 

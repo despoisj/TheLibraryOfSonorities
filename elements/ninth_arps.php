@@ -16,6 +16,10 @@
 <p>Minor version: ^1 (^2) b^3 ^5.</p>
 <?php yt("zYdEe8hacO4", 6) ?>
 
+<?php tt("Rachmaninoff - Cello Sonata in G Major, 1st Mvt.") ?>
+<p>Major versions, 2nd row: arpeggio is Eb-(F)-G-Bb.</p>
+<?php yt("YrXMpfwnbQ4", 646) ?>
+
 <?php tt("Felix Blumenfeld - Etude, Op. 3 n°1") ?>
 <p>Major version, Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
 <?php yt("sJ1HmN1j6QM") ?>

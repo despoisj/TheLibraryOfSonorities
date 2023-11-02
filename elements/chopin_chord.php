@@ -113,24 +113,31 @@
 <h3 class="elementExampleTitle">References</h3>
 <?php yt("-uwdGzclfi4") ?>
 
-<h3 class="elementExampleTitle">Chopin Chord with added 9th: V(b)13(b)9</h3>
 
-<p>When combined with the <a href="index.php?filter=element&element=V9_chord">V9 Chord</a>, the resulting chord has an even richer sound. The chord can then be understood as a V(b)13(b)9 chord.</p>
+
+<h3 class="elementExampleTitle">Chopin Chord with added 9th: V7((b)13(b)9)</h3>
+
+<p>The (b)6-5 resolution of the Chopin Chord can be added to the V9 or V7b9 chords, resulting in an even richer sound. In this case, the ♮9 often resolves down.</p>
+<p>The chord can then be described as a V7((b)9, (b)13) chord. I have the feeling that we will mostly find V7(9, 13) and V7(b9, b13), respectively in major and minor, and not more dissonant combinations like V7(9, b13) or V7(b9, 13), but I might be wrong. For simplicity, let's call them <i>'Chopin Ninth'</i> chords: VChM9 & VChmb9</p>
+
+<?php tt("Liszt - Consolation n°3")?>
+<p>mm 3: C7 + Db (b9th) + Ab (b13) -> Fm i.e. VChmb9 -> i</p>
+<?php yt("73_jSjG1WrY", 32) ?>
 
 <?php tt("Chopin - Ballade n°1")?>
-<p>- First measure of the Meno Mosso: Bb13|9: (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
-<p>- 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
+<p>- VChM9 First measure of the Meno Mosso: Bb(9,13): (Bb-D-F-Ab) make the dominant chord, C is the 9th and G is the 13th (i.e. 6th) resolving to Eb.</p>
+<p>- VChM9 3rd measure of the Meno Mosso: (F-A-C-Eb) + G(9th)->F + D(13th)->Bb, first two beats can be also seen as 2 of 2-5-1 motion.
 <p>- Same for mm. 2 at 3:40 and mm. 7 which ends with another classic VChM Chopin Chord.</p>
 <?php yt("3QH8MstNkKg", 203) ?>
 
 <?php tt("Sergei Lyapunov - Prelude Op. 6 n°6")?>
-<p>• 2nd line 2nd measure Eb7(9, 13): Eb7 (Eb-G-x-Db) + F (9th) + C (13th/6th), same next page mm. 5 with Gb7(9, 13)</p>
-<p>Note: the difference made by the 9th is very subtle, and this can be considered just like a 'normal' chopin chord.</p>
+<p>VChM9 2nd row 2nd measure Eb7(9, 13): Eb7 (Eb-G-x-Db) + F (9th) + C (13th/6th), same next page mm. 5 with Gb7(9, 13)</p>
+<p>Note: the difference made by the 9th is very subtle.</p>
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
-
-<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
-<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
+<h4 class="elementExampleTitle">Adding a 4-3 suspension</h4>
+<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
+<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 (ivMin7 in minor) over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension resolving to the VChM9 or VChmb9 chord. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
 <?php yt("gchwLVCBVwo", 205) ?>
 
 <?php tt("Model")?>

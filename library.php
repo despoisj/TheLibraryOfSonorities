@@ -21,6 +21,7 @@ $library = [];
 // Chords
 array_push($library, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
 array_push($library, element("V9_chord", "Upward V9 Chord in Major", ["romantic"], [], "harmony"));
+array_push($library, element("V7b9_chord", "V7b9 Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ct_lt", "CT°7 & LT°7 Chords", ["romantic"], [], "harmony", ["dreamy"]));
@@ -53,4 +54,5 @@ array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["c
 
 // WIP
 array_push($library, element("harmonic_minor", "(WIP) Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
+// array_push($library, element("harmonic_major", "(WIP) Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["heartbreaking"]));
 

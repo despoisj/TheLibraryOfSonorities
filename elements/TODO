@@ -5,9 +5,6 @@
 	https://www.youtube.com/watch?v=6eonV4mLc6U
 
 
-	https://www.youtube.com/watch?v=WiYAl1oOlZ8 1:20 IV iv
-
-
 	Harm Major (b6) (RACH SOUND)
 		Chopin
 		https://www.youtube.com/watch?v=wuL7UC2glJM 0:19
@@ -29,6 +26,12 @@
 		Arensky
 		https://youtu.be/cKrmr0jeuio?si=cnUQk7sqlxHkN5aD&t=121 at 2:00 measure 2 second half: EbMajor over Eb (like minor64 on ^4)
 
+		Schubert
+		https://youtu.be/tS3gp8nzE7w?si=aTNupu3Kpz94WOWc&t=55 at 55s FharmMajor
+
+		Tchaik
+		https://www.youtube.com/watch?v=WiYAl1oOlZ8 1:20 IV iim7b5
+
 
 	Double harmonic major (b6 b2):
 		https://www.youtube.com/watch?v=cujQf77BHRI @ 1:38:
@@ -45,7 +48,7 @@
 
 	GORGEOUS SOUND BRAHMS
 		https://www.youtube.com/watch?v=g9kCOzZ7h2M
-		*4 65 sound in minor normal, suspensions are just natural minor scale.
+		*4 65 sound in minor normal, suspensions are just natural minor scale, but still sus
 		Donc rien de spécial, just the 4m65
 
 
@@ -126,29 +129,8 @@ Wedge at 2:48
 
 
 
-Vb9:
-	
-	<h4 class="elementExampleTitle">V7b9 chord</h4>
-	<p>The b9th is often found as an extension of a dominant sound, noted V7b9, and gives the eerie sound of the Diminished 7th chord. One easy way to remember and play it is to view the V7b9 chord as a V7 chord with a °7 chord on top of the third, fifth or sevents (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>
-
-	<?php tt("Chopin - Nocturne Op. 48 n°1") ?>
-	<p>2nd row, 2nd measure: i64 -> Vb9 (D7 + Eb) -> i</p>
-	<?php yt("107Iwx5RKSM", 35) ?>
-
-	<?php tt("Beethoven - 'Pathétique' Sonata, 1st Mvt.") ?>
-	<p>2nd row: G7 + accented Ab (b9) at the end</p>
-	<?php yt("M_124D_7KoU", 98) ?>
-
-	<?php tt("Liszt - Romance") ?>
-	<p>Last measure : E7 + F (b9th).</p>
-	<p>Note: here, the shift from Eminor to E7 is a sonority in itself.</p>
-	<?php yt("j3AMWk76UxE", 81) ?>
-
-
-
-
-
-
+TODO rach 3 end sequence
+https://www.youtube.com/watch?v=aSXtXLAVgkE&t=77s 43min
 
 
 Fr+ Strong scriabin / impressionist sound, resolve down to minor? or like V, it's a V7b5, or just I I+Fr I
