@@ -215,6 +215,8 @@ p a {
 .v7b9 {
   /* Dark Blueish-Green */
   background-color: rgba(0, 102, 102, 0.7);
+
+
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
@@ -225,8 +227,9 @@ p a {
 
 .vchMinb9 {
   /*  Blue */
-  background: linear-gradient(90deg, rgba(167, 199, 231, 0.7) 0%, rgba(167, 199, 231, 0.7) 30%, rgba(0, 102, 102, 0.7) 100%);
+  background: linear-gradient(90deg, rgba(167, 199, 231, 0.7) 0%, rgba(167, 199, 231, 0.7) 20%, rgba(0, 102, 102, 0.5) 100%);
 }
+
 
 
 

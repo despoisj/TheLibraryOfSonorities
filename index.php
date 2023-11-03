@@ -120,7 +120,7 @@ if ($filter == "element"){
 
                 // Define title for section
                 if ($filter == "element"){
-                    $title = "Sonority";
+                    // Do nothing, no title
                 } elseif ($filter == "composer") {
                     $title = ucfirst($composer);
                 } elseif ($filter == "emotion") {
@@ -146,10 +146,6 @@ if ($filter == "element"){
                     echo $title;
                     echo '</h2>';
                     echo "<i style='opacity:0.5'><small>Latest update: " . getLastUpdate() . "</small></i>";
-                } else {
-                    echo '<h2 style="margin-bottom: 30px;">';
-                    echo $title;
-                    echo '</h2>';
                 }
 
 

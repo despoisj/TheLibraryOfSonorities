@@ -1,7 +1,20 @@
+<h4>Sections</h4>
+<p class="tableOfContents">
+	<a href="#v9" class="scrollLink">V9 Chord</a>
+	<br>
+	<a href="#v11" class="scrollLink">V(9,11) Chord</a>
+	<br>
+	<a href="#vmaj9" class="scrollLink">VMaj9 -> V7 move</a>
+</p>
+
+
+<h3 id="v9" class="elementExampleTitle">V9 Chord</h3>
+
 <p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
 
-<h4 id="v9" class="elementExampleTitle">Examples</h4>
 
+
+<h4 id="v9" class="elementExampleTitle">Examples</h4>
 
 <?php tt("John Field - Nocturne n°5")?>
 <p>Last measure: C7 + D -> E -> F.</p>
@@ -42,7 +55,7 @@
 <?php yt("eh3l8I-JT4Q", 998) ?>
 
 
-<h3 class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
+<h3 id="vmaj9" class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
 
 <p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of #^4 -> ^4 -> ^1 and the landmark ^6 -> ^7 -> ^1 of the V9. To me, this makes it very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
 

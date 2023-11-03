@@ -1,17 +1,19 @@
+<h4>Sections</h4>
+<p class="tableOfContents">
+	<a href="#vch" class="scrollLink">'Chopin Chord'</a>
+	<br>
+	<a href="#vch9" class="scrollLink">'Chopin Ninth'</a>
+	<br>
+	<a href="#vch9sus" class="scrollLink">'Chopin Ninth' with suspension</a>
+</p>
+
+<h3 id="vch" class="elementExampleTitle">'Chopin Chord'</h3>
+
 <p>The Chopin Chord is a Dominant 7th chord with the added 13th (also called 6th) sometimes voiced in 4ths with ^4 ^7 ^3 in the soprano, or ^4 ^7 b^3 in minor. Most often, the 13th resolves down to the 5th (^3 -> ^2) and then the chord resolves like a normal dominant 7th chord. The 6th/13th is an unprepared suspension. Note that the 5th (^2) is sometimes omitted. This chord is most often encountered in Major (VChM) but sometimes in minor too (VChm).</p>
 <img style="width:90%; background-color: white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dominant_chords_in_common_practice_period.png/1000px-Dominant_chords_in_common_practice_period.png">
 
-<h4 class="elementExampleTitle">Sections</h4>
-<p class="tableOfContents">
-	<a href="#ch" class="scrollLink">'Chopin Chord'</a>
-	<br>
-	<a href="#ch9" class="scrollLink">'Chopin Ninth'</a>
-	<br>
-	<a href="#ch9sus" class="scrollLink">'Chopin Ninth' with suspension</a>
-</p>
 
-
-<h4 id="vch" class="elementExampleTitle">Examples</h4>
+<h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Gustav Exner - Album Leaf")?>
 <p>VChM Measures 2. and 4.</p>
@@ -146,7 +148,7 @@
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
 <h4 id="vch9sus" class="elementExampleTitle">Adding a 4-3 suspension</h4>
-<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be the Sus4(9,13) mentioned in the video.</p>
+<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be our Sus4(9,13) chord.</p>
 <p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 (ivMin7 in minor) over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension resolving to the VChM9 or VChmb9 chord. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
 <?php yt("gchwLVCBVwo", 205) ?>
 

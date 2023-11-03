@@ -1,9 +1,19 @@
+<h4>Sections</h4>
+<p class="tableOfContents">
+	<a href="#ctlt" class="scrollLink">CT°7 & LT°7</a>
+	<br>
+	<a href="#wss" class="scrollLink">'Whole Step' Suspensions</a>
+</p>
+
+<h3 class="elementExampleTitle">CT°7 & LT°7 Chords</h3>
+
 <p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the previous/following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7). Most of the time, they embellish major chords.</p>
 <p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> I.</p>
 <p>As both are often used on a *1 pedal point between two tonic harmonies, the dreamy sonority is very similar to the sonority of <a href="index.php?filter=element&element=V_over_1">V(7)/*1</a>.</p>
 
 
-<h4 class="elementExampleTitle">Examples</h4>
+
+<h4 id="ctlt" class="elementExampleTitle">Examples</h4>
 
 <?php tt("Alexandre Boëly - Romance Op. 20, No. 7") ?>
 <p>2nd row, mm. 3-4: A major -> A°7 -> ~ A major, i.e I -> ICT°7 -> I</p>
@@ -40,7 +50,7 @@
 <?php yt("nGiO9foYa4A") ?>
 
 
-<h4 class="elementExampleTitle">(W.I.P.) Diminished 7ths with 'Whole Step' Suspensions</h4>
+<h4 id="wss" class="elementExampleTitle">(W.I.P.) Diminished 7ths with 'Whole Step' Suspensions</h4>
 
 <p>In <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz theory</a>, it is common practice to enrich Diminished 7th chords by adding notes that are one whole step up from any of the chord tones. For exemple on a C°7 chord you can add any of D, F, G# or B - a.k.a. notes from a D°7 chord. The two late romantic examples below have a very rich diminished sonority, and feature a similar "whole step" suspension.</p>
 
