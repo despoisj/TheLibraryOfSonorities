@@ -14,9 +14,13 @@ var getUrlParameter = function getUrlParameter(sParam) {
     return false;
 };
 
-function makeItem(text, itemclass, page) {
+function makeItem(text, itemclass, page = false) {
     // Ex V9, v9, V9_chord
-    return "<a href='index.php?filter=element&element="+ page +"' style='text-decoration:none'><span class='item "+ itemclass +"'>"+ text +"</span></a>"
+    if (page)
+        return "<a href='index.php?filter=element&element="+ page +"' style='text-decoration:none'><span class='item "+ itemclass +"'>"+ text +"</span></a>"
+    else
+        return "<span class='item "+ itemclass +"'>"+ text +"</span>"
+
 }
 
 function replaceDigitsWithCircledNumbers(text) {
@@ -53,6 +57,10 @@ function replaceDigitsWithCircledNumbers(text) {
     text = text.replaceAll(/V7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V7b9", "v7b9", "V7b9_chord"));
     text = text.replaceAll(/V9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V9", "v9", "V9_chord#v9"));
     text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V11", "v9", "V9_chord#v11"));
+
+
+    text = text.replaceAll(/\*M\*/g, makeItem("<small><small>Maj.</small></small>", "major"));
+    text = text.replaceAll(/\*m\*/g, makeItem("<small><small>min.</small></small>", "minor"));
 
     return text;
 }

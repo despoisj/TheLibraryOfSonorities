@@ -186,7 +186,18 @@ p a {
   background-origin: border-box !important;
 }
 
-/* Test for inline elements */
+/* Inline elements */
+.major {
+  /* Yellow */
+  background-color: rgba(255, 231, 163, 0.7);
+  padding: 2px;
+}
+
+.minor {
+  /*  Blue */
+  background-color: rgba(167, 199, 231, 0.7);
+}
+
 .lt7 {
   /*  Turquoise */
   background-color: rgba(163, 247, 255, 0.3);
