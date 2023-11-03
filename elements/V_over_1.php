@@ -5,22 +5,21 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Mélanie Chasselon - Nocturne 'Abandon'")?>
-<p>mm. 3-4 of bottom row: Ab -> Eb7/*1 -> Ab, i.e. I -> V/*1 -> I i.e. 5/3 -> b7/5/4/2 -> 5/3</p>
-<p>In this case, we could consider the F as an extension making a V9 chord.</p>
+<p>mm. 3-4 of bottom row: Ab -> Eb7/*1 -> Ab, i.e. I -> V9/*1 -> I</p>
 <?php yt("NCo8IGl5T9w", 90) ?>
 
 <?php tt("Chopin - Nocturne Op. 9 n°1")?>
 <p>mm. 2: Bbm -> F7/*1 -> Bbm, i.e. i -> V7/*1 -> i. </p>
 <?php yt("wuL7UC2glJM") ?>
 
-<?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
-<p>mm. 1-2: Cm -> G7/*1 -> Cm, i.e. i -> V7/*1 -> i. </p>
-<p>The accented Ab could make this into a Vb9 chord.</p>
-<?php yt("xIqx0MOsNfo") ?>
 
 <?php tt("John Field - Nocturne n°6")?>
 <p>mm. 1: F -> C7/*1 -> F i.e. I -> V7/*1 -> I</p>
 <?php yt("U-fS3mR9KDA", 1275) ?>
+
+<?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
+<p>mm. 1-2: Cm -> G7/*1 -> Cm, i.e. i -> V7b9/*1 -> i. </p>
+<?php yt("xIqx0MOsNfo") ?>
 
 <?php tt("Chopin - Etude Op. 25 n°1")?>
 <p>mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
@@ -36,5 +35,5 @@
 <p style="margin-top: 50px;">Pedal point, here especially V/*1 examples like 18:38.</p>
 <?php yt("5LOtomvz6tg", 1117) ?>
 
-<p>Quiescenza</p>
+<?php tt("Quiescenza")?>
 <?php yt("en8mUwXlKqc") ?>

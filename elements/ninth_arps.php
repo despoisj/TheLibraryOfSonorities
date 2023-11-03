@@ -24,6 +24,9 @@
 <p>Major version, Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
 <?php yt("sJ1HmN1j6QM") ?>
 
+<?php tt("Theodore Servin - Ballade in F# minor") ?>
+<p>Last/first measure: Major version, D-(E)-F#-A then minor version B-(C)-D-F#.</p>
+<?php yt("ZC7GleTGtkY", 184) ?>
 
 <?php tt("Anton Arensky - Etude, Op. 74 n°2") ?>
 <p>- Minor version as the intro bar: C-(D)-Eb-G with G then moving as a melody</p>
