@@ -19,4 +19,4 @@
 <?php yt("xIqx0MOsNfo") ?>
 
 <h4 class="elementExampleTitle">More dissonance with the b13th</h4>
-<p>For an even more dissonant chord, we also can add the b13 (b6), see the VChmb9 chord.</p>
+<p>For an even more dissonant chord, we can add the b13 (b6), see VChmb9.</p>
