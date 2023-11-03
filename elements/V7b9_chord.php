@@ -17,3 +17,6 @@
 <?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
 <p>mm. 1-2: Cm -> G7b9/*1 -> Cm, i.e. i -> V7b9/*1 -> i. </p>
 <?php yt("xIqx0MOsNfo") ?>
+
+<h4 class="elementExampleTitle">More dissonance with the b13th</h4>
+<p>For an even more dissonant chord, we also can add the b13 (b6), see the VChmb9 chord.</p>

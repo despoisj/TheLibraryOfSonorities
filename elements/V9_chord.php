@@ -1,6 +1,6 @@
 <p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
 
-<h4 class="elementExampleTitle">Examples</h4>
+<h4 id="v9" class="elementExampleTitle">Examples</h4>
 
 
 <?php tt("John Field - Nocturne n°5")?>
@@ -30,7 +30,7 @@
 <?php yt("gfomsmuZ2Po", 82) ?>
 
 
-<h3 class="elementExampleTitle">V7 with added 9th & 11th</h3>
+<h3 id="v11" class="elementExampleTitle">V7 with added 9th & 11th</h3>
 <p>We can enhance the upward 9th by playing it in thirds with the 11th, resulting in a V11 chord. In this example the 9th and 11th <b>resolve upwards</b> by step to the 3rd and 5th then again to reach ^1 and ^3. The melody follows ^6 ^1 -> ^7 ^2 -> ^1 ^3.</p>
 <p><b>Keyboard tip:</b> you can get this chord by playing iim7 on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C. </p>
 
