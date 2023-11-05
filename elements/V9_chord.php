@@ -10,7 +10,7 @@
 
 <h3 id="v9" class="elementExampleTitle">V9 Chord</h3>
 
-<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7). This changes nothing for us, as we focus on the sonority.</p>
+<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7).</p>
 
 
 
@@ -24,13 +24,9 @@
 <p>mm. 4: A7 + B -> C# -> D.</p>
 <?php yt("dFg02WEwlCM", 33) ?>
 
-<?php tt("Liszt - Romance")?>
-<p>2nd row, mm. 2: D7 + E -> F# -> G.</p>
-<?php yt("j3AMWk76UxE", 94) ?>
-
 <?php tt("John Field - Nocturne n°1")?>
 <p>The first turn goes up to the 7th of the dominant chord, the 2nd turn goes up to the 9th (C) which resolves up C -> D -> Eb (but an octave lower).</p>
-<p>Note: this piece is great to train your ear as it displays dominant chords with accented 7th in melody, 9th, and 13th (<a href="index.php?filter=element&element=chopin_chord">'Chopin Chord'</a>).</p>
+<p>Note: this piece is great to train your ear as it displays dominant chords with accented 7ths in melody, 9ths (V9), and 13ths (VChM).</p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
 <?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
@@ -41,6 +37,13 @@
 <p>Note: This is listed as Op. 100 n°1, but there are two Op. 100, this is not the etudes but the "2 pieces", for which this is the only recording available.</p>
 <p>3rd row: G9 (G7 + A).</p>
 <?php yt("gfomsmuZ2Po", 82) ?>
+
+<?php tt("Liszt - Romance")?>
+<p>At 0:27 2nd row, mm. 3: D7 + Eb -> E -> F# -> G.</p>
+<p>At 1:34 2nd row, mm. 2: D7 + E -> F# -> G.</p>
+<p>At 2:20 the piece ends with a clear V9 resulting from the melodic line on the dominant.</p>
+<p>Note: in this piece, the ninth is approached by the b9th to create a chromatic melody b^6 -> ^6 -> ^7 -> ^1. This V7b9 -> V9 move is an interesting alternative to the expected b9 -> 8 resolution. It can also be seen as nothing more than a a chromatic approach tone to the 9th.</p>
+<?php yt("j3AMWk76UxE", 27) ?>
 
 
 <h3 id="v11" class="elementExampleTitle">V7 with added 9th & 11th</h3>
@@ -54,10 +57,15 @@
 <p>At 17:32, 2nd row, first staff, 2nd bar in E major: B (*5) in bass, and after I64 (B G# E) we get a dim chord that transforms into F#min7 over B i.e. B7(9,11) i.e. iim7/*5 with the 9th and 11th resolving up: C# -> D#, E -> F#.</p>
 <?php yt("eh3l8I-JT4Q", 998) ?>
 
+<?php tt("Ottorino Respighi - Intermezzo")?>
+<p>mm. 3: ~B7 + C# (9th) + E (11th) -> B7 -> E. i.e V11 -> V7 -> I</p>
+<p>Note: the passing notes could be seen/heard as a simple V9, this shows the nature of the 9th and 11th as appogiaturas.</p>
+<?php yt("T19mqDSR5ws", 1026) ?>
+
 
 <h3 id="vmaj9" class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
 
-<p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of #^4 -> ^4 -> ^1 and the landmark ^6 -> ^7 -> ^1 of the V9. To me, this makes it very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
+<p>The two examples below share a dissonance which, although subtle, is worthy of investigation. In both cases, the chord starts as a VMaj9 chord that morphs into a V7 chord by contrary motion of #^4 -> ^4 -> ^3 and the landmark ^6 -> ^7 -> ^1 of the V9. To me, this makes it very close to the V9 sound, especially since it's played on the V chord, where we expect a dominant sound, so I think we can consider it a variation of the V9 sonority.</p>
 
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
 <p>In the 3rd measure of the 2nd line: GMaj9 -> G7 -> I</p>
