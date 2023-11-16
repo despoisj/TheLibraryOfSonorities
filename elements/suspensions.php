@@ -32,7 +32,7 @@
 <?php tt("Brahms - Prelude Op. 32 n°12") ?>
 <p>Over the iiø65 chord, we find alternatively G and Bb, which are WSS</p>
 <p>Note: in this context, any note from the i scale works well (with Eb which is NOT a WSS).</p>
-<?php yt("g9kCOzZ7h2M", 27) ?>
+<?php yt("g9kCOzZ7h2M") ?>
 
 
 <h4 class="elementExampleTitle">Context importance</h4>
