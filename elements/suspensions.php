@@ -3,9 +3,9 @@
 
 <h3 id="wss" class="elementExampleTitle">Whole Step Suspensions (WSS)</h3>
 
-<p>In <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz theory</a>, it is common practice to enrich Diminished (and Half-Diminished) 7th chords by adding notes that are one whole step up from any of the chord tones. For exemple on a C°7 chord you can add any of D, F, G# or B - a.k.a. notes from a D°7 chord. In romantic music, these additional dissonances are often treated as suspensions by resolving down by step. I call these Whole Step Suspensions, or WSS.</p>
+<p>In <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz theory</a>, it is common practice to enrich Diminished 7th chords by adding notes that are one whole step up from any of the chord tones. For exemple on a C°7 chord you can add any of D, F, G# or B - a.k.a. notes from a D°7 chord. In romantic music, these additional dissonances are often treated as suspensions by resolving down by step. I call these Whole Step Suspensions, or WSS.</p>
 <p>For maximum effect, the suspensions is played as the highest note of the melody.</p>
-<p>Note: on Diminished 7th chords, this borrows notes from the <a target="_blank" href="https://en.wikipedia.org/wiki/Octatonic_scale">Whole-Half diminished scale</a>, also known as the Octatonic scale. For Half-Diminished chords, the related scale is the Locrian #2.</p>
+<p>Note: this borrows notes from the <a target="_blank" href="https://en.wikipedia.org/wiki/Octatonic_scale">Whole-Half diminished scale</a>, also known as the Octatonic scale.</p>
 
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -20,12 +20,21 @@
 <p>i.e i6 -> LT°7 inverted + WSS -> i6 -> LT°7 + WSS -> i</p>
 <?php yt("eh3l8I-JT4Q", 980) ?>
 
-<?php tt("Sergei Rachmaninoff - Prelude Op. 32 n°12") ?>
+<h3 class="elementExampleTitle">(W.I.P) Suspensions on Half-Diminished Chords</h3>
+
+<p>Some suspensions on Half-Diminished chords sound absolutely amazing, but it seems to be very contextual. For example, on i -> ivø7 we can add WSS and it works great, but if you try i -> iiø65 + E♮ it sounds awful, but borrowing any note from i scale works great.</p>
+
+<?php tt("Rachmaninoff - Prelude Op. 32 n°12") ?>
 <p>mm. 1 of 2nd page: G#m -> C#ø7/E (with D# -> C#)</p>
 <p>i.e i -> ivø65 + WSS</p>
 <?php yt("13UlKWgwdZI", 27) ?>
 
-<h4 class="elementExampleTitle">(W.I.P) What to avoid</h4>
-<p>In some cases, the half diminished suspensions of ^2 -> ^1 can sound very harsh. For example i -> iiø65 + E♮ sounds awful, while i -> ivø65 + G sounds great. This might come from the harsh dissonant sound of the ivø65 chord that accepts the dissonance, or because of E♮ in minor that doesn't work? To investigate...</p>
+<?php tt("Brahms - Prelude Op. 32 n°12") ?>
+<p>Over the iiø65 chord, we find alternatively G and Bb, which are WSS</p>
+<p>Note: in this context, any note from the i scale works well (with Eb which is NOT a WSS).</p>
+<?php yt("g9kCOzZ7h2M", 27) ?>
+
+
+<h4 class="elementExampleTitle">Context importance</h4>
 
 <?php fl("655603949c9f9e39206364a4?_l=true&sharingKey=51ab70008afd57ebefb210f900ffb8103f816aa64da5e86f316587c474ace0c8324ff14ee48673e04dd44acdd44a7ac30c750003ab82bdd51780ca0529457b6f") ?>
