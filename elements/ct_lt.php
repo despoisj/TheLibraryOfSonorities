@@ -11,7 +11,7 @@
 <p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7). Most of the time, they embellish major chords. The sound is sometimes very close to what we can find with <a href="index.php?filter=element&element=chromatic_thirds">chromatic thirds</a>.</p>
 <p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> i. In major, the LT°7 chord is borrowed from the parallel minor/harmonic major mode.</p>
 
-<p><b>W.I.P:</b> I am trying to find out what makes these sonorities so striking. One important aspect seems to be the previour & next chords:<br>
+<p><b>W.I.P:</b> I am trying to find out what makes these sonorities so striking. One important aspect seems to be the previous & next chords:<br>
 	- With *M* chords, CT°7 have a lush dreamy feel, while LT°7 are melancholic & hearbreaking.<br>
 	- With *m* chords, CT°7 chords don't work that well, but LT°7 chords bring a deep sad atmosphere.<br>
 As both are often used on a *1 pedal point between two tonic harmonies, the dreamy sonority is very similar to the sonority of <a href="index.php?filter=element&element=V_over_1">V(7)/*1</a>.</p>
@@ -97,7 +97,7 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>Note: this one is interesting because it shows that the sweet sound of the °7 chord could work as a CT°7 if the chord resolved to I, because LT°7 of V is the same as ICT°7. I believe that the sweetness of the sound isn't necessary linked to the resolution. To be investigated more...</p>
 <p>*M* At 3:38 mm. 2 & 4: LT°7 -> I then more 2nd row over *1 pedal point.</p>
 
-
+<?php yt("i5gMQH7pJbg", 8) ?>
 
 
 

@@ -148,8 +148,8 @@
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
 <h4 id="vch9sus" class="elementExampleTitle">Adding a 4-3 suspension</h4>
-<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). To my ears, it is reminiscent of the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be our Sus4(9,13) chord.</p>
-<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 (ivMin7 in minor) over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension resolving to the VChM9 or VChmb9 chord. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
+<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). It is like the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be our Sus4(9,13) chord.</p>
+<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 (ivMin7 in minor, although I personally don't like the suspension in minor, I prefer using ivø7 i.e. Tristan chord or "Rachmaninoff's Subdominant") over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension resolving to the VChM9 or VChmb9 chord. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
 <?php yt("gchwLVCBVwo", 205) ?>
 
 <?php tt("Model")?>

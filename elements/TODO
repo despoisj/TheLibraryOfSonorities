@@ -1,8 +1,13 @@
 TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
 
+	- X/1 maj
+	- X/1 min
+	- LT/1 maj
+	- LT/1 min
+	- CT° Maj
+	- 4/1 Maj Min
+	- V/V / 1 vii/V / 1 V°/V / 1
 
-CT EXAMPLES https://musictheoryexamples.com/26CT.html
-DREAMY
 
 
 	I -> I64 min -> I
@@ -51,6 +56,16 @@ DREAMY
 		Second bar: Same but Fnat aka Mixo b6 beark, mode of Mel Minor, here C mel minor
 
 
+	Schubert: Mixolidian b6 / Aeolian Domiant in minor: i -> V/iv -> iv64 so like morte but over PP
+		Major third in minor? Mode of relative minor, rel major
+		https://www.youtube.com/watch?v=MAZ8PA5_gVA 20:00 bar 5
+
+		->->->-> HE DOESN'T PLAY THE TRIAD, Kempf pareil!!! HE PLAYS E#/F B tritone on top !
+		melody is Mixolidian b6, 
+
+		
+
+
 	...
 
 	GORGEOUS SOUND BRAHMS
@@ -59,14 +74,23 @@ DREAMY
 		Donc rien de spécial, just the 4m65
 
 
+		Other examples (Rach)
+		https://musescore.com/user/30712651/scores/7185111
 
+
+
+Weird listz Dim chord Consolation:
+	Over Db bass: G Bb Db F = Gø7 / Db = #ivø7 / ^1 = #ivø7 / #ivø43 ??, is it like #ivDim / 1 # with missing note?
+	In C would be: F# A C E / C -> ??
+	Sounds predominant. Is it just Half Dim of V? Like Monte but Hdim? -> ~V -> I
+	-> So can be explained by sonority: I -> viiø7/V -> V -> I ALL over *1 PP
 
 Monte Principale AKA chain of rising V-Is, better with 7ths
 	- My way
 	- requiem fauré (To check)
 	- Servin https://www.youtube.com/watch?v=ZC7GleTGtkY (starting middle second row)
 	- Fauré nocturne 4 36: Gm7 -> C7(42) -> aHD7
-
+	- https://www.youtube.com/watch?v=WEVKAxX6MNo : Pas de deux I(*1) vi(*6) 63(*4) -> MP -> C5
 
 
 
@@ -146,3 +170,10 @@ Is the same as Fr+ with sus appogiatura??
 
 
 TODO explore 9th arps with pentatonic, other 9th chords etc.
+
+
+
+Rach prelude mm 10-11 gorgeous modulation, Bakulina says it's enharmonic RachS / Tristan
+Look in bakulina they show there's a 7-6 suspensions too on the Hdim bass
+https://www.youtube.com/watch?v=13UlKWgwdZI
+
