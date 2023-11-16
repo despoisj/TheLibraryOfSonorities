@@ -35,12 +35,12 @@
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°7") ?>
 <p>mm. 1: Cminor + F# (#^4), mm. 2 we get the B♮ (#^7)</p>
-<p>Note: the B♮ is art of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
+<p>Note: the B♮ is part of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
 <?php yt("UyxpeLh7z3s") ?>
 
 <?php tt("Rachmaninoff - 4 Pieces, n°2 Prelude") ?>
 <p>mm. 2: EbMinor + A♮ (#^4) and D♮ (#^7)</p>
-<?php yt("FDSDprWUl9Q") ?>
+<?php yt("FDSDprWUl9Q", 168) ?>
 
 
 <?php tt("Model for 1 b^3 #^4 ^5 & 1 b^3 #^4 ^5 #^7 arpeggios") ?>
