@@ -66,9 +66,9 @@ if ($filter == "element"){
         <!-- Blurb for intro page -->
         <?php if ($filter == "") { ?>
 
-            <div style="width:70%; margin-left:auto; margin-right: auto; margin-top: 50px; margin-bottom:80px; text-indent: 40px; max-width: 800px;">
-            <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts?</p>
-            <p>The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce.</p>
+            <div class="blurb" style="margin-top: 50px;margin-bottom:80px;">
+                <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts?</p>
+                <p>The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce.</p>
             </div>
 
         <?php } ?>
@@ -123,6 +123,20 @@ if ($filter == "element"){
                     // Do nothing, no title
                 } elseif ($filter == "composer") {
                     $title = ucfirst($composer);
+
+                    // Special case
+                    echo '<h2>';
+                    echo $title;
+                    echo '</h2>';
+
+                    // Add blurb if we have one
+                    $composerBlurb = 'composers/'. $composer .'.php';
+                    if (file_exists($composerBlurb)){
+                        echo "<div class='blurb' style='margin-top:20px'>";
+                        include($composerBlurb);
+                        echo "</div>";
+                    }
+                    
                 } elseif ($filter == "emotion") {
                     $title = ucfirst($emotion);
                 } elseif ($filter == "style") {

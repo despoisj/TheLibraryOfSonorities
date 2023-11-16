@@ -23,7 +23,7 @@ function makeItem(text, itemclass, page = false) {
 
 }
 
-function replaceDigitsWithCircledNumbers(text) {
+function formatPage(text) {
 
     // Regular expression to match digits with a caret symbol (^)
     const regex = /\^(\d)/g;
@@ -41,10 +41,10 @@ function replaceDigitsWithCircledNumbers(text) {
     text = text.replace(regexBass, (_, digit) => String.fromCharCode(parseInt(digit) + unicodeOffsetBass));
 
 
-
     // Replace -> by →
     text = text.replaceAll("-&gt;","→");
 
+    // Inline items
     text = text.replaceAll(/(LT°7|LT°)(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1", "lt7", "ct_lt#ctlt"));
     text = text.replaceAll(/([A-Za-z]?)CT°7(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1CT°7", "ct7", "ct_lt#ctlt"));
 
@@ -61,7 +61,6 @@ function replaceDigitsWithCircledNumbers(text) {
 
     text = text.replaceAll(/WSS(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("WSS", "wss", "suspensions"));
 
-
     text = text.replaceAll(/\*M\*/g, makeItem("<small><small>Maj.</small></small>", "major"));
     text = text.replaceAll(/\*m\*/g, makeItem("<small><small>min.</small></small>", "minor"));
 
@@ -73,7 +72,7 @@ $(document).ready(function() {
   // Loop through all elements and replace their content
   $('body *').each(function() {
     const originalText = $(this).html();
-    const convertedText = replaceDigitsWithCircledNumbers(originalText);
+    const convertedText = formatPage(originalText);
     $(this).html(convertedText);
   });
 
