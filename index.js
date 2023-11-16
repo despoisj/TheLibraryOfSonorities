@@ -59,6 +59,9 @@ function replaceDigitsWithCircledNumbers(text) {
     text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V11", "v9", "V9_chord#v11"));
 
 
+    text = text.replaceAll(/WSS(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("WSS", "wss", "suspensions"));
+
+
     text = text.replaceAll(/\*M\*/g, makeItem("<small><small>Maj.</small></small>", "major"));
     text = text.replaceAll(/\*m\*/g, makeItem("<small><small>min.</small></small>", "minor"));
 

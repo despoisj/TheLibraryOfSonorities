@@ -26,6 +26,7 @@ array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beeth
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ct_lt", "CT°7 & LT°7 Chords", ["romantic"], [], "harmony", ["dreamy"]));
 array_push($library, element("V_over_1", "V(7) over *1", ["romantic", "classical"], [], "harmony", ["dreamy"]));
+array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"], [], "harmony"));
 
 // Modulation
 array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven"], "harmony"));
