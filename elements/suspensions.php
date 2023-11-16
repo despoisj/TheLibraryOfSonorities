@@ -24,3 +24,8 @@
 <p>mm. 1 of 2nd page: G#m -> C#ø7/E (with D# -> C#)</p>
 <p>i.e i -> ivø65 + WSS</p>
 <?php yt("13UlKWgwdZI", 27) ?>
+
+<h4 class="elementExampleTitle">(W.I.P) What to avoid</h4>
+<p>In some cases, the half diminished suspensions of ^2 -> ^1 can sound very harsh. For example i -> iiø65 + E♮ sounds awful, while i -> ivø65 + G sounds great. This might come from the harsh dissonant sound of the ivø65 chord that accepts the dissonance, or because of E♮ in minor that doesn't work? To investigate...</p>
+
+<?php fl("655603949c9f9e39206364a4?_l=true&sharingKey=51ab70008afd57ebefb210f900ffb8103f816aa64da5e86f316587c474ace0c8324ff14ee48673e04dd44acdd44a7ac30c750003ab82bdd51780ca0529457b6f") ?>
