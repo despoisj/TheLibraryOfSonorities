@@ -1,7 +1,7 @@
 <p>The addition of the ♮9th in *M* or *m* triad arpeggios gives a very lush romantic sound. </p>
 <p>(W.I.P) Some arpeggios also add scale degree ^6 in major, thus using the major pentatonic scale fully. This might be worthy of investigation, although sometimes arpeggios add so many notes that they just end up being scale runs. We need to see how the ^6 works out in major/minor.</p>
 
-<h4 class="elementExampleTitle">Use of the ♮9th</h4>
+<h3 class="elementExampleTitle">Use of the ♮9th</h3>
 
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major, Moderato") ?>
 <p>*M* 0:24 first arpeggio up at 0:24 - E (F#) G# B i.e. ^1 (^2) ^3 ^5, also at 17:44.</p>
@@ -35,11 +35,20 @@
 <p>- There are many other 9th arps in this piece.</p>
 <?php yt("cKrmr0jeuio", 117) ?>
 
+<?php tt("Model") ?>
+<?php fl("64cbcb30cea9315acaa336b1?_l=true&sharingKey=f91c1a2f012e15aeeec6f9ee3f1835288d928d442b43b710c0f5fa327bf94022ae363f4f59c35ace7fb2f1326092682f1a1cc16510c8ea1c7319efdcbefffcc5") ?>
+
+
+
+
+<h3 class="elementExampleTitle">Pentatonic Scales (♮9th & ♮13th)</h3>
+<p>The <a target="_blank" href="https://en.wikipedia.org/wiki/Pentatonic_scale">pentatonic scale</a> is a major scale with degrees ^1 ^2 ^3 ^5 ^6 only. When compared to the arpeggios with added 9th we have seen above, it's like major arpeggios with added 9th and 13th.</p>
 
 <?php tt("Godowsky - Study on Chopin Etudes n°2") ?>
 <p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db pentatonic scale.</p>
 <?php yt("d9VtzVRaz6Q", 133) ?>
 
+<?php tt("Debussy - Arabesque n°1") ?>
+<p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db pentatonic scale.</p>
+<?php yt("Yh36PaE-Pf0", 17) ?>
 
-<?php tt("Model") ?>
-<?php fl("64cbcb30cea9315acaa336b1?_l=true&sharingKey=f91c1a2f012e15aeeec6f9ee3f1835288d928d442b43b710c0f5fa327bf94022ae363f4f59c35ace7fb2f1326092682f1a1cc16510c8ea1c7319efdcbefffcc5") ?>

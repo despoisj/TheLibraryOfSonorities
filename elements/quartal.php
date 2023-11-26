@@ -1,4 +1,5 @@
 <p><a target="_blank" href="https://en.wikipedia.org/wiki/Quartal_and_quintal_harmony">Quartal & quintal harmonies</a> feature chords built from stacking 4ths / 5ths, which often move in parallel motion. This type of chords gives an ambiguous feeling, linked to the unclear tonality seeked by impressionist composers.</p>
+<p>Note: this sonority is also very present in some genres of Jazz music.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
