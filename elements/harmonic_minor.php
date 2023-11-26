@@ -1,4 +1,4 @@
-<p>The <a href="https://en.wikipedia.org/wiki/Harmonic_minor_scale">harmonic minor</a> scale is a natural minor scale with a raised 7th degree. When used melodically, it gives a very interesting sound.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Harmonic_minor_scale">harmonic minor</a> scale is a natural minor scale with a raised 7th degree. When used melodically, it gives a very interesting sound. This scale is the source of many useful chords, such as the V7 and LT°7 in minor, and their combination the V7b9 chord.</p>
 <p>Note: this section needs to be improved/refined to distinguish & characterize the sonorities better.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -30,7 +30,7 @@
 <?php yt("_1dq6PL0czY", 9) ?>
 
 <?php tt("Vasily Prisovsky - Rêverie, Op. 64") ?>
-<p>mm. 1-2: Bmin + E♮ (#^4) gives a subtle hungarian minor sonority.</p>
+<p>mm. 1-2: Bmin + E# (#^4) gives a subtle hungarian minor sonority.</p>
 <?php yt("IqZiaVorenY") ?>
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°7") ?>

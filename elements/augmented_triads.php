@@ -46,8 +46,6 @@
 <?php yt("VUk3_qTTVg4", 138) ?>
 
 
-https://youtu.be/VUk3_qTTVg4?si=xXamE4-kICysd5_G&t=151
-
 <?php tt("Anton Arensky - Piano Trio No. 1, Op. 32 in D minor, 3rd Mvt.") ?>
 <p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IVM7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>
 <?php yt("WR7IgPqscJE", 1182) ?>

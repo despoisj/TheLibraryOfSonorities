@@ -15,6 +15,10 @@
 <p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p>
 <?php yt("GAs0zEGY7yw") ?>
 
+<?php tt("Maurice Randall - Contemplation (Romance), Op. 27") ?>
+<p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
+<?php yt("WIlrGTPk11w") ?>
+
 <?php tt("'La Folia'") ?>
 <p>mm 3-5: i (Dmin) -> V/III (C7) -> III (F)</p>
 <?php yt("3WSsh-Baqfg") ?>

@@ -55,5 +55,9 @@ array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["c
 
 // WIP
 array_push($library, element("harmonic_minor", "(WIP) Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
+
+
+array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "hisaishi"], "harmony"));
+
 // array_push($library, element("harmonic_major", "(WIP) Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["heartbreaking"]));
 

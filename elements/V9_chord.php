@@ -69,10 +69,12 @@
 
 <?php tt("Alexander Griboyedov - Waltz in E minor")?>
 <p>In the 3rd measure of the 2nd line: GMaj9 -> G7 -> I</p>
+<p>Note: here the first chord also has a C, which would make it a GMaj11, with the 11th going up ^1 -> ^2 like the V11.</p>
 <?php yt("Wv2kNjy2AZE", 34) ?>
 
 <?php tt("Mykola Lysenko - Aveu, Op. 37 n°1")?>
 <p>mm. 1: EbMaj9 -> Eb7 -> ... -> Ab</p>
+<p>Note the D♮ (#^4) -> Db (♮^4) and the F (^6) -> G (^7) -> A (^8).</p>
 <?php yt("GFRWQwaT2AQ", 80) ?>
 
 
