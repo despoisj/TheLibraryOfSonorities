@@ -33,6 +33,13 @@
 <p>mm. 5: I64 -> V9 (E7 + F#).</p>
 <?php yt("62vYPGOe9EM", 76) ?>
 
+<?php tt("Scriabin - Prelude, Op. 11 n°11")?>
+<p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7</p>
+<?php yt("ry5L3_0XVuk", 972) ?>
+
+
+https://youtu.be/ry5L3_0XVuk?si=fEp0rXnf-LrgrDjx&t=972
+
 <?php tt("Franz Burgmüller - Am Weihnachtsbaum, Op. 100* n°1")?>
 <p>Note: This is listed as Op. 100 n°1, but there are two Op. 100, this is not the etudes but the "2 pieces", for which this is the only recording available.</p>
 <p>3rd row: G9 (G7 + A).</p>

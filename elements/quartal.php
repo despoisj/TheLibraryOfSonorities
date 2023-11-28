@@ -7,10 +7,18 @@
 <p>The starting chords are exclusively 5ths.</p>
 <?php yt("cVMGwPDP-Yk") ?>
 
-
 <?php tt("Ravel - La Vallée des Cloches") ?>
 <p>The bottom rows repeat parallel quartal chords (Bb-Eb-C & C-F-Bb).</p>
 <?php yt("XnTmtjO6IKI", 144) ?>
+
+<?php tt("Scriabin - Prelude Op. 16 n°1") ?>
+<p>The main arppegio is a quintal B-F#-C#-G#.</p>
+<p>Note: this is also the E major <a href="index.php?filter=element&element=ninth_arps#pentatonic">pentatonic scale</a>.</p>
+
+<?php yt("pmIDevUoPpE", 8) ?>
+
+
+
 
 <?php tt("Debussy - La Jeune Fille Aux Cheveux de Lin") ?>
 <p>The last 3 measures feature the melody harmonized in 5ths and 4ths.</p>

@@ -1,7 +1,15 @@
 <p>The addition of the ♮9th in *M* or *m* triad arpeggios gives a very lush romantic sound. </p>
 <p>(W.I.P) Some arpeggios also add scale degree ^6 in major, thus using the major pentatonic scale fully. This might be worthy of investigation, although sometimes arpeggios add so many notes that they just end up being scale runs. We need to see how the ^6 works out in major/minor.</p>
 
-<h3 class="elementExampleTitle">Use of the ♮9th</h3>
+<h4 class="elementExampleTitle">Sections</h4>
+<p class="tableOfContents">
+	<a href="#ninth_arps" class="scrollLink">Ninth Arpeggios</a>
+	<br>
+	<a href="#pentatonic" class="scrollLink">Pentatonic Scales</a>
+</p>
+
+
+<h3 id="ninth_arp" class="elementExampleTitle">Use of the ♮9th</h3>
 
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major, Moderato") ?>
 <p>*M* 0:24 first arpeggio up at 0:24 - E (F#) G# B i.e. ^1 (^2) ^3 ^5, also at 17:44.</p>
@@ -41,14 +49,31 @@
 
 
 
-<h3 class="elementExampleTitle">Pentatonic Scales (♮9th & ♮13th)</h3>
+<h3 id="pentatonic" class="elementExampleTitle">Pentatonic Scales (♮9th & ♮13th)</h3>
 <p>The <a target="_blank" href="https://en.wikipedia.org/wiki/Pentatonic_scale">pentatonic scale</a> is a major scale with degrees ^1 ^2 ^3 ^5 ^6 only. When compared to the arpeggios with added 9th we have seen above, it's like major arpeggios with added 9th and 13th.</p>
 
 <?php tt("Godowsky - Study on Chopin Etudes n°2") ?>
 <p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db pentatonic scale.</p>
+<p>i.e. I Major Pentatonic over *1</p>
 <?php yt("d9VtzVRaz6Q", 133) ?>
 
 <?php tt("Debussy - Arabesque n°1") ?>
-<p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db pentatonic scale.</p>
+<p>*M* First row is EMaj + F# (9th) + C# (13th) i.e. E Major pentatonic scale.</p>
+<p>i.e. I Major Pentatonic over *1</p>
 <?php yt("Yh36PaE-Pf0", 17) ?>
+
+<?php tt("Scriabin - Prelude Op. 16 n°1") ?>
+<p>*M* First arp has the tones of the E major pentatonic scale (with ^4 instead of ^3)</p>
+<p>i.e. IV Major Pentatonic over *1</p>
+<p>Note: this is also a B-F#-C#-G# <a href="index.php?filter=element&element=quartal">quintal voicing</a>.</p>
+<?php yt("pmIDevUoPpE", 8) ?>
+
+<?php tt("Scriabin - Prelude Op. 11 n°1") ?>
+<p>First arp has the tones of the F major pentatonic scale (same as above, it's the IV major pentatonic, using pitches ^1 ^2 ^4 ^5 ^6</p>
+<p>i.e. IV Major Pentatonic over *1</p>
+<?php yt("ry5L3_0XVuk", 6) ?>
+
+
+
+
 
