@@ -68,7 +68,7 @@ if ($filter == "element"){
 
             <div class="blurb" style="margin-top: 50px;margin-bottom:80px;">
                 <p>Have you ever wondered what makes Chopin sound like Chopin? Or why your improvisation doesn't sound 'Romantic' despite your best efforts?</p>
-                <p>The Library of Sonorities aims at listing and dissecting some very specific sounds found in classical music so that you can incorporate them in your improvisation. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce.</p>
+                <p>The goal of the Library of Sonorities is to document the most interesting sounds found in classical music and help you recognize them by ear so that you can incorporate them in your improvisation. I have chosen to focus mostly on romantic music as it's my favorite, and resources on it are very scarce.</p>
             </div>
 
         <?php } ?>

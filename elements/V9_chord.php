@@ -38,7 +38,8 @@
 <?php yt("ry5L3_0XVuk", 972) ?>
 
 <?php tt("Scriabin - Prelude, Op. 16 n°1")?>
-<p>mm. 1: (F#7 + G#) / *1 -> B</p>
+<p>mm. 1: V9 (F#7 + G#) / *1 -> B</p>
+<p>Note the VChM at 1:13</p>
 <?php yt("pmIDevUoPpE", 29) ?>
 
 
