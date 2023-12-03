@@ -55,9 +55,8 @@ function formatPage(text) {
     text = text.replaceAll(/VChm/g, makeItem("VCh<small><small>min</small></small>", "vchMin", "chopin_chord#vch"));
 
     text = text.replaceAll(/V7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V7b9", "v7b9", "V7b9_chord"));
-    text = text.replaceAll(/V9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V9", "v9", "V9_chord#v9"));
+    text = text.replaceAll(/V9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V9$1", "v9", "V9_chord#v9"));
     text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V11", "v9", "V9_chord#v11"));
-
 
     text = text.replaceAll(/WSS(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("WSS", "wss", "suspensions"));
 

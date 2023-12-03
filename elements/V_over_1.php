@@ -24,6 +24,10 @@
 <p>*M* 2nd row, 2nd measure: VChM/*1 -> I</p>
 <?php yt("73_jSjG1WrY", 7) ?>
 
+<?php tt("Scriabin - Prelude, Op. 11 n°11")?>
+<p>mm. 1-4 (in B): V9 / *1 -> IMaj7</p>
+<?php yt("ry5L3_0XVuk", 972) ?>
+
 
 <h4 class="elementExampleTitle">References for the Quiescenza & Pedal points.</h4>
 

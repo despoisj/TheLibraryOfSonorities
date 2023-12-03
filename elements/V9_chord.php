@@ -34,11 +34,13 @@
 <?php yt("62vYPGOe9EM", 76) ?>
 
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
-<p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7</p>
+<p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
+<?php tt("Scriabin - Prelude, Op. 16 n°1")?>
+<p>mm. 1: (F#7 + G#) / *1 -> B</p>
+<?php yt("pmIDevUoPpE", 29) ?>
 
-https://youtu.be/ry5L3_0XVuk?si=fEp0rXnf-LrgrDjx&t=972
 
 <?php tt("Franz Burgmüller - Am Weihnachtsbaum, Op. 100* n°1")?>
 <p>Note: This is listed as Op. 100 n°1, but there are two Op. 100, this is not the etudes but the "2 pieces", for which this is the only recording available.</p>
@@ -53,6 +55,14 @@ https://youtu.be/ry5L3_0XVuk?si=fEp0rXnf-LrgrDjx&t=972
 <?php yt("j3AMWk76UxE", 27) ?>
 
 
+<?php tt("Scriabin - Prelude, Op. 15 n°3 & n°4")?>
+<p>n°3: V9 At 3:17 - End of last measure: V9 (B7 + C#) -> I</p>
+<p>Note: there is also an E in the chord, which would make it a V9sus chord, not a V11 (see below) because it resolves down.</p>
+<p>n°4: V9 At 4:27 - mm. 5: B7 + C# with C# -> D# but the resolution to E is frustrated and only occurs in the bass.</p>
+<?php yt("HSESmLtgk0E", 197) ?>
+
+
+
 <h3 id="v11" class="elementExampleTitle">V7 with added 9th & 11th</h3>
 <p>We can enhance the upward 9th by playing it in thirds with the 11th, resulting in a V11 chord. In this example the 9th and 11th <b>resolve upwards</b> by step to the 3rd and 5th then again to reach ^1 and ^3. The melody follows ^6 ^1 -> ^7 ^2 -> ^1 ^3.</p>
 <p><b>Keyboard tip:</b> you can get this chord by playing iim7 on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C. </p>
@@ -60,14 +70,15 @@ https://youtu.be/ry5L3_0XVuk?si=fEp0rXnf-LrgrDjx&t=972
 <h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major - Andante")?>
-<p>At 16:38, the bar before last.</p>
-<p>At 17:32, 2nd row, first staff, 2nd bar in E major: B (*5) in bass, and after I64 (B G# E) we get a dim chord that transforms into F#min7 over B i.e. B7(9,11) i.e. iim7/*5 with the 9th and 11th resolving up: C# -> D#, E -> F#.</p>
+<p>V11 At 16:38, the bar before last.</p>
+<p>V11 At 17:32, 2nd row, first staff, 2nd bar in E major: B (*5) in bass, and after I64 (B G# E) we get a dim chord that transforms into F#min7 over B i.e. B7(9,11) i.e. iim7/*5 with the 9th and 11th resolving up: C# -> D#, E -> F#.</p>
 <?php yt("eh3l8I-JT4Q", 998) ?>
 
 <?php tt("Ottorino Respighi - Intermezzo")?>
 <p>mm. 3: ~B7 + C# (9th) + E (11th) -> B7 -> E. i.e V11 -> V7 -> I</p>
 <p>Note: the passing notes could be seen/heard as a simple V9, this shows the nature of the 9th and 11th as appogiaturas.</p>
 <?php yt("T19mqDSR5ws", 1026) ?>
+
 
 
 <h3 id="vmaj9" class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
