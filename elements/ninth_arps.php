@@ -28,6 +28,10 @@
 <p>*M* 2nd row Left Hand arpeggio is Eb-(F)-G-Bb.</p>
 <?php yt("YrXMpfwnbQ4", 646) ?>
 
+<?php tt("Scriabin - Nocturne in Ab Major.") ?>
+<p>*M* First bar: Ab-(Bb)-C-Eb.</p>
+<?php yt("dKC4fUNfe8g", 6) ?>
+
 <?php tt("Felix Blumenfeld - Etude, Op. 3 n°1") ?>
 <p>*M* Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
 <?php yt("sJ1HmN1j6QM") ?>
