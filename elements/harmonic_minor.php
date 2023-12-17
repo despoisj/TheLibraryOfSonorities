@@ -8,6 +8,10 @@
 <p>At 1:27, the B section feature extensive harmonic minor sonorities. Note that since we are on the V chord (D7), we can also consider this sonority as the D <a href="https://en.wikipedia.org/wiki/Phrygian_dominant_scale">Phrygian Dominant mode</a>. The sonority is the same, we just see it from the point of view of D instead of G.</p>
 <?php yt("I2GKgFZ_ioQ", 57) ?>
 
+<?php tt("Sibelius - Impromptu Op. 5 n°5") ?>
+<p>All the first harps highlight degrees ^3 ^5 #^7 ^2 of the B harmonic minor scale, or in other words the III+Maj7 chord (E+Maj7).</p>
+<?php yt("7mzxH-FgtXw") ?>
+
 <?php tt("Rachmaninoff - Etude-Tableau Op. 33 n°8") ?>
 <p>The 3rd row uses the harmonic minor scale: G minor + F#, again on the dominant.</p>
 <?php yt("3i_tYDkUvlU", 116) ?>
