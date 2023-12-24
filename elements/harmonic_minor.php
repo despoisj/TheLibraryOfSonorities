@@ -26,6 +26,13 @@ view of D instead of G.</p>
 <p>The last three measures of the intro display the same G harmonic minor / D phrygian dominant sound over a V chord.</p>
 <?php yt("6l-25AUgjVs", 42) ?>
 
+
+<?php tt("Rachmaninoff - Concerto n°3, Mvt. 2, 2nd theme") ?>
+<p>The key is F harmonic min, here seen from the POV of V, i.e C phrygian dominant, in which we have Vm7b5 -> I (i.e. iim7b5 -> V in F) over a C pedal point.</p>
+<?php yt("YrfPqrCY9tE", 244) ?>
+
+
+
 <?php tt("Samuel Maykapar - Arietta in A minor") ?>
 <p>mm. 7: Descending A harmonic minor (note the G#).</p>
 <?php yt("dcapH7xANkI", 86) ?>
