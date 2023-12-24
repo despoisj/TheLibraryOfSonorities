@@ -82,8 +82,6 @@
 <p>i.e. IV Major Pentatonic over *1</p>
 <?php yt("ry5L3_0XVuk", 6) ?>
 
-ry5L3_0XVuk
-
 
 
 

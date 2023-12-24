@@ -4,9 +4,15 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°5") ?>
+<p>At 1:27, the B section feature extensive harmonic minor sonorities. Note that since we are on the V chord (D7), we can also consider this sonority as the D <a href="https://en.wikipedia.org/wiki/Phrygian_dominant_scale">Phrygian Dominant mode</a>. The sonority is the same, we just see it from the point of
 <p>At 0:57, after foreboding augmented dominants V & V+ chords, we get a descending G harmonic minor scale: G minor with an F#.</p>
-<p>At 1:27, the B section feature extensive harmonic minor sonorities. Note that since we are on the V chord (D7), we can also consider this sonority as the D <a href="https://en.wikipedia.org/wiki/Phrygian_dominant_scale">Phrygian Dominant mode</a>. The sonority is the same, we just see it from the point of view of D instead of G.</p>
-<?php yt("I2GKgFZ_ioQ", 57) ?>
+view of D instead of G.</p>
+<?php yt("I2GKgFZ_ioQ", 87) ?>
+
+<?php tt("Chopin - Ballade n°1") ?>
+<p>The intro to the Ballade's infamous coda highlights the use of the harmonic minor (G minor + F#) over i64 then V7 harmony.</p>
+<p>After the intro, we see the addition of C# (#^4), indicative of the hungarian minor sound (see below).</p>
+<?php yt("VmFmAvwO1pE", 459) ?>
 
 <?php tt("Sibelius - Impromptu Op. 5 n°5") ?>
 <p>All the first harps highlight degrees ^3 ^5 #^7 ^2 of the B harmonic minor scale, or in other words the III+Maj7 chord (E+Maj7).</p>
