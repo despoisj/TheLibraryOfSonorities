@@ -10,6 +10,10 @@
 <p>2nd row, 2nd measure: i (Fmin) -> V/III (Eb7) -> III (Ab)</p>
 <?php yt("J43KcBfBL8E", 23) ?>
 
+<?php tt("Chopin - Scherzo n°2") ?>
+<p>2nd row, last 2 bars: i (Cmin) -> V/III (B7) -> III (E)</p>
+<?php yt("anuQSmPa0aM", 33) ?>
+
 <?php tt("Beethoven - Choral Fantasy, Op. 80") ?>
 <p>i (Cm) -> [iv (Fm) ->] V/III (Bb7) -> III (Eb)</p>
 <p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p>
