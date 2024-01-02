@@ -20,6 +20,10 @@
 <p>*M* Descending octave of EbMajAdd9: Eb-(F)-G-Bb, i.e. ^1 (^2) ^3 ^5.</p>
 <?php yt("cLxDWcBwuB8", 49) ?>
 
+<?php tt("Rachmaninoff - Lilacs Op. 21, n°5") ?>
+<p>*M* Piece starts in Ab major with ^1 (^2) ^3 ^5, with then some pentatonic sonority, with the only exception of the occasional Db.</p>
+<?php yt("ZOuAFAS367Y") ?>
+
 <?php tt("Felix Blumenfeld - Sur Mer, Op. 14") ?>
 <p>*m* ^1 (^2) b^3 ^5.</p>
 <?php yt("zYdEe8hacO4", 6) ?>
@@ -65,6 +69,11 @@
 <p>*M* First row is EMaj + F# (9th) + C# (13th) i.e. E Major pentatonic scale.</p>
 <p>i.e. I Major Pentatonic over *1</p>
 <?php yt("Yh36PaE-Pf0", 17) ?>
+
+<?php tt("Rachmaninoff - Lilacs Op. 21, n°5") ?>
+<p>*M* As mentioned above, the first 50s or so of the piece piece mostly use the Ab pentatonic sonority, with the only exception of some occasional Dbs.</p>
+<p>i.e. I Major Pentatonic</p>
+<?php yt("ZOuAFAS367Y") ?>
 
 <?php tt("Scriabin - Prelude Op. 16 n°1") ?>
 <p>*M* First arp has the tones of the E major pentatonic scale (with ^4 instead of ^3)</p>

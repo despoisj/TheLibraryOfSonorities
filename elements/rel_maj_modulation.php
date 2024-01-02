@@ -11,7 +11,7 @@
 <?php yt("J43KcBfBL8E", 23) ?>
 
 <?php tt("Chopin - Scherzo n°2") ?>
-<p>2nd row, last 2 bars: i (Cmin) -> V/III (B7) -> III (E)</p>
+<p>2nd row, last 2 bars: i6 (Cmin) -> V/III (B7) -> III (E)</p>
 <?php yt("anuQSmPa0aM", 33) ?>
 
 <?php tt("Beethoven - Choral Fantasy, Op. 80") ?>
