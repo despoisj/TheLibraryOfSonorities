@@ -29,6 +29,11 @@
 <p>2nd row, 4th measure: Ab -> Ab+ -> Fm6/3 -> Fm, i.e. ~I -> I+ -> vi6 -> vi</p>
 <?php yt("9RXkTbuCuvU", 276) ?>
 
+<?php tt("Schumann - 'Du bist wie eine Blume', Op. 25")?>
+<p>Db -> Db+ -> Gm6/3, i.e. I -> I+ -> IV64</p>
+<?php yt("CdUvUysN55Q", 19) ?>
+
+
 <?php tt("Beethoven - Bagatelle Op. 119 n°1/2")?>
 <p>Eb -> Eb+ -> Ab7, i.e. I -> I+ -> IVM7</p>
 <?php yt("Qjk2zYjwaJc", 25) ?>
