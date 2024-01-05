@@ -228,7 +228,13 @@ p a {
 
 .v9 {
   /* Green */
-  background-color: rgba(193, 225, 193, 0.7);
+  background-color: rgba(193, 225, 193, 0.8);
+}
+
+/* Normal V9 */
+.nv9 {
+  /* Green */
+  background-color: rgba(200, 228, 204, 0.7);
 }
 
 .v7b9 {

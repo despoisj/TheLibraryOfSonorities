@@ -1,4 +1,4 @@
-<p>Playing a V chord (V7, V9, V7b9, VChM etc.) over *1 often creates a dreamy sound. It often happens inbetween tonic harmony: I -> V7/*1 -> I or i -> V7/*1 -> i.</p>
+<p>Playing a V chord (V7, nV9, V7b9, VChM etc.) over *1 often creates a dreamy sound. It often happens inbetween tonic harmony: I -> V7/*1 -> I or i -> V7/*1 -> i.</p>
 <p>This type of sound is also typically found in the historical progression known as Quiescenza: [I -> I7 -> IV -> V7 -> I] over a *1 pedal point. </p>
 <p>Note: despite the distinctive sound of the examples below, other examples (see video below on pedal points) show that in energetic music (Beethoven, Mozart examples) this can sound quite different, so texture and tempo might be important to achieving this particular sweet dreamy sonority.</p>
 
@@ -9,7 +9,7 @@
 <?php yt("VmFmAvwO1pE", 389) ?>
 
 <?php tt("Mélanie Chasselon - Nocturne 'Abandon'")?>
-<p>*M* mm. 3-4 of bottom row: Ab -> Eb7/*1 -> Ab, i.e. I -> V9/*1 -> I</p>
+<p>*M* mm. 3-4 of bottom row: Ab -> Eb7/*1 -> Ab, i.e. I -> nV9/*1 -> I</p>
 <?php yt("NCo8IGl5T9w", 90) ?>
 
 <?php tt("Chopin - Nocturne Op. 9 n°1")?>
@@ -20,6 +20,11 @@
 <p>*M* mm. 1: F -> C7/*1 -> F i.e. I -> V7/*1 -> I</p>
 <?php yt("U-fS3mR9KDA", 1275) ?>
 
+<?php tt("Scriabin - Nocturne in Ab Major")?>
+<p>*M* mm. 1-4: Ab -> Eb9/*1 -> Ab i.e. I -> nV9/*1 -> I</p>
+<?php yt("dKC4fUNfe8g") ?>
+
+
 <?php tt("Chopin - Etude Op. 25 n°1")?>
 <p>*M* mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
 <?php yt("g0hoN6_HDVU", 1850) ?>
@@ -29,7 +34,7 @@
 <?php yt("73_jSjG1WrY", 7) ?>
 
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
-<p>mm. 1-4 (in B): V9 / *1 -> IMaj7</p>
+<p>mm. 1-4 (in B): nV9 / *1 -> IMaj7</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
 

@@ -129,7 +129,7 @@
 
 <h3 id="vch9" class="elementExampleTitle">Chopin Chord with added 9th</h3>
 
-<p>The (b)6-5 resolution of the Chopin Chord can be added to the V9 or V7b9 chords, resulting in an even richer sound. In this case, the ♮9 often resolves down.</p>
+<p>The (b)6-5 resolution of the Chopin Chord can be added to the nV9 or V7b9 chords, resulting in an even richer sound. Note that in this case, the ♮9 resolves down like a 'normal' nV9 more than up like the V9.</p>
 <p>The chord can then be described as a V7((b)9, (b)13) chord. I seems that we mostly find V7(9, 13) and V7(b9, b13), respectively in major and minor, and not more dissonant/jazzy combinations like V7(9, b13) or V7(b9, 13), but I might be wrong. For simplicity, let's call them <i>'Chopin Ninth'</i> chords: VChM9 & VChmb9.</p>
 
 <?php tt("Liszt - Consolation n°3")?>

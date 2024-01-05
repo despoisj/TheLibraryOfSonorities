@@ -1,16 +1,16 @@
 <h4>Sections</h4>
 <p class="tableOfContents">
-	<a href="#v9" class="scrollLink">V9 Chord</a>
+	<a href="#v9" class="scrollLink">Upward V9 Chord</a>
 	<br>
-	<a href="#v11" class="scrollLink">V(9,11) Chord</a>
+	<a href="#v11" class="scrollLink">Upward V(9,11) Chord</a>
 	<br>
 	<a href="#vmaj9" class="scrollLink">VMaj9 -> V7 move</a>
 </p>
 
 
-<h3 id="v9" class="elementExampleTitle">V9 Chord</h3>
+<h3 id="v9" class="elementExampleTitle">Upward V9 Chord</h3>
 
-<p>The V9 Chord creates a lovely sound in Major, with the 9th (^6) <b>resolving up</b> to ^1. Note that traditional voice leading expects the 9th to resolve down instead of up, so this version of the V9 chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7).</p>
+<p>What I call the upward V9 Chord is a lovely sound in Major created with the 9th (^6) <b>resolving up</b> to ^1. Traditional voice leading for a nV9 chord expects the 9th to resolve down instead of up, so this chord is often analyzed as a V7 chord with an appogiatura (^6 -> ^7).</p>
 
 
 
