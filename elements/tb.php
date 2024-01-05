@@ -46,7 +46,10 @@
 <p>Note: we find the exact same sequence and sonority in the <i>UEFA Champions League Anthem</i> by Tony Britten.</p>
 <?php yt("F-6Z9IU5BVk", 9) ?>
 
-
+<?php tt("Chopin - Ballade n°1 in G minor")?>
+<p>- At 5:04 (mm. 3-4): Major 53 -> 6/#4/2</p>
+<p>- At 6:22 (mm. 6-7): Major 53 -> 6/#4/2</p>
+<?php yt("VmFmAvwO1pE", 304) ?>
 
 <h4 class="elementExampleTitle">The Morte</h4>
 

@@ -4,6 +4,10 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
+<?php tt("Chopin - Ballade n°1 in G minor")?>
+<p>*M* mm. 1-2: Eb -> Bb7/*1 -> Eb i.e I -> V7/*1 -> I</p>
+<?php yt("VmFmAvwO1pE", 389) ?>
+
 <?php tt("Mélanie Chasselon - Nocturne 'Abandon'")?>
 <p>*M* mm. 3-4 of bottom row: Ab -> Eb7/*1 -> Ab, i.e. I -> V9/*1 -> I</p>
 <?php yt("NCo8IGl5T9w", 90) ?>
