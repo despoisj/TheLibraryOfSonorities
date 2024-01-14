@@ -14,6 +14,10 @@
 <p>mm. 2: C#min -> B-D-(E)-G# -> Amaj</p>
 <?php yt("oLfvyClF0ZU", 26) ?>
 
+<?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
+<p>Last two bars: Fmin -> Eb-Gb-Ab-C -> Db.</p>
+<?php yt("62vYPGOe9EM", 47) ?>
+
 <?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
 <p>After a I64 -> V -> I in Bm mm. 2, we get mm. 3-4 Bm -> D7 -> G</p>
 <p>Note: here the bass is *1 b*3 b*6</p>

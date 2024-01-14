@@ -19,6 +19,10 @@
 <p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p>
 <?php yt("GAs0zEGY7yw") ?>
 
+<?php tt("Shalva Taktakishvili - Consolation")?>
+<p>*M* mm. 1: i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
+<?php yt("dZZlf1oYjoo", 44) ?>
+
 <?php tt("Maurice Randall - Contemplation (Romance), Op. 27") ?>
 <p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
 <?php yt("WIlrGTPk11w") ?>

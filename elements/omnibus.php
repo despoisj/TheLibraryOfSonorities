@@ -24,6 +24,10 @@
 <p>mm. 4</p>
 <?php yt("QyTb0ThLCyo", 213) ?>
 
+<?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
+<p>mm. 3-4: D -> Db -> C in the bass with Bb -> B -> C in the melody.</p>
+<?php yt("62vYPGOe9EM", 98) ?>
+
 <?php tt("Chopin - Nocturne Op. 27, n°2")?>
 <p>Converging wedge between the bass and RH chords (the higher notes don't participate in the wedge).</p>
 <?php yt("WJ8RVjm49hE", 174) ?>
