@@ -30,8 +30,9 @@
 <?php yt("U-fS3mR9KDA", 29) ?>
 
 <?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
-<p>mm. 5: I64 -> V9 (E7 + F#).</p>
-<?php yt("62vYPGOe9EM", 76) ?>
+<p>At 0:20 mm. 4-5: Eb7 + F -> G -> Ab (inner voice)</p>
+<p>At 1:17 mm. 5: I64 -> V9 (E7 + F#).</p>
+<?php yt("62vYPGOe9EM", 20) ?>
 
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
 <p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
