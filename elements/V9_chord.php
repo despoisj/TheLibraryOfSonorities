@@ -38,6 +38,10 @@
 <p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
+<?php tt("Bortkiewicz - Nocturne, Op. 24 n°1")?>
+<p>mm. 4-5 (in Ab): V9 (Eb7 + F -> G -> Ab)</p>
+<?php yt("0o0g-j8FjdY", 151) ?>
+
 <?php tt("Scriabin - Prelude, Op. 16 n°1")?>
 <p>mm. 1: V9 (F#7 + G#) / *1 -> B</p>
 <p>Note the VChM at 1:13</p>
