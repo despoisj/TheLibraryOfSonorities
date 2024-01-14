@@ -63,7 +63,6 @@
 <?php yt("HSESmLtgk0E", 197) ?>
 
 
-
 <h3 id="v11" class="elementExampleTitle">V7 with added 9th & 11th</h3>
 <p>We can enhance the upward 9th by playing it in thirds with the 11th, resulting in a V11 chord. In this example the 9th and 11th <b>resolve upwards</b> by step to the 3rd and 5th then again to reach ^1 and ^3. The melody follows ^6 ^1 -> ^7 ^2 -> ^1 ^3.</p>
 <p><b>Keyboard tip:</b> you can get this chord by playing iim7 on top of *5 bass, especially since for this voicing you can't include the third of the dominant chord: for a G11 chord, the third B would clash with the 11th C. </p>
@@ -80,6 +79,11 @@
 <p>Note: the passing notes could be seen/heard as a simple V9, this shows the nature of the 9th and 11th as appogiaturas.</p>
 <?php yt("T19mqDSR5ws", 1026) ?>
 
+<?php tt("Chopin - Nocturne Op. 62 n°1")?>
+<p>mm. 1: F#7 + G# -> A# -> B.</p>
+<p>Notet that the melody is the rising 9th but the harmony also feature the rising #11th a sixth below: </p>
+<?php yt("kHXxWfSAxik", 5252) ?>
+
 
 
 <h3 id="vmaj9" class="elementExampleTitle">(W.I.P.) VMaj9 -> V7</h3>
@@ -93,8 +97,8 @@
 
 <?php tt("Mykola Lysenko - Aveu, Op. 37 n°1")?>
 <p>mm. 1: EbMaj9 -> Eb7 -> ... -> Ab</p>
-<p>Note the D♮ (#^4) -> Db (♮^4) and the F (^6) -> G (^7) -> A (^8).</p>
-<?php yt("GFRWQwaT2AQ", 80) ?>
+<p>Note the D♮ (#^4) -> Db (♮^4) -> C (^3) and the F (^6) -> G (^7) -> A (^8).</p>
+<?php yt("GFRWQwaT2AQ", 10) ?>
 
 
 <?php tt("Model")?>
