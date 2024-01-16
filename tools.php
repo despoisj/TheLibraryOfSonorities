@@ -33,29 +33,34 @@ function loadElement($element, $fullSize) {
 			echo '</div>';
 		}
 
-		// Tags
-		echo "<div class='tagBox'>";
-			// To avoid trailing commas, first get all elements, then echo them.
-			$tags = [];
 
-			foreach ($element["styles"] as $style) {
-				array_push($tags, "<i><a class='tag' href='index.php?filter=style&style=" . $style . "'>" . ucfirst($style) . "</a></i>");
-			}
-			foreach ($element["composers"] as $composer) {
-				array_push($tags, "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>");
-			}
-			foreach ($element["emotions"] as $emotion) {
-				array_push($tags, "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>");
-			}
-			// Echo tags
-			for ($i=0; $i < count($tags); $i++) {
-				echo $tags[$i];
-			  if ($i < count($tags) - 1) {
-			  	// Add trailing comma
-			  	echo ", ";
-			  }
-			}
-		echo "</div>";
+		// Liss all tags. To avoid trailing commas, first we get all elements, then echo them.
+		$tags = [];
+		foreach ($element["styles"] as $style) {
+			array_push($tags, "<i><a class='tag' href='index.php?filter=style&style=" . $style . "'>" . ucfirst($style) . "</a></i>");
+		}
+		foreach ($element["composers"] as $composer) {
+			array_push($tags, "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>");
+		}
+		foreach ($element["emotions"] as $emotion) {
+			array_push($tags, "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>");
+		}
+
+		// Only if tags has elements or fullsize for buffer margin
+		if (count($tags) > 0 || $fullSize){
+			// Add tags
+			echo "<div class='tagBox'>";
+				
+				// Echo tags
+				for ($i=0; $i < count($tags); $i++) {
+					echo $tags[$i];
+				  if ($i < count($tags) - 1) {
+				  	// Add trailing comma
+				  	echo ", ";
+				  }
+				}
+			echo "</div>";
+		}
 
 	echo "</div>";
 }
@@ -65,6 +70,18 @@ function loadAllElements() {
 	foreach ($library as $element) {
 		loadElement($element, False);
 	}
+
+	# Add misc elements too
+	echo '<div id="misc" style="margin-top: 100px; margin-bottom:150px">';
+ 		echo '<h2>Additional elements</h2>';
+  		echo '<div class="blurb" style="margin-top:20px; margin-bottom:40px">';
+  		echo '<p>These are additional elements and techniques that may not be entirely defined by their sonority, yet can be helpful for improvisation.</p>';
+  	echo '</div>';
+  
+  	loadMisc();
+
+  echo '</div>';
+
 
 	// Comments using uuid
 	addComments("mainPage");
@@ -125,9 +142,25 @@ function loadType($type) {
 	addComments("type_" . $type);
 }
 
+function loadMisc() {
+	// Loads all additional misc elements
+	global $library_misc;
+	foreach ($library_misc as $element) {
+		loadElement($element, False);
+	}
+}
+
+
 function loadSingleElement($elementName) {
-	global $library;
+	// Load single elemnt either from library or misc
+	global $library, $library_misc;
 	foreach ($library as $element) {
+		if ($element["pageName"] == $elementName){
+			loadElement($element, True); // Uncollapse
+		}
+	}
+
+	foreach ($library_misc as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, True); // Uncollapse
 		}

@@ -59,5 +59,13 @@ array_push($library, element("harmonic_minor", "(WIP) Harmonic Minor", ["romanti
 
 array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "hisaishi"], "harmony"));
 
+
+array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));
+
 // array_push($library, element("harmonic_major", "(WIP) Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["heartbreaking"]));
 
+
+// Define small misc elements
+$library_misc = [];
+
+array_push($library_misc, element("spinning_forward", "Spinning Forward"));

@@ -172,8 +172,6 @@ if ($filter == "element"){
         <!-- CONTENT -->
         <div id="elements" style="margin-top: 50px; margin-bottom:150px">
 
-
-
             <?php
                 if ($filter == "element")
                     loadSingleElement($elementName);
