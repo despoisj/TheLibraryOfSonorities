@@ -144,6 +144,11 @@ if ($filter == "element"){
                         $title = "Baroque/Classical";
                     else
                         $title = ucfirst($style);
+
+                    // Special case
+                    echo '<h2>';
+                    echo $title;
+                    echo '</h2>';
                 } elseif ($filter == "harmony") {
                     $title = "Harmony";
                 } elseif ($filter == "texture") {
