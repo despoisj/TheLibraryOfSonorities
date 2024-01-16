@@ -20,6 +20,10 @@
 <p>Last measure: C7 + D -> E -> F.</p>
 <?php yt("U-fS3mR9KDA", 1111) ?>
 
+<?php tt("Schumann - Kinderszenen Op. 15 n°7, Träumerei")?>
+<p>Last chords: C7 + D -> E -> F.</p>
+<?php yt("_RmuTuVWXy4", 137) ?>
+
 <?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
 <p>mm. 4: A7 + B -> C# -> D.</p>
 <?php yt("dFg02WEwlCM", 33) ?>
