@@ -134,6 +134,8 @@ p a {
   text-decoration: underline;
   text-decoration-color: #777;
   width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .elementTitleFull {
