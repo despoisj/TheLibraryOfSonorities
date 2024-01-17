@@ -68,4 +68,6 @@ array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli
 // Define small misc elements
 $library_misc = [];
 
+array_push($library_misc, element("openers", "Opening Gestures"));
+
 array_push($library_misc, element("spinning_forward", "Spinning Forward"));
