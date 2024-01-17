@@ -12,6 +12,8 @@
 	<br>
 	<a href="#ivvi" class="scrollLink">I-V-V-I Schemas</a>
 	<br>
+	<a href="#quiescenza" class="scrollLink">The Quiescenza</a>
+	<br>
 </p>
 
 
@@ -120,3 +122,12 @@
 <?php tt("The Sol-Fa-Mi") ?>
 <?php yt("6CQU3-5o-4U") ?>
 
+
+<h3 id="quiescenza" class="elementExampleTitle">The Quiescenza</h3>
+
+<p>The 'Quiescenza' (Gjerdingen) is a progression of I -> (I7) -> IV -> V over a *1 pedal point. It is sometimes used as an opener or as a closing gesture, repeated twice. The soprano typically follows ^8 –> b^7 –> ^6 –> ♮7 –> ^8</p>
+
+
+<?php yt("WcmqsTTEp_s") ?>
+<br>
+<?php yt("en8mUwXlKqc") ?>

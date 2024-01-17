@@ -14,7 +14,7 @@ function loadElement($element, $fullSize) {
 			echo '<h2 class="elementTitle"><a class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
 		}
 
-		// Possibility to collapse or not by default
+		// Illustration
 		if ($fullSize){
 
 			echo '<div class="illustration" style="background-image: url(\'imgs/backgrounds/opa.png\'),  url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/' . $element["pageName"]. '.jpg\');" />';
@@ -150,6 +150,23 @@ function loadMisc() {
 	}
 }
 
+
+function linkSingleElement($elementName) {
+	// Links to single elemnt either from library or misc
+	// Displays the rectangle with name etc.
+	global $library, $library_misc;
+	foreach ($library as $element) {
+		if ($element["pageName"] == $elementName){
+			loadElement($element, False); // Uncollapse
+		}
+	}
+
+	foreach ($library_misc as $element) {
+		if ($element["pageName"] == $elementName){
+			loadElement($element, False); // Uncollapse
+		}
+	}
+}
 
 function loadSingleElement($elementName) {
 	// Load single elemnt either from library or misc

@@ -71,3 +71,5 @@ $library_misc = [];
 array_push($library_misc, element("openers", "Opening Gestures"));
 
 array_push($library_misc, element("spinning_forward", "Spinning Forward"));
+
+array_push($library_misc, element("endings", "Endings"));

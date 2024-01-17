@@ -38,6 +38,10 @@
 <p>At 1:17 mm. 5: I64 -> V9 (E7 + F#).</p>
 <?php yt("62vYPGOe9EM", 18) ?>
 
+<?php tt("Chopin - Nocturne Op. 9 n°2")?>
+<p>We get first a Bb7 chord with a strong Bb (*1) pedal, then the repeated flourish that finally descends and ends with ^6 -> ^7 -> ^1</p>
+<?php yt("YGRO05WcNDk", 222) ?>
+
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
 <p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
