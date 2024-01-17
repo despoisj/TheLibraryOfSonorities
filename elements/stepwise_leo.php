@@ -10,6 +10,10 @@
 <p>Leo Romanesca: At the end of the second row, note the descending bassline Eb (*1) -> D (*7) -> C (*6) -> Bb (*5) with the static I harmony (Eb major triad).</p>
 <?php yt("M_124D_7KoU", 195) ?>
 
+<?php tt("Bach - Brandenburg Concerto n°6, 3rd Mvt.") ?>
+<p>Leo Romanesca mm. 1 then some kind of Leo / Romanesca with 64 instead of 63 on page 3.</p>
+<?php yt("tz09635swuU", 643) ?>
+
 <?php tt("Alexandre Desplat - Obituary") ?>
 <p>Textbook Leo Romanesca.</p>
 <?php yt("azB-_MlmhfI", 69) ?>
