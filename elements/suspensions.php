@@ -4,7 +4,7 @@
 <h3 id="wss" class="elementExampleTitle">Whole Step Suspensions (WSS)</h3>
 
 <p>In <a target="_blank" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/available-tensions/">jazz theory</a>, it is common practice to enrich Diminished 7th chords such as CT°7 or LT°7 by adding notes that are one whole step up from any of the chord tones. For exemple on a C°7 chord you can add any of D, F, G# or B - a.k.a. notes from a D°7 chord. In romantic music, these additional dissonances are often treated as suspensions by resolving down by step. I call these Whole Step Suspensions, or WSS.</p>
-<p>For maximum effect, the suspensions is played as the highest note of the melody.</p>
+<p>For maximum effect, the suspensions is played as the highest note of the melody and extended in duration, with the resolution arriving late.</p>
 <p>Note: this borrows notes from the <a target="_blank" href="https://en.wikipedia.org/wiki/Octatonic_scale">Whole-Half diminished scale</a>, also known as the Octatonic scale.</p>
 
 
@@ -16,10 +16,14 @@
 <?php yt("hDtDq4GmLqU", 11) ?>
 
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major, Andante") ?>
-<p>*m* 4th measure: C#m63 -> B#°7/E# (with added B -> A) -> C#m63 -> B#°7 -> C#m</p>
+<p>4th measure: C#m63 -> B#°7/E# (with added B -> A) -> C#m63 -> B#°7 -> C#m</p>
 <p>i.e i6 -> LT°7 inverted + WSS -> i6 -> LT°7 + WSS -> i</p>
 <?php yt("eh3l8I-JT4Q", 980) ?>
 
+<?php tt("Edward MacDowell - 4 Little Poems, Op. 32 n°1") ?>
+<p>mm. 2: B#°7 (with G# -> F#)</p>
+<p>i.e B#°7 + WSS</p>
+<?php yt("rquTU4lzc4g", 16) ?>
 
 
 
