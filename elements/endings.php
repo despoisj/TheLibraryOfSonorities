@@ -7,6 +7,8 @@
 	<br>
 	<a href="#fade" class="scrollLink">The Fade</a>
 	<br>
+	<a href="#mons" class="scrollLink">The Mons Wanhali</a>
+	<br>
 </p>
 
 
@@ -27,8 +29,6 @@
 <p>High G (^1) -> Low G (^1).</p>
 <p>Note: although some recordings (including one by Rachmaninoff himself) change this ending for a more bombastic one, I love the minimalist simplicity and humour of a 1 or 2 soft notes ending to conclude a very intense piece. I'm looking for more examples of light/fun endings.</p>
 <?php yt("I2GKgFZ_ioQ", 246) ?>
-
-
 
 <?php tt("Chopin - Nocturne Op. 9 n°2")?>
 <p>Medium E (^1) -> High E (^1) -> Low E (^1).</p>
@@ -78,3 +78,13 @@
 <?php tt("Field - Nocturnes")?>
 <p>Many of field's nocturnes feature some kind of fade. For example at 12:21 with chords, or at 48:00 with a final fall.</p>
 <?php yt("U-fS3mR9KDA", 741) ?>
+
+
+<br>
+<h3 id="mons" class="elementExampleTitle">The Mons Wanhali</h3>
+<p>"The Mons Wanhali (Mountain of Vanhal) to which The Vanhal specialist Halvor K. Hosar refers is the movement’s final gesture: a series of chords harmonizing an ascent from ^1 to 3 to ^1." ~ John Field<p>
+
+<?php tt("Johann Baptist Vanhal - Missa Solemnis in C major, Agnus Dei")?>
+<p>Note: this is a variant with ^7 ^1 instead of ^2 ^1.</p>
+<?php yt("ObMBQyxDL1U", 306) ?>
+
