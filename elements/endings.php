@@ -9,6 +9,8 @@
 	<br>
 	<a href="#mons" class="scrollLink">The Mons Wanhali</a>
 	<br>
+	<a href="#trill" class="scrollLink">The Trill (WIP)</a>
+	<br>
 </p>
 
 
@@ -86,5 +88,11 @@
 
 <?php tt("Johann Baptist Vanhal - Missa Solemnis in C major, Agnus Dei")?>
 <p>Note: this is a variant with ^7 ^1 instead of ^2 ^1.</p>
-<?php yt("ObMBQyxDL1U", 306) ?>
+<?php yt("kN3-JBvJiJ8", 306) ?>
 
+<br>
+<h3 id="trill" class="elementExampleTitle">The Trill (WIP)</h3>
+<p>I feel like I've heard many pieces or sections end this way but I can only find one so far. The idea is to end on a trill based on a tonic triad chord tone.<p>
+
+<?php tt("Tchaikovsky - Meditation Op.72 No.5")?>
+<?php yt("roBcnLx9SLA", 283) ?>

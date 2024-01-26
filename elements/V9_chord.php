@@ -33,6 +33,10 @@
 <p>Note: this piece is great to train your ear as it displays dominant chords with accented 7ths in melody, 9ths (V9), and 13ths (VChM).</p>
 <?php yt("U-fS3mR9KDA", 29) ?>
 
+<?php tt("Ottorino Respighi - Intermezzo")?>
+<p>mm. 3: ~B7 + C# (9th)</p>
+<?php yt("T19mqDSR5ws", 1026) ?>
+
 <?php tt("Arnoldo Sartorio - Romanze, Op. 31")?>
 <p>At 0:20 mm. 4-5: Eb7 + F -> G -> Ab (inner voice)</p>
 <p>At 1:17 mm. 5: I64 -> V9 (E7 + F#).</p>
@@ -46,8 +50,13 @@
 <p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
-<?php tt("Bortkiewicz - Nocturne, Op. 24 n°1")?>
-<p>mm. 4-5 (in Ab): V9 (Eb7 + F -> G -> Ab)</p>
+
+<?php tt("Scriabin - Prelude, Op. 11 n°11")?>
+<p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
+<?php yt("PgK_Yhli8js", 244) ?>
+
+<?php tt("Edward MacDowell - 2 Fantasy Pieces, Op. 17 n°1")?>
+<p>mm. 4-5 (in F#): V9 (C#7 + D# -> E# -> F#)</p>
 <?php yt("0o0g-j8FjdY", 151) ?>
 
 <?php tt("Scriabin - Prelude, Op. 16 n°1")?>
@@ -87,10 +96,6 @@
 <p>V11 At 17:32, 2nd row, first staff, 2nd bar in E major: B (*5) in bass, and after I64 (B G# E) we get a dim chord that transforms into F#min7 over B i.e. B7(9,11) i.e. iim7/*5 with the 9th and 11th resolving up: C# -> D#, E -> F#.</p>
 <?php yt("eh3l8I-JT4Q", 998) ?>
 
-<?php tt("Ottorino Respighi - Intermezzo")?>
-<p>mm. 3: ~B7 + C# (9th) + E (11th) -> B7 -> E. i.e V11 -> V7 -> I</p>
-<p>Note: the passing notes could be seen/heard as a simple V9, this shows the nature of the 9th and 11th as appogiaturas.</p>
-<?php yt("T19mqDSR5ws", 1026) ?>
 
 <?php tt("Chopin - Nocturne Op. 62 n°1")?>
 <p>mm. 1: F#7 + G# -> A# -> B.</p>
