@@ -25,6 +25,24 @@ function makeItem(text, itemclass, page = false) {
 
 function formatPage(text) {
 
+    // Replace b^1 to b^7 and b*1 to b^8 with ♭
+    text = text.replaceAll(/b(\^\d)/g, "♭$1");
+    text = text.replaceAll(/b(\*\d)/g, "♭$1");
+
+    // Same with digits for mode names like Mixolydian b6 but not if between quotes (link etc.)
+    text = text.replaceAll(/([A-Z][a-z]* )b(\d)(?![^<>]*<\/a>)/g, "$1♭$2");
+
+    // Same for capital letters in ABCDEFG with a space before or after like Cb or Ab
+    text = text.replaceAll(/ ([ABCDEFG])bb/g, " $1<sup>𝄫</sup>");
+    text = text.replaceAll(/([ABCDEFG])bb /g, "$1<sup>𝄫</sup> ");
+
+    text = text.replaceAll(/ ([ABCDEFG])b/g, " $1<sup>♭</sup>");
+    text = text.replaceAll(/([ABCDEFG])b /g, "$1<sup>♭</sup> ");
+
+    text = text.replaceAll(/ ([ABCDEFG])#/g, " $1<sup>♯</sup>");
+    text = text.replaceAll(/([ABCDEFG])# /g, "$1<sup>♯</sup> ");
+
+
     // Regular expression to match digits with a caret symbol (^)
     const regex = /\^(\d)/g;
     const unicodeOffset = 10121; // For back background: soprano
@@ -45,25 +63,34 @@ function formatPage(text) {
     text = text.replaceAll("-&gt;","→");
 
     // Inline items
-    text = text.replaceAll(/(LT°7|LT°)(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1", "lt7", "ct_lt#ctlt"));
-    text = text.replaceAll(/([A-Za-z]?)CT°7(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1CT°7", "ct7", "ct_lt#ctlt"));
+    text = text.replaceAll(/LT°(7?)(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("LT<sup>o$1</sup>", "lt7", "ct_lt#ctlt"));
+    text = text.replaceAll(/([A-Za-z]?)CT°7(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1CT<sup>o7</sup>", "ct7", "ct_lt#ctlt"));
 
-    text = text.replaceAll(/VChM9/g, makeItem("VCh<small><small>Maj</small><sup>9</sup></small>", "vchMaj9", "chopin_chord#vch9"));
-    text = text.replaceAll(/VChmb9/g, makeItem("VCh<small><small>min</small><sup>♭9</sup></small>", "vchMinb9", "chopin_chord#vch9"));
+    text = text.replaceAll(/VChM9/g, makeItem("V<sub>Ch</sub><small><small>Maj</small><sup>9</sup></small>", "vchMaj9", "chopin_chord#vch9"));
+    text = text.replaceAll(/VChmb9/g, makeItem("V<sub>Ch</sub><small><small>min</small><sup>♭9</sup></small>", "vchMinb9", "chopin_chord#vch9"));
     
-    text = text.replaceAll(/VChM/g, makeItem("VCh<small><small>Maj</small></small>", "vchMaj", "chopin_chord#vch"));
-    text = text.replaceAll(/VChm/g, makeItem("VCh<small><small>min</small></small>", "vchMin", "chopin_chord#vch"));
+    text = text.replaceAll(/VChM/g, makeItem("V<sub>Ch</sub><small><small>Maj</small></small>", "vchMaj", "chopin_chord#vch"));
+    text = text.replaceAll(/VChm/g, makeItem("V<sub>Ch</sub><small><small>min</small></small>", "vchMin", "chopin_chord#vch"));
 
-    text = text.replaceAll(/V7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V7b9", "v7b9", "V7b9_chord"));
-    text = text.replaceAll(/(?<!n)V9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V9<sup>↑</sup>$1", "v9", "V9_chord#v9"));
+    text = text.replaceAll(/V7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>7♭9</sup>", "v7b9", "V7b9_chord"));
+
+    text = text.replaceAll(/(?<!n)V9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>9↑</sup>$1", "v9", "V9_chord#v9"));
     // Normal V9
-    text = text.replaceAll(/nV9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V9$1", "nv9", "V9_chord#v9"));
-    text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V11<sup>↑</sup>", "v9", "V9_chord#v11"));
+    text = text.replaceAll(/nV9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>9</sup>$1", "nv9", "V9_chord#v9"));
+    text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>11↑</sup>", "v9", "V9_chord#v11"));
 
     text = text.replaceAll(/WSS(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("WSS", "wss", "suspensions"));
 
     text = text.replaceAll(/\*M\*/g, makeItem("<small><small>Maj.</small></small>", "major"));
     text = text.replaceAll(/\*m\*/g, makeItem("<small><small>min.</small></small>", "minor"));
+    
+
+    // After elements to make sure to not mess it up
+    // Replace things like F#°7 and #viiø65
+    text = text.replaceAll(/ø(\d{0,2})/g, "<sup>ø$1</sup>");
+    text = text.replaceAll(/([^n])°(\d{0,2})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
+    text = text.replaceAll(/([ABCDEFG#b])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
+
 
     return text;
 }

@@ -131,16 +131,13 @@ p a {
 
 .elementTitle {
   margin-bottom: 10px;
-  text-decoration: underline;
-  text-decoration-color: #777;
+
   width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
 
 .elementTitleFull {
-  text-decoration: underline;
-  text-decoration-color: #777;
   width: 90%;
 
   margin: 0;
@@ -153,7 +150,8 @@ p a {
 
 .elementTitleLink{
   color: var(--beige);
-  text-decoration: none;
+
+  border-bottom : 2px solid #77777766;
 }
 
 .elementExampleTitle {

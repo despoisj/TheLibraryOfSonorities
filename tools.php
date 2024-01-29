@@ -11,7 +11,7 @@ function loadElement($element, $fullSize) {
 
 		// Setup title link
 		if (!$fullSize){
-			echo '<h2 class="elementTitle"><a class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h4>";
+			echo '<h2 class="elementTitle"><span class="elementTitleLink">' . $element["title"] . "</span></h4>";
 		}
 
 		// Illustration
@@ -20,7 +20,9 @@ function loadElement($element, $fullSize) {
 			echo '<div class="illustration" style="background-image: url(\'imgs/backgrounds/opa.png\'),  url(\'imgs/backgrounds/opa.png\'), url(\'imgs/backgrounds/' . $element["pageName"]. '.jpg\');" />';
 
 				// Title
-				echo '<h2 class="elementTitleFull"><a  class="elementTitleLink" href="index.php?filter=element&element=' . $element["pageName"] . '">' . $element["title"] . "</a></h2>";
+				echo '<h2 class="elementTitleFull"><span class="elementTitleLink">' . $element["title"] . "</span></h2>";
+
+
 
 			echo '</div>';
 

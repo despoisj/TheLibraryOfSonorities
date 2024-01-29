@@ -32,7 +32,6 @@ view of D instead of G.</p>
 <?php yt("YrfPqrCY9tE", 244) ?>
 
 
-
 <?php tt("Samuel Maykapar - Arietta in A minor") ?>
 <p>mm. 7: Descending A harmonic minor (note the G#).</p>
 <?php yt("dcapH7xANkI", 86) ?>

@@ -19,13 +19,13 @@ $library = [];
 
 
 // Chords
-array_push($library, element("chopin_chord", "'Chopin Chord' (V7Add6)", ["romantic"], ["chopin", "scriabin"], "harmony"));
-array_push($library, element("V9_chord", "Upward V9 Chord in Major", ["romantic"], [], "harmony"));
-array_push($library, element("V7b9_chord", "V7b9 Chord in minor", ["romantic"], [], "harmony", ["sad"]));
+array_push($library, element("chopin_chord", "'Chopin Chord' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin"], "harmony"));
+array_push($library, element("V9_chord", "Upward V<sup>9</sup> Chord in Major", ["romantic"], [], "harmony"));
+array_push($library, element("V7b9_chord", "V<sup>7b9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
-array_push($library, element("ct_lt", "CT°7 & LT°7 Chords", ["romantic"], [], "harmony", ["dreamy"]));
-array_push($library, element("V_over_1", "V(7) over *1", ["romantic", "classical"], [], "harmony", ["dreamy"]));
+array_push($library, element("ct_lt", "CT<sup>o7</sup> & LT<sup>o7</sup> Chords", ["romantic"], [], "harmony", ["dreamy"]));
+array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "classical"], [], "harmony", ["dreamy"]));
 array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"], [], "harmony"));
 
 // Modulation
@@ -54,15 +54,14 @@ array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "ha
 array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
 
 // WIP
-array_push($library, element("harmonic_minor", "(WIP) Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
-
+array_push($library, element("harmonic_minor", "Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
+array_push($library, element("harmonic_major", "Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["bittersweet"]));
 
 array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "hisaishi"], "harmony"));
 
 
 array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));
 
-// array_push($library, element("harmonic_major", "(WIP) Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["heartbreaking"]));
 
 
 // Define small misc elements
