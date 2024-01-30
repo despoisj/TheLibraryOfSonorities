@@ -86,9 +86,9 @@ function formatPage(text) {
     
 
     // After elements to make sure to not mess it up
-    // Replace things like F#°7 and #viiø65
-    text = text.replaceAll(/ø(\d{0,2})/g, "<sup>ø$1</sup>");
-    text = text.replaceAll(/([^n])°(\d{0,2})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
+    // Replace things like F#°7 and #viiø642
+    text = text.replaceAll(/ø(\d{0,3})/g, "<sup>ø$1</sup>");
+    text = text.replaceAll(/([^n])°(\d{0,3})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
     text = text.replaceAll(/([ABCDEFG#b])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
 
 
