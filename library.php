@@ -19,17 +19,17 @@ $library = [];
 
 
 // Chords
-array_push($library, element("chopin_chord", "'Chopin Chord' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin"], "harmony"));
-array_push($library, element("V9_chord", "Upward V<sup>9</sup> Chord in Major", ["romantic"], [], "harmony"));
+array_push($library, element("chopin_chord", "'Chopin Chord' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin", "field", "blumenfeld"], "harmony"));
+array_push($library, element("V9_chord", "Upward V<sup>9</sup> Chord in Major", ["romantic"], ["scriabin", "chopin", "schumann", "field"], "harmony"));
 array_push($library, element("V7b9_chord", "V<sup>7b9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("ct_lt", "CT<sup>o7</sup> & LT<sup>o7</sup> Chords", ["romantic"], [], "harmony", ["dreamy"]));
-array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "classical"], [], "harmony", ["dreamy"]));
+array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "classical"], ["chopin", "scriabin"], "harmony", ["dreamy"]));
 array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"], [], "harmony"));
 
 // Modulation
-array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven"], "harmony"));
+array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven", "chopin"], "harmony"));
 array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to III)", ["classical", "romantic"], [], "harmony"));
 
 // Progressions
@@ -41,10 +41,10 @@ array_push($library, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic
 array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
 
 // Arps
-array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld"], "harmony"));
+array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld", "scriabin", "rachmaninoff"], "harmony"));
 
 // Other
-array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin", "rachmaninoff"], "texture"));
+array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin", "rachmaninoff", "schubert"], "texture"));
 
 
 array_push($library, element("picardy_third", "Picardy Third", ["romantic"], ["chopin"], "harmony"));
@@ -53,11 +53,10 @@ array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"]
 array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));
 array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
 
-// WIP
 array_push($library, element("harmonic_minor", "Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
-array_push($library, element("harmonic_major", "Harmonic Major", ["romantic"], ["rachmaninoff"], "harmony", ["bittersweet"]));
+array_push($library, element("harmonic_major", "Harmonic Major", ["romantic"], ["rachmaninoff", "chopin"], "harmony", ["bittersweet"]));
 
-array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "hisaishi"], "harmony"));
+array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "ravel", "hisaishi"], "harmony"));
 
 
 array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));
