@@ -25,6 +25,11 @@
 <p>i.e B#°7 + WSS</p>
 <?php yt("rquTU4lzc4g", 16) ?>
 
+<?php tt("Grieg - Lyric Pieces Op. 12 n°1 'Arietta'")?>
+<p>*M* mm. 1-2: Eb -> Ab°7 / Eb (with G -> F) -> Eb</p>
+<p>i.e. I -> LT°7 + WSS / *1 -> I.</p>
+<?php yt("7IYEUiKh-48") ?>
+
 
 
 <h3 class="elementExampleTitle">(W.I.P) Suspensions on Half-Diminished Chords</h3>
