@@ -51,9 +51,13 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>mm. 4: D°7 -> DMaj i.e. ICT°7 -> I, repeated with the piano.</p>
 <?php yt("MXo3GcXj24E", 439) ?>
 
+<?php tt("Isaac Albéniz / Godowsky  - Tango") ?>
+<p>*M* A°7 + B -> A7, i.e. I -> VCT°7/*1 -> V7/*1</p>
+<?php yt("nV5kycm6wac", 9) ?>
+
 
 <?php tt("More Examples of CT°7") ?>
-<p>You can find more examples of the CT°7 sonority <a href="https://musictheoryexamples.com/26CT.html">here</a>, which is the source for most of the examples above.</p>
+<p>You can find more examples of the CT°7 sonority <a href="https://musictheoryexamples.com/26CT.html">here</a>, which is the source for many of the examples above.</p>
 
 <?php tt("Liszt - Consolation n°3")?>
 <p>mm 3-4: Db -> ~Db°7 -> ... -> Db, i.e. I -> ICT°7 -> ... -> I</p>
@@ -96,6 +100,7 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <?php tt("Felix Blumenfeld - Etude for the Left Hand, Op. 36") ?>
 <p>*M* Ab -> G°7/Ab, i.e. I -> LT°7/*1 -> .../*1</p>
 <?php yt("nGiO9foYa4A") ?>
+
 
 <?php tt("Schumann - Kinderszenen Op. 15 n°1") ?>
 <p>*M* At 0:08 I -> LT°7 of V -> V</p>
