@@ -88,6 +88,11 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>Note: the E with the LT°7 chord is similar to when we have LT°7/*1, except here it's buried inside the texture.</p>
 <?php yt("JQ0YZTUGCKI", 14) ?>
 
+<?php tt("Grieg - Lyric Pieces Op. 12 n°1 'Arietta'")?>
+<p>*M* mm. 1-2: Eb -> Ab°7 / Eb -> Eb, i.e. I -> LT°7 / *1 -> I.</p>
+<?php yt("7IYEUiKh-48") ?>
+
+
 <?php tt("Felix Blumenfeld - Etude for the Left Hand, Op. 36") ?>
 <p>*M* Ab -> G°7/Ab, i.e. I -> LT°7/*1 -> .../*1</p>
 <?php yt("nGiO9foYa4A") ?>
