@@ -52,7 +52,7 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <?php yt("MXo3GcXj24E", 439) ?>
 
 <?php tt("Isaac Albéniz / Godowsky  - Tango") ?>
-<p>*M* A°7 + B -> A7, i.e. I -> VCT°7/*1 -> V7/*1</p>
+<p>mm. 1: A°7 + B -> A7, i.e. I -> VCT°7/*1 -> V7/*1</p>
 <?php yt("nV5kycm6wac", 9) ?>
 
 
