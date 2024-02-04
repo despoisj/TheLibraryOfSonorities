@@ -55,6 +55,9 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>mm. 1: A°7 + B -> A7, i.e. I -> VCT°7/*1 -> V7/*1</p>
 <?php yt("nV5kycm6wac", 9) ?>
 
+<?php tt("Rachmaninoff - Sonata for Cello and Piano, Op. 19, 3rd Mvt.") ?>
+<p>mm. 1: Eb°7 -> Eb, i.e. CT°7 -> I</p>
+<?php yt("IuK4g1MMzDI", 17) ?>
 
 <?php tt("More Examples of CT°7") ?>
 <p>You can find more examples of the CT°7 sonority <a href="https://musictheoryexamples.com/26CT.html">here</a>, which is the source for many of the examples above.</p>

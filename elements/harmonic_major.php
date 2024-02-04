@@ -37,6 +37,12 @@
 <?php yt("ZC7GleTGtkY", 42) ?>
 
 
+<?php tt("Rachmaninoff - Sonata for Cello and Piano, Op. 19, 3rd Mvt.") ?>
+<p>At 0:36, I -> iiø7 -> I6</p>
+<p>b^6 = Cb</p>
+<?php yt("IuK4g1MMzDI", 36) ?>
+
+
 <?php tt("Chopin  - Nocturne Op. 32 n°2") ?>
 <p>At 47:11: I -> IV -> iv -> I</p>
 <p>b^6 = Fb</p>
