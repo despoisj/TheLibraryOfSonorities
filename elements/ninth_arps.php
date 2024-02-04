@@ -36,6 +36,10 @@
 <p>*M* First bar: Ab-(Bb)-C-Eb.</p>
 <?php yt("dKC4fUNfe8g", 6) ?>
 
+<?php tt("Sergei Bortkiewicz - Piano Sonata n°1 in B Major Op. 9, 1st Mvt.") ?>
+<p>*M* First bar: E-(F#)-G#-B.</p>
+<?php yt("I28nUyBsc_U", 154) ?>
+
 <?php tt("Felix Blumenfeld - Etude, Op. 3 n°1") ?>
 <p>*M* Db bass comes in late but arpeggio is Db-(Eb)-F-Ab.</p>
 <?php yt("sJ1HmN1j6QM") ?>
