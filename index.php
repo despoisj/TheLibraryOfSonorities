@@ -104,8 +104,8 @@ if ($filter == "element"){
                 <div style="margin-top: 30px; margin-bottom: 50px;">
                     <div style="width: 90%; margin-left: 5%;">
                         <a class="navElement" href="index.php?filter=emotion&emotion=sad">Sad</a>
-                        <a class="navElement" href="index.php?filter=emotion&emotion=happy">Happy</a>
-                        <a class="navElement" href="index.php?filter=emotion&emotion=bittersweet">Bitterweet</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=dreamy">Dreamy</a>
+                        <a class="navElement" href="index.php?filter=emotion&emotion=bittersweet">Bittersweet</a>
                         <a class="navElement" href="index.php?filter=emotion&emotion=triumphant">Triumphant</a>
                         <a class="navElement" href="index.php?filter=emotion&emotion=mystical">Mystical</a>
                     </div>

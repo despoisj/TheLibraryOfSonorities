@@ -9,7 +9,7 @@
 
 <h3 id="vch" class="elementExampleTitle">'Chopin Chord'</h3>
 
-<p>The Chopin Chord is a Dominant 7th chord with the added 13th (also called 6th) sometimes voiced in 4ths with ^4 ^7 ^3 in the soprano, or ^4 ^7 b^3 in minor. Most often, the 13th resolves down to the 5th (^3 -> ^2) and then the chord resolves like a normal dominant 7th chord. The 6th/13th is an unprepared suspension. Note that the 5th (^2) is sometimes omitted. This chord is most often encountered in Major (VChM) but sometimes in minor too (VChm).</p>
+<p>The Chopin Chord is a Dominant 7th chord with the added 13th (also called 6th) sometimes voiced in 4ths with ^4 ^7 ^3 in the soprano, or ^4 ^7 b^3 in minor. Most often, the 13th resolves down to the 5th (^3 -> ^2) and then the chord resolves like a normal dominant 7th chord in what is called the <i>"Chopin Cadence"</i>. The 6th/13th is an unprepared suspension. Note that the 5th (^2) is sometimes omitted. This chord is most often encountered in Major (VChM) but sometimes in minor too (VChm).</p>
 <img style="width:90%; background-color: white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dominant_chords_in_common_practice_period.png/1000px-Dominant_chords_in_common_practice_period.png">
 
 

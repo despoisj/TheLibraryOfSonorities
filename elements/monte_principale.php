@@ -1,6 +1,6 @@
 <p>The <i>Monte Principale</i> (Gjerdingen) is a sequence that is defined by 53 chords over a bass that leaps up a fourth and down a third (U4D3). It can also be seen as a series of V-I relations that climbs up a step, especially since it is often used to repeat a musical idea that spans two chords, and then repeated higher.</p>
 <p>It is important to note the similarity with other sequences such as the 5-6 diatonic monte and the '8-7-6'. The sonority of the Monte principale is also very similar / hard to distinguish from its weak/strong beat opposite that rises by sixth and falls by fifth: the U6D5 or <i>DoLaReTi</i> (Mortensen). I will call both Monte Principale here.</p>
-<p>The Monte Principale was frequently used in Baroque and Classical music, but it can be found in Romantic music where its rising motion is used to build up energy while approaching the climax of a section. In romantic or more modern music, the chords are often embellished with extensions like the 7th.</p>
+<p>The Monte Principale was frequently used in Baroque and Classical music, but it can be found in Romantic music where its rising motion is used to swell and build up energy while approaching the climax of a section. In romantic or more modern music, the chords are often embellished with extensions like the 7th.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -10,8 +10,8 @@
 
 <?php tt("Fauré - Requiem, Libera Me")?>
 <p>At 0:44, Bass follows: [F -> Bb] -> [G -> C] -> [A -> D] -> [B♮ -> E]</p>
-<p>i.e. [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6] -> [#*4 -> *7]</p>
-<p>The harmony is [I7 -> IVMaj7] -> [iimin7 -> ~V9] -> [iiiø7 -> VI7b9] -> [#viø7 -> VII7]</p>
+<p>i.e. [*3 -> *6] -> [*4 -> *7] -> [*5 -> *1] -> [#*6 -> *2]</p>
+<p>The harmony is (in Dm) [III7 -> VIMaj7] -> [ivmin7 -> ~nVII9] -> [vø7 -> I7b9] -> [#viø7 -> II7], i.e. (in F) [I7 -> IVMaj7] -> [iimin7 -> ~nV9] -> [iiiø7 -> VI7b9] -> [#ivø7 -> VII7]</p>
 <?php yt("ot4ulSeYcHU", 44) ?>
 s
 
@@ -21,6 +21,7 @@ s
 <?php yt("v8VBiRfFrsI", 96) ?>
 
 <?php tt("Mozart - Ave Verum Corpus")?>
+<p>Bass goes: [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
 <?php yt("Af0x8EsiR7Q", 106) ?>
 
 
