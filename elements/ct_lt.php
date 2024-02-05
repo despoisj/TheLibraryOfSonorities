@@ -59,6 +59,7 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>mm. 1: Eb°7 -> Eb, i.e. CT°7 -> I</p>
 <?php yt("IuK4g1MMzDI", 17) ?>
 
+
 <?php tt("More Examples of CT°7") ?>
 <p>You can find more examples of the CT°7 sonority <a href="https://musictheoryexamples.com/26CT.html">here</a>, which is the source for many of the examples above.</p>
 
