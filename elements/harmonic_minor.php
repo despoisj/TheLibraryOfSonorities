@@ -58,6 +58,10 @@ view of D instead of G.</p>
 <p>Note: the B♮ is part of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
 <?php yt("UyxpeLh7z3s") ?>
 
+<?php tt("Levko Revutsky - Piano Sonata n°1") ?>
+<p>B minor scale with A# (#7) and E# (#^4).</p>
+<?php yt("AF4wZuE4tok") ?>
+
 <?php tt("Rachmaninoff - 4 Pieces, n°2 Prelude") ?>
 <p>mm. 2: EbMinor + A♮ (#^4) and D♮ (#^7)</p>
 <?php yt("FDSDprWUl9Q", 168) ?>
