@@ -42,6 +42,10 @@
 <p>At 1:17 mm. 5: I64 -> V9 (E7 + F#).</p>
 <?php yt("62vYPGOe9EM", 18) ?>
 
+<?php tt("Edward Elgar - Salut d'Amour")?>
+<p>At 0:23 second row, mm. 6: ~B7 + C# (9th)</p>
+<?php yt("KF-3QOebX4Y", 23) ?>
+
 <?php tt("Chopin - Nocturne Op. 9 n°2")?>
 <p>We get first a Bb7 chord with a strong Bb pedal, then the repeated flourish that finally descends and ends with ^6 -> ^7 -> ^1</p>
 <?php yt("YGRO05WcNDk", 222) ?>
