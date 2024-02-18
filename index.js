@@ -42,6 +42,8 @@ function formatPage(text) {
     text = text.replaceAll(/ ([ABCDEFG])#/g, " $1<sup>♯</sup>");
     text = text.replaceAll(/([ABCDEFG])# /g, "$1<sup>♯</sup> ");
 
+    text = text.replaceAll(/ ([ABCDEFG])♮/g, " $1<sup>♮</sup>");
+    text = text.replaceAll(/([ABCDEFG])♮ /g, "$1<sup>♮</sup> ");
 
     // Regular expression to match digits with a caret symbol (^)
     const regex = /\^(\d)/g;
@@ -89,7 +91,7 @@ function formatPage(text) {
     // Replace things like F#°7 and #viiø642
     text = text.replaceAll(/ø(\d{0,3})/g, "<sup>ø$1</sup>");
     text = text.replaceAll(/([^n])°(\d{0,3})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
-    text = text.replaceAll(/([ABCDEFG#b])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
+    text = text.replaceAll(/([ABCDEFG#b♮])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
 
 
     return text;

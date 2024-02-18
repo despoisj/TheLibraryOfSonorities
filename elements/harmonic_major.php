@@ -49,6 +49,11 @@
 <p>Note: this shows the use of the harmonic major mode as a borrowed plagal cadence, the ^1 -> ^2 -> ^3 melodic line is typical.</p>
 <?php yt("kHXxWfSAxik", 2831) ?>
 
+<?php tt("Rachmaninoff - Concerto n°2, 2nd Mvt.") ?>
+<p>At 56:49, I -> [...] -> iiø65 -> I</p>
+<p>b^6 = C♮</p>
+<?php yt("kS8hk0kL2sE", 3409) ?>
+
 
 <?php tt("Sergei Bortkievicz - Prelude Op. 33 n°7 ") ?>
 <p>At 1:24 mm. 1-2: I -> LT°7 -> I</p>
