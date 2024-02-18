@@ -30,11 +30,9 @@ view of D instead of G.</p>
 <p>The first bars display A harmonic minor / E phrygian dominant sound with a typical I -> Vø7 -> I sound, here I -> Vø65 (from the POV of E phrygian dominant), which would be V -> iiø65 -> V from the POV of A harmonic minor.</p>
 <?php yt("wsflgRCAh1Y", 2) ?>
 
-
 <?php tt("Rachmaninoff - Concerto n°3, Mvt. 2, 2nd theme") ?>
 <p>The key is F harmonic min, here seen from the POV of V, i.e C phrygian dominant, in which we have Vm7b5 -> I (i.e. iim7b5 -> V in F) over a C pedal point.</p>
 <?php yt("YrfPqrCY9tE", 244) ?>
-
 
 <?php tt("Samuel Maykapar - Arietta in A minor") ?>
 <p>mm. 7: Descending A harmonic minor (note the G#).</p>
@@ -61,6 +59,10 @@ view of D instead of G.</p>
 <p>mm. 1: Cminor + F# (#^4), mm. 2 we get the B♮ (#^7)</p>
 <p>Note: the B♮ is part of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
 <?php yt("UyxpeLh7z3s") ?>
+
+<?php tt("Vladimir Rebikov - Autour du Monde, Op. 9 n°17 'Derviche'") ?>
+<p>After an intro in D phrygian dominant (D Eb F# G A Bb C) the piece moves to the tonic and in G hungarian minor (same scale but with C#, but centered on G).</p>
+<?php yt("S_JND2WnI3E", 1358) ?>
 
 <?php tt("Model for 1 b^3 #^4 ^5 & 1 b^3 #^4 ^5 #^7 arpeggios") ?>
 <?php fl("64cff2dcdbb75500db3e8037?_l=true&sharingKey=0c956027ada2ac9baa0485193fd002cfc8adbce1c27e32bd922bc545842d7cf733727d49e4173c821eca9b2b5e63698f50cf5723424e4f4e5fe03a993f8f6f10") ?>
