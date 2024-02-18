@@ -14,11 +14,15 @@
 <p>The harmony is (in Dm) [III7 -> VIMaj7] -> [ivmin7 -> ~nVII9] -> [vø7 -> I7b9] -> [#viø7 -> II7], i.e. (in F) [I7 -> IVMaj7] -> [iimin7 -> ~nV9] -> [iiiø7 -> VI7b9] -> [#ivø7 -> VII7]</p>
 <?php yt("ot4ulSeYcHU", 44) ?>
 
-
 <?php tt("Ādolfs Skulte - Arietta")?>
 <p>At 1:36 we get a series of rising ii-V motion with rich 7th harmonies, but we don't get the up and down motion of the bass, every second beat is omitted, giving a smooth rising bassline.</p>
 <p>In jazz music, this is often done with circle of fifth progressions as well for smoother voice leading, alternating between root position and 43 inversions.</p>
 <?php yt("v8VBiRfFrsI", 96) ?>
+
+<?php tt("Rachmaninoff - Symphony n°2, 1st Mvt.")?>
+<p>At 4:38 the bass follows [A -> D] -> [B -> E] with harmony [iv -> VII7] -> [vm -> I7]</p>
+<p>Note: this bass movement returns in the 3rd Mvt. at 31:40</p>
+<?php yt("m3mXgmgnvdw", 278) ?>
 
 <?php tt("Mozart - Ave Verum Corpus")?>
 <p>Bass goes: [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
