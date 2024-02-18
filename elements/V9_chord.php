@@ -43,7 +43,7 @@
 <?php yt("62vYPGOe9EM", 18) ?>
 
 <?php tt("Chopin - Nocturne Op. 9 n°2")?>
-<p>We get first a Bb7 chord with a strong Bb (*1) pedal, then the repeated flourish that finally descends and ends with ^6 -> ^7 -> ^1</p>
+<p>We get first a Bb7 chord with a strong Bb pedal, then the repeated flourish that finally descends and ends with ^6 -> ^7 -> ^1</p>
 <?php yt("YGRO05WcNDk", 222) ?>
 
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
