@@ -46,7 +46,7 @@ view of D instead of G.</p>
 
 <?php tt("Ignacy Jan Paderewski - Violin Sonata Op. 13, 1st Mvt") ?>
 <p>- At 0:09 The left hand ostinato highlights the ^1 b^3 #^4 ^5 degrees.</p>
-<p>- At 0:50 the violent arpeggios highlight the full A hungarian minor scale with both #4 (D#) and #7 (G#).</p>
+<p>- At 0:50 the violent arpeggios highlight the full A hungarian minor scale with both #^4 (D#) and #^7 (G#).</p>
 <?php yt("_1dq6PL0czY", 9) ?>
 
 <?php tt("Rachmaninoff - 4 Pieces, n°2 Prelude") ?>
@@ -54,17 +54,13 @@ view of D instead of G.</p>
 <?php yt("FDSDprWUl9Q", 168) ?>
 
 <?php tt("Levko Revutsky - Piano Sonata n°1") ?>
-<p>B minor scale with A# (#7) and E# (#^4).</p>
+<p>B minor scale with A# (#^7) and E# (#^4).</p>
 <?php yt("AF4wZuE4tok") ?>
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°7") ?>
 <p>mm. 1: Cminor + F# (#^4), mm. 2 we get the B♮ (#^7)</p>
 <p>Note: the B♮ is part of the descending bass note of the melody, and the sonority continues, this prelude should be studied more.</p>
 <?php yt("UyxpeLh7z3s") ?>
-
-<?php tt("Vasily Prisovsky - Rêverie, Op. 64") ?>
-<p>mm. 1-2: Bmin + E# (#^4) gives a subtle hungarian minor sonority.</p>
-<?php yt("IqZiaVorenY") ?>
 
 <?php tt("Model for 1 b^3 #^4 ^5 & 1 b^3 #^4 ^5 #^7 arpeggios") ?>
 <?php fl("64cff2dcdbb75500db3e8037?_l=true&sharingKey=0c956027ada2ac9baa0485193fd002cfc8adbce1c27e32bd922bc545842d7cf733727d49e4173c821eca9b2b5e63698f50cf5723424e4f4e5fe03a993f8f6f10") ?>
