@@ -49,6 +49,10 @@
 <p>The harmony is [ivm7 -> ~VII7] -> [vø7 -> I7] -> VI</p>
 <?php yt("ZC7GleTGtkY", 34) ?>
 
+<?php tt("Joe Hisaishi - A Town with an Ocean View") ?>
+<p>At 0:57 [A -> D] -> [B -> E] with [iv -> VII] -> [v -> i]</p>
+<?php yt("pR4iCWB-VVQ", 57) ?>
+
 <?php tt("Michael Nyman  - Chasing Sheep is Best Left to Shepherds") ?>
 <p>mm. 4-7: Bass follows: x G] -> [E -> A] -> [F -> B]</p>
 <p>i.e. *5] -> [*3 -> *6] -> [*4 -> *7]</p>
