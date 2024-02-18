@@ -10,7 +10,7 @@
 
 <h3 id="v9" class="elementExampleTitle">Upward V9 Chord</h3>
 
-<p>What I call the <a target="_blank" href="https://www.academia.edu/114522210/The_Dream_Cadence_A_Study_of_the_Ascending_Ninth_in_Romantic_Music">Dream Cadence</a>, or upward V9 Chord, is a lovely sound in Major created with the 9th of a dominant chord (^6) <b>resolving up</b> to ^1. Traditional voice leading for a nV9 chord expects the 9th to resolve down instead of up, so this chord is sometimes analyzed as a V7 chord with an appogiatura (^6 -> ^7).</p>
+<p>What I call the <a target="_blank" href="https://www.academia.edu/114522210/The_Dream_Cadence_A_Study_of_the_Ascending_Ninth_in_Romantic_Music">Dream Cadence<img src="imgs/paper.png" style="height:20px; padding-bottom: 5px;"/></a>, or upward V9 Chord, is a lovely sound in Major created with the 9th of a dominant chord (^6) <b>resolving up</b> to ^1. Traditional voice leading for a nV9 chord expects the 9th to resolve down instead of up, so this chord is sometimes analyzed as a V7 chord with an appogiatura (^6 -> ^7).</p>
 
 
 
