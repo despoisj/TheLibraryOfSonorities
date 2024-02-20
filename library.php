@@ -59,6 +59,7 @@ array_push($library, element("harmonic_major", "Harmonic Major", ["romantic"], [
 array_push($library, element("monte_principale", "Monte Principale", ["classical", "romantic"], [], "harmony", ["bittersweet"]));
 
 array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressionist"], ["debussy", "ravel", "hisaishi"], "harmony"));
+array_push($library, element("predominants", "Predominants & Predominant Extensions", ["romantic"], ["scriabin", "chopin", "rachmaninoff", "ravel"], "harmony"));
 
 
 array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));

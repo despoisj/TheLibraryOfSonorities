@@ -25,9 +25,12 @@ function makeItem(text, itemclass, page = false) {
 
 function formatPage(text) {
 
-    // Replace b^1 to b^7 and b*1 to b^8 with ♭
+    // Replace b^1 to b^7 and b*1 to b^8 with ♭ and # with ♯
     text = text.replaceAll(/b(\^\d)/g, "♭$1");
     text = text.replaceAll(/b(\*\d)/g, "♭$1");
+
+    text = text.replaceAll(/#(\^\d)/g, "♯$1");
+    text = text.replaceAll(/#(\*\d)/g, "♯$1");
 
     // Same with digits for mode names like Mixolydian b6 but not if between quotes (link etc.)
     text = text.replaceAll(/([A-Z][a-z]* )b(\d)(?![^<>]*<\/a>)/g, "$1♭$2");
@@ -76,10 +79,13 @@ function formatPage(text) {
 
     text = text.replaceAll(/V7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>7♭9</sup>", "v7b9", "V7b9_chord"));
 
+    // Upward V9
     text = text.replaceAll(/(?<!n)V9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>9↑</sup>$1", "v9", "V9_chord#v9"));
+    text = text.replaceAll(/(?<!n)V11(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>11↑</sup>$1", "v9", "V9_chord#v11"));
+    
     // Normal V9
     text = text.replaceAll(/nV9(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>9</sup>$1", "nv9", "V9_chord#v9"));
-    text = text.replaceAll(/V11(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>11↑</sup>", "v9", "V9_chord#v11"));
+    text = text.replaceAll(/nV11(sus)?(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("V<sup>11</sup>$1", "nv9", "V9_chord#v11"));
 
     text = text.replaceAll(/WSS(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("WSS", "wss", "suspensions"));
 
@@ -91,6 +97,8 @@ function formatPage(text) {
     // Replace things like F#°7 and #viiø642
     text = text.replaceAll(/ø(\d{0,3})/g, "<sup>ø$1</sup>");
     text = text.replaceAll(/([^n])°(\d{0,3})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
+    text = text.replaceAll(/m(\d{1,3})/g, "m<sup>$1</sup>");
+    text = text.replaceAll(/M(\d{1,3})/g, "M<sup>$1</sup>");
     text = text.replaceAll(/([ABCDEFG#b♮])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
 
 

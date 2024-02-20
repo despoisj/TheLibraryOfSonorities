@@ -2,9 +2,7 @@
 <p class="tableOfContents">
 	<a href="#vch" class="scrollLink">'Chopin Chord'</a>
 	<br>
-	<a href="#vch9" class="scrollLink">'Chopin Ninth'</a>
-	<br>
-	<a href="#vch9sus" class="scrollLink">'Chopin Ninth' with suspension</a>
+	<a href="#vch9" class="scrollLink">Added Ninth</a>
 </p>
 
 <h3 id="vch" class="elementExampleTitle">'Chopin Chord'</h3>
@@ -129,11 +127,11 @@
 
 <h3 id="vch9" class="elementExampleTitle">Chopin Chord with added 9th</h3>
 
-<p>The (b)6-5 resolution of the Chopin Chord can be added to the nV9 or V7b9 chords, resulting in an even richer sound. Note that in this case, the ♮9 resolves down like a 'normal' nV9 more than up like the V9.</p>
+<p>The (b)6-5 resolution of the Chopin Chord can be added to the nV9 or V7b9 chords, resulting in an even richer sound. Note that in this case, the ♮9 resolves down like a 'normal' nV9 more than up like the V9. It seems that the major resolution happens more with a direct ^3 -> ^1 leap instead of the usual ^3 ^2 ^1. This might come from the weak pull of ^6 -> ^5 (which can even be reversed upwards like in the V9 chord), while the minor version features two strong downward motions: b^6 -> ^5 & b^3 -> ^2.</p>
 <p>The chord can then be described as a V7((b)9, (b)13) chord. I seems that we mostly find V7(9, 13) and V7(b9, b13), respectively in major and minor, and not more dissonant/jazzy combinations like V7(9, b13) or V7(b9, 13), but I might be wrong. For simplicity, let's call them <i>'Chopin Ninth'</i> chords: VChM9 & VChmb9.</p>
 
 <?php tt("Liszt - Consolation n°3")?>
-<p>mm 3: C7 + Db (b9th) + Ab (b13) -> Fm i.e. VChmb9 -> i</p>
+<p>mm 3: C7 + Db (b9) + Ab (b13) -> Fm i.e. VChmb9 -> i</p>
 <?php yt("73_jSjG1WrY", 32) ?>
 
 <?php tt("Chopin - Ballade n°1")?>
@@ -147,10 +145,7 @@
 <p>Note: the difference made by the 9th is very subtle.</p>
 <?php yt("w5ZqmiXUAxk", 597) ?>
 
-<h4 id="vch9sus" class="elementExampleTitle">Adding a 4-3 suspension</h4>
-<p style="margin-top: 40px;">The video below mentions this chord, this time with a 4-3 suspension (hence the author calling it a Sus4(9,13). It is like the 4-3 suspension we find in compound cadences, or you can see it as the 2-5-1 <i>"box voicing"</i> in jazz. In C this voicing would be: Dmin9 (aka FMaj7/D), G7(9,13), C. If you had G in the bass instead of D, Fmaj7/G would be our Sus4(9,13) chord.</p>
-<p><b>Keyboard playing tip:</b> As mentioned in the video, a simple way to play this chord is to put a <b>IVMaj7 (ivMin7 in minor, although I personally don't like the suspension in minor, I prefer using ivø7 i.e. Tristan chord or "Rachmaninoff's Subdominant") over *5 bass</b> (the author mentions iim7 but I don't think that's correct), then resolve the 5th of that chord a half step below to get the 4-3 suspension resolving to the VChM9 or VChmb9 chord. Ex. in C major: Fmaj7 over G: F (7th) - A (9th) - C (4->3sus) - E (13th/6th).</p>
-<?php yt("gchwLVCBVwo", 205) ?>
-
-<?php tt("Model")?>
-<?php fl("64d63dd342bb22e73caef80f?_l=true&sharingKey=81b4172f37e2952c1d8c6af5b388d523ea00fbc5097d43fe3d36293f4dd2134456a0b612f95f879538c71f4397cf63b3b38989bd8d1f6b63ff6da1c876240576") ?>
+<br>
+<p>To see more Romantic extended dominants, some of which are used to approach the Chopin Chord, have a look at the dedicated article below, especially the sections on <b>IVM7 and iim7</b>.</p>
+<br>
+<?php linkSingleElement("predominants") ?>

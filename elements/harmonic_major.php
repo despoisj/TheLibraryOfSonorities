@@ -83,7 +83,7 @@
 <p>When over *5, the resulting sound is more dissonant.</p>
 
 <?php tt("Chopin - Etude Op. 10 n°1 'Cascade'") ?>
-<p>At 0:7, mm. 2: Dø7 / G (iiø642 / *5) -> G7 (V7) -> C (I).</p>
+<p>At 0:07, mm. 2: Dø7 / G (iiø642 / *5) -> G7 (V7) -> C (I).</p>
 <p>b^6 = Ab</p>
 <?php yt("g0hoN6_HDVU") ?>
 
