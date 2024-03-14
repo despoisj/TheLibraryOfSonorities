@@ -1,4 +1,4 @@
-<p>This modulation moves from i to III, or from any minor chord to the Major scale a Major third above (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of I -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern.</p>
+<p>This modulation moves from i to III, or from any minor chord to the Major scale a Major third above (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of i -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern.</p>
 <p><b>Keyboard Tip:</b> A very easy way to play it is to move diatonically by contrary motion, with the bass going one step down, and the rest moving up, especially if the bass is doubled in a higher octave. Ex. in a minor: A + C|E|A -> G + D|F|B.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -14,10 +14,15 @@
 <p>2nd row, last 2 bars: i6 (Cmin) -> V/III (B7) -> III (E)</p>
 <?php yt("anuQSmPa0aM", 33) ?>
 
-<?php tt("Beethoven - Choral Fantasy, Op. 80") ?>
-<p>i (Cm) -> [iv (Fm) ->] V/III (Bb7) -> III (Eb)</p>
-<p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p>
-<?php yt("GAs0zEGY7yw") ?>
+<!-- TODO DOUBLE CHECK NOT SURE -->
+<?php #tt("Beethoven - Choral Fantasy, Op. 80") ?>
+<!-- <p>i (Cm) -> [iv (Fm) ->] V/III (Bb7) -> III (Eb)</p> -->
+<!-- <p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p> -->
+<?php #yt("GAs0zEGY7yw") ?>
+
+<?php tt("Chopin - Nocturne Op. 55 n°1") ?>
+<p>First bars: i (Fm) -> V65/III (Bb7) -> III (Ab)</p>
+<?php yt("LMqn7KPkNCM") ?>
 
 <?php tt("Shalva Taktakishvili - Consolation")?>
 <p>*M* mm. 1: i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
