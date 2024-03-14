@@ -31,3 +31,12 @@
 
 <?php tt("More Examples")?>
 <?php yt("ebWiF3XW4dU", 890) ?>
+
+
+<h3 class="elementExampleTitle">Extensions</h3>
+
+<p>It it possible to enrich the N6 chord by adding a very beautiful and tragic 9th.</p>
+<?php tt("En Blanc Et Noir - Neapolitan 9th Suspension") ?>
+<?php yt("ySWyg85r-5w") ?>
+
+

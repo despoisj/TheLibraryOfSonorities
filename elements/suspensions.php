@@ -50,3 +50,12 @@
 <h4 class="elementExampleTitle">Context importance</h4>
 
 <?php fl("655603949c9f9e39206364a4?_l=true&sharingKey=51ab70008afd57ebefb210f900ffb8103f816aa64da5e86f316587c474ace0c8324ff14ee48673e04dd44acdd44a7ac30c750003ab82bdd51780ca0529457b6f") ?>
+
+
+
+<h3 class="elementExampleTitle">(W.I.P) Other usual suspensions</h3>
+
+<p>Among other very poignant romantic suspensions, we can note the 9th added to a minor triad, to iiø65 or iiø7 like just above, or to the Neapolitan Sixth chord.</p>
+
+<?php tt("En Blanc Et Noir - Neapolitan 9th Suspension") ?>
+<?php yt("ySWyg85r-5w") ?>

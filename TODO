@@ -221,3 +221,11 @@ TODO Mompou vs Albeniz
 
 
 Op 41 mazurka phrygian chopin
+
+
+
+Chord of the 6th with added 9th (like Neapolitan Sus)
+
+<?php tt("WIP: Fauré - Piano Quintet n°2 in C minor") ?>
+<p>Note: in this passage, the same voicing (C Eb Ab D) appears twice, transposed a third up the second time, but doesn't seem to have the same sound / function as it is not the N6 chord, but just a chord of the 6th. It needs to be investigated further. It's a gorgeous sound, though.</p>
+<?php yt("eCytVmL30lc", 66) ?>
