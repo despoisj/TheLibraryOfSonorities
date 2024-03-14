@@ -33,7 +33,7 @@ array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i 
 array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to III)", ["classical", "romantic"], [], "harmony"));
 
 // Progressions
-array_push($library, element("ivM7_iiim7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
+array_push($library, element("ivmaj7_iiimin7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
 array_push($library, element("omnibus", "The Omnibus Family", ["romantic"], ["beethoven", "tchaikovsky"], "harmony", ["tense"]));
 
 // Todo texture + harmony
