@@ -245,12 +245,12 @@ p a {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
-.vchMaj9 {
+.vch_maj9 {
   /* Yellow */
   background: linear-gradient(90deg, rgba(255, 231, 163, 0.7) 0%, rgba(193, 225, 193, 0.7) 100%);
 }
 
-.vchMinb9 {
+.vch_minb9 {
   /*  Blue */
   background: linear-gradient(90deg, rgba(167, 199, 231, 0.7) 0%, rgba(167, 199, 231, 0.7) 20%, rgba(0, 102, 102, 0.5) 100%);
 }

@@ -71,8 +71,8 @@ function formatPage(text) {
     text = text.replaceAll(/LT°(7?)(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("LT<sup>o$1</sup>", "lt7", "ct_lt#ctlt"));
     text = text.replaceAll(/([A-Za-z]?)CT°7(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, makeItem("$1CT<sup>o7</sup>", "ct7", "ct_lt#ctlt"));
 
-    text = text.replaceAll(/VChM9/g, makeItem("V<sub>Ch</sub><small><small>Maj</small><sup>9</sup></small>", "vchMaj9", "chopin_chord#vch9"));
-    text = text.replaceAll(/VChmb9/g, makeItem("V<sub>Ch</sub><small><small>min</small><sup>♭9</sup></small>", "vchMinb9", "chopin_chord#vch9"));
+    text = text.replaceAll(/VChM9/g, makeItem("V<sub>Ch</sub><small><small>Maj</small><sup>9</sup></small>", "vch_maj9", "chopin_chord#vch9"));
+    text = text.replaceAll(/VChmb9/g, makeItem("V<sub>Ch</sub><small><small>min</small><sup>♭9</sup></small>", "vch_minb9", "chopin_chord#vch9"));
     
     text = text.replaceAll(/VChM/g, makeItem("V<sub>Ch</sub><small><small>Maj</small></small>", "vchMaj", "chopin_chord#vch"));
     text = text.replaceAll(/VChm/g, makeItem("V<sub>Ch</sub><small><small>min</small></small>", "vchMin", "chopin_chord#vch"));
