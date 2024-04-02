@@ -91,6 +91,11 @@
 <p>n°4: V9 At 4:27 - mm. 5: B7 + C# with C# -> D# but the resolution to E is frustrated and only occurs in the bass.</p>
 <?php yt("HSESmLtgk0E", 197) ?>
 
+<?php tt("Modern Example - Alma Deutscher")?>
+<p>Note: the link for this video seems to have trouble integrating, you can check it out here: https://www.youtube.com/watch?v=VVYKQoolbM4.</p>
+<p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
+<?php yt("VVYKQoolbM4", 176) ?>
+
 
 <h3 id="v11" class="elementExampleTitle">V7 with added 9th & 11th</h3>
 <p>We can enhance the upward 9th by playing it in thirds with the 11th, resulting in a V11 chord. In this example the 9th and 11th <b>resolve upwards</b> by step to the 3rd and 5th then again to reach ^1 and ^3. The melody follows ^6 ^1 -> ^7 ^2 -> ^1 ^3.</p>
