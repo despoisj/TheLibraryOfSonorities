@@ -74,3 +74,10 @@ array_push($library_misc, element("openers", "Opening Gestures"));
 array_push($library_misc, element("spinning_forward", "Spinning Forward"));
 
 array_push($library_misc, element("endings", "Endings"));
+
+
+// Define blog elements
+$library_blog = [];
+
+array_push($library_blog, element("romantic_schemata", "Schemata in the Romantic Era"));
+

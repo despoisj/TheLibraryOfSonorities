@@ -85,10 +85,13 @@ function loadAllElements() {
 
   echo '</div>';
 
+  # TODO add blog elements too
+
 
 	// Comments using uuid
 	addComments("mainPage");
 }
+
 
 function loadStyle($style) {
 	global $library;
@@ -153,11 +156,26 @@ function loadMisc() {
 	}
 }
 
+function loadBlogElements() {
+	// Loads all blog elements
+	global $library_blog;
+	foreach ($library_blog as $element) {
+		loadElement($element, False);
+	}
+}
+
+function loadBlog() {
+	loadBlogElements();
+
+	// Comments using uuid
+	addComments("blog");
+}
+
 
 function linkSingleElement($elementName) {
 	// Links to single elemnt either from library or misc
 	// Displays the rectangle with name etc.
-	global $library, $library_misc;
+	global $library, $library_misc, $library_blog;
 	foreach ($library as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, False); // Uncollapse
@@ -165,6 +183,12 @@ function linkSingleElement($elementName) {
 	}
 
 	foreach ($library_misc as $element) {
+		if ($element["pageName"] == $elementName){
+			loadElement($element, False); // Uncollapse
+		}
+	}
+
+	foreach ($library_blog as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, False); // Uncollapse
 		}
@@ -173,7 +197,7 @@ function linkSingleElement($elementName) {
 
 function loadSingleElement($elementName) {
 	// Load single elemnt either from library or misc
-	global $library, $library_misc;
+	global $library, $library_misc, $library_blog;
 	foreach ($library as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, True); // Uncollapse
@@ -181,6 +205,12 @@ function loadSingleElement($elementName) {
 	}
 
 	foreach ($library_misc as $element) {
+		if ($element["pageName"] == $elementName){
+			loadElement($element, True); // Uncollapse
+		}
+	}
+
+	foreach ($library_blog as $element) {
 		if ($element["pageName"] == $elementName){
 			loadElement($element, True); // Uncollapse
 		}

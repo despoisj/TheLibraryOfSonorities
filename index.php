@@ -19,9 +19,9 @@ if ($filter == "element"){
     $style = htmlspecialchars($_GET["style"]);
 } elseif ($filter == "emotion") {
     $emotion = htmlspecialchars($_GET["emotion"]);
-} 
+}
 
-// Note: filter can also be "harmony", "texture" or nothing
+// Note: filter can also be "harmony", "texture", "blog" or nothing
 
 ?>
 
@@ -153,6 +153,18 @@ if ($filter == "element"){
                     $title = "Harmony";
                 } elseif ($filter == "texture") {
                     $title = "Texture";
+                } elseif ($filter == "blog") {
+                    $title = "Blog";
+
+                    ?>
+
+                    <div class="blurb" style="margin-top:20px">
+                        <p>This sections presents musical concepts and resources on a wider range of topics.</p>
+                    </div>
+
+
+                    <?php
+
                 } else {
                     $title = "All sonorities";
                     $isHomePage = true;
@@ -188,6 +200,8 @@ if ($filter == "element"){
                     loadEmotion($emotion);
                 elseif ($filter == "harmony" || $filter == "texture")
                     loadType($filter);
+                elseif ($filter == "blog")
+                    loadBlog();
                 else
                     loadAllElements();
             ?>
