@@ -92,7 +92,6 @@
 <?php yt("HSESmLtgk0E", 197) ?>
 
 <?php tt("Modern Example - Alma Deutscher")?>
-<p>Note: the link for this video seems to have trouble integrating, you can check it out here: https://www.youtube.com/watch?v=VVYKQoolbM4.</p>
 <p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
 <?php yt("VVYKQoolbM4", 176) ?>
 

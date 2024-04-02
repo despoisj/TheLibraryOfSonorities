@@ -97,8 +97,12 @@ function formatPage(text) {
     // Replace things like F#°7 and #viiø642
     text = text.replaceAll(/ø(\d{0,3})/g, "<sup>ø$1</sup>");
     text = text.replaceAll(/([^n])°(\d{0,3})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
-    text = text.replaceAll(/m(\d{1,3})/g, "m<sup>$1</sup>");
-    text = text.replaceAll(/M(\d{1,3})/g, "M<sup>$1</sup>");
+    
+    // TODO poses problems for URLs like Alma Deutscher Dream Cadence
+    // text = text.replaceAll(/m(\d{1,3})/g, "m<sup>$1</sup>");
+    // text = text.replaceAll(/M(\d{1,3})/g, "M<sup>$1</sup>");
+
+    // Same as above but verify the text isn't inside quotes
     text = text.replaceAll(/N6/g, "N<sup>6</sup>");
     text = text.replaceAll(/Maj(\d{1,3})/g, "Maj<sup>$1</sup>");
     text = text.replaceAll(/([ABCDEFG#b♮])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
