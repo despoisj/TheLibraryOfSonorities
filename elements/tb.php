@@ -63,8 +63,9 @@
 <?php fl("653159d76df93293352006f0?_l=true&sharingKey=36c1e290ae593d4d31b64d25570a76cd7b491716081571cd1f8ff11bb7236b631184de3ed3c96c0cdc1747628be4f5a4a6efb1a4b3b52b212bb69fc554fc4984") ?>
 
 <?php tt("Brahms - Symphony n°3, 3rd Mvt.")?>
-<p>mm. 4-: Again the same i -> I7/b*7 (V42/iv) -> iv6 sound.</p>
-<?php yt("107Iwx5RKSM", 17) ?>
+<!-- TODO re-check -->
+<p>mm. 4-: Again the same i -> I7/b*7 (V42/iv) -> iv sound.</p>
+<?php yt("g9kCOzZ7h2M", 17) ?>
 
 <?php tt("Tomaso Vitali - Chaconne in G Major")?>
 <p>We find the same i -> I7/b*7 -> iv6 sound.</p>
