@@ -65,5 +65,10 @@
 <?php yt("qQzdAsjWGPg", 192) ?>
 
 
+<?php tt("Joe Hisaishi - Bygone Days") ?>
+<p>We only get the parallel stepwise seventh but with a similar effect: Cmin7 -> Dmin7 -> EbMaj7</p>
+<?php yt("6tLvXyYvS0o", 61) ?>
+
+
 
 
