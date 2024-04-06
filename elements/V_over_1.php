@@ -32,6 +32,10 @@
 <p>*M* mm. 1-4: Gb -> Db7/*1 -> Gb i.e. I -> V7/*1 -> I</p>
 <?php yt("CnH7vjO52L8", 178) ?>
 
+<?php tt("Rachmaninoff - Rhapsody on a Theme of Paganini, Variation n°18")?>
+<p>*M* In Db: I -> IV64 (aka IV / *1) -> I -> V7 / *1 -> I</p>
+<?php yt("hg76YTPpgcs", 7) ?>
+
 <?php tt("Chopin - Etude Op. 25 n°1")?>
 <p>*M* mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
 <?php yt("g0hoN6_HDVU", 1850) ?>
