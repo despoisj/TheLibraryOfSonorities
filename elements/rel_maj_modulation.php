@@ -14,12 +14,6 @@
 <p>2nd row, last 2 bars: i6 (Cmin) -> V/III (B7) -> III (E)</p>
 <?php yt("anuQSmPa0aM", 33) ?>
 
-<!-- TODO DOUBLE CHECK NOT SURE -->
-<?php #tt("Beethoven - Choral Fantasy, Op. 80") ?>
-<!-- <p>i (Cm) -> [iv (Fm) ->] V/III (Bb7) -> III (Eb)</p> -->
-<!-- <p>Note: here instead of modulating using a V -> I relationship we use a complete ii -> V -> I, over *4 -> b*7 -> b*3</p> -->
-<?php #yt("GAs0zEGY7yw") ?>
-
 <?php tt("Chopin - Nocturne Op. 55 n°1") ?>
 <p>First bars: i (Fm) -> V65/III (Bb7) -> III (Ab)</p>
 <?php yt("LMqn7KPkNCM") ?>
@@ -31,6 +25,11 @@
 <?php tt("Maurice Randall - Contemplation (Romance), Op. 27") ?>
 <p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
 <?php yt("WIlrGTPk11w") ?>
+
+<?php tt("Chopin - Mazurka Op. 6 n°1") ?>
+<p>mm 2-4: i (F#min) -> V/III (E7) -> III (A)</p>
+<?php yt("mkveDJgf73U", 5) ?>
+
 
 <?php tt("'La Folia'") ?>
 <p>mm 3-5: i (Dmin) -> V/III (C7) -> III (F)</p>

@@ -78,6 +78,10 @@
 <p>b^6 = Cb</p>
 <?php yt("cKrmr0jeuio", 120) ?>
 
+<?php tt("Rachmaninoff - Rhapsody on a Theme of Paganini, Variation n°18") ?>
+<p>At 0:23, mm. 3 (in Ab): DbMaj (IV) -> Bbø65 (iiø65) -> Ab (I)</p>
+<p>b^6 = Fb</p>
+<?php yt("hg76YTPpgcs", 22) ?>
 
 <h4 class="elementExampleTitle">iiø7 over *5</h4>
 <p>When over *5, the resulting sound is more dissonant.</p>
