@@ -91,6 +91,10 @@
 <p>n°4: V9 At 4:27 - mm. 5: B7 + C# with C# -> D# but the resolution to E is frustrated and only occurs in the bass.</p>
 <?php yt("HSESmLtgk0E", 197) ?>
 
+<?php tt("Chopin - Mazurka, Op. 7 n°2")?>
+<p>At 0:24 - End of 2nd row: F7 + G with G -> A -> Bb.</p>
+<?php yt("k8YDpBBKF0k", 24) ?>
+
 <?php tt("Modern Example - Alma Deutscher")?>
 <p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
 <?php yt("VVYKQoolbM4", 176) ?>
