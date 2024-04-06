@@ -28,7 +28,10 @@ function loadElement($element, $fullSize) {
 
 
 			echo '<div class="elementContents">';
-			
+
+			// Add last update 
+      echo "<div style='margin-top:-10px'><i style='opacity:0.5'><small>Latest update: " . getLastUpdate($element["pageName"].".php") . "</small></i></div><br><br>";
+
 			// Finally include the bulk of the page!
 			include "elements/".$element["pageName"].".php";
 
@@ -267,21 +270,31 @@ function addComments($uniqueID){
 }
 
 
-function getLastUpdate(){
+function getLastUpdate($name=""){
 	// Scans all files to find latest modification
 	$files = getDirContents(".");
 
 	$lastFiletime = 0;
 	foreach ($files as $file) {
-		$currFileTime = filemtime($file);
-		if ($currFileTime > $lastFiletime){
-			// New last update found, change
-			$lastFiletime = $currFileTime;
+		# File is like A/B/C/D.php
+		# Get the last part D.php
+		$pathParts = explode("/", $file);
+		$filename = end($pathParts);
+
+		# Check all files if no name else just the right one
+		if ($name == "" || $filename == $name){
+
+			$currFileTime = filemtime($file);
+			if ($currFileTime > $lastFiletime){
+				// New last update found, change
+				$lastFiletime = $currFileTime;
+			}
 		}
 	}
 
 	return date("F d, Y", $lastFiletime);
 }
+
 
 function getDirContents($dir, &$results = array()) {
 	// List all files for check date last update
