@@ -14,16 +14,11 @@
 <?php tt("Scriabin - Prelude Op. 16 n°1") ?>
 <p>The main arppegio is a quintal B-F#-C#-G#.</p>
 <p>Note: this is also the E major <a href="index.php?filter=element&element=ninth_arps#pentatonic">pentatonic scale</a>.</p>
-
 <?php yt("pmIDevUoPpE", 8) ?>
-
-
-
 
 <?php tt("Debussy - La Jeune Fille Aux Cheveux de Lin") ?>
 <p>The last 3 measures feature the melody harmonized in 5ths and 4ths.</p>
 <?php yt("KYLjHziapRs", 96) ?>
-
 
 <?php tt("Joe Hisaishi - Sixth Station") ?>
 <p>The piece starts with a full high quartal arpeggio: F#-B-E-A-D, then with a quintal arpeggio in the left hand: E-B-F# + G-D.</p>
@@ -34,14 +29,12 @@
 <p>The first measures show chords built with 5ths and 4ths moving in parallel motion.</p>
 <?php yt("PQL3OWs_zNU") ?>
 
-
 <?php tt("Joe Hisaishi - Fantasia (Nausicaa)") ?>
 <p>The arpeggio is made out of 2 stacks of 5ths: C-G-D + Eb-Bb.</p>
 <?php yt("Yvha7-oNFys", 34) ?>
 
 
 <h4 class="elementExampleTitle">References</h4>
-
 
 <?php tt("Many Examples of Quartal & Quintal Harmonies") ?>
 <?php yt("hpL7BWg24ms", 506) ?>

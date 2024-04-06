@@ -95,6 +95,10 @@
 <p>At 0:24 - End of 2nd row: F7 + G with G -> A -> Bb.</p>
 <?php yt("k8YDpBBKF0k", 24) ?>
 
+<?php tt("Chopin - Waltz, Op. 69 n°1 'Adieu'")?>
+<p>At 4:17 - Last bar: Dream Cadence + Chopin Cadence: E7 + F -> G -> Ab + Db -> C -> Ab.</p>
+<?php yt("phqaltlqLtE", 257) ?>
+
 <?php tt("Modern Example - Alma Deutscher")?>
 <p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
 <?php yt("VVYKQoolbM4", 176) ?>
