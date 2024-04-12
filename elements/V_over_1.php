@@ -16,6 +16,10 @@
 <p>*m* mm. 2: Bbm -> F7/*1 -> Bbm, i.e. i -> V7/*1 -> i. </p>
 <?php yt("wuL7UC2glJM") ?>
 
+<?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
+<p>*m* mm. 1-2: Cm -> G7b9 / *1 -> Cm i.e. i -> V7b9 / *1 -> i</p>
+<?php yt("xIqx0MOsNfo") ?>
+
 <?php tt("John Field - Nocturne n°6")?>
 <p>*M* mm. 1: F -> C7/*1 -> F i.e. I -> V7/*1 -> I</p>
 <?php yt("U-fS3mR9KDA", 1275) ?>
@@ -45,7 +49,7 @@
 <?php yt("73_jSjG1WrY", 7) ?>
 
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
-<p>mm. 1-4 (in B): nV9 / *1 -> IMaj7</p>
+<p>*M* mm. 1-4 (in B): nV9 / *1 -> IMaj7</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
 

@@ -23,6 +23,10 @@
 <p>Pianoidée at 0:19.</p>
 <?php yt("z1h2prBHUEE", 15) ?>
 
-<?php tt("Leslie Sanford's Exercise")?>
+<?php tt("Vivaldi - Concerto in C major (RV 554)")?>
+<p>Pianoidée using C melodic/harmonic minor at 0:23.</p>
+<?php yt("SmcTN044qPA", 20) ?>
+
+<?php tt("(Modern) Leslie Sanford - Exercise")?>
 <p>Pianoidée at 0:37.</p>
 <?php yt("GhB_2wdvfXM", 31) ?>

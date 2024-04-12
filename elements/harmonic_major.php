@@ -26,14 +26,20 @@
 <?php yt("WiYAl1oOlZ8", 75) ?>
 
 
-<?php tt("Chopin  - Nocturne Op. 9 n°1") ?>
+<?php tt("Chopin - Nocturne Op. 9 n°1") ?>
 <p>At 0:16, in Db Major: I -> IV -> [I -> iiø65] x2, aka 53/*1, 53/*4, 53/*1, 65b3/*4.</p>
 <p>b^6 = Bbb</p>
 <?php yt("wuL7UC2glJM", 16) ?>
 
-<?php tt("Theodore Servin  - Ballade in F# minor") ?>
-<p>At 0:42, 3rd row, mm. 2: DMaj (I) -> Eø642 (iiø642)</p>
+
+<?php tt("Chopin - Nocturne Op. 27 n°2") ?>
+<p>At 0:11, mm. 4-5: DbMaj (I) -> Eø642 (iiø642)</p>
 <p>b^6 = Bb</p>
+<?php yt("WJ8RVjm49hE", 11) ?>
+
+<?php tt("Theodore Servin  - Ballade in F# minor") ?>
+<p>At 0:42, 3rd row, mm. 2: DMaj (I) -> Ebø642 (iiø642)</p>
+<p>b^6 = A♮</p>
 <?php yt("ZC7GleTGtkY", 42) ?>
 
 
@@ -51,6 +57,7 @@
 
 <?php tt("Rachmaninoff - Concerto n°2, 2nd Mvt.") ?>
 <p>At 56:49, I -> [...] -> iiø65 -> I</p>
+<p>(Not sure if the A or the C is the lowest note so it's either iiø65 or iiø43)</p>
 <p>b^6 = C♮</p>
 <?php yt("kS8hk0kL2sE", 3409) ?>
 
