@@ -1,6 +1,6 @@
 <p>The Maj7#5 or +Maj7 chord is a particularly dramatic chord that produces a striking effect. It can be obtained and conceptualized in many ways, the easiest being (in my opinion) as a minor RO suspension of the dominant chord on *4 or *2 moving to *3. If the whole chord is suspended the chord becomes Maj9#5, retaining the same highly dissonant sound. This also means we can get it by moving the bass to b*6 while keeping I harmony in major for a similar result. </p>
 <p>Because this chord is often used in highly chromatic contexts, the roman numeral below will sometimes be given loosely (e.g. ~I -> ~vi6) to understand the local move.</p>
-<p>While sometimes found in Romantic music, this sonority is often associated with French baroque composers such as Couperin.</p>
+<p>While also found in Romantic music and often used by Bach, this sonority was very present in compositions by French baroque composers such as Couperin or Rameau.</p>
 <p>Note: many examples below have been found by <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">Michael Koch</a>, <a target="_blank" href="https://musescore.com/user/30712651">Сергей Щетников</a>, and <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a>.</p>
 
 <h4 class="elementExampleTitle">Resolution</h4>
