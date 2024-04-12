@@ -79,7 +79,7 @@ function loadAllElements() {
 	}
 
 	# Add misc elements too
-	echo '<div id="misc" style="margin-top: 100px; margin-bottom:150px">';
+	echo '<div id="misc" style="margin-top: 100px; margin-bottom:20px">';
  		echo '<h2>Additional elements</h2>';
   		echo '<div class="blurb" style="margin-top:20px; margin-bottom:40px">';
   		echo '<p>These are additional elements and techniques that may not be entirely defined by their sonority, yet can be helpful for improvisation.</p>';
@@ -90,7 +90,16 @@ function loadAllElements() {
   echo '</div>';
 
   # TODO add blog elements too
+	# Add misc elements too
+	echo '<div id="misc" style="margin-top: 100px; margin-bottom:150px">';
+ 		echo '<h2>Blog</h2>';
+  		echo '<div class="blurb" style="margin-top:20px; margin-bottom:40px">';
+  		echo '<p>This sections presents musical concepts and resources on a wider range of topics, not necessarily centered on a specific sonority.</p>';
+  	echo '</div>';
+  
+  	loadBlog();
 
+  echo '</div>';
 
 	// Comments using uuid
 	addComments("mainPage");
