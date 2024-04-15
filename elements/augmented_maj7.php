@@ -1,7 +1,19 @@
-<p>The Maj7#5 or +Maj7 chord is a particularly dramatic chord that produces a striking effect. It can be obtained and conceptualized in many ways, the easiest being (in my opinion) as a minor RO suspension of the dominant chord on *4 or *2 moving to *3. If the whole chord is suspended the chord becomes Maj9#5, retaining the same highly dissonant sound. This also means we can get it by moving the bass to b*6 while keeping I harmony in major for a similar result. </p>
-<p>Because this chord is often used in highly chromatic contexts, the roman numeral below will sometimes be given loosely (e.g. ~I -> ~vi6) to understand the local move.</p>
+<h4>Sections</h4>
+<p class="tableOfContents">
+	<a href="" class="scrollLink">Maj7#5 Chord</a>
+	<br>
+	<a href="#root" class="scrollLink">Root Position</a>
+	<br>
+	<a href="#inv" class="scrollLink">Inversions</a>
+	<br>
+	<a href="#summary" class="scrollLink">Summary</a>
+</p>
+<br>
+
+<p>The Maj7#5 (i.e. +Maj7) or Maj9#5 chord is a particularly dramatic chord that produces a striking effect. Sometimes called <i>"chord of the augmented fifth"</i>, or <i>"mediant ninth chord"</i>, it can be obtained and conceptualized in many ways, the easiest being (in my opinion) as a minor RO suspension of the dominant chord on *4 or *2 moving to *3. If the whole chord is suspended the chord becomes Maj9#5, retaining the same highly dissonant sound. This also means we can get it by moving the bass to b*6 while keeping I harmony in major for a similar result. </p>
+<p>Because this chord is often used in very chromatic contexts, the roman numeral below will sometimes be given loosely (e.g. ~I -> ~vi6) to understand the local move.</p>
 <p>While also found in Romantic music and often used by Bach, this sonority was very present in compositions by French baroque composers such as Couperin or Rameau.</p>
-<p>Note: many examples below have been found by <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">Michael Koch</a>, <a target="_blank" href="https://musescore.com/user/30712651">Сергей Щетников</a>, and <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a>.</p>
+<p>Note: many examples below have been found by <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">Michael Koch</a>, <a target="_blank" href="https://musescore.com/user/30712651">Сергей Щетников</a>, <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a>, and in the <a target="_blank" href="https://catalogue.bnf.fr/ark:/12148/cb37059818t">PhD dissertation by Charles Jay Moomaw</a>.</p>
 
 <h4 class="elementExampleTitle">Resolution</h4>
 
@@ -13,7 +25,7 @@
 
 
 
-<h4 class="elementExampleTitle">Root position</h4>
+<h4 id="root" class="elementExampleTitle">Root position</h4>
 
 <?php tt("Michael Koch - Extensive video on this sonority") ?>
 <p>This video gives a ton of information on this sonority, as well as great examples.</p>
@@ -47,11 +59,27 @@
 <?php yt("6QHYPh0h1Bs", 108) ?>
 
 <?php tt("Bach - Chromatic Fantasia (BWV 903)") ?>
-<p>At 2:13, first bar: C+Maj9 -> Am6 i.e. IMaj9#5 -> vi6</p>
+<p>At 2:13, first bar: CMaj9#5 -> Am6 i.e. IMaj9#5 -> vi6</p>
 <?php yt("YRV_vFrWq-o", 226) ?>
 
+<?php tt("Jean-Joseph de Mondonville - Trio Sonata Op. 2 n°6, 1st Mvt.") ?>
+<p>At 1:18, right after the 3 repeated notes: EbMaj9#5 -> Cm i.e. IIIMaj9#5 -> i</p>
+<?php yt("KZSjJspk0E0", 78) ?>
 
-<h4 class="elementExampleTitle">Other uses & inversions</h4>
+<?php tt("Jean-Adam Guilain - Suite du second ton - Prélude") ?>
+<p>At 1:00, BbMaj9#5 -> Gm i.e. IIIMaj9#5 -> i</p>
+<?php yt("QPtTPkDDyTU", 57) ?>
+
+<?php tt("Michel Delalande - 'Ego vero egenus et pauper aum'") ?>
+<p>At 3:04, second "Deus": GMaj9#5 -> Em6 i.e. IIIMaj9#5 -> i6</p>
+<?php yt("Oc0xE0tJoWE", 184) ?>
+
+<?php tt("André Destouches - Les Elements, 'La mer était tranquille au lever...'") ?>
+<p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
+<?php yt("ljKfcgXc68s", 7) ?> 
+
+
+<h4 id="inv" class="elementExampleTitle">Other uses & inversions</h4>
 
 <p>When inverted, the Maj7#5 chord - also written +Maj7 chord - becomes a +65 or +642. At this chord often naturally occurs on the *3 degree of the harmonic minor scale, it is often found as III+.</p>
 
@@ -97,7 +125,7 @@
 
 <?php yt("uInUkHElPYM", 495) ?>
 
-<h4 class="elementExampleTitle">Summary</h4>
+<h4 id="summary" class="elementExampleTitle">Summary</h4>
 <p>The Maj7#5 and Maj9#5 chords are often used:</p>
 <p>- In *M* on *4 resolving to ii6 or ii</p>
 <p>- In *m* on b*3 coming from *2 or *4 by suspending dominant harmony i.e. <i>'mediant ninth chord'</i></p>
