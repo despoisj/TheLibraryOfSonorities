@@ -32,6 +32,7 @@ function loadElement($element, $fullSize) {
 			// Add last update 
 			// REMOVED BECAUSE FTP UPLOAD UPDATES FILETIME...
       // echo "<div style='margin-top:-10px'><i style='opacity:0.5'><small>Latest update: " . getLastUpdate($element["pageName"].".php") . "</small></i></div><br><br>";
+      echo "<div style='margin-top:-10px'><i style='opacity:0.5'><small>Latest update: " . getLastModifTime("elements/" . $element["pageName"]) . "</small></i></div><br><br>";
 
 			// Finally include the bulk of the page!
 			include "elements/".$element["pageName"].".php";
@@ -90,9 +91,8 @@ function loadAllElements() {
 
   echo '</div>';
 
-  # TODO add blog elements too
-	# Add misc elements too
-	echo '<div id="misc" style="margin-top: 100px; margin-bottom:150px">';
+	# Add blog elements too
+	echo '<div id="blog" style="margin-top: 100px; margin-bottom:150px">';
  		echo '<h2>Blog</h2>';
   		echo '<div class="blurb" style="margin-top:20px; margin-bottom:40px">';
   		echo '<p>This sections presents musical concepts and resources on a wider range of topics, not necessarily centered on a specific sonority.</p>';
@@ -280,6 +280,15 @@ function addComments($uniqueID){
 	</noscript>";
 }
 
+function getLastModifTime($name){
+	// Read content of csv file with modif times inside
+	// This is needed because FTP erases modif times
+	// So we hardcode them in a file upon upload
+	$out = file_get_contents("last_modification_date.json");
+
+	$timestamp = json_decode($out, true)[$name];
+	return date("F d, Y", $timestamp);
+}
 
 function getLastUpdate($name=""){
 	// Scans all files to find latest modification
