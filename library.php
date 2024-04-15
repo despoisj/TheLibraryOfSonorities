@@ -21,17 +21,18 @@ $library = [];
 // Chords
 array_push($library, element("chopin_chord", "'Chopin Cadence' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin", "field", "blumenfeld"], "harmony"));
 array_push($library, element("V9_chord", "'Dream Cadence' (V<sup>9↑</sup>)", ["romantic"], ["scriabin", "chopin", "schumann", "field"], "harmony", ["dreamy"]));
-array_push($library, element("V7b9_chord", "V<sup>7b9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
+array_push($library, element("V7b9_chord", "V<sup>7♭9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
 array_push($library, element("augmented_maj7", "Maj<sup>7#5</sup> Chord", ["classical", "romantic"], ["rachmaninoff", "couperin", "bach"], "harmony", ["sad", "tragic"]));
+array_push($library, element("iv_hdim", "iv<sup>ø7</sup> & ♭vi Chords", ["classical", "romantic"], ["rachmaninoff", "schubert"], "harmony", ["dark", "sad"]));
 
 array_push($library, element("ct_lt", "CT<sup>o7</sup> & LT<sup>o7</sup> Chords", ["romantic"], [], "harmony", ["dreamy"]));
 array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "classical"], ["chopin", "scriabin"], "harmony", ["dreamy"]));
 array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"], [], "harmony"));
 
 // Modulation
-array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to bVI)", ["romantic"], ["beethoven", "chopin"], "harmony"));
+array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to ♭VI)", ["romantic"], ["beethoven", "chopin"], "harmony"));
 array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to III)", ["classical", "romantic"], [], "harmony"));
 
 // Progressions

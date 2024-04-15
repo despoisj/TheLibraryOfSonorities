@@ -96,43 +96,10 @@
 <br>
 <h3 id="e" class="elementExampleTitle">ivm7 & ivø7</h3>
 <div style="margin-top: -10px; margin-bottom: 25px;"><small>*m*</small></div>
-<p>Using ivm7 instead of iv gives a very rich sound. For this, the 7th is often prepared. Another possibility is to create an ivAdd9 chord by preparing the 9th, or more rarely a full ivm9 chord.</p>
-<p>Another option for a predominant chord in minor, much more dissonant, is to uses the ivø7 chord. This is, in essence, the <a target="_blank" href="https://en.wikipedia.org/wiki/Tristan_chord">Tristan Chord</a>, although the real tristan chord resolves like an augmented 6th chord. In Russian musicology, it is called <a href="https://musescore.com/user/30712651/scores/7242678">Rachmaninoff's Subdominant</a>. It can be used as a predominant chord, or in a plagal motion. The sound is also close to the sound of the bVI minor chromatic mediant.</p>
-<p>Note: most of the examples below come from <a target="_blank" href="https://musescore.com/user/30712651/scores/7242678">Сергей Щетников</a> or <a target="_blank" href="https://www.scsmt.org/2021_conf_files/bakulina_2021_slides.pdf">Ellen Bakulina</a>.</p>
+<p>Using ivm7 instead of iv gives a very rich sound for which the 7th is often prepared. Another possibility is to create an ivAdd9 chord by preparing the 9th, or more rarely a full ivm9 chord.</p>
+<p>Another option for a predominant chord in minor, much more dissonant, is to use the ivø7 chord. For more information, check out the article below.</p>
 
-<?php tt("Rachmaninoff - 6 Romances Op. 4 n°1") ?>
-<p>mm. 3 we get ivø7 -> i</p>
-<?php yt("VMEf8jnvjZk") ?>
-
-<?php tt("Tchaikovsky - Romeo & Juliet Overture") ?>
-<p>mm. 3-5 in Fm: ivø65 -> i</p>
-<?php yt("cn3U8AVoWdY", 104) ?>
-
-<?php tt("Rachmaninoff - 12 Romances Op. 21 n°6") ?>
-<p>In Bm: i -> ivø65 -> i -> ivø7 -> ~V7 -> i</p>
-<?php yt("4qDewheeFCQ", 892) ?>
-
-<?php tt("Rachmaninoff - Prelude Op. 3 n°2") ?>
-<p>mm 3-4 in Cm: x -> ivø65 -> V7 -> i</p>
-<?php yt("YOx710drHnw", 45) ?>
-
-<?php tt("Rachmaninoff - Prelude Op. 32 n°12") ?>
-<p>mm. 1 of 2nd page: G#m -> C#ø7/E (with D# -> C#)</p>
-<p>i.e i -> ivø65 + WSS</p>
-<?php yt("13UlKWgwdZI", 27) ?>
-
-<?php tt("Rachmaninoff - Concerto n°2, 1st Mvt.") ?>
-<p>At 10:34, last bar: ivø7 -> V7 -> i</p>
-<?php yt("kS8hk0kL2sE", 634) ?>
-
-<?php tt("Rachmaninoff - Aleko, III 'The Old Gypsy's Tale'") ?>
-<p>At 9:02 in Dm: i -> ivø7 -> i</p>
-<?php yt("EwFo6RvDB-k", 542) ?>
-
-<?php tt("Rachmaninoff - Melodiya Op. 21 n°9") ?>
-<p>Begins with i -> bvi, wich is the upper part of the ivø7 chord and sounds very similar.</p>
-<p>Note: this is a chromatic mediant, to be explored further.</p>
-<?php yt("BiYtgXCQMz0") ?>
+<?php linkSingleElement("iv_hdim")?>
 
 <br>
 <p><b>PREDOMINANT EXTENSION:</b> when using ivm7 on top of V7 or *5, you get an incredible V7sus chord with a b9th and a b13th. Like for IV, the suspension ^7 resolves to form a VChmb9 chord (aka ivø7 extension), which can then resolve to V7 or directly move to i.</p>
