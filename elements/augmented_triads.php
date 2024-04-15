@@ -1,4 +1,4 @@
-<p>Augmented triads are often used as passing chords, prominently as I -> I+ -> IV(Maj7), V -> V+ -> I, or simply to decorate V.</p>
+<p>Augmented triads are often used as passing chords, prominently as I -> I+ -> IV(Maj7), I -> I+ -> vi, V -> V+ -> I, or simply to decorate V.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -11,14 +11,13 @@
 <p>- First bar of 4th line: V -> V+ -> I</p>
 <?php yt("vEGxyHe4Azo") ?>
 
-<?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
+<?php tt("Felix Blumenfeld - Etude Op. 3 n°1")?>
 <p>mm. 2: 5/3 -> 5+/3+ -> 6</p>
 <?php yt("sJ1HmN1j6QM", 80) ?>
 
-<?php tt("Felix Blumenfeld - Etude Op. 3 n°1")?>
+<?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
 <p>Third line: 5/3 -> 5+/3 -> 6. Repeated a 2nd time.</p>
 <?php yt("dFg02WEwlCM", 106) ?>
-
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°5")?>
 <p>Third row: [V -> V+]x4 -> ... -> i</p>

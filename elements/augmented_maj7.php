@@ -22,6 +22,7 @@
 <br><br>
 <p>One important aspect to notice, as mentioned by Michael Koch, is that since the Maj7#5 chord can resolve down a third to a minor chord or directly to a minor chord of the sixth, it is very appropriate as a predominant in major: IVMaj7#5 -> ii(6) -> V -> I.</p>
 <p><b>Keyboard Tip:</b> In root position, the Maj9#5 chord can be seen as a V(7)/b*3, which makes it easy to resolve as the V(7) resolves to i while the bass either stays or drops down to *1. For example, in C major: IVMaj9#5 = F + A7 -> F + Dm (aka ii6) or D + Dm (aka ii). For the inversions, it's more tricky and you'll have too keep track of the suspensions 'by hand'.</p>
+<p>WIP: There is a link with °7 chords as well (CF: Rachmaninoff & Liszt), either on *2 -> b*3 or *4 -> b*3 motions like with the suspended V7, but also to lead to the inversions of Maj9#5. I haven't found an easy way to get to those yet.</p>
 
 
 <h4 id="root" class="elementExampleTitle">Root position</h4>
@@ -84,6 +85,10 @@
 
 <h5 class="elementExampleTitle">First inversion: +65</h5>
 
+<p>When moving the bass up, our IIIMaj7#5 Chord (let's say in A minor) changes from C E G# B D -> E G# B D C = E#7 + b^3. In a surprising twist of events, we realize that this inversion is none other than the minor version of the Chopin Chord: VChm! As a matter of fact, in minor, the Chopin chord is sometimes written as V7#5, although it often contains both the natural and augmented 5th.</p>
+<p>We lack enough examples of this inversion to make a rule, but the two examples here differ from the chopin chord as they both lack the seventh, as they take the form of b6/5/3 chords. This section needs to be re-analyzed and revised to take it into account, with possible links to harmonic major sonorities, V+ dominants, etc.</p>
+
+
 <?php tt("Bach - Harpsichord Concerto in D (BWV 1054), Adagio") ?>
 <p>At 8:32 with the "#56" figured bass: D+65 (F# A# C# D) -> Bmin6</p>
 <p>i.e. I+65 -> vi6</p>
@@ -119,10 +124,9 @@
 <p>- At 8:15, 'forte' measure: Dm -> E7642 -> CMaj7#5 -> Am6</p>
 <p> i.e. 53 -> 6#42 -> +642 -> 6 over *1 -> *1 -> b*7 -> b*7</p>
 <p>This move is a local suspension of the dominant chord over *4 -> *3 RO motion, and a useful trick to prolongate the "dominant tied bass"(see below) motion of 53 -> 6#42 -> 6 when moving to a minor key.</p>
-
 <?php linkSingleElement('tb') ?>
-
 <?php yt("uInUkHElPYM", 495) ?>
+
 
 <h4 id="summary" class="elementExampleTitle">Summary</h4>
 <p>The Maj7#5 and Maj9#5 chords are often used:</p>
