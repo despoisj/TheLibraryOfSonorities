@@ -78,6 +78,13 @@
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("ljKfcgXc68s", 7) ?> 
 
+<?php tt("Bach - Violin Concerto in A Minor (BWV 1041), Andante") ?>
+<p>- At 8:15, 'forte' measure: Dm -> E7642 -> CMaj7#5 -> Am6</p>
+<p> i.e. 53 -> 6#42 -> 7/#5/3 -> 6 over *1 -> *1 -> b*7 -> b*7</p>
+<p>This move is a local suspension of the dominant chord over *4 -> *3 RO motion, and a useful trick to prolongate the "dominant tied bass"(see below) motion of 53 -> 6#42 -> 6 when moving to a minor key.</p>
+<?php linkSingleElement('tb') ?>
+<?php yt("uInUkHElPYM", 495) ?>
+
 
 <h4 id="inv" class="elementExampleTitle">Other uses & inversions</h4>
 
@@ -118,14 +125,6 @@
 <p>Also note the other augmented triads motions like Am -> A+ -> D aka v -> V+ -> I.</p>
 <?php yt("LoMXg5a3aD4") ?>
 
-
-
-<?php tt("Bach - Violin Concerto in A Minor (BWV 1041), Andante") ?>
-<p>- At 8:15, 'forte' measure: Dm -> E7642 -> CMaj7#5 -> Am6</p>
-<p> i.e. 53 -> 6#42 -> +642 -> 6 over *1 -> *1 -> b*7 -> b*7</p>
-<p>This move is a local suspension of the dominant chord over *4 -> *3 RO motion, and a useful trick to prolongate the "dominant tied bass"(see below) motion of 53 -> 6#42 -> 6 when moving to a minor key.</p>
-<?php linkSingleElement('tb') ?>
-<?php yt("uInUkHElPYM", 495) ?>
 
 
 <h4 id="summary" class="elementExampleTitle">Summary</h4>
