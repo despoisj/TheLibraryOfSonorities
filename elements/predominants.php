@@ -129,6 +129,11 @@
 <p>At 9:02 in Dm: i -> ivø7 -> i</p>
 <?php yt("EwFo6RvDB-k", 542) ?>
 
+<?php tt("Rachmaninoff - Melodiya Op. 21 n°9") ?>
+<p>Begins with i -> bvi, wich is the upper part of the ivø7 chord and sounds very similar.</p>
+<p>Note: this is a chromatic mediant, to be explored further.</p>
+<?php yt("BiYtgXCQMz0") ?>
+
 <br>
 <p><b>PREDOMINANT EXTENSION:</b> when using ivm7 on top of V7 or *5, you get an incredible V7sus chord with a b9th and a b13th. Like for IV, the suspension ^7 resolves to form a VChmb9 chord (aka ivø7 extension), which can then resolve to V7 or directly move to i.</p>
 <p>Note: I personally find the ivm7 extension to be a bit too muddy, so I often skip the suspension and use ivø7 instead.</p>
