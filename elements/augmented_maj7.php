@@ -131,7 +131,7 @@
 <p>- In *M* with I -> I+ -> vi over *1 -> *7 -> *6, compatible with first use: IV -> IV+/*3 -> ii</p>
 
 <br>
-<p>WIP: explore the other resolution mentioned by Greenberg</p>
+<p>WIP: explore the other resolution mentioned by Greenberg. Note that Charles Jay Moomaw mentions many different uses in his PhD dissertation...</p>
 <img style="width:90%; background-color: white;" src="imgs/augmented_maj7_resolutions_extra.jpg">
 <br><br>
 
