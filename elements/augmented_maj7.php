@@ -17,12 +17,11 @@
 
 <h4 class="elementExampleTitle">Resolution</h4>
 
-<p>The peculiar Maj7#5 chord and its inversion might seem daunting, but resolves in the same way most of the time. The resolutions have been compiled by <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a> in the following graph.</p>
+<p>The peculiar Maj7#5 chord and its inversion might seem daunting, but resolves in the same way most of the time. The resolutions have been compiled by <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a> in the following graph which I have modified a bit. Note that Greenberg has identified other resolutions, which you can find at the end of this article.</p>
 <img style="width:90%; background-color: white;" src="imgs/augmented_maj7_resolutions.jpg">
 <br><br>
-<p>An important addition is that in root position, the chord can also resolve down a third to a root position chord: IMaj7#5 -> vi. In all cases, the most important is to properly resolve the suspensions.</p>
 <p>One important aspect to notice, as mentioned by Michael Koch, is that since the Maj7#5 chord can resolve down a third to a minor chord or directly to a minor chord of the sixth, it is very appropriate as a predominant in major: IVMaj7#5 -> ii(6) -> V -> I.</p>
-
+<p><b>Keyboard Tip:</b> In root position, the Maj9#5 chord can be seen as a V(7)/b*3, which makes it easy to resolve as the V(7) resolves to i while the bass either stays or drops down to *1. For example, in C major: IVMaj9#5 = F + A7 -> F + Dm (aka ii6) or D + Dm (aka ii). For the inversions, it's more tricky and you'll have too keep track of the suspensions 'by hand'.</p>
 
 
 <h4 id="root" class="elementExampleTitle">Root position</h4>
@@ -60,7 +59,7 @@
 
 <?php tt("Bach - Chromatic Fantasia (BWV 903)") ?>
 <p>At 2:13, first bar: CMaj9#5 -> Am6 i.e. IMaj9#5 -> vi6</p>
-<?php yt("YRV_vFrWq-o", 226) ?>
+<?php yt("lHTMq-5B9Co", 133) ?>
 
 <?php tt("Jean-Joseph de Mondonville - Trio Sonata Op. 2 n°6, 1st Mvt.") ?>
 <p>At 1:18, right after the 3 repeated notes: EbMaj9#5 -> Cm i.e. IIIMaj9#5 -> i</p>
@@ -130,8 +129,11 @@
 <p>- In *M* on *4 resolving to ii6 or ii</p>
 <p>- In *m* on b*3 coming from *2 or *4 by suspending dominant harmony i.e. <i>'mediant ninth chord'</i></p>
 <p>- In *M* with I -> I+ -> vi over *1 -> *7 -> *6, compatible with first use: IV -> IV+/*3 -> ii</p>
-<p>TODO: explore the other resolution mentioned by Greenberg</p>
 
+<br>
+<p>WIP: explore the other resolution mentioned by Greenberg</p>
+<img style="width:90%; background-color: white;" src="imgs/augmented_maj7_resolutions_extra.jpg">
+<br><br>
 
 <br><br>
 <p>Note: in the comments of <a target="_blank" href="https://musescore.com/user/30712651/scores/6877907">this page</a>, some examples are given which, in my opinion, don't give the same sound but rather use the augmented 5th as a chromatic lower approach note. To be investigated...</p>
