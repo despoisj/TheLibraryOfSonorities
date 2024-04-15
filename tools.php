@@ -49,7 +49,8 @@ function loadElement($element, $fullSize) {
 		foreach (array_slice($element["composers"], 0, 1) as $composer) {
 			array_push($tags, "<i><a class='tag' href='index.php?filter=composer&composer=" . $composer . "'>" . ucfirst($composer) . "</a></i>");
 		}
-		foreach ($element["emotions"] as $emotion) {
+		// Only display 1 composer at most, but other are still indexed
+		foreach (array_slice($element["emotions"], 0, 1) as $emotion) {
 			array_push($tags, "<i><a class='tag' href='index.php?filter=emotion&emotion=" . $emotion . "'>" . ucfirst($emotion) . "</a></i>");
 		}
 

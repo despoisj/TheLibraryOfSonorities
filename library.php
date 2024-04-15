@@ -24,8 +24,9 @@ array_push($library, element("V9_chord", "'Dream Cadence' (V<sup>9↑</sup>)", [
 array_push($library, element("V7b9_chord", "V<sup>7♭9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
 array_push($library, element("augmented_triads", "Augmented Triads", ["romantic"], ["rachmaninoff"], "harmony"));
-array_push($library, element("augmented_maj7", "Maj<sup>7#5</sup> Chord", ["classical", "romantic"], ["rachmaninoff", "couperin", "bach"], "harmony", ["sad", "tragic"]));
-array_push($library, element("iv_hdim", "iv<sup>ø7</sup> & ♭vi Chords", ["classical", "romantic"], ["rachmaninoff", "schubert"], "harmony", ["dark", "sad"]));
+
+array_push($library, element("augmented_maj7", "Maj<sup>7#5</sup> Chord", ["classical", "romantic"], ["couperin", "bach"], "harmony", ["tragic", "sad", "anguish"]));
+array_push($library, element("iv_hdim", "iv<sup>ø7</sup> & ♭vi Chords", ["romantic"], ["rachmaninoff", "schubert"], "harmony", ["dark"]));
 
 array_push($library, element("ct_lt", "CT<sup>o7</sup> & LT<sup>o7</sup> Chords", ["romantic"], [], "harmony", ["dreamy"]));
 array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "classical"], ["chopin", "scriabin"], "harmony", ["dreamy"]));
