@@ -241,7 +241,7 @@ function yt($id, $start = 0, $defaultYT = false) {
 		echo '<iframe style="border-radius:10px" width="560" height="315" src="https://www.youtube.com/embed/'. $id .'?start='. $start .'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
 	} else {
 		// Display wrapped youtube vieo
-		echo '<amp-youtube style="border-radius:10px" layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"></amp-youtube>';
+		echo '<amp-youtube style="border-radius:10px" layout="responsive" width="560" height="315" data-videoid="' . $id . '" data-param-start="' . $start . '"><a target="_blank" href="https://www.youtube.com/watch?v=' . $id . '&t=' . $start . '"><amp-img src="imgs/yt_placeholder.jpg" placeholder layout="fill"/></a></amp-youtube>';
 	}
 }
 
