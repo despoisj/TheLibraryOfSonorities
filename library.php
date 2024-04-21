@@ -45,7 +45,7 @@ array_push($library, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic
 array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
 
 // Arps
-array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic"], ["blumenfeld", "scriabin", "rachmaninoff"], "harmony"));
+array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romantic", "impressionist"], ["blumenfeld", "scriabin", "rachmaninoff"], "harmony"));
 
 // Other
 array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin", "rachmaninoff", "schubert"], "texture"));

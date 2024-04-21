@@ -139,6 +139,11 @@ if ($filter == "element"){
                     
                 } elseif ($filter == "emotion") {
                     $title = ucfirst($emotion);
+
+                    // Special case
+                    echo '<h2>';
+                    echo $title;
+                    echo '</h2>';
                 } elseif ($filter == "style") {
                     if($style == "classical")
                         $title = "Baroque/Classical";
