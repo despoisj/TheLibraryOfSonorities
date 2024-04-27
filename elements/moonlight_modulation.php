@@ -33,6 +33,11 @@
 <p>Note: here the bass is *1 b*3 b*6, also listen how the F#7 chord's sound is emphasized.</p>
 <?php yt("Pp4v42suFQg", 683) ?>
 
+<?php tt("Liszt - Harmonies poétiques et religieuses, S.172a")?>
+<p>At 1:10, mm. 3-4: C#m -> E7/B -> ...</p>
+<p>Bass goes *1 -> b*7 -> b*6 but the harmony on b*6 is different, the beginning sounds the same.</p>
+<?php yt("S2TEUjBG40g", 70) ?>
+
 <?php tt("Chopin - Nocturne Op. 62 n°2")?>
 <p>mm. 3-4: C#min -> B-D-E-G# -> Amaj</p>
 <?php yt("9AZaVTm3dKM", 12) ?>
