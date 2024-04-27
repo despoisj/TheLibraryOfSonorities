@@ -36,6 +36,10 @@
 <p>*M* mm. 1: Db -> Ab7/*1 (no 5th) -> Db i.e. I -> V7/*1 -> I</p>
 <?php yt("dZZlf1oYjoo") ?>
 
+<?php tt("Liszt - \"I' vidi in terra\", S.158/3")?>
+<p>*M* At 19:32, last two bars: Ab -> Eb7/*1 -> Ab, i.e. I -> V7/*1 -> I. </p>
+<?php yt("Nc09wbZhwws", 1172) ?>
+
 <?php tt("Charles Gounod - Romance sans paroles n°2")?>
 <p>*M* mm. 1-4: Gb -> Db7/*1 -> Gb i.e. I -> V7/*1 -> I</p>
 <?php yt("CnH7vjO52L8", 178) ?>
