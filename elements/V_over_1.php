@@ -16,6 +16,10 @@
 <p>*m* mm. 2: Bbm -> F7/*1 -> Bbm, i.e. i -> V7/*1 -> i. </p>
 <?php yt("wuL7UC2glJM") ?>
 
+<?php tt("Liszt - Venezia e Napoli, S.159")?>
+<p>*M* Eb -> B7/*1 -> Eb, i.e. I -> V7/*1 -> I. </p>
+<?php yt("sGXFE7Vorbo", 931) ?>
+
 <?php tt("Chopin - Nocturne in C minor, Op. Posth")?>
 <p>*m* mm. 1-2: Cm -> G7b9 / *1 -> Cm i.e. i -> V7b9 / *1 -> i</p>
 <?php yt("xIqx0MOsNfo") ?>
