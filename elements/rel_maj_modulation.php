@@ -10,6 +10,10 @@
 <p>2nd row, 2nd measure: i (Fmin) -> V/III (Eb7) -> III (Ab)</p>
 <?php yt("J43KcBfBL8E", 23) ?>
 
+<?php tt("Mendelssohn - Song without words Op. 30 n°6") ?>
+<p>At 0:60, i (F#min) -> V/III (E7) -> III (A)</p>
+<?php yt("STy9GPeuNEY", 61) ?>
+
 <?php tt("Chopin - Scherzo n°2") ?>
 <p>2nd row, last 2 bars: i6 (Cmin) -> V/III (B7) -> III (E)</p>
 <?php yt("anuQSmPa0aM", 33) ?>
