@@ -15,8 +15,10 @@
 <?php yt("BiYtgXCQMz0") ?>
 
 <?php tt("Liszt - 'Pace non trovo', S.158/1") ?>
-<p>At 4:51: Em -> Cm i.e. i -> bvi</p>
+<p>At 4:51, Em -> Cm i.e. i -> bvi</p>
 <p>Note that the Cm is resolved to G, like the iv -> I harmonic major move.</p>
+<?php tt("Liszt - 'Benedetto s’il giorno', S.158/2") ?>
+<p>At 10:34, mm. 2-3: Em -> Cm i.e. i -> bvi</p>
 <?php yt("Nc09wbZhwws", 291) ?>
 
 <?php tt("Wagner - Nibelheim hier, Das Rheingold, Dritte Szene
