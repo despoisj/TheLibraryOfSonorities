@@ -1,4 +1,4 @@
-<p>This modulation moves down a third from any minor chord to the Major scale a Major third below (ex. amin -> FMaj) via V7/bVI. It is often used to go from i to bVI, or from iii back to I. The basslines often descends twice by whole step: *1 b*7 b*6 supporting 5/b3 -> 6/4/3 -> 5/3 harmony, or moves *1 b*3 b*6.</p>
+<p>This modulation, which I call 'moonlight modulation' in reference to Beethoven's sonata, moves down a third from any minor chord to the Major scale a Major third below (ex. amin -> FMaj) via V7/bVI. It is often used to go from i to bVI, or from iii back to I. The basslines often descends twice by whole step: *1 b*7 b*6 supporting 5/b3 -> 6/4/3 -> 5/3 harmony, or moves *1 b*3 b*6.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -9,6 +9,11 @@
 <?php tt("Nicolai von Wilm - Entblättere Rose")?>
 <p>Bottom row, 2nd -> 3rd measure.</p>
 <?php yt("Fy3JxUfE9ds", 35) ?>
+
+<?php tt("Liszt - 'Pace non trovo', S.158/1")?>
+<p>At 3:50, bottom row: G#m -> B9/F# -> E</p>
+<p>Note here the bass goes *1 b*7 (b*3) b*6</p>
+<?php yt("Nc09wbZhwws", 230) ?>
 
 <?php tt("Vasily Kalinnikov - Waltz in A")?>
 <p>mm. 2: C#min -> B-D-(E)-G# -> Amaj</p>

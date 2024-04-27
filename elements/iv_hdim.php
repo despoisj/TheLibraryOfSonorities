@@ -14,6 +14,11 @@
 <p>Starts with i -> bvi</p>
 <?php yt("BiYtgXCQMz0") ?>
 
+<?php tt("Liszt - 'Pace non trovo', S.158/1") ?>
+<p>At 4:51: Em -> Cm i.e. i -> bvi</p>
+<p>Note that the Cm is resolved to G, like the iv -> I harmonic major move.</p>
+<?php yt("Nc09wbZhwws", 291) ?>
+
 <?php tt("Wagner - Nibelheim hier, Das Rheingold, Dritte Szene
 ") ?>
 <p>At 4:16 we get a i -> bvi -> i -> bvi -> i oscillation.</p>
