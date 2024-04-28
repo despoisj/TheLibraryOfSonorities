@@ -19,7 +19,7 @@ $library = [];
 
 
 // Chords
-array_push($library, element("chopin_chord", "'Chopin Cadence' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin", "field", "blumenfeld"], "harmony"));
+array_push($library, element("chopin_chord", "'Chopin Cadence' (V7<sup>Add6</sup>)", ["romantic"], ["chopin", "scriabin", "field", "blumenfeld", "lizst"], "harmony"));
 array_push($library, element("V9_chord", "'Dream Cadence' (V<sup>9↑</sup>)", ["romantic"], ["scriabin", "chopin", "liszt", "field", "schumann"], "harmony", ["dreamy"]));
 array_push($library, element("V7b9_chord", "V<sup>7♭9</sup> Chord in minor", ["romantic"], [], "harmony", ["sad"]));
 array_push($library, element("n6", "Neapolitan 6th Chord", ["romantic"], ["beethoven", "chopin"], "harmony", ["sad"]));
@@ -51,7 +51,7 @@ array_push($library, element("ninth_arps", "Arpeggios with added 9th", ["romanti
 array_push($library, element("chromatic_thirds", "(Chromatic) Thirds", ["romantic", "brilliant"], ["chopin", "rachmaninoff", "schubert"], "texture"));
 
 
-array_push($library, element("picardy_third", "Picardy Third", ["romantic"], ["chopin"], "harmony"));
+array_push($library, element("picardy_third", "Picardy Third", ["romantic", "classical"], ["chopin"], "harmony"));
 
 array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
 array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));
