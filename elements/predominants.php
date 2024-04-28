@@ -93,7 +93,7 @@
 <?php tt("Examples of iim9 and IVM7 extensions") ?>
 <?php yt("gchwLVCBVwo", 205) ?>
 
-<?php tt("Liszt - Harmonies poétiques et religieuses, S.172a") ?>
+<?php tt("Liszt - Harmonies poétiques et religieuses, S.172a n°1 'Invocation'") ?>
 <p>At 0:49, mm. 2-3: AMaj7 / B -> B7 -> E i.e. IVM7 / *5 -> V7 -> I</p>
 <?php yt("S2TEUjBG40g", 49) ?>
 

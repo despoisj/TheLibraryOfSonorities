@@ -26,10 +26,18 @@
 <p>At 4:16 we get a i -> bvi -> i -> bvi -> i oscillation.</p>
 <?php yt("TgPAf6TgdvQ", 254) ?>
 
+<?php tt("Liszt - Harmonies poétiques et religieuses, S172a, 'Litanies de Marie'") ?>
+<p>At 21:09 last row mm. 3: Bb -> Gm -> Ebm -> Bb i.e I -> vi -> iv -> I</p>
+<p>Note: here in major, this move blends the darkness of the vi -> iv (aka i -> vi) move and the sweetness of the harmonic major move iv -> I.</p>
+<?php yt("S2TEUjBG40g", 1269) ?>
+
 <?php tt("Liszt - Années de pèlegrinage, 'Il penseroso'") ?>
 <p>This example perfectly shows the link between bvi and ivø7 with the simple addition of a bass note.</p>
 <p>At 0:15 mm. 1-4: C#m -> Am -> F#ø7 i.e i -> bvi -> ivø7.</p>
 <?php yt("8E1z8E3yPk8", 15) ?>
+
+
+
 
 <h3 id="ivø7" class="elementExampleTitle">ivø7</h3>
 
