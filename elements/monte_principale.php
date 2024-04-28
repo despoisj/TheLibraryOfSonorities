@@ -29,6 +29,12 @@
 <?php yt("Af0x8EsiR7Q", 106) ?>
 
 
+<?php tt("Liszt - Harmonies poétiques et religieuses, S172a, 'Hymne'")?>
+<p>At 1:00:54 the bass follows [Bb -> G] -> [C ... with harmony [VII -> vm] -> [im7 ...</p>
+<p>This can be seen as the DoLaReTi (Up a sixth down a fifth) or an offset Monte Principale (Up a fourth down a third), which sound very similar.</p>
+<?php yt("S2TEUjBG40g", 3654) ?>
+
+
 <?php tt("Mozart - Madamina")?>
 <p>Bass goes: x D] -> [B -> E] -> [C# -> F#] -> [D x</p>
 <p>i.e. x *1] -> [*6 -> *2] -> [*7 -> *3] -> [*1 x</p>
