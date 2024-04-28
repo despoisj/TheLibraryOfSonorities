@@ -1,4 +1,4 @@
-<p>The <a href="https://en.wikipedia.org/wiki/Picardy_third">picardy third</a> is the name given to resolving a minor harmony to major, often at the end the piece or a section. The change is often sudden, and gives a very hopeful feeling, like the sun peeking out of the clouds after a storm. </p>
+<p>The <a href="https://en.wikipedia.org/wiki/Picardy_third">picardy third</a> is the name given to resolving a minor harmony to major, often at the end the piece or a section. The change is often sudden, and gives a very hopeful feeling, like the sun peeking out of the clouds after a storm. For maximum effects, some pieces resolve to the tonic triad but without playing the third until the very last note.</p>
 
 <p style="text-align: center;"><a target="_blank" href="https://en.wikipedia.org/wiki/Neapolitan_chord">Wikipedia</a></p>
 
