@@ -42,6 +42,10 @@
 <p>At 1:17 mm. 5: I64 -> V9 (E7 + F#).</p>
 <?php yt("62vYPGOe9EM", 18) ?>
 
+<?php tt("Liszt - Harmonies poétiques et religieuses, S154")?>
+<p>At 0:27 last measure: A7 + B -> C# -> D</p>
+<?php yt("Ed-PvqSG8Bs", 27) ?>
+
 <?php tt("Edward Elgar - Salut d'Amour")?>
 <p>At 0:23 second row, mm. 6: ~B7 + C# (9th)</p>
 <?php yt("KF-3QOebX4Y", 23) ?>
