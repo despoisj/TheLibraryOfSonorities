@@ -5,6 +5,11 @@
 <p>2nd row, 2nd measure: i64 -> V7b9 (D7 + Eb) -> i</p>
 <?php yt("107Iwx5RKSM", 35) ?>
 
+
+<?php tt("Liszt - 'Pace non trovo', S.158/1") ?>
+<p>At 3:39 2nd row 2nd measure: G#64 (i64) -> D#7 + E (b9th).</p>
+<?php yt("Nc09wbZhwws", 219) ?>
+
 <?php tt("Beethoven - 'Pathétique' Sonata, 1st Mvt.") ?>
 <p>2nd row: G7 + accented Ab (b9) at the end</p>
 <?php yt("M_124D_7KoU", 98) ?>
