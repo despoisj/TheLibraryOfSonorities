@@ -75,7 +75,6 @@
 <p>Note the VChM at 1:13</p>
 <?php yt("pmIDevUoPpE", 29) ?>
 
-
 <?php tt("Franz Burgmüller - Am Weihnachtsbaum, Op. 100* n°1")?>
 <p>Note: This is listed as Op. 100 n°1, but there are two Op. 100, this is not the etudes but the "2 pieces", for which this is the only recording available.</p>
 <p>3rd row: G9 (G7 + A).</p>
@@ -87,7 +86,6 @@
 <p>At 2:20 the piece ends with a clear V9 resulting from the melodic line on the dominant.</p>
 <p>Note: in this piece, the ninth is approached by the b9th to create a chromatic melody b^6 -> ^6 -> ^7 -> ^1. This V7b9 -> V9 move is an interesting alternative to the expected b9 -> 8 resolution. It can also be seen as nothing more than a a chromatic approach tone to the 9th.</p>
 <?php yt("j3AMWk76UxE", 27) ?>
-
 
 <?php tt("Scriabin - Prelude, Op. 15 n°3 & n°4")?>
 <p>n°3: V9 At 3:17 - End of last measure: V9 (B7 + C#) -> I</p>
@@ -102,6 +100,11 @@
 <?php tt("Chopin - Waltz, Op. 69 n°1 'Adieu'")?>
 <p>At 4:17 - Last bar: Dream Cadence + Chopin Cadence: E7 + F -> G -> Ab + Db -> C -> Ab.</p>
 <?php yt("phqaltlqLtE", 257) ?>
+
+<?php tt("Brahms - Variations on a Theme of Paganini, Op. 35, Book II, Var. 12")?>
+<p>At 20:58 - Last bar: C7 + D -> E -> F.</p>
+<p>As the 9th isn't on a strong beat, this one is quite subtle.</p>
+<?php yt("1EIE78D0m1g", 1258) ?>
 
 <?php tt("Modern Example - Alma Deutscher")?>
 <p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
