@@ -24,16 +24,19 @@
 <p>Note: this bass movement returns in the 3rd Mvt. at 31:40</p>
 <?php yt("m3mXgmgnvdw", 278) ?>
 
+<?php tt("Beethoven - Piano Concerto n°5, Op.73, 2nd Mvt.")?>
+<p>At 21:55, a prime example of the Monte Principale: [Bmaj -> Emaj] -> [C#min -> F#maj] -> [D#min -> G#min]</p>
+<p>i.e [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
+<?php yt("wgYA8I92ykw", 1315) ?>
+
 <?php tt("Mozart - Ave Verum Corpus")?>
 <p>Bass goes: [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
 <?php yt("Af0x8EsiR7Q", 106) ?>
-
 
 <?php tt("Liszt - Harmonies poétiques et religieuses, S172a, 'Hymne'")?>
 <p>At 1:00:54 the bass follows [Bb -> G] -> [C ... with harmony [VII -> vm] -> [im7 ...</p>
 <p>This can be seen as the DoLaReTi (Up a sixth down a fifth) or an offset Monte Principale (Up a fourth down a third), which sound very similar.</p>
 <?php yt("S2TEUjBG40g", 3654) ?>
-
 
 <?php tt("Mozart - Madamina")?>
 <p>Bass goes: x D] -> [B -> E] -> [C# -> F#] -> [D x</p>
@@ -44,7 +47,6 @@
 <?php tt("Handel - Concerto Grosso Op. 6 n°12, Allegro")?>
 <p>This example shows the 5-6, which is very similar to the Monte Principale.</p>
 <?php yt("vdAgwlM1hJw", 198) ?>
-
 
 <h4 class="elementExampleTitle">Modern Examples</h4>
 <p>The following examples are more modern, but show the same rising energy of the Monte Principale.</p>
