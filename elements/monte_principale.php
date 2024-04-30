@@ -1,6 +1,19 @@
 <p>The <i>Monte Principale</i> (Gjerdingen) is a sequence that is defined by 53 chords over a bass that leaps up a fourth and down a third (U4D3). It can also be seen as a series of V-I relations that climbs up a step, especially since it is often used to repeat a musical idea that spans two chords, and then repeated higher.</p>
-<p>It is important to note the similarity with other sequences such as the 5-6 diatonic monte and the '8-7-6'. The sonority of the Monte principale is also very similar / hard to distinguish from its weak/strong beat opposite that rises by sixth and falls by fifth: the U6D5 or <i>DoLaReTi</i> (Mortensen). I will call both Monte Principale here.</p>
+<p>It is important to note the similarity with the 5-6 diatonic monte and its complementarity to the '8-7-6'. The sonority of the Monte principale is also very similar & hard to distinguish from its weak/strong beat opposite that rises by sixth and falls by fifth: the U6D5 or <i>DoLaReTi</i> (Mortensen), I will call both of them Monte Principale. All three bass motion fall in the same family and result in a similar sound.</p>
 <p>The Monte Principale was frequently used in Baroque and Classical music, but it can be found in Romantic music where its rising motion is used to swell and build up energy while approaching the climax of a section. In romantic or more modern music, the chords are often embellished with extensions like the 7th.</p>
+
+<br>
+<img style="width:60%; background-color: white;" src="imgs/mp/mp_56.jpg">
+<br>5-6 Monte
+<br><br>
+<img style="width:60%; background-color: white;" src="imgs/mp/mp_dolareti.jpg">
+<br>Monte Principale & DoLaReTi variants
+<br><br>
+<img style="width:60%; background-color: white;" src="imgs/mp/mp_876.jpg">
+<br>'8-7-6'
+<br><br>
+<img style="width:60%; background-color: white;" src="imgs/mp/mp_7ths.jpg">
+<br>Monte Principale with 7ths
 
 <h4 class="elementExampleTitle">Examples</h4>
 
@@ -24,7 +37,7 @@
 <p>Note: this bass movement returns in the 3rd Mvt. at 31:40</p>
 <?php yt("m3mXgmgnvdw", 278) ?>
 
-<?php tt("Beethoven - Piano Concerto n°5, Op.73, 2nd Mvt.")?>
+<?php tt("Beethoven - Piano Concerto n°5, Op. 73, 2nd Mvt.")?>
 <p>At 21:55, a prime example of the Monte Principale: [Bmaj -> Emaj] -> [C#min -> F#maj] -> [D#min -> G#min]</p>
 <p>i.e [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
 <?php yt("wgYA8I92ykw", 1315) ?>
@@ -38,15 +51,38 @@
 <p>This can be seen as the DoLaReTi (Up a sixth down a fifth) or an offset Monte Principale (Up a fourth down a third), which sound very similar.</p>
 <?php yt("S2TEUjBG40g", 3654) ?>
 
+<?php tt("Handel - Concerto Grosso Op. 6 n°12, Allegro")?>
+<p>This example shows the 5-6, which is very similar to the Monte Principale.</p>
+<?php yt("vdAgwlM1hJw", 198) ?>
+
+<?php tt("Mozart - Piano Concerto n°14, K. 449, 2nd Mvt.")?>
+<p>At 13:28, last bar and on: [Bbmaj -> Ebmaj] -> [Cmin -> Fmaj] -> [Dmin -> Gmin]</p>
+<p>i.e. [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
+<?php yt("aQWXBArpdB8", 808) ?>
+
+<?php tt("Beethoven - Violin Sonata Op. 12 n°1, 3rd Mvt.")?>
+<p>At 15:23: In chords then right after in arpeggios: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [Amaj6 -> F#min6]*</p>
+<p>Note the last chords that are chords of the sixth and not of the fifth but still on the U4D3 bassline</p>
+<p>i.e. [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
+<?php yt("eC6F4Le6mII", 923) ?>
+
+<?php tt("Mozart - Piano Concerto n°23, K. 488, 1st Mvt.")?>
+<p>At 8:28 we get a very clear 5-6 motion with descending arpeggios with a DoLaReTi bass:</p>
+<p>D] -> [B -> E] -> [C# -> F#] -> [D -> G] -> [E</p>
+<p>*4] -> [*2 -> *5] -> [*3 -> *6] -> [*4 -> *7] -> [*5</p>
+<?php yt("6Sxp9M0Jm4w", 508) ?>
+
+<?php tt("Mozart - Sonata for Two Pianos in D, K448, 3rd Mvt.")?>
+<p>At 18:33 we get twice: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [C#min -> F#min] -> [Dmaj</p>
+<?php yt("PQQgHpMBHbo", 1113) ?>
+
 <?php tt("Mozart - Madamina")?>
 <p>Bass goes: x D] -> [B -> E] -> [C# -> F#] -> [D x</p>
 <p>i.e. x *1] -> [*6 -> *2] -> [*7 -> *3] -> [*1 x</p>
 <p>This is a good example of the link between the 5-6 monte and the Monte Principale.</p>
 <?php yt("YmEHs7MKYMg", 3) ?>
 
-<?php tt("Handel - Concerto Grosso Op. 6 n°12, Allegro")?>
-<p>This example shows the 5-6, which is very similar to the Monte Principale.</p>
-<?php yt("vdAgwlM1hJw", 198) ?>
+
 
 <h4 class="elementExampleTitle">Modern Examples</h4>
 <p>The following examples are more modern, but show the same rising energy of the Monte Principale.</p>
