@@ -66,8 +66,8 @@ array_push($library, element("quartal", "Quartal & Quintal Harmony", ["impressio
 array_push($library, element("predominants", "Predominants & Predominant Extensions", ["romantic"], ["scriabin", "chopin", "rachmaninoff", "ravel"], "harmony"));
 
 
-array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));
-array_push($library, element("stabat", "Stabat Mater Prinner", ["classical"], ["pergolesi"], "harmony"));
+array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["vivaldi", "corelli"], "harmony"));
+array_push($library, element("stabat", "Stabat Mater Prinner", ["classical"], ["pergolesi"], "harmony", ["tragic", "sad"]));
 
 
 
