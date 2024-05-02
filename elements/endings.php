@@ -16,7 +16,6 @@
 
 <h3 id="finalfall" class="elementExampleTitle">The Final Fall</h3>
 <p>The 'Final Fall' (Gjerdingen) is a typical ending where the melody jumps from a high ^1 to a lower ^1 (i.e. ^8 -> ^1), or from ^3 -> ^1 over a *1 bass, which may also drop lower. It is extremely common. In romantic music, it is often combined with the 'Fade' ending.</p>
-<p>According to Gjerdingen, the ^3 -> ^1 fall might be more Romantic.</p>
 
 <?php tt("John Field - Nocturne n°1")?>
 <p>Medium G (^3) -> High Eb (^1) x2</p>

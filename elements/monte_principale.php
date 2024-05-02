@@ -72,8 +72,13 @@
 <p>*4] -> [*2 -> *5] -> [*3 -> *6] -> [*4 -> *7] -> [*5</p>
 <?php yt("6Sxp9M0Jm4w", 508) ?>
 
+<?php tt("Chopin - Piano Concerto n°1, 3rd Mvt.")?>
+<p>At 44:50: 5-6 starting on E -> F# -> G# -> A</p>
+<?php yt("R3azyotbXgg", 2688) ?>
+
+
 <?php tt("Mozart - Sonata for Two Pianos in D, K448, 3rd Mvt.")?>
-<p>At 18:33 we get twice: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [C#min -> F#min] -> [Dmaj</p>
+<p>At 18:33 we get a Monte Principale twice: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [C#min -> F#min] -> [Dmaj</p>
 <?php yt("PQQgHpMBHbo", 1113) ?>
 
 <?php tt("Mozart - Madamina")?>
