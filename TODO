@@ -64,6 +64,10 @@ Triumphant wedge:
 Modulation I -> iii
 	-> Stupeflip mod
 
+	-> Chopin Polonaise in A Major, op. 40 no. 1, mm. 25-34
+	-> https://musictheoryexamples.com/21AP/APz.pdf
+	-> https://musictheoryexamples.com/21AP/APz.mp3
+
 	Field 
 	https://www.youtube.com/watch?v=U-fS3mR9KDA 
 	<?php tt("John Field - Nocturne n°5") ?>
@@ -250,3 +254,13 @@ Chord of the 6th with added 9th (like Neapolitan Sus)
 <?php tt("WIP: Fauré - Piano Quintet n°2 in C minor") ?>
 <p>Note: in this passage, the same voicing (C Eb Ab D) appears twice, transposed a third up the second time, but doesn't seem to have the same sound / function as it is not the N6 chord, but just a chord of the 6th. It needs to be investigated further. It's a gorgeous sound, though.</p>
 <?php yt("eCytVmL30lc", 66) ?>
+
+
+Modulation:
+	
+		
+	<!-- This starts like a Rel Maj mod but is a Moonlight Mod, todo try piano -->
+	<!-- <?php //tt("Schumann - Album für die Jugend Op. 68, 'Mignon'")?>
+	<p>At 1:25, bar 4-5: Gmin -> Bb/F -> Eb6.</p>
+	<p>Note: here the arrival on a the first inversion makes the modulation less intense.</p>
+	<?php //yt("pDJHbyEdJbI", 85) ?> -->

@@ -30,10 +30,27 @@
 <p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
 <?php yt("WIlrGTPk11w") ?>
 
+<?php tt("Schubert: Great Symphony n°9, 2nd Mvt.") ?>
+<p>At 14:43, mm 10-11: i (Amin) -> V/III (G7) -> I (C)</p>
+<?php yt("Yyw5OHUDHh4", 875) ?>
+
 <?php tt("Chopin - Mazurka Op. 6 n°1") ?>
 <p>mm 2-4: i (F#min) -> V/III (E7) -> III (A)</p>
 <?php yt("mkveDJgf73U", 5) ?>
 
+<?php tt("Beethoven - Bagatelle Op. 33 n°2") ?>
+<p>bar 4: i (Amin) -> V6/III (E7) -> III (C)</p>
+<p>Note the bass: *1 *2 b*3</p>
+<?php yt("z6ElMrRvShc", 215) ?>
+
+<?php tt("Chopin - Mazurka Op. 67 n°2") ?>
+<p>mm 2-4: i (Gmin) -> V65/III (F7) -> III (Bb)</p>
+<p>Note the bass: *1 *2 b*3</p>
+<?php yt("K3RchO4cuk4", 3) ?>
+
+<?php tt("Schumann - Album für die Jugend Op. 68, 'Mignon'")?>
+<p>The modulation here is actually a 'Moonlight modulation', but the first melody note of Eb gives it the starting sound of the relative major modulation.</p>
+<?php yt("pDJHbyEdJbI", 85) ?>
 
 <?php tt("'La Folia'") ?>
 <p>mm 3-5: i (Dmin) -> V/III (C7) -> III (F)</p>
