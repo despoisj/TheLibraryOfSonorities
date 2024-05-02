@@ -67,6 +67,7 @@ array_push($library, element("predominants", "Predominants & Predominant Extensi
 
 
 array_push($library, element("pianoidee", "Pianoidée", ["classical"], ["corelli", "vivaldi"], "harmony"));
+array_push($library, element("stabat", "Stabat Mater Prinner", ["classical"], ["pergolesi"], "harmony"));
 
 
 
