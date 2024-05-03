@@ -1,4 +1,4 @@
-<p>This modulation moves from i to III, or from any minor chord to the Major scale a Major third above (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of i -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern. The sound is rather bright and hopeful.</p>
+<p>This modulation moves from i to III, or from any minor chord to the <b>Major scale a major third above</b> (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of i -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern. The sound is rather bright and hopeful.</p>
 <p><b>Keyboard Tip:</b> A very easy way to play it is to move diatonically by contrary motion, with the bass going one step down, and the rest moving up, especially if the bass is doubled in a higher octave. Ex. in a minor: A + C|E|A -> G + D|F|B.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>

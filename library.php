@@ -33,8 +33,8 @@ array_push($library, element("V_over_1", "V<sup>7</sup> over *1", ["romantic", "
 array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"], [], "harmony"));
 
 // Modulation
-array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to ♭VI)", ["romantic"], ["beethoven", "chopin"], "harmony"));
-array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to III)", ["classical", "romantic"], [], "harmony"));
+array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to ♭VI)", ["romantic"], ["beethoven", "chopin"], "harmony", ["bright"]));
+array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to ♭III)", ["classical", "romantic"], [], "harmony", ["bright", "hopeful"]));
 
 // Progressions
 array_push($library, element("ivmaj7_iiimin7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
@@ -55,7 +55,7 @@ array_push($library, element("picardy_third", "Picardy Third", ["romantic", "cla
 
 array_push($library, element("prinner", "The Prinner", ["classical"], ["mozart"], "harmony"));
 array_push($library, element("tb", "The Tied Bass", ["classical"], ["bach"], "harmony"));
-array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "happy"]));
+array_push($library, element("stepwise_leo", "Stepwise Romanesca & The Leo", ["classical"], ["bach", "haydn", "mozart"], "harmony", ["triumphant", "bright"]));
 
 array_push($library, element("harmonic_minor", "Harmonic Minor", ["romantic"], ["rachmaninoff"], "harmony", ["mystical"]));
 array_push($library, element("harmonic_major", "Harmonic Major", ["romantic"], ["rachmaninoff", "chopin"], "harmony", ["bittersweet"]));
