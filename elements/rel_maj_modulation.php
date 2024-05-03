@@ -1,4 +1,4 @@
-<p>This modulation moves from i to III, or from any minor chord to the Major scale a Major third above (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of i -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern.</p>
+<p>This modulation moves from i to III, or from any minor chord to the Major scale a Major third above (ex. amin -> CMaj). The bass moves from *1 -> b*7 -> b*3 or *1 -> *2 -> b*3 supporting harmonies of i -> V/III (aka VII) -> III. It's a good way to temporarily brighten a minor piece. It gives its very characteristic sound to the beginning of the Folia pattern. The sound is rather bright and hopeful.</p>
 <p><b>Keyboard Tip:</b> A very easy way to play it is to move diatonically by contrary motion, with the bass going one step down, and the rest moving up, especially if the bass is doubled in a higher octave. Ex. in a minor: A + C|E|A -> G + D|F|B.</p>
 
 <h4 class="elementExampleTitle">Examples</h4>
@@ -59,6 +59,15 @@
 
 <?php tt("Model") ?>
 <?php fl("64cfedfd1e12abce2db304ee?_l=true&sharingKey=2a64843a68f1275038ea7eeb5c8d4b0cb5d66702ab9ab1c36791e2e1b7a13f9eaf03416d35ce86159ea024099b7d670e791a6cb24946a499aec2966b016456d9") ?>
+
+
+<h4 class="elementExampleTitle">Direct V -> III</h4>
+<p>This special case of brutal modulation carries an even sweeter and brighter sound. The modulation occurs directly after a half-cadence. The resulting chord progression is then in *m*: V7 -> (pause) -> III.</p>
+
+<?php tt("Haydn - Sonata in B-flat Hob.XVI:2, 2nd Mvt.") ?>
+<p>At 5:34, bar 8-9 in G minor: V (D) -> III (Bb)</p>
+<?php yt("RP0ciNIircs", 334) ?>
+
 
 <h4 class="elementExampleTitle">References</h4>
 <?php yt("-jkH7FLajpE") ?>

@@ -106,6 +106,19 @@
 <p>As the 9th isn't on a strong beat, this one is quite subtle.</p>
 <?php yt("1EIE78D0m1g", 1258) ?>
 
+<?php tt("Schumann - Dichterliebe - 'Im wünderschönen Monat Mai'")?>
+<p>At 0:16, mm. 5-6: E7 + F# -> G# -> A.</p>
+<?php yt("vDWCTyZDG9A", 16) ?>
+
+<?php tt("Beethoven - Sonata n°21, 'Waldstein', 1st Mvt.")?>
+<p>At 1:00 - penultimate bar: B7 + C# -> D# -> E.</p>
+<p>Again, the unaccentuated 9th makes this one subtle.</p>
+<?php yt("lbblMw6k1cU", 61) ?>
+
+<?php tt("Chopin - Grande Valse Brilliante, Op. 34 n°1")?>
+<p>At 1:10 - bar 4 with an octave jump down: Eb7 + F -> G -> Ab</p>
+<?php yt("qOKxZKfir0g", 69) ?>
+
 <?php tt("Modern Example - Alma Deutscher")?>
 <p>At 2:56 - Eb7 + F with F -> G -> (Bb) -> Ab.</p>
 <?php yt("VVYKQoolbM4", 176) ?>

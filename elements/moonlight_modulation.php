@@ -28,6 +28,14 @@
 <p>Note: here the bass is *1 b*3 b*6</p>
 <?php yt("dFg02WEwlCM", 464) ?>
 
+<?php tt("Haydn - String Quartet, Op. 74 n°2, 2nd Mvt.")?>
+<p>At 55:03, bar 4: Em -> G7/D -> C</p>
+<?php yt("Vh49bRLym-Y", 3303) ?>
+
+<?php tt("Schubert - Piano Sonata n°17 D.850, 4th Mvt.")?>
+<p>At 34:04, bar 1-3: (D ->) Dm -> F7/C -> Bb</p>
+<?php yt("1kmeAMlPy2s", 2044) ?>
+
 <?php tt("Chopin - Polonaise Op. 26 n°2")?>
 <p>End of page: D#min -> F#7 -> B (here B7)</p>
 <p>Note: here the bass is *1 b*3 b*6, also listen how the F#7 chord's sound is emphasized.</p>
@@ -38,12 +46,9 @@
 <p>Bass goes *1 -> b*7 -> b*6 but the harmony on b*6 is different, the beginning sounds the same.</p>
 <?php yt("S2TEUjBG40g", 70) ?>
 
-
 <?php tt("Chopin - Nocturne Op. 62 n°2")?>
 <p>mm. 3-4: C#min -> B-D-E-G# -> Amaj</p>
 <?php yt("9AZaVTm3dKM", 12) ?>
-
-
 
 <?php tt("Model")?>
 <?php fl("64ca3fdeaeee0065c425b807?_l=true&sharingKey=3f4b36dcce4c5fc8b7d8c32c195eda39850450ea3c336672d43b0b187f4135c24bc90957b49ebc0edd77774384fea771f3243bcf4fcb28bc9d4c157155811ad0") ?>
