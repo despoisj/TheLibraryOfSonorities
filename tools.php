@@ -26,13 +26,13 @@ function loadElement($element, $fullSize) {
 
 			echo '</div>';
 
+			echo "<div style='text-align:right; margin-right:20px;margin-top:-15px'><i style='opacity:0.5'><small>by Julien Despois</small></i></div>";
 
-			echo '<div class="elementContents">';
 
 			// Add last update 
-			// REMOVED BECAUSE FTP UPLOAD UPDATES FILETIME...
-      // echo "<div style='margin-top:-10px'><i style='opacity:0.5'><small>Latest update: " . getLastUpdate($element["pageName"].".php") . "</small></i></div><br><br>";
-      echo "<div style='margin-top:-10px'><i style='opacity:0.5'><small>Latest update: " . getLastModifTime("elements/" . $element["pageName"]) . "</small></i></div><br><br>";
+      echo "<div style='margin-top:-15px'><i style='opacity:0.5'><small>Last update: " . getLastModifTime("elements/" . $element["pageName"]) . "</small></i></div><br>";
+
+			echo '<div class="elementContents">';
 
 			// Finally include the bulk of the page!
 			include "elements/".$element["pageName"].".php";

@@ -182,7 +182,7 @@ if ($filter == "element"){
                     echo '<h2>';
                     echo $title;
                     echo '</h2>';
-                    echo "<i style='opacity:0.5'><small>Latest update: " . getLastUpdate() . "</small></i>";
+                    echo "<i style='opacity:0.5'><small>Last update: " . getLastUpdate() . "</small></i>";
                 }
 
 
