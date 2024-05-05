@@ -30,7 +30,7 @@ function loadElement($element, $fullSize) {
 
 
 			// Add last update 
-      echo "<div style='margin-top:-15px'><i style='opacity:0.5'><small>Last update: " . getLastModifTime("elements/" . $element["pageName"]) . "</small></i></div><br>";
+      echo "<div style='margin-top:-3px'><i style='opacity:0.5'><small>Last update: " . getLastModifTime("elements/" . $element["pageName"]) . "</small></i></div><br>";
 
 			echo '<div class="elementContents">';
 
