@@ -17,7 +17,7 @@
 
 <h4 class="elementExampleTitle">Resolution</h4>
 
-<p>The peculiar Maj7#5 chord and its inversion might seem daunting, but resolves in the same way most of the time. The resolutions have been compiled by <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a> in the following graph which I have modified a bit. Note that Greenberg has identified other resolutions, which you can find at the end of this article.</p>
+<p>The peculiar Maj7#5 chord and its inversion might seem daunting, but resolves in the same way most of the time. The resolutions have been compiled by <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a> in the following figure which I have modified a bit. Note that Greenberg has identified other resolutions, which you can find at the end of this article.</p>
 <img style="width:90%; background-color: white;" src="imgs/augmented_maj7_resolutions.jpg">
 <br><br>
 <p>One important aspect to notice, as mentioned by Michael Koch, is that since the Maj7#5 chord can resolve down a third to a minor chord or directly to a minor chord of the sixth, it is very appropriate as a predominant in major: IVMaj7#5 -> ii(6) -> V -> I.</p>
@@ -81,19 +81,19 @@
 <?php tt("Bach - Violin Concerto in A Minor (BWV 1041), Andante") ?>
 <p>- At 8:15, 'forte' measure: Dm -> E7642 -> CMaj7#5 -> Am6</p>
 <p> i.e. 53 -> 6#42 -> 7/#5/3 -> 6 over *1 -> *1 -> b*7 -> b*7</p>
-<p>This move is a local suspension of the dominant chord over *4 -> *3 RO motion, and a useful trick to prolongate the "dominant tied bass"(see below) motion of 53 -> 6#42 -> 6 when moving to a minor key.</p>
+<p>This move is a local suspension of the dominant chord over *4 -> b*3 RO motion, and a useful trick to prolongate the "dominant tied bass"(see below) motion of 53 -> 6#42 -> 6 when modulating to a minor key.</p>
 <?php linkSingleElement('tb') ?>
 <?php yt("uInUkHElPYM", 495) ?>
 
 
 <h4 id="inv" class="elementExampleTitle">Other uses & inversions</h4>
 
-<p>When inverted, the Maj7#5 chord - also written +Maj7 chord - becomes a +65 or +642. At this chord often naturally occurs on the *3 degree of the harmonic minor scale, it is often found as III+.</p>
+<p>When inverted, the Maj7#5 chord - also written +Maj7 chord - becomes a +65 or +642. As this chord often naturally occurs on the *3 degree of the harmonic minor scale, it is often found as III+.</p>
 
 <h5 class="elementExampleTitle">First inversion: +65</h5>
 
-<p>When moving the bass up, our IIIMaj7#5 Chord (let's say in A minor) changes from C E G# B D -> E G# B D C = E#7 + b^3. In a surprising twist of events, we realize that this inversion is none other than the minor version of the Chopin Chord: VChm! As a matter of fact, in minor, the Chopin chord is sometimes written as V7#5, although it often contains both the natural and augmented 5th.</p>
-<p>We lack enough examples of this inversion to make a rule, but the two examples here differ from the chopin chord as they both lack the seventh, as they take the form of b6/5/3 chords. This section needs to be re-analyzed and revised to take it into account, with possible links to harmonic major sonorities, V+ dominants, etc.</p>
+<p>In first inversion our IIIMaj7#5 Chord (let's say in A minor) changes from C E G# B D -> E G# B D C = E#7 + b^3. In a surprising twist of events, we realize that this inversion is none other than the minor version of the Chopin Chord: VChm! As a matter of fact, in minor, the Chopin chord is sometimes written as V7#5, although it often contains both the natural and augmented 5th.</p>
+<p>We lack enough examples of this inversion to make a rule, but the two examples here differ from the chopin chord as they both lack the seventh and take the form of b6/5/3 chords. This section needs to be re-analyzed and revised to take it into account, with possible links to harmonic major sonorities, V+ dominants, etc.</p>
 
 
 <?php tt("Bach - Harpsichord Concerto in D (BWV 1054), Adagio") ?>
@@ -104,7 +104,7 @@
 <?php tt("Rachmaninoff - Sonata n°2") ?>
 <p>At 0:30, second row (f# minor): III+65 -> i</p>
 <p>Note the move iv°7 -> III+65 -> i over *4 -> *3 -> *1 bassline</p>
-<p>For more info on this example, check out <a target="_blank" href="https://musescore.com/user/30712651/scores/6905008">this</a></p>
+<p>For more info on this example, check out <a target="_blank" href="https://musescore.com/user/30712651/scores/6905008">this</a>.</p>
 <?php yt("C_lOOYSzoBc", 30) ?>
 
 
@@ -122,7 +122,7 @@
 <?php tt("Rachmaninoff - Symphony n°2, 3rd Mvt.") ?>
 <p>- C -> C+|B -> Am i.e. I -> I+/*7 = I+642 -> vi</p>
 <p>The same pattern is repeated in other keys like D -> D+ | C# -> Bm etc.</p>
-<p>Also note the other augmented triads motions like Am -> A+ -> D aka v -> V+ -> I.</p>
+<p>Also note the plain augmented triads motions like Am -> A+ -> D aka v -> V+ -> I.</p>
 <?php yt("LoMXg5a3aD4") ?>
 
 
