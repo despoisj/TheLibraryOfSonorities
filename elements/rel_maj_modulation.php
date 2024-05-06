@@ -61,12 +61,19 @@
 <?php fl("64cfedfd1e12abce2db304ee?_l=true&sharingKey=2a64843a68f1275038ea7eeb5c8d4b0cb5d66702ab9ab1c36791e2e1b7a13f9eaf03416d35ce86159ea024099b7d670e791a6cb24946a499aec2966b016456d9") ?>
 
 
-<h4 class="elementExampleTitle">Direct V -> III</h4>
-<p>This special case of brutal modulation carries an even sweeter and brighter sound. The modulation occurs directly after a half-cadence. The resulting chord progression is then in *m*: V7 -> (pause) -> III.</p>
+<h4 class="elementExampleTitle">Direct i -> III or V -> III</h4>
+<p>This special case of modulation carries an even sweeter and brighter sound. The modulation occurs directly after a complete or half-cadence. The resulting chord progression is then in *m*: V7 -> (pause) -> III or i -> III.</p>
+<p>This move is also related to the 'Minor-Major' opener (see below).</p>
+
+<?php linkSingleElement("openers") ?>
 
 <?php tt("Haydn - Sonata in B-flat Hob.XVI:2, 2nd Mvt.") ?>
 <p>At 5:34, bar 8-9 in G minor: V (D) -> III (Bb)</p>
 <?php yt("RP0ciNIircs", 334) ?>
+
+<?php tt("Rameau - 'Les Tendres Plaintes'") ?>
+<p>At 2:12, bar 3-4: i (Dmin) -> III (F)</p>
+<?php yt("jTyhboTb-wg", 132) ?>
 
 
 <h4 class="elementExampleTitle">References</h4>
