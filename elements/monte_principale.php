@@ -81,6 +81,11 @@
 <p>At 18:33 we get a Monte Principale twice: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [C#min -> F#min] -> [Dmaj</p>
 <?php yt("PQQgHpMBHbo", 1113) ?>
 
+<?php tt("Moszkowski - 'Zephyr'")?>
+<p>At 0:00, a 5-6 monte with interpolated half step (5 - #5 - 6): [53 on Db -> 63 on Db] -> [53 on Eb -> 63 on Eb] -> [53 on F]</p>
+<?php yt("1EVF3ap5o6A") ?>
+
+
 <?php tt("Mozart - Madamina")?>
 <p>Bass goes: x D] -> [B -> E] -> [C# -> F#] -> [D x</p>
 <p>i.e. x *1] -> [*6 -> *2] -> [*7 -> *3] -> [*1 x</p>
