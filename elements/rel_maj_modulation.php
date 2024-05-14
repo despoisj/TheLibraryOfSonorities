@@ -48,6 +48,11 @@
 <p>Note the bass: *1 *2 b*3</p>
 <?php yt("K3RchO4cuk4", 3) ?>
 
+<?php tt("Weber: 'Der Freischütz' Overture, 2nd Mvt.") ?>
+<p>At 4:29, 2nd page: i (Cmin) -> V65/III (Bb7) -> III (Eb)</p>
+<p>Note: at 4:20, there's a very interesting modulation that chains two of the brightest modulations: the relative major and the I -> iii.</p>
+<?php yt("txAtjngr6dE", 269) ?>
+
 <?php tt("Schumann - Album für die Jugend Op. 68, 'Mignon'")?>
 <p>The modulation here is actually a 'Moonlight modulation', but the first melody note of Eb gives it the starting sound of the relative major modulation.</p>
 <?php yt("pDJHbyEdJbI", 85) ?>
