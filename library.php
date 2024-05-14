@@ -35,6 +35,7 @@ array_push($library, element("suspensions", "Romantic Suspensions", ["romantic"]
 // Modulation
 array_push($library, element("moonlight_modulation", "'Moonlight' Modulation (i to ♭VI)", ["romantic"], ["beethoven", "chopin"], "harmony", ["bright"]));
 array_push($library, element("rel_maj_modulation", "Relative Major Modulation (i to ♭III)", ["classical", "romantic"], [], "harmony", ["bright", "hopeful"]));
+array_push($library, element("triumph_modulation", "'Triumph' Modulation (I to III)", ["romantic"], ['chopin', 'liszt'], "harmony", ["triumphant", "bright", "brilliant"]));
 
 // Progressions
 array_push($library, element("ivmaj7_iiimin7", "IVMaj7 → iiim7", ["romantic"], ["blumenfeld"], "harmony", ["bittersweet"]));
