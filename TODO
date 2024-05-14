@@ -245,11 +245,18 @@ Chord of the 6th with added 9th (like Neapolitan Sus)
 <?php yt("eCytVmL30lc", 66) ?>
 
 
+
+
+
 Modulation:
+	I -> vi
+	Relative minor
+
+	Chopin Andante spinato G -> Em 58s https://www.youtube.com/watch?time_continue=53&v=jJ130s7BiSM&embeds_referring_euri=http%3A%2F%2Flocalhost%3A8888%2F&source_ve_path=MjM4NTE&feature=emb_title
+
+	Same piece just after: Emin -> Ab43 -> Dmaj aka i -> VII (just après same from Dmin -> G43 -> C)
+		-> Note: kind of a weak DrC
+
+	Then again right after: Dmaj -> Dmin
 	
-		
-	<!-- This starts like a Rel Maj mod but is a Moonlight Mod, todo try piano -->
-	<!-- <?php //tt("Schumann - Album für die Jugend Op. 68, 'Mignon'")?>
-	<p>At 1:25, bar 4-5: Gmin -> Bb/F -> Eb6.</p>
-	<p>Note: here the arrival on a the first inversion makes the modulation less intense.</p>
-	<?php //yt("pDJHbyEdJbI", 85) ?> -->
+	
