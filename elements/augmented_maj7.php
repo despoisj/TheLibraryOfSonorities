@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<p>The Maj7#5 (or #5/7 or #5/7/9) chord is a particularly dramatic chord that produces a striking effect. Sometimes called <i>"chord of the augmented fifth"</i>, or <i>"mediant ninth chord"</i>, it can be obtained and conceptualized in many ways, the easiest being (in my opinion) as a minor RO suspension of the dominant chord on *4 or *2 moving to *3.</p>
+<p>The Maj7#5 (or #5/7 or #5/7/9) chord is a particularly dramatic chord that produces a striking effect. Sometimes called <i>"chord of the augmented fifth"</i>, or <i>"mediant ninth chord"</i>, it can be obtained and conceptualized in many ways, the easiest being (in my opinion) as a minor RO suspension of the dominant chord on *4 or *2 moving to *3, or as a modified 7-6 chain.</p>
 <p>Because this chord is often used in very chromatic contexts, the roman numeral below will sometimes be given loosely (e.g. ~I -> ~vi6) to understand the local move.</p>
 <p>While also found in Romantic music and often used by Bach, this sonority was very present in compositions by French baroque composers such as Couperin or Rameau.</p>
 <p>Note: many examples below have been found by <a target="_blank" href="https://www.youtube.com/@en-blanc-et-noir">Michael Koch</a>, <a target="_blank" href="https://musescore.com/user/30712651">Сергей Щетников</a>, <a taget="_blank" href="https://bernardgreenberg.com/Scores/5954032">Bernard Greenberg</a>, and in the <a target="_blank" href="https://catalogue.bnf.fr/ark:/12148/cb37059818t">PhD dissertation by Charles Jay Moomaw</a>.</p>
@@ -52,6 +52,11 @@
 <?php tt("Bach - Adagio (BWV 564)") ?>
 <p>At 4:01, third beat of last bar: F + A + C# + E + G = FMaj9#5 -> Dm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("YRV_vFrWq-o", 226) ?>
+
+<?php tt("Moszkowski - Polonaise Op. 17 n°1") ?>
+<p>At 0:56 GMaj7#5 -> Emin6.</p>
+<p>This example shows a very easy way to use this sonority, as an embellishment of a descending 7-6 sequence, here started on IV.</p>
+<?php yt("_GbfSkLbBJ8", 56) ?>
 
 <?php tt("Bach - Prelude in B Minor (BWV 923)") ?>
 <p>At 1:53, mm. 3: CMaj9#5 -> ?? TODO</p>
