@@ -62,6 +62,11 @@
 <p>I -> I+ -> IV</p>
 <?php yt("g0hoN6_HDVU", 1858) ?>
 
+<?php tt("Liszt - Tre sonetti di Petrarca, S.158 n°1")?>
+<p>mm. 1-3: I -> I+ -> vi</p>
+<p>Note: the bass here is *1 #*5 *6 instead of the usual *1 *1 *6 or *1 *1 *1</p>
+<?php yt("Nc09wbZhwws", 167) ?>
+
 
 <?php tt("Model")?>
 <?php fl("64ca55598651f784731dce8a?_l=true&sharingKey=d551126e08404ac7775c39e3d4339f159968fe203e8095800d07c2c842766be745711790d82b164c0194239eae55066782b0c9a24688a83fb47d3671d15faa60") ?>
