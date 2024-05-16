@@ -99,6 +99,14 @@
 <p>i.e. IV Major Pentatonic over *1</p>
 <?php yt("ry5L3_0XVuk", 1575) ?>
 
+<?php tt("Joe Hisaishi - Ashitaka and San") ?>
+<p>In Db: ^1 ^3 ^5 ^6 i.e. Db pentatonic</p>
+<p>i.e. I Major Pentatonic</p>
+<?php yt("GaVEcFU7UY0", 1575) ?>
+
+
+
+
 
 
 
