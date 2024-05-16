@@ -31,7 +31,10 @@
 <p>Beginning: Stepwise Romanesca</p>
 <?php yt("6hc5FKmr3FA") ?>
 
+<?php tt("Schubert - Wanderer Fantasy, 1st. Mvt.")?>
+<p>Stepwise Romanesca: bass on C -> B -> A (-> D) -> G then repeated and again higher.</p>
+<?php yt("jTE569yQ9EM", 98) ?>
+
 <?php tt("Scriabin - Etude Op. 8 n°6")?>
 <p>Beginning: Leaping Romanesca</p>
 <?php yt("91DvEkF7B3E") ?>
-

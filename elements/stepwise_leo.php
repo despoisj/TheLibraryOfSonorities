@@ -6,6 +6,11 @@
 <?php tt("Stepwise Romanesca") ?>
 <?php yt("LJc-OCZo8Hc") ?>
 
+<?php tt("Romantic Examples") ?>
+<p>For more romantic examples of the Stepwise Romanesca, check out the article below.</p>
+<?php linkSingleElement("romantic_schemata") ?>
+
+
 <?php tt("Beethoven - Sonata 'Pathétique', 1st Mvt.") ?>
 <p>Leo Romanesca: At the end of the second row, note the descending bassline Eb (*1) -> D (*7) -> C (*6) -> Bb (*5) with the static I harmony (Eb major triad).</p>
 <?php yt("M_124D_7KoU", 195) ?>
