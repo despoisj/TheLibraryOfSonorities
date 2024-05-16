@@ -23,12 +23,16 @@
 <?php yt("LMqn7KPkNCM") ?>
 
 <?php tt("Shalva Taktakishvili - Consolation")?>
-<p>*M* mm. 1: i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
+<p>mm. 1: i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
 <?php yt("dZZlf1oYjoo", 44) ?>
 
 <?php tt("Maurice Randall - Contemplation (Romance), Op. 27") ?>
 <p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
 <?php yt("WIlrGTPk11w") ?>
+
+<?php tt("Brahms/Moszkowski - Hungarian Dance n°1") ?>
+<p>2nd row: i (Gmin) -> V/III (F7) -> (aborted)</p>
+<?php yt("oO8_fJvKXg4", 10) ?>
 
 <?php tt("Schubert: Great Symphony n°9, 2nd Mvt.") ?>
 <p>At 14:43, mm 10-11: i (Amin) -> V/III (G7) -> I (C)</p>
