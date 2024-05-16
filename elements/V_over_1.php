@@ -40,7 +40,6 @@
 <p>*M* At 19:32, last two bars: Ab -> Eb7/*1 -> Ab, i.e. I -> V7/*1 -> I. </p>
 <?php yt("Nc09wbZhwws", 1172) ?>
 
-
 <?php tt("Chopin - Andante Spinato")?>
 <p>*M* mm. 1-4: G -> D7/*1 -> D i.e. I -> V7/*1 -> I</p>
 <?php yt("jJ130s7BiSM", 10) ?>
@@ -52,6 +51,10 @@
 <?php tt("Rachmaninoff - Rhapsody on a Theme of Paganini, Variation n°18")?>
 <p>*M* In Db: I -> IV64 (aka IV / *1) -> I -> V7 / *1 -> I</p>
 <?php yt("hg76YTPpgcs", 7) ?>
+
+<?php tt("Liszt - Harmonies poétiques et religieuses, Bénédiction, S171d/1")?>
+<p>*M* At 1:05:19: Eb -> B7/*1 -> Eb, i.e. I -> V7/*1 -> I. </p>
+<?php yt("S2TEUjBG40g", 3919) ?>
 
 <?php tt("Chopin - Etude Op. 25 n°1")?>
 <p>*M* mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
