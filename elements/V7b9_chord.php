@@ -1,10 +1,15 @@
 <p>In minor, the V7b9 chord adds the eerie/dissonant sound of the LT°7 chord to the normal V7 chord. This chord is naturally present in the harmonic minor and major scales. While the V7 chord isn't biased towards major or minor, the V7b9 chord has a strong pull towards a minor resolution.</p>
 <p><b>Keyboard Tip:</b> an easy way to play the V7b9 chord is as a V7 chord with a °7 chord on top of its third, fifth or seventh (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>
 
+
+
+<?php tt("Schumann - Piano Sonata n°3, 1st Mvt.") ?>
+<p>2nd row, last chord in F minor: V7b9 (C7 + Db)</p>
+<?php yt("jbFT8IJebdo", 3) ?>
+
 <?php tt("Chopin - Nocturne Op. 48 n°1") ?>
 <p>2nd row, 2nd measure: i64 -> V7b9 (D7 + Eb) -> i</p>
 <?php yt("107Iwx5RKSM", 35) ?>
-
 
 <?php tt("Liszt - 'Pace non trovo', S.158/1") ?>
 <p>At 3:39 2nd row 2nd measure: G#64 (i64) -> D#7 + E (b9th).</p>

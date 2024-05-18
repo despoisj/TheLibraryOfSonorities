@@ -209,6 +209,10 @@ function linkSingleElement($elementName) {
 	}
 }
 
+function inlineLink($elementName, $displayName) {
+	echo "<a target='_blank' style='color: #333;' href='index.php?filter=element&element=" . $elementName . "'>" . $displayName . "</a>";
+}
+
 function loadSingleElement($elementName) {
 	// Load single elemnt either from library or misc
 	global $library, $library_misc, $library_blog;

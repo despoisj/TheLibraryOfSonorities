@@ -76,9 +76,8 @@ array_push($library, element("stabat", "Stabat Mater Prinner", ["classical"], ["
 $library_misc = [];
 
 array_push($library_misc, element("openers", "Opening Gestures"));
-
+array_push($library_misc, element("moves", "(WIP) Harmonic Moves"));
 array_push($library_misc, element("spinning_forward", "Spinning Forward"));
-
 array_push($library_misc, element("endings", "Endings"));
 
 

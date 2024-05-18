@@ -172,6 +172,11 @@ p a {
           transition: all 0.3s ease;
 }
 
+
+.movesTable td {
+  padding: 0 15px;
+}
+
 .pieceTitle {
   text-align: center !important;
   font-size: 17px;
