@@ -2,9 +2,9 @@
 <p><b>Keyboard Tip:</b> an easy way to play the V7b9 chord is as a V7 chord with a °7 chord on top of its third, fifth or seventh (they all yield the same diminished chord). For example G7b9 = G + B°7 = G + D°7 =  G + F°7 = G7 + Ab.</p>
 
 
-
 <?php tt("Schumann - Piano Sonata n°3, 1st Mvt.") ?>
 <p>2nd row, last chord in F minor: V7b9 (C7 + Db)</p>
+<p><i>(Thanks <a href="https://www.youtube.com/@en-blanc-et-noir">Michael</a> for that one!)</i></p>
 <?php yt("jbFT8IJebdo", 3) ?>
 
 <?php tt("Chopin - Nocturne Op. 48 n°1") ?>
