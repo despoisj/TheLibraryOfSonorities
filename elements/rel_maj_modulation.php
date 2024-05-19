@@ -88,6 +88,10 @@
 <p>At 2:12, bar 3-4: i (Dmin) -> III (F)</p>
 <?php yt("jTyhboTb-wg", 132) ?>
 
+<?php tt("Schubert - Piano Sonata D.459, 3rd Mvt.")?>
+<p>At 11:14, bar 5-9+: i (Dmin) -> ... -> V (A) -> III (F)</p>
+<?php yt("N-6aCfwUj7E", 660) ?>
+
 
 <h4 class="elementExampleTitle">References</h4>
 <?php yt("-jkH7FLajpE") ?>

@@ -20,6 +20,10 @@
 <p>2nd row</p>
 <?php yt("vzOW0sEeb7g", 224) ?>
 
+<?php tt("Schubert - Piano Sonata D.459, 3rd Mvt.")?>
+<p>The movement starts with a romanesca in C *M* that goes I -> V -> vi -> ... -> V then starts up again one step higher in d *m*, which makes it a Monte Romanesca sequence made up of a Leaping Romanesca</p>
+<?php yt("N-6aCfwUj7E", 660) ?>
+
 
 <h4 class="elementExampleTitle">Stepwise Romanesca</h4>
 

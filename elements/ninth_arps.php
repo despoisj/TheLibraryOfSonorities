@@ -3,9 +3,11 @@
 
 <h4 class="elementExampleTitle">Sections</h4>
 <p class="tableOfContents">
-	<a href="#ninth_arps" class="scrollLink">Ninth Arpeggios</a>
+	<a href="#ninth_arp" class="scrollLink">Arpeggios with added 9th</a> - *M* & *m*
 	<br>
-	<a href="#pentatonic" class="scrollLink">Pentatonic Scales</a>
+	<a href="#thirteenth_arp" class="scrollLink">Arpeggios with added 13th</a> - *M*
+	<br>
+	<a href="#pentatonic" class="scrollLink">I and IV Pentatonic Arpeggios</a> - *M*
 </p>
 
 
@@ -64,6 +66,18 @@
 
 
 
+<h3 id="thirteenth_arp" class="elementExampleTitle">Use of the ♮13th in *M*</h3>
+<p>Using the 13th in major gives a different kind of sweet sound, even close to the pentatonic sound we can get by combining the 9th and 13th.</p>
+
+<?php tt("Joe Hisaishi - Ashitaka and San") ?>
+<p>In Db: Db + Bb (13th) i.e. ^1 ^3 ^5 ^6</p>
+<?php yt("GaVEcFU7UY0") ?>
+
+<?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.") ?>
+<p>In Db: Db + Bb (13th) i.e. ^1 ^3 ^5 ^6</p>
+<?php yt("3hoaIZXCHU8", 802) ?>
+
+
 
 <h3 id="pentatonic" class="elementExampleTitle">Pentatonic Scales (♮9th & ♮13th)</h3>
 <p>The <a target="_blank" href="https://en.wikipedia.org/wiki/Pentatonic_scale">pentatonic scale</a> is a major scale with degrees ^1 ^2 ^3 ^5 ^6 only. When compared to the arpeggios with added 9th we have seen above, it's like major arpeggios with added 9th and 13th.</p>
@@ -99,10 +113,6 @@
 <p>i.e. IV Major Pentatonic over *1</p>
 <?php yt("ry5L3_0XVuk", 1575) ?>
 
-<?php tt("Joe Hisaishi - Ashitaka and San") ?>
-<p>In Db: ^1 ^3 ^5 ^6 i.e. Db pentatonic</p>
-<p>i.e. I Major Pentatonic</p>
-<?php yt("GaVEcFU7UY0") ?>
 
 
 
