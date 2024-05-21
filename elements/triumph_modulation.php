@@ -24,16 +24,22 @@
 <p>At 8:11, Ab -> ... -> Ab7 -> Cmaj64 -> G(7) -> CMaj.</p>
 <?php yt("yKl4T5BnhOA", 491) ?>
 
+<?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.")?>
+<p>At 15:00, A -> DbMaj64 -> Ab7 -> (evaded)</p>
+<?php yt("3hoaIZXCHU8", 896) ?>
+
 <?php tt("Chopin - Polonaise Op. 40 n°1")?>
-<p>At 0:11, bar 4-5: Amaj -> C#Maj64 -> G#7 -> C#Maj</p>
+<p>At 0:11, bar 4-5: Amaj -> C#maj64 -> G#7 -> C#Maj</p>
 <?php yt("hbnunexhlXM", 11) ?>
-
-
 
 <?php tt("Schumann - Dichterliebe, XII")?>
 <p>At 14:33, Gb7 -> Bbmaj64 -> F7 -> Bb.</p>
 <p>Granted, this one doesn't sound as triumphant because of the delicate sound and texture, but the sound is there!</p>
 <?php yt("8xFU0IJimX4", 873) ?>
+
+<?php tt("Schubert - Piano Sonata D.459 3rd Mvt.")?>
+<p>At 21:50, second row: Gmaj -> BMaj64 -> F#7 -> BMaj</p>
+<?php yt("N-6aCfwUj7E", 1308) ?>
 
 <?php tt("Michael Koch (En Blanc Et Noir) - Video on that modulation strategy")?>
 <?php yt("CbRrnLcX1gc") ?>

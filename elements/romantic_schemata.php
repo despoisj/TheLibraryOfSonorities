@@ -13,6 +13,10 @@
 <p>mm. 3-4: Chromatic Monte</p>
 <?php yt("CnH7vjO52L8", 9) ?>
 
+<?php tt("Charles Gounod - Funeral March for a Marionette")?>
+<p>mm. 3-4: Chromatic Monte</p>
+<?php yt("gkjNeHlSoko", 45) ?>
+
 
 <h4 class="elementExampleTitle">Monte Romanesca</h4>
 
@@ -42,3 +46,7 @@
 <?php tt("Scriabin - Etude Op. 8 n°6")?>
 <p>Beginning: Leaping Romanesca</p>
 <?php yt("91DvEkF7B3E") ?>
+
+<?php tt("Charles Gounod - Romances sans Paroles n°4")?>
+<p>At 11:20: Leaping Romanesca</p>
+<?php yt("CnH7vjO52L8", 680) ?>

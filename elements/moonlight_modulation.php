@@ -36,6 +36,10 @@
 <p>At 34:04, bar 1-3: (D ->) Dm -> F7/C -> Bb</p>
 <?php yt("1kmeAMlPy2s", 2044) ?>
 
+<?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.")?>
+<p>At 13:38, 2nd row: Fm -> Ab7/Eb -> Db</p>
+<?php yt("3hoaIZXCHU8", 818) ?>
+
 <?php tt("Chopin - Polonaise Op. 26 n°2")?>
 <p>End of page: D#min -> F#7 -> B (here B7)</p>
 <p>Note: here the bass is *1 b*3 b*6, also listen how the F#7 chord's sound is emphasized.</p>

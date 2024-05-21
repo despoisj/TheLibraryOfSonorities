@@ -7,15 +7,15 @@
 <?php yt("-jkH7FLajpE", 1108) ?>
 
 <?php tt("Mykola Lysenko - Serenade, Op. 28") ?>
-<p>2nd row, 2nd measure: i (Fmin) -> V/III (Eb7) -> III (Ab)</p>
+<p>2nd row, 2nd measure: i (Fmin) -> V7/III (Eb7) -> III (Ab)</p>
 <?php yt("J43KcBfBL8E", 23) ?>
 
 <?php tt("Mendelssohn - Song without words Op. 30 n°6") ?>
-<p>At 0:60, i (F#min) -> V/III (E7) -> III (A)</p>
+<p>At 0:60, i (F#min) -> V7/III (E7) -> III (A)</p>
 <?php yt("STy9GPeuNEY", 61) ?>
 
 <?php tt("Chopin - Scherzo n°2") ?>
-<p>2nd row, last 2 bars: i6 (Cmin) -> V/III (B7) -> III (E)</p>
+<p>2nd row, last 2 bars: i6 (Cmin) -> V7/III (B7) -> III (E)</p>
 <?php yt("anuQSmPa0aM", 33) ?>
 
 <?php tt("Chopin - Nocturne Op. 55 n°1") ?>
@@ -23,23 +23,31 @@
 <?php yt("LMqn7KPkNCM") ?>
 
 <?php tt("Shalva Taktakishvili - Consolation")?>
-<p>mm. 1: i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
+<p>mm. 1: i (Bbmin) -> V7/III (Ab7) -> III (Db)</p>
 <?php yt("dZZlf1oYjoo", 44) ?>
 
 <?php tt("Maurice Randall - Contemplation (Romance), Op. 27") ?>
-<p>mm 3: i (Emin) -> V/III (D7) -> III (G)</p>
+<p>mm 3: i (Emin) -> V7/III (D7) -> III (G)</p>
 <?php yt("WIlrGTPk11w") ?>
 
+<?php tt("Schubert - Piano Sonata D.459, 3rd Mvt.") ?>
+<p>At 21:42, bar 4-: i (Emin) -> V7/III (D7) -> III (G)</p>
+<?php yt("N-6aCfwUj7E", 1302) ?>
+
 <?php tt("Brahms/Moszkowski - Hungarian Dance n°1") ?>
-<p>2nd row: i (Gmin) -> V/III (F7) -> (aborted)</p>
+<p>2nd row: i (Gmin) -> V7/III (F7) -> (aborted)</p>
 <?php yt("oO8_fJvKXg4", 10) ?>
 
-<?php tt("Schubert: Great Symphony n°9, 2nd Mvt.") ?>
-<p>At 14:43, mm 10-11: i (Amin) -> V/III (G7) -> I (C)</p>
+<?php tt("Schubert - Great Symphony n°9, 2nd Mvt.") ?>
+<p>At 14:43, mm. 10-11: i (Amin) -> V/III (G7) -> III (C)</p>
 <?php yt("Yyw5OHUDHh4", 875) ?>
 
+<?php tt("Charles Gounod - Romances sans Paroles, n°3") ?>
+<p>At 7:22, i (Cmin) -> V7/III (B7) -> III (Eb)</p>
+<?php yt("CnH7vjO52L8", 440) ?>
+
 <?php tt("Chopin - Mazurka Op. 6 n°1") ?>
-<p>mm 2-4: i (F#min) -> V/III (E7) -> III (A)</p>
+<p>mm 2-4: i (F#min) -> V7/III (E7) -> III (A)</p>
 <?php yt("mkveDJgf73U", 5) ?>
 
 <?php tt("Beethoven - Bagatelle Op. 33 n°2") ?>
@@ -48,15 +56,19 @@
 <?php yt("z6ElMrRvShc", 215) ?>
 
 <?php tt("Chopin - Sonata n°2, 3rd Mvt. 'Marche Funèbre'") ?>
-<p>At 12:16, i (Bbmin) -> V/III (Ab7) -> III (Db)</p>
+<p>At 12:16, i (Bbmin) -> V7/III (Ab7) -> III (Db)</p>
 <?php yt("VUk3_qTTVg4", 736) ?>
+
+<?php tt("Schumann - Album für die Jugend Op. 68, 'Armes Waisenkind'")?>
+<p>Starts in A minor: i -> V7 -> i -> i -> V7/III -> III (C)</p>
+<?php yt("Nh1s2uaCKPE") ?>
 
 <?php tt("Chopin - Mazurka Op. 67 n°2") ?>
 <p>mm 2-4: i (Gmin) -> V65/III (F7) -> III (Bb)</p>
 <p>Note the bass: *1 *2 b*3</p>
 <?php yt("K3RchO4cuk4", 3) ?>
 
-<?php tt("Weber: 'Der Freischütz' Overture, 2nd Mvt.") ?>
+<?php tt("Weber - 'Der Freischütz' Overture, 2nd Mvt.") ?>
 <p>At 4:29, 2nd page: i (Cmin) -> V65/III (Bb7) -> III (Eb)</p>
 <p>Note: at 4:20, there's a very interesting modulation that chains two of the brightest modulations: the relative major and the I -> iii.</p>
 <?php yt("txAtjngr6dE", 269) ?>
@@ -66,7 +78,7 @@
 <?php yt("pDJHbyEdJbI", 85) ?>
 
 <?php tt("'La Folia'") ?>
-<p>mm 3-5: i (Dmin) -> V/III (C7) -> III (F)</p>
+<p>mm 3-5: i (Dmin) -> V7/III (C7) -> III (F)</p>
 <?php yt("3WSsh-Baqfg") ?>
 
 

@@ -61,7 +61,7 @@ Modulation I -> iii
 	-> https://musictheoryexamples.com/21AP/APz.mp3
 
 
-	Mozkowski kinda same but starting on major 63 not 53: Ab C F (instead of Eb) -> G7 -> Cmin but we have Abmaj the bar before so like anticipating the 7th
+	Henselt kinda same but starting on major 63 not 53: Ab C F (instead of Eb) -> G7 -> Cmin but we have Abmaj the bar before so like anticipating the 7th
 	https://www.youtube.com/watch?v=3hoaIZXCHU8 5min30
 	Better at 9:20
 
@@ -130,13 +130,6 @@ Lydian arp?
 
 
 
-Chromatic mediants:
-	https://www.youtube.com/watch?v=cujQf77BHRI
-	First arps C (UNSAID if Minor or major no third) -> Ab6 -> Igorgeous modal sound
-	Aka i|I -> bVI -> i Chromatic mediant
-
-	Chopin ballade at 6:50 ish https://www.youtube.com/VmFmAvwO1pE 
-	We have I -> iii but as an abrupt modulation not functional, with iii being the i of the piece so like VI -> i.
 
 
 https://www.youtube.com/watch?v=SHJ1nenOahM Stabat mater prinner 4:15 quick
@@ -246,28 +239,101 @@ Chord of the 6th with added 9th (like Neapolitan Sus)
 <?php yt("eCytVmL30lc", 66) ?>
 
 
-Modulation I to bVI direct:
-	-> Chopin 20 prelude dark classique debut
 
-	Phrase modulation in Mozart's Sonata in A major, K.331, III (Alla turca), mm. 6–10.[16]ⓘ
+MODULATION:
 
-
-Modulation I to III? TODO:
-	https://www.youtube.com/watch?v=cikdYAx9p_Q
-	TODO 8:20
-	or just wedge omnibus?
+	Modulation I to III? TODO:
+		https://www.youtube.com/watch?v=cikdYAx9p_Q
+		TODO 8:20
+		or just wedge omnibus?
 
 
-Modulation:
-	I -> vi
-	Relative minor
+	Modulation:
+		I -> vi
+		Relative minor
 
-	Chopin Andante spinato G -> Em 58s https://www.youtube.com/watch?time_continue=53&v=jJ130s7BiSM&embeds_referring_euri=http%3A%2F%2Flocalhost%3A8888%2F&source_ve_path=MjM4NTE&feature=emb_title
+		Chopin Andante spinato G -> Em 58s https://www.youtube.com/watch?time_continue=53&v=jJ130s7BiSM&embeds_referring_euri=http%3A%2F%2Flocalhost%3A8888%2F&source_ve_path=MjM4NTE&feature=emb_title
 
-	Same piece just after: Emin -> Ab43 -> Dmaj aka i -> VII (just après same from Dmin -> G43 -> C)
-		-> Note: kind of a weak DrC
+		Same piece just after: Emin -> Ab43 -> Dmaj aka i -> VII (just après same from Dmin -> G43 -> C)
+			-> Note: kind of a weak DrC
 
-	Then again right after: Dmaj -> Dmin
+		Then again right after: Dmaj -> Dmin
+
+
+	Parallel minor I -> i modulation:
+		- Moonlight sonata
+		- https://www.youtube.com/watch?v=N-6aCfwUj7E at 21:30 Emaj to Emin
+
+	Parallel major i -> I modulation
+		- https://www.youtube.com/watch?v=PlA8ZEndLzw 15:15
+
+		-> Then inverse later
+
+
+	I -> iii:
+		Modulation Liszt 11:58 https://www.youtube.com/watch?v=PlA8ZEndLzw
+			-> Amaj -> drop lowest note: Cm#64 -> G# -> C#m (i64 V i)
+
+			-> Into moonlight modulation (inverse) C#min -> E7 -> A (bass is root not inversion)
+
+
+
+	Interesting move: Eminor -> Gmaj64 -> D7 -> G
+		-> Aka rel maj modulation i -> III with 64
+	https://www.youtube.com/watch?v=PlA8ZEndLzw at 15:41
+
+
+	Weird I -> I64/VI -> V/VI vamp
+	https://www.youtube.com/watch?v=PlA8ZEndLzw at 16:03
+
+
+
+Chromatic mediants:
+	https://www.youtube.com/watch?v=cujQf77BHRI
+	First arps C (UNSAID if Minor or major no third) -> Ab6 -> Igorgeous modal sound
+	Aka i|I -> bVI -> i Chromatic mediant
+
+	Chopin ballade at 6:50 ish https://www.youtube.com/VmFmAvwO1pE 
+	We have I -> iii but as an abrupt modulation not functional, with iii being the i of the piece so like VI -> i.
+
+	https://www.youtube.com/watch?v=3hoaIZXCHU8
+	13:58
+	Db -> Amaj6 = I -> natVI then just after Amaj -> Fmaj aka I -> bVI
+	SEE BELOW
+
+
+	• Modulation MAJOR / MINOR ? I to bVI direct:
+		-> Chopin 20 prelude dark classique debut
+
+		Phrase modulation in Mozart's Sonata in A major, K.331, III (Alla turca), mm. 6–10.[16]ⓘ
+
+
+		https://musictheoryexamples.com/26CT.html:
+
+			Chopin, Mazurka in D Major, op. 33 no. 2, mm. 41-52
+			Great example
+
+			Beethoven, Piano Trio in c minor, op. 1 no. 3, mvt. 4, mm. 163-179
+
+			Schubert, String Quartet no. 8 in B-flat Major, D. 112, mvt. 1, mm. 149-165
+			(Mouais)
+
+			Beethoven, "Adelaide", op. 46, mm. 34-44
+			Mouais
+
+			Bruch, Violin Concerto no. 1 in g minor, op. 26, mvt. 2, mm. 75-83
+
+			Beethoven, "In questa tomba oscura", WoO 133, mm. 9-17
+			(Mouais)
+
+			Schumann, Myrthen, op. 25 no. 1, "Widmung", mm. 10-18
+
+			Chopin, Etude in A-flat major, op. 10 no. 10, mm. 13-18
+
+			Bruch, Romanze for Viola and Orchestra, op. 85 mm. 43-51
+
+			Schubert, Ländler, D. 734 no. 8, all
+
 	
 
 V9#11 ?
@@ -280,3 +346,23 @@ https://www.youtube.com/watch?v=3hoaIZXCHU8 7min15 chord like cascade? But it's 
 
 Stepwise romanesca with Dominant Tied bass:
 Beethoven Waldstein sonata Op 53 Ist mvt
+
+
+Stepwise romanesca or leaping
+https://www.youtube.com/watch?v=N-6aCfwUj7E 18:45
+
+
+
+
+
+
+
+Picardy 3rd or weird ending
+	- Liszt 13:06 https://www.youtube.com/watch?v=PlA8ZEndLzw
+
+
+Ending scale drc:
+	https://www.youtube.com/watch?v=H8SSaw3PPxY
+
+	Ravel ondine
+
