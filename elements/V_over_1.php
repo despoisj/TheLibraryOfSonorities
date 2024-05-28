@@ -29,6 +29,10 @@
 <p>*M* mm. 1-2: Eb -> Bb7/*1 -> Eb i.e I -> V7/*1 -> I</p>
 <?php yt("VmFmAvwO1pE", 389) ?>
 
+<?php tt("Genary Korganov - Sérénade Op. 20 n°4")?>
+<p>*M* mm. 1-5: Db -> Ab7/*1 -> Db i.e I -> V7/*1 -> I then again</p>
+<?php yt("Fc4Kj02GxFg") ?>
+
 <?php tt("Scriabin - Nocturne in Ab Major")?>
 <p>*M* mm. 1-4: Ab -> Eb9/*1 -> Ab i.e. I -> nV9/*1 -> I</p>
 <?php yt("dKC4fUNfe8g") ?>
