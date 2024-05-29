@@ -32,6 +32,10 @@
 <p>At 0:11, bar 4-5: Amaj -> C#maj64 -> G#7 -> C#Maj</p>
 <?php yt("hbnunexhlXM", 11) ?>
 
+<?php tt("Schubert - Piano Sonata D.960 1st Mvt.")?>
+<p>At 1:20, second row and next page: Gbmaj -> Gb7 -> Bb64 -> (melting into a *5 pedal point)</p>
+<?php yt("MAZ8PA5_gVA", 85) ?>
+
 <?php tt("Schumann - Dichterliebe, XII")?>
 <p>At 14:33, Gb7 -> Bbmaj64 -> F7 -> Bb.</p>
 <p>Granted, this one doesn't sound as triumphant because of the delicate sound and texture, but the sound is there!</p>
