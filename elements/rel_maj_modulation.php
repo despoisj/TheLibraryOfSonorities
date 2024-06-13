@@ -42,6 +42,10 @@
 <p>At 14:43, mm. 10-11: i (Amin) -> V/III (G7) -> III (C)</p>
 <?php yt("Yyw5OHUDHh4", 875) ?>
 
+<?php tt("Chopin - Mazurka Op. 7 n°3") ?>
+<p>At 0:40, i (Fmin) -> V7/III (Eb7) -> III (Ab)</p>
+<?php yt("kykhtdt-398", 38) ?>
+
 <?php tt("Charles Gounod - Romances sans Paroles, n°3") ?>
 <p>At 7:22, i (Cmin) -> V7/III (B7) -> III (Eb)</p>
 <?php yt("CnH7vjO52L8", 440) ?>

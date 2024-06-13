@@ -65,6 +65,10 @@
 <p>*M* mm. 2-3: Ab -> Eb7/*1 -> Ab i.e. I -> V7/*1 -> I</p>
 <?php yt("g0hoN6_HDVU", 1850) ?>
 
+<?php tt("Léo Delibes - Souvenir Lointain")?>
+<p>*M* mm. 1-4: Gb -> Db7/*1 -> D°7/1 i.e. I -> V7/*1 -> LT°7/*1</p>
+<?php yt("sVbQJfFqJC8", 3) ?>
+
 <?php tt("Liszt - Consolation n°3")?>
 <p>*M* 2nd row, 2nd measure: VChM/*1 -> I</p>
 <?php yt("73_jSjG1WrY", 7) ?>
