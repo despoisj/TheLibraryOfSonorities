@@ -10,6 +10,10 @@
 <p>Second measure in E minor: *4 is A, N6 is A-C-F♮, goes to i64.</p>
 <?php yt("Fy3JxUfE9ds", 102) ?>
 
+<?php tt("Schubert - Piano Sonata D.960, 4th Mvt.")?>
+<p>At 39:32, second row gives a very clear Bbm -> [...] -> B63 i.e i -> [...] -> N6</p>
+<?php yt("MAZ8PA5_gVA", 2372) ?>
+
 <?php tt("Rachmaninoff - Etude-Tableau Op. 33 n°8") ?>
 <p> i -> ivm7 -> N6 -> V -> i</p>
 <?php yt("3i_tYDkUvlU") ?>
