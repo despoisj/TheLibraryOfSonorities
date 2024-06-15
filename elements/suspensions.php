@@ -10,7 +10,7 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<?php tt("Sergei Bortkievicz - Prelude Op. 33 n°7") ?>
+<?php tt("Sergei Bortkiewicz - Prelude Op. 33 n°7") ?>
 <p>- 3nd measure: F# -> F#°7 (with added E# -> D#) -> F# i.e. I -> CT°7 + WSS -> I</p>
 <p>- Same at 1:54, 2nd measure: F# -> ~ F#°7 (with E# -> D#) -> F#</p>
 <?php yt("hDtDq4GmLqU", 11) ?>

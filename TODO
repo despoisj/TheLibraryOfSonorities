@@ -24,7 +24,6 @@ TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
 		*4 65 sound in minor normal, suspensions are just natural minor scale, but still sus
 		Donc rien de spécial, just the 4m65
 
-
 		Other examples (Rach)
 		https://musescore.com/user/30712651/scores/7185111
 
@@ -41,33 +40,6 @@ Weird listz Dim chord Consolation:
 
 - MAYBE Liszt https://www.youtube.com/watch?v=Nc09wbZhwws at 5:19 bottom right G -> B7 in 43 inv
 	-> This is more like I -> V42/VI -> VI ?
-
-
-Modulation I -> iii
-
-	Field 
-	https://www.youtube.com/watch?v=U-fS3mR9KDA 
-	<?php tt("John Field - Nocturne n°5") ?>
-	<p>I -> iii</p>
-	<p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
-	<?php yt("U-fS3mR9KDA", 1104) ?>
-
-	-> Stupeflip mod: rel maj -> I -> iii chain
-	-> https://www.youtube.com/watch?v=txAtjngr6dE 4min20
-
-	-> Chopin Polonaise in A Major, op. 40 no. 1, mm. 25-34
-	https://www.youtube.com/watch?v=hbnunexhlXM 2min05
-	-> https://musictheoryexamples.com/21AP/APz.pdf
-	-> https://musictheoryexamples.com/21AP/APz.mp3
-
-
-	Henselt kinda same but starting on major 63 not 53: Ab C F (instead of Eb) -> G7 -> Cmin but we have Abmaj the bar before so like anticipating the 7th
-	https://www.youtube.com/watch?v=3hoaIZXCHU8 5min30
-	Better at 9:20
-
-
-Modulation I/i -> bIII with T 27s page 2
-	https://www.youtube.com/watch?v=13UlKWgwdZI
 
 
 
@@ -106,7 +78,6 @@ Extended harmonies:
 	Ravel minAdd9, like arps
 	https://www.youtube.com/watch?v=-SnGqcl3axw
 
-
 	https://www.youtube.com/watch?v=IlDGyVDevJo
 	i -> iv9 minor
 
@@ -114,6 +85,7 @@ Extended harmonies:
 	9th
 
 	https://www.youtube.com/watch?v=i0X5LNTMZCU 4:50 iim7 gorgeous
+
 
 i64 Converging HC
 https://www.youtube.com/watch?v=NCo8IGl5T9w
@@ -125,16 +97,9 @@ V7sus
 	(Mouais very different from bach)
 
 
-
 https://www.youtube.com/watch?v=RICGqS2UtmU
 Unknown arp, Bb D F (Bbmaj) + Enat
 Lydian arp?
-
-
-
-
-
-https://www.youtube.com/watch?v=SHJ1nenOahM Stabat mater prinner 4:15 quick
 
 
 TODO rach 3 end sequence
@@ -154,26 +119,23 @@ Pentatonic:
 
 
 TODO inverstigate suspensions half dim...
-$
-
-Scriabin nocturne ab major starts with 9th arp, then V7/*1 but with also 9th in left hand, and inflection of 5 b5 5 in RH that’s lovely, is it dim?
 
 
 Royal Road Rach
 
-<!-- <h4 class="elementExampleTitle">Bonus: WIP</h4> -->
-<?php #tt("Rachmaninoff - Symphony n°2, Op. 27, 3rd Mvt.")?>
-<!-- <p>This is very similar, and similarly gorgeous. The progression is the "royal road": IV -> V -> iii -> vi, which is very close to the Monte Principale, especially considering the proximity of ii and IV, and the fondness of composers for the *4 *5 bass motion.</p> -->
-<?php #yt("hzTqVTP7IKM") ?>
+	<!-- <h4 class="elementExampleTitle">Bonus: WIP</h4> -->
+	<?php #tt("Rachmaninoff - Symphony n°2, Op. 27, 3rd Mvt.")?>
+	<!-- <p>This is very similar, and similarly gorgeous. The progression is the "royal road": IV -> V -> iii -> vi, which is very close to the Monte Principale, especially considering the proximity of ii and IV, and the fondness of composers for the *4 *5 bass motion.</p> -->
+	<?php #yt("hzTqVTP7IKM") ?>
 
 
 Rach sequence with 64 Rach 3 8:31
 
-<?php tt("Rachmaninoff - Piano Concerto n°3")?>
-<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> D#] -> ~[Bb -> Eb]</p>
-<p>Harmony is: Amin -> B64 -> Bmin -> C#64 -> C# -> Eb64 -> Eb</p>
-<p>This is very chromatic, but brings the same rising tension.</p>
-<?php yt("aSXtXLAVgkE", 590) ?>
+	<?php tt("Rachmaninoff - Piano Concerto n°3")?>
+	<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> D#] -> ~[Bb -> Eb]</p>
+	<p>Harmony is: Amin -> B64 -> Bmin -> C#64 -> C# -> Eb64 -> Eb</p>
+	<p>This is very chromatic, but brings the same rising tension.</p>
+	<?php yt("aSXtXLAVgkE", 590) ?>
 
 
 
@@ -217,7 +179,6 @@ TODO Mompou vs Albeniz
 	-> Makes it arriving on tenth with some chromatic VL ?
 
 
-TODO Double check MP in 2nd symphony I say A D B E but here it's D G E A
 
 
 Pulcinella cadence at 20s A B C D A B C F bass I think
@@ -226,32 +187,28 @@ https://www.youtube.com/watch?v=HXBy3l0xvSw
 
 Op 41 mazurka phrygian chopin
 
+
 Rach monte romanesca that doesn't sound like one sounds amamzing
 Rach 23 4 and Moment musical Min13 chord
 ALSO gorgeous BbMinor13 chord just after a gorgeous Fmin9 (not Abmaj7 as written)
 https://www.youtube.com/watch?v=hg76YTPpgcs&t=30s
 
+TODO Double check MP in 2nd symphony I say A D B E but here it's D G E A
 
-Chord of the 6th with added 9th (like Neapolitan Sus)
-- EBEN
-- Fauré Quintet
 
-<?php tt("WIP: Fauré - Piano Quintet n°2 in C minor") ?>
-<p>Note: in this passage, the same voicing (C Eb Ab D) appears twice, transposed a third up the second time, but doesn't seem to have the same sound / function as it is not the N6 chord, but just a chord of the 6th. It needs to be investigated further. It's a gorgeous sound, though.</p>
-<?php yt("eCytVmL30lc", 66) ?>
+=== Chord of the 6th with added 9th (like Neapolitan Sus) === 
+	- EBEN
+	- Fauré Quintet
+
+	<?php tt("WIP: Fauré - Piano Quintet n°2 in C minor") ?>
+	<p>Note: in this passage, the same voicing (C Eb Ab D) appears twice, transposed a third up the second time, but doesn't seem to have the same sound / function as it is not the N6 chord, but just a chord of the 6th. It needs to be investigated further. It's a gorgeous sound, though.</p>
+	<?php yt("eCytVmL30lc", 66) ?>
 
 
 
 MODULATION:
 
-	Modulation I to III? TODO:
-		https://www.youtube.com/watch?v=cikdYAx9p_Q
-		TODO 8:20
-		or just wedge omnibus?
-
-
-	Modulation:
-		I -> vi
+	I -> vi (Relative Minor):
 		Relative minor
 
 		Chopin Andante spinato G -> Em 58s https://www.youtube.com/watch?time_continue=53&v=jJ130s7BiSM&embeds_referring_euri=http%3A%2F%2Flocalhost%3A8888%2F&source_ve_path=MjM4NTE&feature=emb_title
@@ -262,79 +219,135 @@ MODULATION:
 		Then again right after: Dmaj -> Dmin
 
 
-	Parallel minor I -> i modulation:
+	I -> i (Parallel minor):
 		- Moonlight sonata
 		- https://www.youtube.com/watch?v=N-6aCfwUj7E at 21:30 Emaj to Emin
 
-	Parallel major i -> I modulation
-		- https://www.youtube.com/watch?v=PlA8ZEndLzw 15:15
 
+	i -> I (Parallel major):
+		- https://www.youtube.com/watch?v=PlA8ZEndLzw 15:15
 		-> Then inverse later
 
 
+	I -> III (triumph modulation):
+
+		I -> (64) -> III:
+			https://www.youtube.com/watch?v=cikdYAx9p_Q 8:20
+			-> weak sounding Ge+6 -> I64 -> I aka Triumph Modulation
+
+			Schubert https://www.youtube.com/watch?v=QyTb0ThLCyo&t=213s at 8:18
+			From Dim7: F#°7 (i.e. ~F7) -> A64 -> E7 -> A
+
+
+	i -> III (relative major):
+
+		i -> (64) -> III:
+			Interesting move: Eminor -> Gmaj64 -> D7 -> G
+			https://www.youtube.com/watch?v=PlA8ZEndLzw at 15:41
+
+
 	I -> iii:
-		Modulation Liszt 11:58 https://www.youtube.com/watch?v=PlA8ZEndLzw
-			-> Amaj -> drop lowest note: Cm#64 -> G# -> C#m (i64 V i)
 
-			-> Into moonlight modulation (inverse) C#min -> E7 -> A (bass is root not inversion)
+		I -> iii (direct):
+			Chopin ballade at 6:50 ish https://www.youtube.com/VmFmAvwO1pE 
+			With iii being the i of the piece so like VI -> i.
+
+		I -> (V/iii) -> iii
+
+			Field 
+			https://www.youtube.com/watch?v=U-fS3mR9KDA 
+			<?php tt("John Field - Nocturne n°5") ?>
+			<p>I -> iii</p>
+			<p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
+			<?php yt("U-fS3mR9KDA", 1104) ?>
+
+			-> Stupeflip mod: rel maj -> I -> iii chain
+			-> https://www.youtube.com/watch?v=txAtjngr6dE 4min20
+
+			-> Chopin Concerto! https://www.youtube.com/watch?v=sWue76mWIpU 7:05
+			-> (Ab7 -> raise 5th ->) DbMaj -> C7 -> Fmin
+
+			-> Chopin Polonaise in A Major, op. 40 no. 1, mm. 25-34
+			https://www.youtube.com/watch?v=hbnunexhlXM 2min05
+			-> https://musictheoryexamples.com/21AP/APz.pdf
+			-> https://musictheoryexamples.com/21AP/APz.mp3
+
+			Henselt kinda same but starting on major 63 not 53: Ab C F (instead of Eb) -> G7 -> Cmin but we have Abmaj the bar before so like anticipating the 7th
+			https://www.youtube.com/watch?v=3hoaIZXCHU8 5min30
+			Better at 9:20
+
+			Schubert
+			https://www.youtube.com/watch?v=QyTb0ThLCyo&t=213s at 8:06 but aborted: C -> B7 -> ...
 
 
+		I -> (64) -> iii:
+			Modulation Liszt 11:58 https://www.youtube.com/watch?v=PlA8ZEndLzw
+				-> Amaj -> drop lowest note: Cm#64 -> G# -> C#m (i64 V i)
+				-> Into moonlight modulation (inverse) C#min -> E7 -> A (bass is root not inversion)
 
-	Interesting move: Eminor -> Gmaj64 -> D7 -> G
-		-> Aka rel maj modulation i -> III with 64
-	https://www.youtube.com/watch?v=PlA8ZEndLzw at 15:41
+
+	I/i -> bIII with T 27s page 2
+		https://www.youtube.com/watch?v=13UlKWgwdZI
 
 
 	Weird I -> I64/VI -> V/VI vamp
-	https://www.youtube.com/watch?v=PlA8ZEndLzw at 16:03
+		https://www.youtube.com/watch?v=PlA8ZEndLzw at 16:03
+		(??)
 
 
 
-Chromatic mediants:
-	https://www.youtube.com/watch?v=cujQf77BHRI
-	First arps C (UNSAID if Minor or major no third) -> Ab6 -> Igorgeous modal sound
-	Aka i|I -> bVI -> i Chromatic mediant
+	Chromatic mediants:
+		https://www.youtube.com/watch?v=cujQf77BHRI
+		First arps C (UNSAID if Minor or major no third) -> Ab6 -> Igorgeous modal sound
+		Aka i|I -> bVI -> i Chromatic mediant
 
-	Chopin ballade at 6:50 ish https://www.youtube.com/VmFmAvwO1pE 
-	We have I -> iii but as an abrupt modulation not functional, with iii being the i of the piece so like VI -> i.
-
-	https://www.youtube.com/watch?v=3hoaIZXCHU8
-	13:58
-	Db -> Amaj6 = I -> natVI then just after Amaj -> Fmaj aka I -> bVI
-	SEE BELOW
+		
+		https://www.youtube.com/watch?v=3hoaIZXCHU8
+		13:58
+		Db -> Amaj6 = I -> natVI then just after Amaj -> Fmaj aka I -> bVI
+		SEE BELOW
 
 
-	• Modulation MAJOR / MINOR ? I to bVI direct:
-		-> Chopin 20 prelude dark classique debut
+		• Modulation MAJOR / MINOR ? I to bVI direct:
+			-> Chopin 20 prelude dark classique debut
 
-		Phrase modulation in Mozart's Sonata in A major, K.331, III (Alla turca), mm. 6–10.[16]ⓘ
+			Phrase modulation in Mozart's Sonata in A major, K.331, III (Alla turca), mm. 6–10.[16]ⓘ
 
 
-		https://musictheoryexamples.com/26CT.html:
+			https://musictheoryexamples.com/26CT.html:
 
-			Chopin, Mazurka in D Major, op. 33 no. 2, mm. 41-52
-			Great example
+				Chopin, Mazurka in D Major, op. 33 no. 2, mm. 41-52
+				(Great example)
 
-			Beethoven, Piano Trio in c minor, op. 1 no. 3, mvt. 4, mm. 163-179
+				Bruch, Violin Concerto no. 1 in g minor, op. 26, mvt. 2, mm. 75-83
+				(Good)
 
-			Schubert, String Quartet no. 8 in B-flat Major, D. 112, mvt. 1, mm. 149-165
-			(Mouais)
+				Chopin, Etude in A-flat major, op. 10 no. 10, mm. 13-18
+				(Ok)
 
-			Beethoven, "Adelaide", op. 46, mm. 34-44
-			Mouais
+				Schubert, Ländler, D. 734 no. 8, all
+				(Ok)
 
-			Bruch, Violin Concerto no. 1 in g minor, op. 26, mvt. 2, mm. 75-83
+				Beethoven, Piano Trio in c minor, op. 1 no. 3, mvt. 4, mm. 163-179
+				(Ok)
 
-			Beethoven, "In questa tomba oscura", WoO 133, mm. 9-17
-			(Mouais)
+				Bruch, Romanze for Viola and Orchestra, op. 85 mm. 43-51
+				(Mouais)
 
-			Schumann, Myrthen, op. 25 no. 1, "Widmung", mm. 10-18
+				Schubert, String Quartet no. 8 in B-flat Major, D. 112, mvt. 1, mm. 149-165
+				(Mouais)
 
-			Chopin, Etude in A-flat major, op. 10 no. 10, mm. 13-18
+				Beethoven, "Adelaide", op. 46, mm. 34-44
+				(Mouais)
 
-			Bruch, Romanze for Viola and Orchestra, op. 85 mm. 43-51
+				Beethoven, "In questa tomba oscura", WoO 133, mm. 9-17
+				(Mouais)
 
-			Schubert, Ländler, D. 734 no. 8, all
+				Schumann, Myrthen, op. 25 no. 1, "Widmung", mm. 10-18
+				(Bof?)
+
+
+
 
 	
 
@@ -346,16 +359,13 @@ https://www.youtube.com/watch?v=Eb-soe-W_co 25:10 sounds like chopin cascade but
 https://www.youtube.com/watch?v=3hoaIZXCHU8 7min15 chord like cascade? But it's just V9sus4
 
 
+
 Stepwise romanesca with Dominant Tied bass:
 Beethoven Waldstein sonata Op 53 Ist mvt
 
 
 Stepwise romanesca or leaping
 https://www.youtube.com/watch?v=N-6aCfwUj7E 18:45
-
-
-
-
 
 
 
@@ -374,3 +384,13 @@ Deceptive Minor https://www.youtube.com/watch?v=DLTL-NpV1lw 0;36
 
 
 I -> V/V -> V simply? Sounds good. https://www.youtube.com/watch?v=MAZ8PA5_gVA 24:38 
+
+
+Weird move: i (or vi) -> bVIFrench+ 
+> Chopin Concerto! https://www.youtube.com/watch?v=sWue76mWIpU 7:05 aka https://www.youtube.com/watch?v=FIackkOX2BU 8:30
+	-> (Ab7 -> raise 5th ->) DbMaj -> C7 -> Fmin
+
+
+https://www.youtube.com/watch?v=U-fS3mR9KDA&t=1104s 18:34
+
+Weird mm. 6: Dmin -> EDom43 -> C7 aka vi -> VIIDom43 -> V7 -> I

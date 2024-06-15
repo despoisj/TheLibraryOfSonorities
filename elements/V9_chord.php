@@ -62,12 +62,12 @@
 <p>Second row, mm. 2 (in A): V9 (E7 + F#)</p>
 <?php yt("Mrvk5qcJ8cI", 43) ?>
 
-<?php tt("Scriabin - Prelude, Op. 11 n°11")?>
-<p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
+<?php tt("Edward MacDowell - 2 Fantasy Pieces, Op. 17 n°1")?>
+<p>mm. 4-5 (in F): V9 (C#7 + D#) -> I with: ^6 -> ^7 -> ^2 -> ^1</p>
 <?php yt("PgK_Yhli8js", 244) ?>
 
-<?php tt("Edward MacDowell - 2 Fantasy Pieces, Op. 17 n°1")?>
-<p>mm. 4-5 (in F#): V9 (C#7 + D# -> E# -> F#)</p>
+<?php tt("Sergei Bortkiewicz - Nocturne Op. 24 n°1 'Diana'")?>
+<p>mm. 4-5 (in Ab): V9 (Eb7 + F -> G -> Ab)</p>
 <?php yt("0o0g-j8FjdY", 151) ?>
 
 <?php tt("Scriabin - Prelude, Op. 16 n°1")?>
