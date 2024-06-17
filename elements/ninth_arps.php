@@ -7,7 +7,7 @@
 	<br>
 	<a href="#thirteenth_arp" class="scrollLink">Arpeggios with added 13th</a> - *M*
 	<br>
-	<a href="#pentatonic" class="scrollLink">I and IV Pentatonic Arpeggios</a> - *M*
+	<a href="#pentatonic" class="scrollLink">Major I and IV Pentatonic Scales</a> - *M*
 </p>
 
 
@@ -79,11 +79,11 @@
 
 
 
-<h3 id="pentatonic" class="elementExampleTitle">Pentatonic Scales (♮9th & ♮13th)</h3>
+<h3 id="pentatonic" class="elementExampleTitle">Major Pentatonic Scales (♮9th & ♮13th)</h3>
 <p>The <a target="_blank" href="https://en.wikipedia.org/wiki/Pentatonic_scale">pentatonic scale</a> is a major scale with degrees ^1 ^2 ^3 ^5 ^6 only. When compared to the arpeggios with added 9th we have seen above, it's like major arpeggios with added 9th and 13th.</p>
 
 <?php tt("Godowsky - Study on Chopin Etudes n°2") ?>
-<p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db pentatonic scale.</p>
+<p>*M* First row is DbMaj + Eb (9th) + Bb (13th) i.e. Db major pentatonic scale.</p>
 <p>i.e. I Major Pentatonic over *1</p>
 <?php yt("d9VtzVRaz6Q", 133) ?>
 
@@ -97,6 +97,16 @@
 <p>i.e. I Major Pentatonic</p>
 <?php yt("ZOuAFAS367Y") ?>
 
+<?php tt("Chopin - Nocturne Op. 48 n°1") ?>
+<p>*M* At 4:25, over a dominant harmony: Gmaj (no B) + A (9th) + E (13th) i.e. G major pentatonic.</p>
+<p>i.e. I Major Pentatonic (or V Major Pentatonic over *5)</p>
+<?php yt("107Iwx5RKSM", 265) ?>
+
+<?php tt("Liszt - Dante Sonata") ?>
+<p>*M* At 4:23 last 2 bars: F#maj + G# (9th) + D# (13th) i.e. F# major pentatonic. then E major pentatonic</p>
+<p>i.e. I Major Pentatonic</p>
+<?php yt("KB59i99Wxc4", 263) ?>
+
 <?php tt("Scriabin - Prelude Op. 16 n°1") ?>
 <p>*M* First arp has the tones of the E major pentatonic scale (with ^4 instead of ^3)</p>
 <p>i.e. IV Major Pentatonic over *1</p>
@@ -104,14 +114,15 @@
 <?php yt("pmIDevUoPpE", 8) ?>
 
 <?php tt("Scriabin - Prelude Op. 11 n°1") ?>
-<p>First arp has the tones of the F major pentatonic scale (same as above, it's the IV major pentatonic, using pitches ^1 ^2 ^4 ^5 ^6</p>
+<p>*M* First arp has the tones of the F major pentatonic scale (same as above, it's the IV major pentatonic, using pitches ^1 ^2 ^4 ^5 ^6</p>
 <p>i.e. IV Major Pentatonic over *1</p>
 <?php yt("ry5L3_0XVuk", 6) ?>
 
 <?php tt("Scriabin - Prelude Op. 11 n°19") ?>
-<p>First arp has the tones of the Ab major pentatonic scale over Eb as a bass note.</p>
+<p>*M* First arp has the tones of the Ab major pentatonic scale over Eb as a bass note.</p>
 <p>i.e. IV Major Pentatonic over *1</p>
 <?php yt("ry5L3_0XVuk", 1575) ?>
+
 
 
 

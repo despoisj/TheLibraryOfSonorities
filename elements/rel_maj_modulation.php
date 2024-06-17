@@ -108,6 +108,11 @@
 <p>At 11:14, bar 5-9+: i (Dmin) -> ... -> V (A) -> III (F)</p>
 <?php yt("N-6aCfwUj7E", 660) ?>
 
+<?php tt("Chopin - Nocturne Op. 9 n°1")?>
+<p>At 0:19, bar 4-5: i (Bbmin) -> III (Db) -> IV/III etc.</p>
+<?php yt("ZtIW2r1EalM", 19) ?>
+
+
 
 <h4 class="elementExampleTitle">References</h4>
 <?php yt("-jkH7FLajpE") ?>

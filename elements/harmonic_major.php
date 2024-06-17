@@ -62,7 +62,7 @@
 <?php yt("kS8hk0kL2sE", 3409) ?>
 
 
-<?php tt("Sergei Bortkievicz - Prelude Op. 33 n°7 ") ?>
+<?php tt("Sergei Bortkiewicz - Prelude Op. 33 n°7 ") ?>
 <p>At 1:24 mm. 1-2: I -> LT°7 -> I</p>
 <p>b^6 = Bb = A#</p>
 <?php yt("hDtDq4GmLqU", 84) ?>
