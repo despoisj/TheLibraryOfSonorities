@@ -63,6 +63,10 @@
 <p>mm. 6: D+Maj7 and more</p>
 <?php yt("6QHYPh0h1Bs", 108) ?>
 
+<?php tt("Adolf Henselt - Romance Op. 10") ?>
+<p>At 1:48, mm. 8: GbMaj9#5 -> ~Eb6 i.e. IVMaj9#5 -> ii6</p>
+<?php yt("WC_nrdivY3w", 108) ?>
+
 <?php tt("Bach - Chromatic Fantasia (BWV 903)") ?>
 <p>At 2:13, first bar: CMaj9#5 -> Am6 i.e. IMaj9#5 -> vi6</p>
 <?php yt("lHTMq-5B9Co", 133) ?>
