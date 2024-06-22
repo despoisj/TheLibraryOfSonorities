@@ -1,4 +1,4 @@
-V9 TODO eh
+V9 TODO eh DrC
 	https://www.youtube.com/watch?v=NaWtKTeX7Tw&list=WL&index=15
 	Last measure but very quick
 
@@ -6,6 +6,9 @@ V9 TODO eh
 
 	Ondine climax rising scale ravel
 
+	Weak https://www.youtube.com/watch?v=y9JM6AXqxVE 1:06
+
+	https://www.youtube.com/watch?v=H8SSaw3PPxY
 
 
 TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
@@ -125,13 +128,6 @@ Pentatonic:
 TODO inverstigate suspensions half dim...
 
 
-Royal Road Rach
-
-	<!-- <h4 class="elementExampleTitle">Bonus: WIP</h4> -->
-	<?php #tt("Rachmaninoff - Symphony n°2, Op. 27, 3rd Mvt.")?>
-	<!-- <p>This is very similar, and similarly gorgeous. The progression is the "royal road": IV -> V -> iii -> vi, which is very close to the Monte Principale, especially considering the proximity of ii and IV, and the fondness of composers for the *4 *5 bass motion.</p> -->
-	<?php #yt("hzTqVTP7IKM") ?>
-
 
 Rach sequence with 64 Rach 3 8:31
 
@@ -218,7 +214,6 @@ MODULATION:
 		Chopin Andante spinato G -> Em 58s https://www.youtube.com/watch?time_continue=53&v=jJ130s7BiSM&embeds_referring_euri=http%3A%2F%2Flocalhost%3A8888%2F&source_ve_path=MjM4NTE&feature=emb_title
 
 		Same piece just after: Emin -> Ab43 -> Dmaj aka i -> VII (just après same from Dmin -> G43 -> C)
-			-> Note: kind of a weak DrC
 
 		Then again right after: Dmaj -> Dmin
 
@@ -226,11 +221,14 @@ MODULATION:
 	I -> i (Parallel minor):
 		- Moonlight sonata
 		- https://www.youtube.com/watch?v=N-6aCfwUj7E at 21:30 Emaj to Emin
+		- https://www.youtube.com/watch?v=y9JM6AXqxVE 3:38
+
+		-> Related to pianoidée
 
 
 	i -> I (Parallel major):
 		- https://www.youtube.com/watch?v=PlA8ZEndLzw 15:15
-		-> Then inverse later
+			-> Then inverse later
 
 
 	I -> III (triumph modulation):
@@ -239,10 +237,7 @@ MODULATION:
 			https://www.youtube.com/watch?v=cikdYAx9p_Q 8:20
 			-> weak sounding Ge+6 -> I64 -> I aka Triumph Modulation
 
-			Schubert https://www.youtube.com/watch?v=QyTb0ThLCyo&t=213s at 8:18
-			From Dim7: F#°7 (i.e. ~F7) -> A64 -> E7 -> A
-
-			https://www.youtube.com/watch?v=FTCngrVpbvw 1:25
+			https://www.youtube.com/watch?v=FTCngrVpbvw 1:25 (meh?)
 			From Dim7: C#°7 (i.e ~Eb7 inv) -> G64 -> D -> G
 
 
@@ -358,35 +353,29 @@ MODULATION:
 
 	
 
-V9#11 ?
+Weird Harsh like Chopin Cascade V9#11 (TODO?)
 
-https://www.youtube.com/watch?v=Eb-soe-W_co 25:10 sounds like chopin cascade but is not?
-	
-
-https://www.youtube.com/watch?v=3hoaIZXCHU8 7min15 chord like cascade? But it's just V9sus4
-
+	https://www.youtube.com/watch?v=Eb-soe-W_co 25:10 sounds like chopin cascade but is not?
+		
+	https://www.youtube.com/watch?v=3hoaIZXCHU8 7min15 chord like cascade? But it's just V9sus4
 
 
-Stepwise romanesca with Dominant Tied bass:
-Beethoven Waldstein sonata Op 53 Ist mvt
+
+Stepwise romanesca with Dominant Tied bass (aka 3 -> 6/#4/2 -> 6 mortensen)
+	Beethoven Waldstein sonata Op 53 Ist mvt
 
 
 Stepwise romanesca or leaping
-https://www.youtube.com/watch?v=N-6aCfwUj7E 18:45
-
+	https://www.youtube.com/watch?v=N-6aCfwUj7E 18:45
 
 
 Picardy 3rd or weird ending
 	- Liszt 13:06 https://www.youtube.com/watch?v=PlA8ZEndLzw
 
 
-Ending scale drc:
-	https://www.youtube.com/watch?v=H8SSaw3PPxY
 
-	Ravel ondine
-
-
-Deceptive Minor https://www.youtube.com/watch?v=DLTL-NpV1lw 0;36
+Deceptive Minor:
+	- https://www.youtube.com/watch?v=DLTL-NpV1lw 0;36
 
 
 
@@ -404,8 +393,23 @@ Weird mm. 6: Dmin -> EDom43 -> C7 aka vi -> VIIDom43 -> V7 -> I
 
 
 
-Minor 1245 Chord (mozart) aka V7/1 in minor ?
+Minor 1245 Chord (mozart) aka V7/1 in minor ? 
 Minor V7/1 https://www.youtube.com/watch?v=CKy8DsPcoO8
 
 CT°7 https://www.youtube.com/watch?v=SJOVhoYOGF4
+
+
+
+Stabat Prinner ? https://www.youtube.com/watch?v=WC_nrdivY3w 3:08
+
+Fantaisie Impromptu Obnibus type https://www.youtube.com/watch?v=75x6DncZDgI 0:35  🔥🔥🔥
+	-> B7 in 642 inv -> (voice ex) -> B7 -> Monte aka deceptive with V/vi
+
+
+https://www.youtube.com/watch?v=y9JM6AXqxVE V/1 3:20
+
+
+
+Kinda Arp with 13 over the 9th but aka minor 13 like rach moment https://www.youtube.com/watch?v=0yCS0IHsOiU 1:06
+
 

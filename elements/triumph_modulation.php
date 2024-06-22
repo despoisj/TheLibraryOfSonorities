@@ -28,6 +28,10 @@
 <p>At 15:00, A -> DbMaj64 -> Ab7 -> (evaded)</p>
 <?php yt("3hoaIZXCHU8", 896) ?>
 
+<?php tt("Louise Farrenc - Etude Op. 26 n°10")?>
+<p>At 1:40, double modulation on the second row: A -> C#Maj64 -> G# -> C# then C# -> FMaj64 -> C -> F</p>
+<?php yt("qUCQxtr5FOI", 93) ?>
+
 <?php tt("Chopin - Polonaise Op. 40 n°1")?>
 <p>At 0:11, bar 4-5: Amaj -> C#maj64 -> G#7 -> C#Maj</p>
 <?php yt("hbnunexhlXM", 11) ?>
@@ -36,14 +40,18 @@
 <p>At 1:20, second row and next page: Gbmaj -> Gb7 -> Bb64 -> (melting into a *5 pedal point)</p>
 <?php yt("MAZ8PA5_gVA", 85) ?>
 
+<?php tt("Schubert - Piano Sonata D.459 3rd Mvt.")?>
+<p>At 21:50, second row: Gmaj -> BMaj64 -> F#7 -> BMaj</p>
+<?php yt("N-6aCfwUj7E", 1308) ?>
+
 <?php tt("Schumann - Dichterliebe, XII")?>
 <p>At 14:33, Gb7 -> Bbmaj64 -> F7 -> Bb.</p>
 <p>Granted, this one doesn't sound as triumphant because of the delicate sound and texture, but the sound is there!</p>
 <?php yt("8xFU0IJimX4", 873) ?>
 
-<?php tt("Schubert - Piano Sonata D.459 3rd Mvt.")?>
-<p>At 21:50, second row: Gmaj -> BMaj64 -> F#7 -> BMaj</p>
-<?php yt("N-6aCfwUj7E", 1308) ?>
+<?php tt("Schubert - Piano Sonata D.845 1st Mvt.")?>
+<p>At 8:15, bars 4-7: F#°7 (i.e. ~F7) -> A64 -> E7 -> A</p>
+<?php yt("QyTb0ThLCyo", 493) ?>
 
 <?php tt("Michael Koch (En Blanc Et Noir) - Video on that modulation strategy")?>
 <?php yt("CbRrnLcX1gc") ?>

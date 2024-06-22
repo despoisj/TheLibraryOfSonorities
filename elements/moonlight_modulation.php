@@ -36,6 +36,10 @@
 <p>At 34:04, bar 1-3: (D ->) Dm -> F7/C -> Bb</p>
 <?php yt("1kmeAMlPy2s", 2044) ?>
 
+<?php tt("B. Kaluzhny - Cinq Morceaux, n°2")?>
+<p>At 2:54, bar 5-6: Dm -> F7/C -> Bb</p>
+<?php yt("CBhEgKC2G5k", 170) ?>
+
 <?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.")?>
 <p>At 13:38, 2nd row: Fm -> Ab7/Eb -> Db</p>
 <?php yt("3hoaIZXCHU8", 818) ?>
