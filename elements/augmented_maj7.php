@@ -71,6 +71,10 @@
 <p>At 2:13, first bar: CMaj9#5 -> Am6 i.e. IMaj9#5 -> vi6</p>
 <?php yt("lHTMq-5B9Co", 133) ?>
 
+<?php tt("Moszkowski - Op. 82 n°3 'Melodie'") ?>
+<p>At 10:53, bar 7: EbMaj9#5</p>
+<?php yt("2JZP4VvFwZE", 653) ?>
+
 <?php tt("Jean-Joseph de Mondonville - Trio Sonata Op. 2 n°6, 1st Mvt.") ?>
 <p>At 1:18, right after the 3 repeated notes: EbMaj9#5 -> Cm i.e. IIIMaj9#5 -> i</p>
 <?php yt("KZSjJspk0E0", 78) ?>

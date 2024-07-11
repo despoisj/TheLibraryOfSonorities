@@ -29,7 +29,7 @@
 <?php yt("N-6aCfwUj7E", 660) ?>
 
 
-<h4 class="elementExampleTitle">Stepwise Romanesca</h4>
+<h4 class="elementExampleTitle">Romanesca</h4>
 
 <?php tt("Chopin - Scherzo n°2")?>
 <p>Stepwise Romanesca</p>
@@ -50,3 +50,7 @@
 <?php tt("Charles Gounod - Romances sans Paroles n°4")?>
 <p>At 11:20: Leaping Romanesca</p>
 <?php yt("CnH7vjO52L8", 680) ?>
+
+<?php tt("Francis Thomé - Simple Aveu")?>
+<p>At 0:54: Leaping Romanesca</p>
+<?php yt("Sd_1KV6VqY8", 53) ?>

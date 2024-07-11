@@ -42,6 +42,11 @@
 <p>i.e [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
 <?php yt("wgYA8I92ykw", 1315) ?>
 
+<?php tt("Thomas Tellefsen — Piano Concerto n°1 in G Minor")?>
+<p>At 5:08, Bb] -> [Gb -> C] -> [A</p>
+<p>i.e *1] -> [b*6 -> *2] -> [*7</p>
+<?php yt("C8EIBhKxGVY", 308) ?>
+
 <?php tt("Mozart - Ave Verum Corpus")?>
 <p>Bass goes: [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
 <?php yt("Af0x8EsiR7Q", 106) ?>
