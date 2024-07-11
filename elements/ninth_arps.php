@@ -35,8 +35,12 @@
 <?php yt("ciGt6IIngRk", 30) ?>
 
 <?php tt("Rachmaninoff - Cello Sonata in G Major, 1st Mvt.") ?>
-<p>*M* 2nd row Left Hand arpeggio is Eb-(F)-G-Bb.</p>
+<p>*M* 2nd row left Hand arpeggio is Eb-(F)-G-Bb.</p>
 <?php yt("YrXMpfwnbQ4", 646) ?>
+
+<?php tt("Oskar Merikanto - Barcarolle in E Major, Op. 65") ?>
+<p>*M* 2nd row left Hand arpeggio is E-(F#)-G#-B.</p>
+<?php yt("zNvxn2a4QTk", 212) ?>
 
 <?php tt("Scriabin - Nocturne in Ab Major.") ?>
 <p>*M* First bar: Ab-(Bb)-C-Eb.</p>

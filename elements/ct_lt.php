@@ -94,6 +94,10 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>*M* End of first row: LT°7/*1 -> I</p>
 <?php yt("nzQJks649sM", 4) ?>
 
+<?php tt("Chopin - Waltz Op. 64 n°2")?>
+<p>*M* End of row: I -> LT°7/*1 -> I</p>
+<?php yt("nvIzusRcdzw", 116) ?>
+
 <?php tt("Ignaz Brüll - Melodie in A minor, Op. 53 n°2")?>
 <p>*M* mm. 5: E -> A°7 -> E -> E7 -> , i.e. I -> ~LT°7 -> I in E (the V of the key of A minor).</p>
 <p>Note: the E with the LT°7 chord is similar to when we have LT°7/*1, except here it's buried inside the texture.</p>
