@@ -12,7 +12,7 @@
 <?php yt("vEGxyHe4Azo") ?>
 
 <?php tt("Felix Blumenfeld - Etude Op. 3 n°1")?>
-<p>mm. 2: 5/3 -> 5+/3+ -> 6</p>
+<p>mm. 2: 5/3 -> 5+/3 -> 6</p>
 <?php yt("sJ1HmN1j6QM", 80) ?>
 
 <?php tt("Sigismond Thalberg - Grande Fantaisie, Op. 12")?>
@@ -32,7 +32,6 @@
 <p>Db -> Db+ -> Gm6/3, i.e. I -> I+ -> IV64</p>
 <?php yt("CdUvUysN55Q", 19) ?>
 
-
 <?php tt("Beethoven - Bagatelle Op. 119 n°1/2")?>
 <p>Eb -> Eb+ -> Ab7, i.e. I -> I+ -> IVM7</p>
 <?php yt("Qjk2zYjwaJc", 25) ?>
@@ -49,6 +48,9 @@
 <p>mm. 4 then again last measure of the page: D7 -> D7+ -> G , i.e. V -> V+ -> I </p>
 <?php yt("VUk3_qTTVg4", 138) ?>
 
+<?php tt("Chopin - Concerto n°1, 2nd Mvt.") ?>
+<p>mm. 4: B7 -> B7+ -> E , i.e. V -> V+ -> I </p>
+<?php yt("w4YyTQduZDc", 1348) ?>
 
 <?php tt("Anton Arensky - Piano Trio No. 1, Op. 32 in D minor, 3rd Mvt.") ?>
 <p>Last measure of the page, Bb -> Bb+ -> EbMaj7, i.e. I -> I+ -> IVM7 then next measure I -> I+ -> #ivmin7b5 aka #ivø7</p>

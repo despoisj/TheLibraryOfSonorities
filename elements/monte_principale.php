@@ -55,6 +55,10 @@
 <p>This example shows the 5-6, which is very similar to the Monte Principale.</p>
 <?php yt("vdAgwlM1hJw", 198) ?>
 
+<?php tt("Sibelius - Etude in A minor, Op. 76 n°2")?>
+<p>Bar 2-4: [D -> G] -> [E -> A] -> [F -> B] supporting seventh chords.</p>
+<?php yt("vfZu1_P0OUE", 19) ?>
+
 <?php tt("Mozart - Piano Concerto n°14, K. 449, 2nd Mvt.")?>
 <p>At 13:28, last bar and on: [Bbmaj -> Ebmaj] -> [Cmin -> Fmaj] -> [Dmin -> Gmin]</p>
 <p>i.e. [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
