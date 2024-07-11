@@ -16,6 +16,10 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
+<?php tt("Oskar Merikanto - Romance, Op. 12")?>
+<p>At 3:46, 5 stages starting on V65 -> V7</p>
+<?php yt("NZknT2ge_Rk", 226) ?>
+
 <?php tt("Tchaikovsky/Pletnev - 'Pas de Deux' (Nutcracker Suite)")?>
 <p>3 stages</p>
 <?php yt("hEc3jhG7Qow", 73) ?>
