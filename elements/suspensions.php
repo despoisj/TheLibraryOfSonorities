@@ -15,6 +15,10 @@
 <p>- Same at 1:54, 2nd measure: F# -> ~ F#°7 (with E# -> D#) -> F#</p>
 <?php yt("hDtDq4GmLqU", 11) ?>
 
+<?php tt("Oskar Merikanto - Romance, Op. 12") ?>
+<p>EMaj -> E°7 + D# -> EMaj i.e. I -> ICT°7 + WSS -> I.</p>
+<?php yt("NZknT2ge_Rk") ?>
+
 <?php tt("Moritz Moszkowski - Piano Concerto in E Major, Andante") ?>
 <p>4th measure: C#m63 -> B#°7/E# (with added B -> A) -> C#m63 -> B#°7 -> C#m</p>
 <p>i.e i6 -> LT°7 inverted + WSS -> i6 -> LT°7 + WSS -> i</p>

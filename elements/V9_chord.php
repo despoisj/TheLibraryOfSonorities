@@ -58,6 +58,11 @@
 <p>mm. 1-4 (in B): V9 (F#7 + G#) / *1 -> IMaj7 with a suspension on the 9th: ^6 -> ^7 -> ^7 -> ^1</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
 
+<?php tt("Oskar Merikanto - Impromptu Op. 44 n°1")?>
+<p>At 0:46, mm. 4 (in Gb): V9 (Db7 + Eb)</p>
+<p>Note: here the ascending ninth jumps down an octave</p>
+<?php yt("rw8ntVVFsog", 46) ?>
+
 <?php tt("Edward Elgar - May Song")?>
 <p>Second row, mm. 2 (in A): V9 (E7 + F#)</p>
 <?php yt("Mrvk5qcJ8cI", 43) ?>

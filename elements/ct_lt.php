@@ -8,7 +8,7 @@
 
 <h3 class="elementExampleTitle">CT°7 & LT°7 Chords</h3>
 
-<p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7). Most of the time, they embellish major chords. The sound is sometimes very close to what we can find with <a href="index.php?filter=element&element=chromatic_thirds">chromatic thirds</a>.</p>
+<p>- Common Tone Diminished 7th chords (CT°7) are diminished 7th chords build with a common tone with the root of the following chord, in many cases as a prolongation of the tonic through a I -> ICT°7 -> I or dominant through a V(7) -> VCT°7 -> V(7). Most of the time, they embellish major chords. The sound is sometimes very close to what we can find with <a href="index.php?filter=element&element=chromatic_thirds">chromatic thirds</a>. Note that in many cases, I will consider the °7 chords built on *1, b*3, *4 or *6 as still functioning as ICT°7 chords.</p>
 <p>- Leading Tone Diminished 7th chords (LT°7) are diminished 7th chords built on the leading tone of the scale, often leading back to the tonic: LT°7 -> i. In major, the LT°7 chord is borrowed from the parallel minor/harmonic major mode.</p>
 
 <p><b>W.I.P:</b> I am trying to find out what makes these sonorities so striking. One important aspect seems to be the previous & next chords:<br>
@@ -43,6 +43,10 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>EMaj -> E°7 -> EMaj i.e. I -> ICT°7 -> I.</p>
 <?php yt("CoVUoAUhocs", 20) ?>
 
+<?php tt("Oskar Merikanto - Romance, Op. 12") ?>
+<p>EMaj -> E°7 + D# -> EMaj i.e. I -> ICT°7 + WSS -> I.</p>
+<?php yt("NZknT2ge_Rk") ?>
+
 <?php tt("Schubert - Moment Musical n°6") ?>
 <p>Bottom row mm. 6-9: E°7 -> EMaj i.e. ICT°7 -> I.</p>
 <?php yt("kj3ok01A7KU", 1064) ?>
@@ -50,6 +54,17 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <?php tt("Schubert - Violin Sonatina n°1, 3rd Mvt.") ?>
 <p>mm. 4: D°7 -> DMaj i.e. ICT°7 -> I, repeated with the piano.</p>
 <?php yt("MXo3GcXj24E", 439) ?>
+
+<?php tt("Oskar Merikanto - 'Nukkumatti' from Pikku Anjan elämästä, Op. 112") ?>
+<p>End of first row: (Db7) -> Gb°7 -> GbMaj i.e. (V7) -> ICT°7 -> I</p>
+<p>Note that the 5th is missing and the F is a WSS used as an escape tone.</p>
+<p>TODO: it seems that using ♮^7 is a great choice of WSS or embellishment of ICT°7.</p>
+<?php yt("y0HtclFlrXw") ?>
+
+<?php tt("Sergei Bortkiewicz - Prelude Op. 33 n°7") ?>
+<p>- 3nd measure: F# -> F#°7 (with added E# -> D#) -> F# i.e. I -> CT°7 + WSS -> I</p>
+<p>- Same at 1:54, 2nd measure: F# -> ~ F#°7 (with E# -> D#) -> F#</p>
+<?php yt("hDtDq4GmLqU", 11) ?>
 
 <?php tt("Isaac Albéniz / Godowsky  - Tango") ?>
 <p>mm. 1: A°7 + B -> A7, i.e. I -> VCT°7/*1 -> V7/*1</p>
