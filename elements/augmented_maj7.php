@@ -95,6 +95,10 @@
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("ljKfcgXc68s", 7) ?> 
 
+<?php tt("Prokofiev - Music for children Op. 65 n°5, 'Repentirs'") ?>
+<p>Bar 3-4, ~FMaj7#5 -> Dm6 i.e. IIIMaj7#5 -> i6</p>
+<?php yt("5hnLbHwoW5o", 3) ?> 
+
 <?php tt("Bach - Violin Concerto in A Minor (BWV 1041), Andante") ?>
 <p>- At 8:15, 'forte' measure: Dm -> E7642 -> CMaj7#5 -> Am6</p>
 <p> i.e. 53 -> 6#42 -> 7/#5/3 -> 6 over *1 -> *1 -> b*7 -> b*7</p>
