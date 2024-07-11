@@ -24,6 +24,7 @@ function makeItem(text, itemclass, page = false) {
 }
 
 function formatPage(text) {
+    console.log("=>" + text)
 
     // Replace b^1 to b^7 and b*1 to b^8 with ♭ and # with ♯
     text = text.replaceAll(/b(\^\d)/g, "♭$1");
@@ -99,12 +100,14 @@ function formatPage(text) {
     text = text.replaceAll(/([^n])°(\d{0,3})(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>o$2</sup>");
     
     // TODO poses problems for URLs like Alma Deutscher Dream Cadence
-    // text = text.replaceAll(/m(\d{1,3})/g, "m<sup>$1</sup>");
-    // text = text.replaceAll(/M(\d{1,3})/g, "M<sup>$1</sup>");
+    // Fixed?
+    text = text.replaceAll(/m(\d{1,3})/g, "m<sup>$1</sup>");
+    text = text.replaceAll(/M(\d{1,3})/g, "M<sup>$1</sup>");
 
     // Same as above but verify the text isn't inside quotes
     // TODO commented because it poses problem like chopin etude
-    // text = text.replaceAll(/N6/g, "N<sup>6</sup>");
+    // Fixed ?
+    text = text.replaceAll(/N6/g, "N<sup>6</sup>");
     text = text.replaceAll(/Maj(\d{1,3})/g, "Maj<sup>$1</sup>");
     text = text.replaceAll(/([ABCDEFG#b♮])7b9(?!.*<\/h[1-9]>)(?![^<>]*<\/a>)/g, "$1<sup>7♭9</sup>");
 
@@ -116,9 +119,17 @@ $(document).ready(function() {
 
   // Loop through all elements and replace their content
   $('body *').each(function() {
-    const originalText = $(this).html();
-    const convertedText = formatPage(originalText);
-    $(this).html(convertedText);
+
+    if (!$(this).firstChild && $(this).html() != ""){
+        const originalText = $(this).html();
+
+        // Check that href and url and not in the text, seems to be working?
+        // TODO verify?
+        if (originalText.indexOf("amp-youtube") == -1 && originalText.indexOf("url") == -1) {
+            const convertedText = formatPage(originalText);
+            $(this).html(convertedText);
+        }
+    }
   });
 
   // Setup scroll anchord

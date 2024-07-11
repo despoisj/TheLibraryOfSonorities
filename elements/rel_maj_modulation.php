@@ -54,6 +54,10 @@
 <p>mm 2-4: i (F#min) -> V7/III (E7) -> III (A)</p>
 <?php yt("mkveDJgf73U", 5) ?>
 
+<?php tt("Hermann Wollenhaupt - Nocturne Mélancolique, Op. 4") ?>
+<p>mm 3-4: i (C#min) -> V7/III (B7) -> III (E)</p>
+<?php yt("ydwjFWV9CnI", 58) ?>
+
 <?php tt("Beethoven - Bagatelle Op. 33 n°2") ?>
 <p>bar 4: i (Amin) -> V6/III (E7) -> III (C)</p>
 <p>Note the bass: *1 *2 b*3</p>
