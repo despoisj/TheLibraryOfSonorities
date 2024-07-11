@@ -98,6 +98,10 @@
 <p>b^6 = Ab</p>
 <?php yt("g0hoN6_HDVU") ?>
 
+<?php tt("Gustav Lange - Nocturne 'Thine Own'") ?>
+<p>Bar 1-2: I -> [iim642 -> iiø642] -> I.</p>
+<p>b^6 = Fb</p>
+<?php yt("hkTwsWjsgtc") ?>
 
 <?php tt("Felix Blumenfeld  - Etude Op. 3 n°1") ?>
 <p>At 5:04, ending chords in D-flat: I64 -> iiø7 / *5 -> I.</p>
