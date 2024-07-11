@@ -87,6 +87,10 @@
 <p>At 3:04, second "Deus": GMaj9#5 -> Em6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("Oc0xE0tJoWE", 184) ?>
 
+<?php tt("Thomas Tellefsen — Piano Concerto n°1 in G Minor")?>
+<p>At 5:23, bar 8: DbMaj7#5 -> Bm6 i.e. IIIMaj9#5 -> i6</p>
+<?php yt("C8EIBhKxGVY", 323) ?>
+
 <?php tt("André Destouches - Les Elements, 'La mer était tranquille au lever...'") ?>
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("ljKfcgXc68s", 7) ?> 
