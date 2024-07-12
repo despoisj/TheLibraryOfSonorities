@@ -47,3 +47,7 @@
 
 <?php tt("More examples of 'The Morte'")?>
 <?php yt("Y4vhH7zJziw") ?>
+
+<br>
+<p>For more on the Morte, check out the related article on the Tied Bass.</p>
+<?php linkSingleElement('tb') ?>
