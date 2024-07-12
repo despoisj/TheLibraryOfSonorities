@@ -68,7 +68,7 @@
 
 
 <h3 id="morte" class="elementExampleTitle">The Morte</h3>
-<p>The <a href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">Morte</a> is a specific use of the 6/#4/2 dominant tied bass motion. In this case, the harmony jumps from a minor 5/3 on *1 to 6/#4/2 on b*7. This sonority also belongs to the Wedge/Omnibus family because of the contrary motion of the bass & soprano. In roman numerals you can spot it as i -> V42/iv, i.e. i -> I7/b*7.</p>
+<p>The <a href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">Morte</a> is a specific use of the 6/#4/2 dominant tied bass motion. In this case, the harmony jumps from a minor 5/3 on *1 to 6/#4/2 on b*7. In roman numerals you can spot it as i -> V42/iv, i.e. i -> I7/b*7. Note that this sonority also belongs to the Wedge/Omnibus family because it is characterized by the contrary motion of the bass & soprano. </p>
 
 <br>
 <p>For more on wedge motions, see the related article.</p>
@@ -98,6 +98,9 @@
 <?php tt("Friedrich Kalkbrenner - Etude Op. 143 n°16")?>
 <p>At 0:15, last bar and on: i -> I7/b*7</p>
 <?php yt("XeApB0FFxvM", 15) ?>
+
+<?php tt("More examples of 'The Morte'")?>
+<?php yt("Y4vhH7zJziw") ?>
 
 
 <h3 id="other" class="elementExampleTitle">Other Uses</h3>

@@ -46,6 +46,7 @@
 <?php yt("qbmAfCklg5M", 950) ?>
 
 <?php tt("More examples of 'The Morte'")?>
+<p>The morte is characterized by its harmony but also the diverging chromatic lines.</p>
 <?php yt("Y4vhH7zJziw") ?>
 
 <br>
