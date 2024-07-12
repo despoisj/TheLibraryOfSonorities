@@ -75,6 +75,10 @@
 <p>i -> I7/b*7 -> iv6</p>
 <?php yt("s_HmPmDo-VM", 36) ?>
 
+<?php tt("Friedrich Kalkbrenner - Etude Op. 143 n°16")?>
+<p>At 0:15, last bar and on: i -> I7/b*7</p>
+<?php yt("XeApB0FFxvM", 15) ?>
+
 
 <?php tt("Chopin - Nocturne Op. 48 n°1")?>
 <p>Here's another similar sound, this time the dominant 6#42 sound is triggered from ♮*7</p>

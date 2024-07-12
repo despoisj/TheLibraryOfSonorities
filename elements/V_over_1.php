@@ -73,6 +73,10 @@
 <p>*M* 2nd row, 2nd measure: VChM/*1 -> I</p>
 <?php yt("73_jSjG1WrY", 7) ?>
 
+<?php tt("Adolf von Henselt - Fantaisie sur un Air Bohémien-Russe, Op. 16")?>
+<p>*M* mm. 1-4, I -> V7/*1 -> I x2</p>
+<?php yt("y9JM6AXqxVE", 195) ?>
+
 <?php tt("Scriabin - Prelude, Op. 11 n°11")?>
 <p>*M* mm. 1-4 (in B): nV9 / *1 -> IMaj7</p>
 <?php yt("ry5L3_0XVuk", 972) ?>
