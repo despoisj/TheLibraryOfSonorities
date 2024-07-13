@@ -32,6 +32,10 @@
 <p>At 55:03, bar 4: Em -> G7/D -> C</p>
 <?php yt("Vh49bRLym-Y", 3303) ?>
 
+<?php tt("Czerny - Grand Concert Etude Op. 692 n°21 'Bravery'")?>
+<p>At 0:27, bar 3-4: Bm -> D7/A -> G</p>
+<?php yt("LO6d7_0kQyY", 27) ?>
+
 <?php tt("Schubert - Piano Sonata n°17 D.850, 4th Mvt.")?>
 <p>At 34:04, bar 1-3: (D ->) Dm -> F7/C -> Bb</p>
 <?php yt("1kmeAMlPy2s", 2044) ?>
