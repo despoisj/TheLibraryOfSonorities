@@ -62,5 +62,11 @@
 <p>mm. 3-4: C#min -> B-D-E-G# -> Amaj</p>
 <?php yt("9AZaVTm3dKM", 12) ?>
 
+<?php tt("Adolf von Henselt - Etude Op. 2 n°1 in D minor")?>
+<p>At 0:26, mm. 2-3: A -> C7/G -> F</p>
+<p>Note: here the modulation starts on A major not A minor, but with the emphasized i64 -> V before, we expect A minor.</p>
+<p>The resulting sound is very close, and I might investigate the 'major' moonlight modulation.</p>
+<?php yt("PrkV9crSEBE", 24) ?>
+
 <?php tt("Model")?>
 <?php fl("64ca3fdeaeee0065c425b807?_l=true&sharingKey=3f4b36dcce4c5fc8b7d8c32c195eda39850450ea3c336672d43b0b187f4135c24bc90957b49ebc0edd77774384fea771f3243bcf4fcb28bc9d4c157155811ad0") ?>
