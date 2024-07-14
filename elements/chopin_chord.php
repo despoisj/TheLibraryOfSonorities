@@ -21,6 +21,11 @@
 <p>VChm on 3rd beat of measure 1, 2 and 4</p>
 <?php yt("XeX4X_1_lo0") ?>
 
+<?php tt("Chopin - Sonata n°2, 1st Mvt.")?>
+<p>At 0:03, VChm on measure 3: F7 + Db</p>
+<p>In some cases like here, the 5th is omitted, and the VChm is sometimes called V7#5.</p>
+<?php yt("VUk3_qTTVg4") ?>
+
 <?php tt("Schubert - Wanderer Fantasy")?>
 <p>VChM 2nd row, I64 (B G# E) -> B-D#-x-A + G# (13th/6th) -> I</p>
 <?php yt("Vy_HeH-pRfI", 611) ?>
