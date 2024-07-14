@@ -24,8 +24,9 @@
 <p>2nd row</p>
 <?php yt("vzOW0sEeb7g", 224) ?>
 
-<?php tt("Schubert - Piano Sonata D.459, 3rd Mvt.")?>
-<p>The movement starts with a romanesca in C *M* that goes I -> V -> vi -> ... -> V then starts up again one step higher in d *m*, which makes it a Monte Romanesca sequence made up of a Leaping Romanesca</p>
+<?php tt("Schubert - Piano Sonata D.459, 3rd & 4th Mvt.")?>
+<p>At 11:00, the 3rd movement starts with a romanesca in C *M* that goes I -> V -> vi -> ... -> V then starts up again one step higher in d *m*, which makes it a Monte Romanesca sequence made up of a Leaping Romanesca</p>
+<p>At 18:45, bar 9 and on: some kind of decorated Stepwise Romanesca variant</p>
 <?php yt("N-6aCfwUj7E", 660) ?>
 
 

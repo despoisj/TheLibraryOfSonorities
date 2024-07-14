@@ -64,8 +64,8 @@
 
 <?php tt("Adolf von Henselt - Etude Op. 2 n°1 in D minor")?>
 <p>At 0:26, mm. 2-3: A -> C7/G -> F</p>
-<p>Note: here the modulation starts on A major not A minor, but with the emphasized i64 -> V before, we expect A minor.</p>
-<p>The resulting sound is very close, and I might investigate the 'major' moonlight modulation.</p>
+<p>Note: here the modulation starts on A major not A minor, but with the speed and emphasized i64 -> V before, we expect A minor.</p>
+<p>The resulting sound is very similar, and I might investigate the 'major' moonlight modulation.</p>
 <?php yt("PrkV9crSEBE", 24) ?>
 
 <?php tt("Model")?>
