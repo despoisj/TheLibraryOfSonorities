@@ -22,6 +22,12 @@
 <p>First bars: i (Fm) -> V65/III (Bb7) -> III (Ab)</p>
 <?php yt("LMqn7KPkNCM") ?>
 
+<?php tt("Mozart - Requiem 'Lacrimosa'") ?>
+<p>Bar 2-3: Dm -> A -> [Dm -> C -> F]</p>
+<p>i.e. i -> V -> [i -> V/III -> III]</p>
+<p>For the rest of the bar, see <?php inlineLink("minor_mediant_modulation", "this") ?>.</p>
+<?php yt("Apw_cDjEuD0", 37) ?>
+
 <?php tt("Shalva Taktakishvili - Consolation")?>
 <p>mm. 1: i (Bbmin) -> V7/III (Ab7) -> III (Db)</p>
 <?php yt("dZZlf1oYjoo", 44) ?>

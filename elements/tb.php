@@ -4,7 +4,7 @@
 	<br>
 	<a href="#domtb" class="scrollLink">'Dominant' Tied Bass</a>
 	<br>
-	<a href="#morte" class="scrollLink">The 'Morte'</a>
+	<a href="#morte" class="scrollLink">The 'Morte' Tied Bass</a>
 	<br>
 	<a href="#other" class="scrollLink">Other</a>
 </p>
@@ -67,9 +67,8 @@
 <?php yt("VmFmAvwO1pE", 304) ?>
 
 
-<h3 id="morte" class="elementExampleTitle">The Morte</h3>
-<p>The <a href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">Morte</a> is a specific use of the 6/#4/2 dominant tied bass motion. In this case, the harmony jumps from a minor 5/3 on *1 to 6/#4/2 on b*7. In roman numerals you can spot it as i -> V42/iv, i.e. i -> I7/b*7. Note that this sonority also belongs to the Wedge/Omnibus family because it is characterized by the contrary motion of the bass & soprano. </p>
-<p>Note: WIP, there's more to the morte than this, I might come up with a specific name for this i -> I7/b*7 sound, or more generally i -> I7.</p>
+<h3 id="morte" class="elementExampleTitle">The Morte Tied Bass</h3>
+<p>The <a href="https://www.cambridge.org/core/journals/eighteenth-century-music/article/morte-a-galant-voiceleading-schema-as-emblem-of-lament-and-compositional-buildingblock/2CFE5B5CCA0E3F5FA06E07E6943606BD?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">Morte</a> is a schema including diverging lines as well as specific harmonic beats. In particular, it contains the move from i to I7/b*7, sometimes direct or with a chord on *7 inbetween. This move is what I call 'Morte' Dominant Tied Bass, which goes from i to iv through I7. In roman numerals you can spot it as i -> V42/iv, i.e. i -> I7/b*7.</p>
 
 <br>
 <p>For more on wedge motions, see the related article.</p>
@@ -95,6 +94,10 @@
 <?php tt("Dmitri Shostakovich - Prelude from 'The Gadfly'")?>
 <p>i -> I7/b*7 -> iv6</p>
 <?php yt("s_HmPmDo-VM", 36) ?>
+
+<?php tt("Mozart - Requiem 'Lacrimosa'") ?>
+<p>Bar 1: i -> I7/b*7 -> iv6</p>
+<?php yt("Apw_cDjEuD0", 51) ?>
 
 <?php tt("Friedrich Kalkbrenner - Etude Op. 143 n°16")?>
 <p>At 0:15, last bar and on: i -> I7/b*7</p>

@@ -19,14 +19,14 @@
 <?php yt("3hoaIZXCHU8") ?>
 
 <?php tt("Chopin - Polonaise Op. 40 n°1 'Military'") ?>
-<p>At 1:57, bar 5-6 we start in G major: GMaj -> F#7 -> Bmin -> AMaj -> DMaj i.e. [I -> V/iii -> iii] x [i -> V/III -> III]</p>
+<p>At 1:57, bar 5-6 we start in G major: GMaj -> F#7 -> Bmin -> AMaj -> DMaj i.e. [I -> V/iii -> iii] -> [i -> V/III -> III]</p>
 <p>Then the same but starting on D major: DMaj -> C#7 -> F#min -> EMaj -> AMaj i.e. (same as above)</p>
 <p>i.e Minor Mediant -> Relative Major -> Minor Mediant -> Relative Major</p>
 <?php yt("hbnunexhlXM", 115) ?>
 
 <?php tt("Carl Maria von Weber - 'Der Freischütz' Overture, 2nd Mvt.") ?>
 <p>At 4:13: 2nd page, 4 last bars: (Cmin -> Bb7 -> EbMaj) -> (EbMaj -> D7 -> Gmin) -> (Gmin -> F7 -> BMaj)</p>
-<p>i.e. [i -> V/III -> III] -> [I -> V/iii -> iii] x [i -> V/III -> III]</p>
+<p>i.e. [i -> V/III -> III] -> [I -> V/iii -> iii] -> [i -> V/III -> III]</p>
 <p>i.e. Relative Major -> Minor Mediant -> Relative Major</p>
 <?php yt("txAtjngr6dE", 253) ?>
 
@@ -36,7 +36,7 @@
 
 <?php tt("Chopin - Polonaise Op. 53 'Heroic'") ?>
 <p>At 0:43, last bar Db major: [~Db -> C7 -> Fmin] -> [Fmin -> Eb7 -> AbMaj]</p>
-<p>i.e. [~I -> V/iii -> iii] x [i -> V/III -> III]</p>
+<p>i.e. [~I -> V/iii -> iii] -> [i -> V/III -> III]</p>
 <p>i.e. Minor Mediant -> Relative Major then repeated a 2nd time</p>
 <p>As for Hensel's Piano Concerto above, here the first chord is 63 not 53 but it sounds similar.</p>
 <?php yt("8QT7ITv9Ecs", 43) ?>
@@ -44,6 +44,13 @@
 <?php tt("Genary Korganov - Romance sans paroles Op. 8 n°1") ?>
 <p>At 2:40, bars 3-5: [F -> E7 -> Am] i.e. [i -> V/III -> III]</p>
 <?php yt("ICtM6hImJiU", 158) ?>
+
+<?php tt("Mozart - Requiem 'Lacrimosa'") ?>
+<p>Bar 2-3: Dm -> A -> [Dm -> C -> F] -> [F -> E -> Am] -> [Am -> G -> Cm]</p>
+<p>i.e. i -> V -> [i -> V/III -> III] -> [I -> V/iii -> iii] -> [i -> V/III -> iii]<sup>*</sup></p>
+<p>i.e. Relative Major -> Minor Mediant -> ~Relative Major (ends on Cmin instead of CMaj)</p>
+<p>Later in the progression there's a complete <?php inlineLink("omnibus", "Morte") ?>.</p>
+<?php yt("Apw_cDjEuD0", 37) ?>
 
 <?php tt("Schubert - Piano Sonata n°16, 1st Mvt.") ?>
 <p>At 8:00, 2nd row, bar 3: [A -> G7 -> C] then bar 7: [C -> B7 -> ...]</p>

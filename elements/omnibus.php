@@ -45,8 +45,8 @@
 <p>Note that the Dm6 -> F7 sonority is the 'Moonlight Modulation' (i -> V/bVI).</p>
 <?php yt("qbmAfCklg5M", 950) ?>
 
-<?php tt("More examples of 'The Morte'")?>
-<p>The morte is characterized by its harmony but also the diverging chromatic lines.</p>
+<?php tt("Examples of 'The Morte'")?>
+<p>The morte is characterized by both its harmony and diverging chromatic lines.</p>
 <?php yt("Y4vhH7zJziw") ?>
 
 <br>
