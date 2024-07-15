@@ -82,6 +82,10 @@
 <p>mm. 1: I -> IVM7</p>
 <?php yt("pTYvpsQ2if4") ?>
 
+<?php tt("Grieg - Lyric Pieces Book X, Op.71 n°2 'Summer Evening'") ?>
+<p>mm. 1-2: I -> IVM7</p>
+<?php yt("lXt3a13UEaU") ?>
+
 <?php tt("Ravel - Pavane Pour une Infante Défunte") ?>
 <p>mm. 1: I -> IVM7</p>
 <?php yt("kBS8e_GMkFM", 294) ?>

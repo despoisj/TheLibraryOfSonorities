@@ -34,6 +34,17 @@
 <p>2nd row, 2nd measure: I (Bb) -> V/iii (A7) -> iii (D) -> BDim7</p>
 <?php yt("U-fS3mR9KDA", 1104) ?>
 
+<?php tt("Chopin - Polonaise Op. 53 'Heroic'") ?>
+<p>At 0:43, last bar Db major: [~Db -> C7 -> Fmin] -> [Fmin -> Eb7 -> AbMaj]</p>
+<p>i.e. [~I -> V/iii -> iii] x [i -> V/III -> III]</p>
+<p>i.e. Minor Mediant -> Relative Major then repeated a 2nd time</p>
+<p>As for Hensel's Piano Concerto above, here the first chord is 63 not 53 but it sounds similar.</p>
+<?php yt("8QT7ITv9Ecs", 43) ?>
+
+<?php tt("Genary Korganov - Romance sans paroles Op. 8 n°1") ?>
+<p>At 2:40, bars 3-5: [F -> E7 -> Am] i.e. [i -> V/III -> III]</p>
+<?php yt("ICtM6hImJiU", 158) ?>
+
 <?php tt("Schubert - Piano Sonata n°16, 1st Mvt.") ?>
 <p>At 8:00, 2nd row, bar 3: [A -> G7 -> C] then bar 7: [C -> B7 -> ...]</p>
 <p>i.e. [i -> V/III -> III] then [I -> V/iii -> ...]</p>

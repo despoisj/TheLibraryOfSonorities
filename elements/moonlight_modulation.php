@@ -2,10 +2,6 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<?php tt("Beethoven - Moonlight Sonata, 1st Mvt.")?>
-<p>Eminor -> G7/D -> C.</p>
-<?php yt("K5-IqJZPxQY", 57) ?>
-
 <?php tt("Nicolai von Wilm - Entblättere Rose")?>
 <p>Bottom row, 2nd -> 3rd measure.</p>
 <?php yt("Fy3JxUfE9ds", 35) ?>
@@ -28,6 +24,10 @@
 <p>Note: here the bass is *1 b*3 b*6</p>
 <?php yt("dFg02WEwlCM", 464) ?>
 
+<?php tt("Beethoven - Moonlight Sonata, 1st Mvt.")?>
+<p>Eminor -> G7/D -> C.</p>
+<?php yt("K5-IqJZPxQY", 57) ?>
+
 <?php tt("Haydn - String Quartet, Op. 74 n°2, 2nd Mvt.")?>
 <p>At 55:03, bar 4: Em -> G7/D -> C</p>
 <?php yt("Vh49bRLym-Y", 3303) ?>
@@ -43,6 +43,10 @@
 <?php tt("B. Kaluzhny - Cinq Morceaux, n°2")?>
 <p>At 2:54, bar 5-6: Dm -> F7/C -> Bb</p>
 <?php yt("CBhEgKC2G5k", 170) ?>
+
+<?php tt("Cesar Franck - Les Plaintes d'une Poupée")?>
+<p>At 0:35, bar 5-7: Bm -> D7/A -> G</p>
+<?php yt("HTmd0wGk2Xk", 35) ?>
 
 <?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.")?>
 <p>At 13:38, 2nd row: Fm -> Ab7/Eb -> Db</p>

@@ -25,12 +25,10 @@
 <p>Note: the sonority of IV -> iv is very weak here due to the tone changing in the background, in the left hand.</p>
 <?php yt("WiYAl1oOlZ8", 75) ?>
 
-
 <?php tt("Chopin - Nocturne Op. 9 n°1") ?>
 <p>At 0:16, in Db Major: I -> IV -> [I -> iiø65] x2, aka 53/*1, 53/*4, 53/*1, 65b3/*4.</p>
 <p>b^6 = Bbb</p>
 <?php yt("wuL7UC2glJM", 16) ?>
-
 
 <?php tt("Chopin - Nocturne Op. 27 n°2") ?>
 <p>At 0:11, mm. 4-5: DbMaj (I) -> Eø642 (iiø642)</p>
@@ -42,18 +40,21 @@
 <p>b^6 = A♮</p>
 <?php yt("ZC7GleTGtkY", 42) ?>
 
-
 <?php tt("Rachmaninoff - Sonata for Cello and Piano, Op. 19, 3rd Mvt.") ?>
 <p>At 0:36, I -> iiø7 -> I6</p>
 <p>b^6 = Cb</p>
 <?php yt("IuK4g1MMzDI", 36) ?>
 
-
-<?php tt("Chopin  - Nocturne Op. 32 n°2") ?>
+<?php tt("Chopin - Nocturne Op. 32 n°2") ?>
 <p>At 47:11: I -> IV -> iv -> I</p>
 <p>b^6 = Fb</p>
 <p>Note: this shows the use of the harmonic major mode as a borrowed plagal cadence, the ^1 -> ^2 -> ^3 melodic line is typical.</p>
 <?php yt("kHXxWfSAxik", 2831) ?>
+
+<?php tt("Schumann / Liszt - Widmung n°1") ?>
+<p>At 0:46: I -> IV -> iv -> I</p>
+<p>b^6 = Fb</p>
+<?php yt("IfWh4XIovMs", 46) ?>
 
 <?php tt("Rachmaninoff - Concerto n°2, 2nd Mvt.") ?>
 <p>At 56:49, I -> [...] -> iiø65 -> I</p>
