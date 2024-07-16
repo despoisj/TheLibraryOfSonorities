@@ -47,6 +47,10 @@
 <p>i.e *1] -> [b*6 -> *2] -> [*7</p>
 <?php yt("C8EIBhKxGVY", 308) ?>
 
+<?php tt("Chopin - Scherzo n°1")?>
+<p>At 4:59, last row, bars 4-6: G#(63)] -> [A#(753 -> 63)] -> [B(53 -> 63)] -> [C#(753 -> 63)]</p>
+<?php yt("38VShqkukWY", 299) ?>
+
 <?php tt("Mozart - Ave Verum Corpus")?>
 <p>Bass goes: [*1 -> *4] -> [*2 -> *5] -> [*3 -> *6]</p>
 <?php yt("Af0x8EsiR7Q", 106) ?>
