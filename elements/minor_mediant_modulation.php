@@ -52,6 +52,12 @@
 <p>Later in the progression there's a complete <?php inlineLink("omnibus", "Morte") ?>.</p>
 <?php yt("Apw_cDjEuD0", 37) ?>
 
+<?php tt("Chopin - Ballade n°2") ?>
+<p>At 4:13, bar 2-4: [~Gm7x4 -> F -> Bb] -> [Bb -> Gm -> Eb] -> [Eb -> D -> Gm] -> [Gm -> Eb -> ... ]</p>
+<p>i.e. in Gm: [i -> V/III -> III] -> [I -> vi -> IV] -> [I -> V/iii -> iii] -> [i -> bVI -> ...]</p>
+<p>i.e. Relative Major -> Falling Thirds -> Minor Mediant -> Falling Thirds</p>
+<?php yt("NZfNAVQ6H4o", 253) ?>
+
 <?php tt("Schubert - Piano Sonata n°16, 1st Mvt.") ?>
 <p>At 8:00, 2nd row, bar 3: [A -> G7 -> C] then bar 7: [C -> B7 -> ...]</p>
 <p>i.e. [i -> V/III -> III] then [I -> V/iii -> ...]</p>
