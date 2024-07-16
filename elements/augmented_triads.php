@@ -23,6 +23,9 @@
 <p>Third row: [V -> V+]x4 -> ... -> i</p>
 <?php yt("I2GKgFZ_ioQ", 56) ?>
 
+<?php tt("Chopin - Ballade n°4")?>
+<p>At 8:58 bars 2-3: 5/3 -> 5/3+ -> 6/3</p>
+<?php yt("7tmQSWuYwrI", 538) ?>
 
 <?php tt("Fauré - Romance sans paroles Op. 17 n°3")?>
 <p>2nd row, 4th measure: Ab -> Ab+ -> Fm6/3 -> Fm, i.e. ~I -> I+ -> vi6 -> vi</p>
