@@ -13,9 +13,9 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
-<?php tt("Gustav Exner - Album Leaf")?>
-<p>VChM Measures 2. and 4.</p>
-<?php yt("B_Qa9uVwhhU") ?>
+<?php tt("Salomon Mazurette - Nocturne Op. 24")?>
+<p>VChM 3rd measure: Eb7: Eb-G-Bb-Db + C (13th/6th)</p>
+<?php yt("xD5TKaa3lR8", 30) ?>
 
 <?php tt("Chopin - Prelude n°20")?>
 <p>VChm on 3rd beat of measure 1, 2 and 4</p>
@@ -23,8 +23,12 @@
 
 <?php tt("Chopin - Sonata n°2, 1st Mvt.")?>
 <p>At 0:03, VChm on measure 3: F7 + Db</p>
-<p>In some cases like here, the 5th is omitted, and the VChm is sometimes called V7#5.</p>
+<p>In some cases like here, the 5th is omitted, and the VChm is sometimes (incorrectly) labeled V7#5.</p>
 <?php yt("VUk3_qTTVg4") ?>
+
+<?php tt("Thomas Tellefsen - Nocturne n°3 G Minor, Op. 17")?>
+<p>At 0:06, VChm: D7 + Bb</p>
+<?php yt("nlLznjrHvoo", 3) ?>
 
 <?php tt("Schubert - Wanderer Fantasy")?>
 <p>VChM 2nd row, I64 (B G# E) -> B-D#-x-A + G# (13th/6th) -> I</p>
@@ -37,10 +41,6 @@
 <?php tt("Scriabin - Impromptu Op. 12 n°2")?>
 <p>VChM 2nd measure</p>
 <?php yt("eOS0RJ15Wt8", 20) ?>
-
-<?php tt("Salomon Mazurette - Nocturne Op. 24")?>
-<p>VChM 3rd measure: Eb7: Eb-G-Bb-Db + C (13th/6th)</p>
-<?php yt("xD5TKaa3lR8", 30) ?>
 
 <?php tt("Chopin - Ballade n°1")?>
 <p>- VChM 2nd row 1st measure, 2nd measure: Bb7 + G, also at 6:44 and 6:53 etc.</p>
@@ -68,6 +68,10 @@
 <p>VChM Last measure: Bb7 (B-D-x-Ab) + A (13th/6th) resolving to Eb Major</p>
 <p>Note: this piece displays dominant chords with accented 7th in melody, 9th (V9), and 13th (VChM).</p>
 <?php yt("U-fS3mR9KDA", 96) ?>
+
+<?php tt("Gustav Exner - Album Leaf")?>
+<p>VChM Measures 2. and 4.</p>
+<?php yt("B_Qa9uVwhhU") ?>
 
 <?php tt("John Field - Nocturne n°3")?>
 <p>VChM 2nd row, 3rd measure: Eb7 + C</p>

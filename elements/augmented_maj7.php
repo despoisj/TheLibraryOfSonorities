@@ -100,6 +100,11 @@
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("ljKfcgXc68s", 7) ?> 
 
+<?php tt("Liszt - Sonata in B minor") ?>
+<p>- At 5:00, in FMaj7#5 -> Dm6 = I+642 -> vi</p>
+<p>Note: see below for another example in the same piece, this time inverted.</p>
+<?php yt("IeKMMDxrsBE", 300) ?>
+
 <?php tt("Prokofiev - Music for children Op. 65 n°5, 'Repentirs'") ?>
 <p>Bar 3-4, ~FMaj7#5 -> Dm6 i.e. IIIMaj7#5 -> i6</p>
 <?php yt("5hnLbHwoW5o", 3) ?> 

@@ -29,6 +29,10 @@
 <p>At 18:45, bar 9 and on: some kind of decorated Stepwise Romanesca variant</p>
 <?php yt("N-6aCfwUj7E", 660) ?>
 
+<?php tt("Thomas Tellefsen - Nocturne n°3 in G Minor, Op. 17")?>
+<p>At 2:51</p>
+<?php yt("nlLznjrHvoo", 171) ?>
+
 
 <h4 class="elementExampleTitle">Romanesca</h4>
 

@@ -40,6 +40,10 @@
 <p>At 0:37, Ab major that switches to E major</p>
 <?php yt("kUUYhxinbKw", 28) ?>
 
+<?php tt("Antonín Dvořák - 2 Furiants, Op. 42 n°1") ?>
+<p>At 3:50, F# major that switches to D major</p>
+<?php yt("y9AfSAvMySU", 230) ?>
+
 
 <h4 class="elementExampleTitle">V -> bVI and I64 -> bV6</h4>
 

@@ -114,11 +114,15 @@
 <h3 id="other" class="elementExampleTitle">Other Uses</h3>
 
 <?php tt("Chopin - Nocturne Op. 48 n°1")?>
-<p>Here's another similar sound, this time the dominant 6#42 sound is triggered from ♮*7</p>
-<p>At 9:54 there's yet another, starting from V -> V42/N -> N6</p>
+<p>At 5:08 there's a similar sound, this time the dominant 6/#4/2 sound is triggered a half step below, here from a minor 53.</p>
+<p>At 9:54 we have it again starting from a major 53: V -> V42/N -> N6</p>
 <p>To easily get the V -> V/N sound, use contrary motion: lower the bass by 1 HS and raise the chord by 1HS. Note that V/N is the key's Augmented 6th chord, here in inversion.</p>
 <?php yt("u0yREiMOY1I", 308) ?>
 
+<?php tt("Thomas Tellefsen - Nocturne n°3 in G Minor, Op. 17")?>
+<p>At 3:27, same as above, last row: Fmin -> F#642 -> Eb7</p>
+<p>Note this special resolution of the 6/#4/2 chord while the bass still drops by step as it should.</p>
+<?php yt("nlLznjrHvoo", 207) ?>
 
 
 

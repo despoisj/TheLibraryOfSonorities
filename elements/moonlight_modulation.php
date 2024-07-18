@@ -52,6 +52,10 @@
 <p>At 13:38, 2nd row: Fm -> Ab7/Eb -> Db</p>
 <?php yt("3hoaIZXCHU8", 818) ?>
 
+<?php tt("Thomas Tellefsen - Nocturne n°3 in G Minor, Op. 17")?>
+<p>At 3:50 Dm -> F7/C -> Bb</p>
+<?php yt("nlLznjrHvoo", 230) ?>
+
 <?php tt("Chopin - Polonaise Op. 26 n°2")?>
 <p>End of page: D#min -> F#7 -> B (here B7)</p>
 <p>Note: here the bass is *1 b*3 b*6, also listen how the F#7 chord's sound is emphasized.</p>
