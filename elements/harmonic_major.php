@@ -62,6 +62,10 @@
 <p>b^6 = C♮</p>
 <?php yt("kS8hk0kL2sE", 3409) ?>
 
+<?php tt("Chopin - Mazurka Op. 30 n°3") ?>
+<p>At 0:13, second row, bars 3-6: IV -> I -> iv -> I</p>
+<p>b^6 = Bbb</p>
+<?php yt("hzsOkdyfzyI", 13) ?>
 
 <?php tt("Sergei Bortkiewicz - Prelude Op. 33 n°7 ") ?>
 <p>At 1:24 mm. 1-2: I -> LT°7 -> I</p>

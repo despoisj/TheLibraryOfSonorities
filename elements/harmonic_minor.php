@@ -4,9 +4,8 @@
 <h4 class="elementExampleTitle">Examples</h4>
 
 <?php tt("Rachmaninoff - Prelude Op. 23 n°5") ?>
-<p>At 1:27, the B section feature extensive harmonic minor sonorities. Note that since we are on the V chord (D7), we can also consider this sonority as the D <a href="https://en.wikipedia.org/wiki/Phrygian_dominant_scale">Phrygian Dominant mode</a>. The sonority is the same, we just see it from the point of
+<p>At 1:27, the B section feature extensive harmonic minor sonorities. Note that since we are on the V chord (D7), we can also consider this sonority as the D <a href="https://en.wikipedia.org/wiki/Phrygian_dominant_scale">Phrygian Dominant mode</a>. The sonority is the same, we just see it from the point of view of D instead of G.</p>
 <p>At 0:57, after foreboding augmented dominants V & V+ chords, we get a descending G harmonic minor scale: G minor with an F#.</p>
-view of D instead of G.</p>
 <?php yt("I2GKgFZ_ioQ", 87) ?>
 
 <?php tt("Chopin - Ballade n°1") ?>
