@@ -59,7 +59,7 @@
 <?php yt("_GbfSkLbBJ8", 56) ?>
 
 <?php tt("Bach - Prelude in B Minor (BWV 923)") ?>
-<p>At 1:53, mm. 3: CMaj9#5 -> ?? TODO</p>
+<p>At 1:53, mm. 3: CMaj9#5 -> Am65 i.e. IIIMaj9#5 -> i65</p>
 <p>mm. 6: D+Maj7 and more</p>
 <?php yt("6QHYPh0h1Bs", 108) ?>
 
@@ -87,9 +87,13 @@
 <p>At 3:04, second "Deus": GMaj9#5 -> Em6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("Oc0xE0tJoWE", 184) ?>
 
-<?php tt("Thomas Tellefsen — Piano Concerto n°1 in G Minor")?>
+<?php tt("Thomas Tellefsen - Piano Concerto n°1 in G Minor")?>
 <p>At 5:23, bar 8: DbMaj7#5 -> Bm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("C8EIBhKxGVY", 323) ?>
+
+<?php tt("Józef Wieniawski - Concert Waltz n°2")?>
+<p>At 0:15, bar 4: GMaj7#5 -> Em6 i.e. IMaj9#5 -> vi6</p>
+<?php yt("mO5iPTyUDCQ", 15) ?>
 
 <?php tt("André Destouches - Les Elements, 'La mer était tranquille au lever...'") ?>
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
