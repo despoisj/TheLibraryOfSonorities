@@ -42,7 +42,7 @@
 <?php yt("8QT7ITv9Ecs", 43) ?>
 
 <?php tt("Genary Korganov - Romance sans paroles Op. 8 n°1") ?>
-<p>At 2:40, bars 3-5: [F -> E7 -> Am] i.e. [i -> V/III -> III]</p>
+<p>At 2:40, bars 3-5: [F -> E7 -> Am] i.e. [I -> V/iii -> iii]</p>
 <?php yt("ICtM6hImJiU", 158) ?>
 
 <?php tt("Mozart - Requiem 'Lacrimosa'") ?>
@@ -57,6 +57,10 @@
 <p>i.e. in Gm: [i -> V/III -> III] -> [I -> vi -> IV] -> [I -> V/iii -> iii] -> [i -> bVI -> ...]</p>
 <p>i.e. Relative Major -> Falling Thirds -> Minor Mediant -> Falling Thirds</p>
 <?php yt("NZfNAVQ6H4o", 253) ?>
+
+<?php tt("Thomas Tellefsen - Toccata in F Major, Op. 22") ?>
+<p>At 1:00, bar 4-5: Eb -> D -> Gm i.e I -> V/iii -> iii</p>
+<?php yt("VuCnJoh6NaQ", 60) ?>
 
 <?php tt("Schubert - Piano Sonata n°16, 1st Mvt.") ?>
 <p>At 8:00, 2nd row, bar 3: [A -> G7 -> C] then bar 7: [C -> B7 -> ...]</p>
