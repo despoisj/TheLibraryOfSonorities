@@ -52,6 +52,12 @@
 <p>Later in the progression there's a complete <?php inlineLink("omnibus", "Morte") ?>.</p>
 <?php yt("Apw_cDjEuD0", 37) ?>
 
+<?php tt("Jean-Henri Ravina - Etude de Concert, Op. 1 n°2") ?>
+<p>At 4:46, bars 5-9: [Am -> G -> C] -> [C -> B -> Em]</p>
+<p>i.e. [i -> V/III -> III] -> [I -> V/iii -> iii]</p>
+<p>i.e. Relative Major -> Minor Mediant</p>
+<?php yt("VYQ-NmhCwJQ", 286) ?>
+
 <?php tt("Chopin - Ballade n°2") ?>
 <p>At 4:13, bar 2-4: [~Gm7x4 -> F -> Bb] -> [Bb -> Gm -> Eb] -> [Eb -> D -> Gm] -> [Gm -> Eb -> ... ]</p>
 <p>i.e. in Gm: [i -> V/III -> III] -> [I -> vi -> IV] -> [I -> V/iii -> iii] -> [i -> bVI -> ...]</p>
