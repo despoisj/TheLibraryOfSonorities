@@ -17,6 +17,11 @@
 
 <h4 class="elementExampleTitle">Examples</h4>
 
+<?php tt("Beethoven - Piano Concerto n°5, Op. 73, 2nd Mvt.")?>
+<p>At 21:55, a prime example of the Monte Principale: [Bmaj -> Emaj] -> [C#min -> F#maj] -> [D#min -> G#min]</p>
+<p>i.e [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
+<?php yt("wgYA8I92ykw", 1315) ?>
+
 <?php tt("Rachmaninoff - Sonata for Cello and Piano Op. 19, 3rd Mvt.")?>
 <p>At 1:10, [iim7 -> V7] -> [iiim7 -> vim7]</p>
 <?php yt("IuK4g1MMzDI", 70) ?>
@@ -36,11 +41,6 @@
 <p>At 4:38 the bass follows [A -> D] -> [B -> E] with harmony [iv -> VII7] -> [vm -> I7]</p>
 <p>Note: this bass movement returns in the 3rd Mvt. at 31:40</p>
 <?php yt("m3mXgmgnvdw", 278) ?>
-
-<?php tt("Beethoven - Piano Concerto n°5, Op. 73, 2nd Mvt.")?>
-<p>At 21:55, a prime example of the Monte Principale: [Bmaj -> Emaj] -> [C#min -> F#maj] -> [D#min -> G#min]</p>
-<p>i.e [I -> IV] -> [ii -> V] -> [iii -> vi]</p>
-<?php yt("wgYA8I92ykw", 1315) ?>
 
 <?php tt("Thomas Tellefsen — Piano Concerto n°1 in G Minor")?>
 <p>At 5:08, Bb] -> [Gb -> C] -> [A</p>
@@ -89,6 +89,9 @@
 <p>At 44:50: 5-6 starting on E -> F# -> G# -> A</p>
 <?php yt("R3azyotbXgg", 2688) ?>
 
+<?php tt("Jean-Henri Ravina - Nocturne in D-Flat Major")?>
+<p>At 1:58: monte principale on [Db -> Gb] -> [Eb -> Ab]</p>
+<?php yt("PSgg9bZex-E", 118) ?>
 
 <?php tt("Mozart - Sonata for Two Pianos in D, K448, 3rd Mvt.")?>
 <p>At 18:33 we get a Monte Principale twice: [Amaj -> Dmaj] -> [Bmin -> Emaj] -> [C#min -> F#min] -> [Dmaj</p>

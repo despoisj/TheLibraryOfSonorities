@@ -101,7 +101,8 @@
 <?php yt("ljKfcgXc68s", 7) ?> 
 
 <?php tt("Liszt - Sonata in B minor") ?>
-<p>- At 5:00, in FMaj7#5 -> Dm6 = I+642 -> vi</p>
+<p>- At 5:00, in FMaj7#5 -> Dm6 i.e. IMaj7#5 -> vi6</p>
+<p>- At 6:40, 4th bar: GMaj7#5 -> Em6 i.e. IVMaj7#5 -> ii6</p>
 <p>Note: see below for another example in the same piece, this time inverted.</p>
 <?php yt("IeKMMDxrsBE", 300) ?>
 
