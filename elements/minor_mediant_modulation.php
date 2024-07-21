@@ -74,6 +74,13 @@
 <p>i.e. Relative Major -> Minor Mediant (Aborted)</p>
 <?php yt("QyTb0ThLCyo", 478) ?>
 
+<?php tt("Jean-Henri Ravina - Etude de Concert, Op. 1 n°6") ?>
+<p>At 6:23, bars 5-9: (D) -> [G -> F# -> Bm] -> [Bm -> A -> D]</p>
+<p>i.e. (V) -> [I -> V/iii -> iii] -> [i -> V/III -> III]</p>
+<p>i.e. Minor Mediant -> Relative Major</p>
+<?php yt("X-hxcRWbwEQ", 383) ?>
+
+
 <h4 class="elementExampleTitle">Other moves to iii</h4>
 <p>Note: these are temporarily here because they deal with I -> iii modulation but give a very different sound.</p>
 

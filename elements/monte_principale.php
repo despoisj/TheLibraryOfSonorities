@@ -89,6 +89,12 @@
 <p>At 44:50: 5-6 starting on E -> F# -> G# -> A</p>
 <?php yt("R3azyotbXgg", 2688) ?>
 
+<?php tt("Issay Dobrowen - Jugend Sonate Op. 5b")?>
+<p>At 5:55: [F#min9 -> B9] -> [G#Maj -> C#7b9b13] -> [AMaj7</p>
+<p>Note: the harmony is dense and complex (with nV9, minor 9th, and VChmb9 etc.), with suspensions and bass notes arriving late, but you can distinctly hear the soaring sound of the monte principale.</p>
+<p>For more information on this type of lush harmony, check out the article on <?php inlineLink("predominants", "predominant extensions") ?>.</p>
+<?php yt("TwWWvHZuqds", 355) ?>
+
 <?php tt("Jean-Henri Ravina - Nocturne in D-Flat Major")?>
 <p>At 1:58: monte principale on [Db -> Gb] -> [Eb -> Ab]</p>
 <?php yt("PSgg9bZex-E", 118) ?>
