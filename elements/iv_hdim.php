@@ -21,10 +21,13 @@
 <p>At 10:34, mm. 2-3: Em -> Cm i.e. i -> bvi</p>
 <?php yt("Nc09wbZhwws", 291) ?>
 
-<?php tt("Wagner - Nibelheim hier, Das Rheingold, Dritte Szene
-") ?>
+<?php tt("Wagner - Nibelheim hier, Das Rheingold, Dritte Szene") ?>
 <p>At 4:16 we get a i -> bvi -> i -> bvi -> i oscillation.</p>
 <?php yt("TgPAf6TgdvQ", 254) ?>
+
+<?php tt("Isaak Berkovich - Prelude n°8") ?>
+<p>0:03 then multiple times after, mm. 1: F#m -> x -> Dm i.e i -> x -> bvi.</p>
+<?php yt("UZyr0kbxEnI") ?>
 
 <?php tt("Liszt - Harmonies poétiques et religieuses, S172a, 'Litanies de Marie'") ?>
 <p>At 21:09 last row mm. 3: Bb -> Gm -> Ebm -> Bb i.e I -> vi -> iv -> I</p>
@@ -35,7 +38,6 @@
 <p>This example perfectly shows the link between bvi and ivø7 with the simple addition of a bass note.</p>
 <p>At 0:15 mm. 1-4: C#m -> Am -> F#ø7 i.e i -> bvi -> ivø7.</p>
 <?php yt("8E1z8E3yPk8", 15) ?>
-
 
 
 
