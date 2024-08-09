@@ -19,6 +19,10 @@
 <p>At 3:23 in D minor</p>
 <?php yt("9ZGtTBp7r-o", 203) ?>
 
-<?php tt("Francesco Provenzale - Pange Lingua.")?>
+<?php tt("Francesco Provenzale - Pange Lingua")?>
 <p>At 5:24 we get a short version of the stabat mater prinner.</p>
 <?php yt("BmlIGA_JJTU", 324) ?>
+
+<?php tt("Adolf von Henselt - Romance, Op.10")?>
+<p>At 2:56, a similar sonority.</p>
+<?php yt("WC_nrdivY3w", 176) ?>

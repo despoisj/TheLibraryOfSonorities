@@ -80,6 +80,12 @@
 <p>i.e. Minor Mediant -> Relative Major</p>
 <?php yt("X-hxcRWbwEQ", 383) ?>
 
+<?php tt("Sergei Bortkiewicz - Piano Concerto n°1") ?>
+<p>At 4:34, [D -> C# -> F#] i.e. [I -> V/III -> III]</p>
+<p>Note: here we land on *M* III instead of *m* iii, giving a slightly different sound.</p>
+<?php yt("sbBrKano384", 274) ?>
+
+
 
 <h4 class="elementExampleTitle">Other moves to iii</h4>
 <p>Note: these are temporarily here because they deal with I -> iii modulation but give a very different sound.</p>

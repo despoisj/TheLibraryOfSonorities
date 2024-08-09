@@ -26,6 +26,7 @@
 
 <?php tt("Adolf Henselt - Piano Concerto Op. 16, 2nd Mvt.")?>
 <p>At 15:00, A -> DbMaj64 -> Ab7 -> (evaded)</p>
+<p>Also at 7:21, last bar and on: (~E ->) Eb7 -> GMaj64 -> D7 -> G</p>
 <?php yt("3hoaIZXCHU8", 896) ?>
 
 <?php tt("Louise Farrenc - Etude Op. 26 n°10")?>

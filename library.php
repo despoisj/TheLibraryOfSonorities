@@ -46,6 +46,7 @@ array_push($library, element("omnibus", "The Omnibus Family", ["romantic"], ["be
 // Todo texture + harmony
 array_push($library, element("lh_arps", "Left Hand Broken Arpeggios", ["romantic"], ["chopin", "scriabin"], "texture"));
 array_push($library, element("lh_waltz", "Left Hand Waltz Patterns", ["romantic"], ["chopin", "brahms", "tchaikovsky"], "texture"));
+array_push($library, element("octaves", "Lyric Octave Chords", ["romantic"], ["rachmaninoff", "moszkowski", "bortkiewicz"], "texture"));
 
 // Arps
 array_push($library, element("ninth_arps", "Arpeggios with added 9th or 13th", ["romantic", "impressionist"], ["blumenfeld", "scriabin", "rachmaninoff"], "harmony"));
