@@ -73,6 +73,10 @@
 <p>Note the bass: *1 *2 b*3</p>
 <?php yt("z6ElMrRvShc", 215) ?>
 
+<?php tt("Chopin - Waltz Op. 69 n°1") ?>
+<p>At 3:33, 2nd row: i (Fmin) -> V/III (Eb7) -> Ab (Db)</p>
+<?php yt("phqaltlqLtE", 213) ?>
+
 <?php tt("Chopin - Sonata n°2, 3rd Mvt. 'Marche Funèbre'") ?>
 <p>At 12:16, i (Bbmin) -> V7/III (Ab7) -> III (Db)</p>
 <?php yt("VUk3_qTTVg4", 736) ?>

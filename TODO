@@ -1,4 +1,4 @@
-DrC:
+Potential DrC:
 	https://www.youtube.com/watch?v=KeHD14B56fM 17:00 ok
 
 	https://www.youtube.com/watch?v=NaWtKTeX7Tw&list=WL&index=15 Last measure but very quick
@@ -37,10 +37,8 @@ TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
 	- 4/1 Maj Min
 	- V/V / 1 vii/V / 1 V°/V / 1
 
-
 	i -> TB i classique PO ?
 		https://www.youtube.com/watch?v=ZeBmmlFwa1s
-
 
 	GORGEOUS MINOR65 SOUND BRAHMS
 		https://www.youtube.com/watch?v=g9kCOzZ7h2M
@@ -51,48 +49,7 @@ TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
 		https://musescore.com/user/30712651/scores/7185111
 
 
-
-
-Sound i -> I7 ?
-
-	TODO MORTE IS SIMILAR? REWORK MORTE BECAUSE IT HAS USUALLY SOMETHING ON 7 not only 1 b7
-
-	Liszt Romance
-
-	Schubert: Mixolidian b6 / Aeolian Domiant in minor: i -> V/iv -> iv64 so like morte but over PP
-		Major third in minor? Mode of relative minor, rel major
-		https://www.youtube.com/watch?v=MAZ8PA5_gVA 20:00 bar 5
-
-			->->->-> HE DOESN'T PLAY THE TRIAD, Kempf pareil!!! HE PLAYS E#/F B tritone on top !
-			melody is Mixolydian b6, 
-
-	Chopin V/iv https://www.youtube.com/watch?v=39OOOYQOsQA 13:18 and 17:40
-
-	Pathetique TB/Morte I6 (G6) -> 642 on Bb -> 6 on Ab / Wedge
-	https://youtu.be/M_124D_7KoU?si=BogWTmUBO2RXZjuI&t=32
-	Wedge at 2:48
-
-	
-
-
-i64 Converging HC
-https://www.youtube.com/watch?v=NCo8IGl5T9w
-
-
-V7sus
-	- Bach Prelude C
-	- https://www.youtube.com/watch?v=hDtDq4GmLqU 2:00 environ before double bar 
-	(Mouais very different from bach)
-
-
-https://www.youtube.com/watch?v=RICGqS2UtmU
-Unknown arp, Bb D F (Bbmaj) + Enat
-Lydian arp?
-
-
-
-Fr+ Strong scriabin / impressionist sound, resolve down to minor? or like V, it's a V7b5, or just I I+Fr I
-Or move 
+TODO investigate suspensions half dim...
 
 
 Pentatonic:
@@ -101,15 +58,6 @@ Pentatonic:
 	https://www.youtube.com/watch?v=vjddj_cBtgM Prelude 3 has nice sound, 9th? penta? Other?
 
 	https://www.youtube.com/watch?v=3Sm93vg4nck 7:48 no idea prelude 17? check
-
-
-TODO investigate suspensions half dim...
-
-
-
-Kinda MP
-- Fauré nocturne 4 36: Gm7 -> C7(42) -> aHD7
-
 
 
 Phrygian:
@@ -130,9 +78,11 @@ Phrygian:
 FEINTE MINOR b3 -> 3 chromatic
 	https://www.youtube.com/watch?v=Y-4W_IrM5VQ 2eme 
 	https://youtu.be/qFpqEziu4Qs?si=d9-tlc3jjpr9d-by&t=195 3:12
+	https://www.youtube.com/watch?v=phqaltlqLtE 0:18 Abmin -> Ab
 
 		-> Differencier V V+ I from i->I sus retard
-		-> Same on IV?
+		-> Same on IV? V? bof?
+
 
 TODO Mompou vs Albeniz
 		https://www.youtube.com/watch?v=HK6ce0JXaJk 1:35
@@ -213,18 +163,36 @@ TODO Mompou vs Albeniz
 	https://www.youtube.com/watch?v=IeKMMDxrsBE 15:50 iim11
 
 
-	=== Lyrical Octave Chords ===
-		-> https://www.youtube.com/watch?v=G-LmcVgrgm8 0:29 not full octave
 
-
+======================== Dominant chords ======================== 
 
 
 	https://www.youtube.com/watch?v=IXv4hJ-v9Vo Dom#9 1:20
 	https://www.youtube.com/watch?v=fDJhAtt7oBA&feature=youtu.be 32:34 Dom#9 askip
 
-
+	https://www.youtube.com/watch?v=Nc09wbZhwws 6:15 V9 -> Vb9 -> V7
 
 ====================================  MODULATION ====================================
+
+	Sound i -> I7 i.e. V/iv?
+
+		TODO MORTE IS SIMILAR? REWORK MORTE BECAUSE IT HAS USUALLY SOMETHING ON 7 not only 1 b7
+
+		Liszt Romance
+
+		Schubert: Mixolidian b6 / Aeolian Domiant in minor: i -> V/iv -> iv64 so like morte but over PP
+			Major third in minor? Mode of relative minor, rel major
+			https://www.youtube.com/watch?v=MAZ8PA5_gVA 20:00 bar 5
+
+				->->->-> HE DOESN'T PLAY THE TRIAD, Kempf pareil!!! HE PLAYS E#/F B tritone on top !
+				melody is Mixolydian b6, 
+
+		Chopin V/iv https://www.youtube.com/watch?v=39OOOYQOsQA 13:18 and 17:40
+
+		Pathetique TB/Morte I6 (G6) -> 642 on Bb -> 6 on Ab / Wedge
+		https://youtu.be/M_124D_7KoU?si=BogWTmUBO2RXZjuI&t=32
+		Wedge at 2:48
+
 
 	I -> vi (Relative Minor):
 
@@ -342,6 +310,59 @@ Triumph https://www.youtube.com/watch?v=GfGyAyWzoWQ 9:03
 
 Moonlight with root base https://www.youtube.com/watch?v=GfGyAyWzoWQ 9:40
 
+
+=========== SEQUENCES ========
+
+
+	- Chopin, Etude in E Major, op. 10 no. 3, mm. 67-77 like monte principale but down just one step
+
+	- https://www.youtube.com/watch?v=pAHSU0h76mI 58s kinda TB chain dom?
+
+	- https://www.youtube.com/watch?v=XeApB0FFxvM 0:10 like chrom monte?
+
+	- Monte (chromatic? other) https://www.youtube.com/watch?v=pfzH6PGTMhU&t=244s 6:30
+
+	- https://www.youtube.com/watch?v=WtsT_P-bHFM 1:25 monte romanesca kalkbrenner
+	- https://www.youtube.com/watch?v=VYQ-NmhCwJQ monte romanesca start
+
+	- Rach monte romanesca that doesn't sound like one sounds amamzing
+	
+	- https://www.youtube.com/watch?v=2JZP4VvFwZE 5:36
+
+	- https://www.youtube.com/watch?v=va6SFEB42zA 1:58
+
+	- https://www.youtube.com/watch?v=y9AfSAvMySU 3:48
+
+	- https://www.youtube.com/watch?v=eh3l8I-JT4Q 25:10
+
+	- Rach sequence with 64 Rach 3 8:31
+		<?php tt("Rachmaninoff - Piano Concerto n°3")?>
+		<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> D#] -> ~[Bb -> Eb]</p>
+		<p>Harmony is: Amin -> B64 -> Bmin -> C#64 -> C# -> Eb64 -> Eb</p>
+		<p>This is very chromatic, but brings the same rising tension.</p>
+		<?php yt("aSXtXLAVgkE", 590) ?>
+
+	- TODO rach 3 end sequence
+	  https://www.youtube.com/watch?v=aSXtXLAVgkE&t=77s 43min
+
+	- Chopin Concerto 1 2nd mvt
+		https://www.youtube.com/watch?v=w4YyTQduZDc 22:27
+
+		Kind of climbing TB ?
+			-> Kind of monte principale??
+
+		(4 dieses but more like B maj with the A#s)
+		So starts on *4 -> *3 -> *5 -> *4 -> *1
+
+		E + F# A# C# (D#?) = F#642
+		D# + F# B (C#?) = 65 TB?
+
+		F# + G# B# + (D#? E?) = G#642
+		E + G# C# (??) = 6 
+
+		B V7
+		E emaj
+
 ======================== MISC ===========================
 
 Harsh Like Chopin Cascade (???): IV6 -> #ivø65, not sure which make me think of which...
@@ -356,8 +377,15 @@ Harsh Like Chopin Cascade (???): IV6 -> #ivø65, not sure which make me think of
 			-> Maybe it's just a V7sus4 with a 9th, but it's a bit harsh
 
 
+V7sus
+	- See above for sus chords (harsh cascade?)
+	- Bach Prelude C
+	- https://www.youtube.com/watch?v=hDtDq4GmLqU 2:00 environ before double bar 
+	(Mouais very different from bach)
+
+
 Stepwise romanesca with Dominant Tied bass (aka 3 -> 6/#4/2 -> 6 mortensen)
-	Beethoven Waldstein sonata Op 53 Ist mvt
+	- Beethoven Waldstein sonata Op 53 Ist mvt
 
 
 I -> V43/V -> V with great voice leading https://www.youtube.com/watch?v=MAZ8PA5_gVA 24:38 
@@ -411,55 +439,10 @@ Descending 7-6 joli https://www.youtube.com/watch?v=mO5iPTyUDCQ 7:24
 
 https://www.youtube.com/watch?v=kvebEV-oaJs 1:20 cadence with weird D#Maj#5 over B
 
-=========== SEQUENCES ========
+i64 Converging HC https://www.youtube.com/watch?v=NCo8IGl5T9w
 
+https://www.youtube.com/watch?v=RICGqS2UtmU Unknown arp, Bb D F (Bbmaj) + Enat Lydian arp?
 
-	- Chopin, Etude in E Major, op. 10 no. 3, mm. 67-77 like monte principale but down just one step
+Fr+ Strong scriabin / impressionist sound, resolve down to minor? or like V, it's a V7b5, or just I I+Fr I
+Or move 
 
-	- https://www.youtube.com/watch?v=pAHSU0h76mI 58s kinda TB chain dom?
-
-	- https://www.youtube.com/watch?v=XeApB0FFxvM 0:10 like chrom monte?
-
-	- Monte (chromatic? other) https://www.youtube.com/watch?v=pfzH6PGTMhU&t=244s 6:30
-
-	- https://www.youtube.com/watch?v=WtsT_P-bHFM 1:25 monte romanesca kalkbrenner
-	- https://www.youtube.com/watch?v=VYQ-NmhCwJQ monte romanesca start
-
-	- Rach monte romanesca that doesn't sound like one sounds amamzing
-
-	- Mazurka 30 3 Chopin sequence like MP but U4D2 instead of D3 https://www.youtube.com/watch?v=hzsOkdyfzyI 1:43
-	- U4D2: https://www.youtube.com/watch?v=nlLznjrHvoo 57s
-	
-	- https://www.youtube.com/watch?v=2JZP4VvFwZE 5:36
-
-	- https://www.youtube.com/watch?v=va6SFEB42zA 1:58
-
-	- https://www.youtube.com/watch?v=y9AfSAvMySU 3:48
-
-	- Rach sequence with 64 Rach 3 8:31
-		<?php tt("Rachmaninoff - Piano Concerto n°3")?>
-		<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> D#] -> ~[Bb -> Eb]</p>
-		<p>Harmony is: Amin -> B64 -> Bmin -> C#64 -> C# -> Eb64 -> Eb</p>
-		<p>This is very chromatic, but brings the same rising tension.</p>
-		<?php yt("aSXtXLAVgkE", 590) ?>
-
-	- TODO rach 3 end sequence
-	  https://www.youtube.com/watch?v=aSXtXLAVgkE&t=77s 43min
-
-	- Chopin Concerto 1 2nd mvt
-		https://www.youtube.com/watch?v=w4YyTQduZDc 22:27
-
-		Kind of climbing TB ?
-			-> Kind of monte principale??
-
-		(4 dieses but more like B maj with the A#s)
-		So starts on *4 -> *3 -> *5 -> *4 -> *1
-
-		E + F# A# C# (D#?) = F#642
-		D# + F# B (C#?) = 65 TB?
-
-		F# + G# B# + (D#? E?) = G#642
-		E + G# C# (??) = 6 
-
-		B V7
-		E emaj

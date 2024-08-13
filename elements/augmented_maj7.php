@@ -104,6 +104,10 @@
 <p>At 0:08, 6th syllable, "La mer é-tait tran-QUILLE": BbMaj9#5 -> Gm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("ljKfcgXc68s", 7) ?> 
 
+<?php tt("Chopin - Waltz Op. 69 n°1") ?>
+<p>At 0:25, very fleeting, first bar of the page: DbMaj7#5 -> Bbm6 i.e. IIIMaj9#5 -> i6</p>
+<?php yt("phqaltlqLtE", 25) ?> 
+
 <?php tt("Liszt - Sonata in B minor") ?>
 <p>- At 5:00, in FMaj7#5 -> Dm6 i.e. IMaj7#5 -> vi6</p>
 <p>- At 6:40, 4th bar: GMaj7#5 -> Em6 i.e. IVMaj7#5 -> ii6</p>

@@ -1,5 +1,5 @@
 <p>This modulation, which I call 'minor mediant' modulation, moves from I to iii, or from any major chord to the <b>minor scale a major third above</b> (ex. Cmaj -> Emin). The bass moves from *1 -> *7 -> *3 supporting harmonies of I -> V/iii -> iii. It's a rather rare sound, which seems to often emphasize the *1 -> *7 -> *3 move as if stepping back before leaping forward. This often gives a bright and triumphant sound, like the I -> III triumph modulation. This sound if often highlighted by a rising melody.</p>
-<p>This move seems to mostly work with other mediant modulations (to III, iii, vi, etc.) like the <?php inlineLink("rel_maj_modulation","relative major modulation") ?> to form chains or sequences. This modulation is the inverse of the <?php inlineLink("moonlight_modulation","moonlight modulation") ?>.</p>
+<p>This move seems to mostly work with other mediant modulations (to III, iii, vi, etc.) like the <?php inlineLink("rel_maj_modulation","relative major modulation") ?> to form chains or sequences. This modulation is the inverse of the <?php inlineLink("moonlight_modulation","moonlight modulation") ?>. When chained, the resulting sequence can be seen as a tonicizing U4D2 sequence.</p>
 <p><b>Keyboard Tip:</b> This is very easy to play as V/iii is simply a major triad (or dominant seventh) a half step below I. Being mindful of parallel fifths, one can simply slide the chord down a half-step.</p>
 
 
@@ -82,9 +82,23 @@
 
 <?php tt("Sergei Bortkiewicz - Piano Concerto n°1") ?>
 <p>At 4:34, [D -> C# -> F#] i.e. [I -> V/III -> III]</p>
+<p>i.e Minor Mediant (or Major Mediant?)</p>
 <p>Note: here we land on *M* III instead of *m* iii, giving a slightly different sound.</p>
 <?php yt("sbBrKano384", 274) ?>
 
+<?php tt("Chopin - Mazurka Op. 30 n°3") ?>
+<p>At 1:40, C7] -> [Fm -> Eb7 -> Ab] -> [Ab -> G7 -> C]</p>
+<p>i.e. V7] -> [i -> V/III -> III] -> [I -> V/III -> III]</p>
+<p>i.e. Relative Major -> Minor Mediant<sup>*</sup> (like above, we end on *M* III instead of *m* iii)</p>
+<p>Note: another way to see this kind of chain is as a tonicizing sequence U4D2</p>
+<?php yt("hzsOkdyfzyI", 98) ?>
+
+<?php tt("Thomas Tellefsen - Nocturne Op. 17 n°3") ?>
+<p>At 0:50, F7 -> [BbMaj -> A7 -> Dmin]</p>
+<p>i.e. V7 -> [I -> V/iii -> iii]</p>
+<p>i.e Minor Mediant</p>
+<p>Again, the symmetry here highlights the U4D2 tonicizing sequence</p>
+<?php yt("nlLznjrHvoo", 50) ?>
 
 
 <h4 class="elementExampleTitle">Other moves to iii</h4>

@@ -61,7 +61,8 @@
 <?php yt("S2TEUjBG40g", 3654) ?>
 
 <?php tt("Handel - Concerto Grosso Op. 6 n°12, Allegro")?>
-<p>This example shows the 5-6, which is very similar to the Monte Principale.</p>
+<p>At 3:18, the 2nd movement shows the 5-6, which is very similar to the Monte Principale.</p>
+<p>At 5:10, the 3rd movement opens (bars 5-8) with a proper Monte Principale: [E -> A] -> [F# -> B]</p>
 <?php yt("vdAgwlM1hJw", 198) ?>
 
 <?php tt("Sibelius - Etude in A minor, Op. 76 n°2")?>
