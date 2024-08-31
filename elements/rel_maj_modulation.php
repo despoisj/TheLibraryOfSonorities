@@ -90,6 +90,10 @@
 <p>Note the bass: *1 *2 b*3</p>
 <?php yt("K3RchO4cuk4", 3) ?>
 
+<?php tt("Isaak Berkovich - Sonatina n°4") ?>
+<p>At 0:05 i (Amin) -> V7/III (G7) -> III (C)</p>
+<?php yt("Ll6_nPAsBkY", 5) ?>
+
 <?php tt("Weber - 'Der Freischütz' Overture, 2nd Mvt.") ?>
 <p>At 4:29, 2nd page: i (Cmin) -> V65/III (Bb7) -> III (Eb)</p>
 <p>Note: at 4:20, there's a very interesting modulation that chains two of the brightest modulations: the relative major and the I -> iii.</p>
@@ -106,6 +110,7 @@
 <?php tt("Chopin - Ballade n°3") ?>
 <p>Ending: (V7/i) -> i (Fmin) -> V7/III (Eb7) -> III (Ab)</p>
 <?php yt("yXZEvbW47mQ", 435) ?>
+
 
 <h4 class="elementExampleTitle">Direct i -> III or V -> III</h4>
 <p>This special case of modulation carries an even sweeter and brighter sound. The modulation occurs directly after a complete or half-cadence. The resulting chord progression is then in *m*: V7 -> (pause) -> III or i -> III.</p>

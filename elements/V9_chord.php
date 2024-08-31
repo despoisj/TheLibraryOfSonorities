@@ -98,12 +98,14 @@
 <p>n°4: V9 At 4:27 - mm. 5: B7 + C# with C# -> D# but the resolution to E is frustrated and only occurs in the bass.</p>
 <?php yt("HSESmLtgk0E", 197) ?>
 
-<?php tt("Chopin - Mazurka, Op. 7 n°2")?>
-<p>At 0:24 - End of 2nd row: F7 + G with G -> A -> Bb.</p>
-<?php yt("k8YDpBBKF0k", 24) ?>
+<?php #tt("Chopin - Mazurka, Op. 7 n°2")?>
+<!-- Doesn't really sound like DrC -->
+<!-- <p>At 0:24 - End of 2nd row: F7 + G with G -> A -> Bb.</p> -->
+<?php #yt("k8YDpBBKF0k", 24) ?>
 
 <?php tt("Chopin - Waltz, Op. 69 n°1 'Adieu'")?>
 <p>At 4:17 - Last bar: Dream Cadence + Chopin Cadence: E7 + F -> G -> Ab + Db -> C -> Ab.</p>
+<p>i.e. V9 + VChM</p>
 <?php yt("phqaltlqLtE", 257) ?>
 
 <?php tt("Brahms - Variations on a Theme of Paganini, Op. 35, Book II, Var. 12")?>

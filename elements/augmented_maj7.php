@@ -84,8 +84,9 @@
 <?php yt("QPtTPkDDyTU", 57) ?>
 
 <?php tt("Chopin - Prelude Op. 28 n°4") ?>
+<p>At 0:58, CMaj7#5 -> Am6 i.e. IIIMaj7#5 -> i6</p>
 <p>At 1:54, GMaj7#5 -> Em6 i.e. IIIMaj7#5 -> i6</p>
-<?php yt("CU9RgI9j7Do", 114) ?>
+<?php yt("CU9RgI9j7Do", 58) ?>
 
 <?php tt("Michel Delalande - 'Ego vero egenus et pauper aum'") ?>
 <p>At 3:04, second "Deus": GMaj9#5 -> Em6 i.e. IIIMaj9#5 -> i6</p>

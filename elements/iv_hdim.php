@@ -74,6 +74,12 @@
 <p>At 9:02 in Dm: i -> ivø7 -> i</p>
 <?php yt("EwFo6RvDB-k", 542) ?>
 
+<?php tt("Chopin - Etude Op. 25 n°12 'Ocean'") ?>
+<p>mm. 4-7 in Cm: i -> iiø7 / *1 -> ~ivø7 / *1 -> i</p>
+<?php yt("9IbCEF1XF9Q", 2) ?>
+
+
+
 <h4 class="elementExampleTitle">Predominant Extension</h4>
 <p>When using ivø7 over *5, it creates the darker sound of the VChmb9 which can resolve into V7 or V7b9.</p>
 
