@@ -90,6 +90,16 @@
 <p>*4] -> [*2 -> *5] -> [*3 -> *6] -> [*4 -> *7] -> [*5</p>
 <?php yt("6Sxp9M0Jm4w", 508) ?>
 
+<?php tt("Haydn - Sonata in E flat major Hob. XVI:28, 3rd Mvt.")?>
+<p>At 10:40 we get a very clear 5-6 motion with a DoLaReTi bass</p>
+<p>A] -> [F -> B] -> [G -> C] -> [A </p>
+<?php yt("rM3ZnFT2Xl0", 640) ?>
+
+<?php tt("Grieg - Peer Gynt Suite n°1, 'Morning Mood'")?>
+<p>At 1:15 we get a very clear 5-6 motion with added sevenths.</p>
+<p>A] -> [F -> B] -> [G -> C] -> [A </p>
+<?php yt("-PYOKT5yODg", 75) ?>
+
 <?php tt("Chopin - Piano Concerto n°1, 3rd Mvt.")?>
 <p>At 44:50: 5-6 starting on E -> F# -> G# -> A</p>
 <?php yt("R3azyotbXgg", 2688) ?>
@@ -121,6 +131,14 @@
 <p>i.e. x *1] -> [*6 -> *2] -> [*7 -> *3] -> [*1 x</p>
 <p>This is a good example of the link between the 5-6 monte and the Monte Principale.</p>
 <?php yt("YmEHs7MKYMg", 3) ?>
+
+<?php tt("Hubert Parry - 'Long Since in Egypt\'s Pleasant Land'")?>
+<p>At 0:21, with added sevenths and a DoLaReTi bass.</p>
+<p>Note: the first chord of the sequence is a Maj7#5 chord: AbMaj7#5 -> Fmin. For more info on that sonority, see below.</p>
+<?php linkSingleElement("augmented_maj7")?>
+
+
+<?php yt("KZrsR3qkPS4", 20) ?>
 
 
 
@@ -154,5 +172,7 @@
 <?php yt("6tLvXyYvS0o", 61) ?>
 
 
+<?php tt("Video highlighting some Chromatic, 5-6 and Principale Montes") ?>
+<?php yt("0ZGz1SPqRUk") ?>
 
 
