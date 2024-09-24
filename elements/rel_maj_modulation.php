@@ -94,6 +94,10 @@
 <p>At 0:05 i (Amin) -> V7/III (G7) -> III (C)</p>
 <?php yt("Ll6_nPAsBkY", 5) ?>
 
+<?php tt("Carl Filtsch - 'Adieu!'") ?>
+<p>At 0:05 i (Cmin) -> V7/III (B7) -> III (Eb)</p>
+<?php yt("KVQLss1HKK4", 2) ?>
+
 <?php tt("Weber - 'Der Freischütz' Overture, 2nd Mvt.") ?>
 <p>At 4:29, 2nd page: i (Cmin) -> V65/III (Bb7) -> III (Eb)</p>
 <p>Note: at 4:20, there's a very interesting modulation that chains two of the brightest modulations: the relative major and the I -> iii.</p>
