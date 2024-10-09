@@ -109,6 +109,12 @@
 <p>At 0:25, very fleeting, first bar of the page: DbMaj7#5 -> Bbm6 i.e. IIIMaj9#5 -> i6</p>
 <?php yt("phqaltlqLtE", 25) ?> 
 
+<?php tt("Anatoly Liadov - Prelude Op. 40, n°3") ?>
+<p>The piece starts with FMaj7#5 -> Dm6 i.e. IMaj7#5 -> vi6</p>
+<p>This highlights perfectly how this sonority can come from an enclosure around the fifth, here D: E -> C# -> D.</p>
+<?php yt("zO0dmVL19AQ") ?> 
+
+
 <?php tt("Liszt - Sonata in B minor") ?>
 <p>- At 5:00, in FMaj7#5 -> Dm6 i.e. IMaj7#5 -> vi6</p>
 <p>- At 6:40, 4th bar: GMaj7#5 -> Em6 i.e. IVMaj7#5 -> ii6</p>
