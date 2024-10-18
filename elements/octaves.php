@@ -35,6 +35,10 @@
 <p>At 3:20</p>
 <?php yt("1qoPDQzXVmk", 200) ?>
 
+<?php tt("Anatoly Lyadov - Prelude in Db major, Op. 57 n°1")?>
+<p>At 7:55</p>
+<?php yt("GDBYoLPFAkk", 475) ?>
+
 <?php tt("Erroll Garner plays 'Be My Love'")?>
 <p>At 0:19, despite Erroll Garner being a jazz pianist, here playing a jazz standard, this piece shows just how blurry the line can be between genres, and is a great example of lyric octave chords.</p>
 <?php yt("yvVh-a9Egkw", 19) ?>

@@ -34,6 +34,13 @@
 <p>i.e. I -> LT°7 + WSS / *1 -> I.</p>
 <?php yt("7IYEUiKh-48") ?>
 
+<?php tt("Anton Strelezki (Stepán Esipoff) - Romance Russe")?>
+<p>*M* At 0:42 bar 4-5: C -> Ab°7 + WSS / C (with E -> D) -> C, i.e. I -> LT°7 + WSS / *1 -> I.</p>
+<?php yt("ZQRHBg96gss", 42) ?>
+
+<?php tt("Vasily Sapelnikov - Mélodie, Op.7 n°3")?>
+<p>*M* At 0:10 bar 3: B°7 + WSS (with G -> F)</p>
+<?php yt("GGyzmP4fKj0", 8) ?>
 
 
 <h3 class="elementExampleTitle">(W.I.P) Suspensions on Half-Diminished Chords</h3>

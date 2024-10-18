@@ -23,6 +23,8 @@ Potential DrC:
 
 	https://www.youtube.com/watch?v=hxMjJ2fSAdE V11 DrC 2:49
 
+	https://www.youtube.com/watch?v= GGyzmP4fKj0 Multiple DrC but in the bass with top
+
 	https://www.youtube.com/watch?v=T_-1qMPDf-A Ondine climax rising scale ravel
 
 
@@ -51,6 +53,9 @@ TODO DECOUPLE X/^1, LT, CT, HARMMAJ, ETC, LT MAJ MIN DIFFERENT ?
 
 TODO investigate suspensions half dim...
 
+
+Gorgeous suspensions:
+	https://www.youtube.com/watch?v=n91RXPbwMCo first with 6-5 suspension on Gmaj, then after with 7-6 on Gmaj, also structure waltz
 
 Pentatonic:
 	https://www.youtube.com/watch?v=ry5L3_0XVuk Prelude 3 starts with chord/arps of 12345, or is it just having 145 in left hand?
@@ -316,6 +321,8 @@ Moonlight with root base https://www.youtube.com/watch?v=GfGyAyWzoWQ 9:40
 =========== SEQUENCES ========
 
 
+	- Sequence using triumph kinda https://www.youtube.com/watch?v=SRAUhWt43-4 13min
+
 	- Chopin, Etude in E Major, op. 10 no. 3, mm. 67-77 like monte principale but down just one step
 
 	- https://www.youtube.com/watch?v=pAHSU0h76mI 58s kinda TB chain dom?
@@ -326,8 +333,6 @@ Moonlight with root base https://www.youtube.com/watch?v=GfGyAyWzoWQ 9:40
 
 	- https://www.youtube.com/watch?v=WtsT_P-bHFM 1:25 monte romanesca kalkbrenner
 	- https://www.youtube.com/watch?v=VYQ-NmhCwJQ monte romanesca start
-
-	- Rach monte romanesca that doesn't sound like one sounds amamzing
 	
 	- https://www.youtube.com/watch?v=2JZP4VvFwZE 5:36
 
@@ -337,17 +342,20 @@ Moonlight with root base https://www.youtube.com/watch?v=GfGyAyWzoWQ 9:40
 
 	- https://www.youtube.com/watch?v=eh3l8I-JT4Q 25:10
 
+	- Crazy Epic liszt thing at 45min https://www.youtube.com/watch?v=S2TEUjBG40g
+
 	- Rach sequence with 64 Rach 3 8:31
 		<?php tt("Rachmaninoff - Piano Concerto n°3")?>
-		<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> D#] -> ~[Bb -> Eb]</p>
+		<p>At 8:29, Bass follows: x A] -> [F# -> B] -> [G# -> C#] -> ~[Bb -> Eb] -> [C</p>
 		<p>Harmony is: Amin -> B64 -> Bmin -> C#64 -> C# -> Eb64 -> Eb</p>
 		<p>This is very chromatic, but brings the same rising tension.</p>
 		<?php yt("aSXtXLAVgkE", 590) ?>
 
-	- TODO rach 3 end sequence
-	  https://www.youtube.com/watch?v=aSXtXLAVgkE&t=77s 43min
 
-	  https://www.youtube.com/watch?v=0ZGz1SPqRUk End explains it?
+		-> Motif bass moves perfectly moved 4 times 1 step above for each note
+		-> Every other beat seems to be a dissonant sounding Maj7 in inversion
+		-> Can't replicate 14 oct 2024
+
 
 	- Chopin Concerto 1 2nd mvt
 		https://www.youtube.com/watch?v=w4YyTQduZDc 22:27
@@ -484,3 +492,6 @@ Or move
 
 V9 in brillant style mazurka waltz?  (Václav Kaprál | Mazurka (from the cycle "Lyrics"))
 
+iii->ii or im7 -> bvim7? m7 -> m7 2HS below Ravel - Miroirs No. 3, "Une Barque sur l'Ocean" Sheet Music + Audio - YouTube
+
+GORGEOUS DORIAN SOUND HISAISHI https://www.youtube.com/watch?v=Yvha7-oNFys aka minor but with major 6th 🔥

@@ -122,11 +122,14 @@ As both are often used on a *1 pedal point between two tonic harmonies, the drea
 <p>*M* mm. 1-2: Eb -> Ab°7 / Eb -> Eb, i.e. I -> LT°7 / *1 -> I.</p>
 <?php yt("7IYEUiKh-48") ?>
 
+<?php tt("Anton Strelezki (Stepán Esipoff) - Romance Russe")?>
+<p>*M* At 0:42 bar 4-5: C -> Ab°7 / C -> C, i.e. I -> LT°7 / *1 -> I.</p>
+<p>Note: there is a WSS suspension on the Ab°7: E -> D</p>
+<?php yt("ZQRHBg96gss", 42) ?>
 
 <?php tt("Felix Blumenfeld - Etude for the Left Hand, Op. 36") ?>
 <p>*M* Ab -> G°7/Ab, i.e. I -> LT°7/*1 -> .../*1</p>
 <?php yt("nGiO9foYa4A") ?>
-
 
 <?php tt("Schumann - Kinderszenen Op. 15 n°1") ?>
 <p>*M* At 0:08 I -> LT°7 of V -> V</p>

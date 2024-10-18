@@ -87,6 +87,10 @@
 <p>mm. 3-5 in Dm: i -> ivø65 / *5 -> i</p>
 <?php yt("qkSPBZoZSjI", 4) ?>
 
+<?php tt("Felix Blumenfeld - Etude-Fantaisie, Op. 48") ?>
+<p>At 6:19, last bar (in Fm): Bbø7 / C -> Fmin i.e. ivø7 / *5 -> i</p>
+<?php yt("7GHiKAvNGB4", 375) ?>
+
 <br>
 <p>For more information, check out the article on Predominant Extensions.</p>
 

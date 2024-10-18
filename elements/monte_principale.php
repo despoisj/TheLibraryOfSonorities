@@ -51,6 +51,19 @@
 <p>i.e *1] -> [b*6 -> *2] -> [*7</p>
 <?php yt("C8EIBhKxGVY", 308) ?>
 
+<?php tt("Rachmaninoff — Piano Concerto n°3, 3rd Mvt.")?>
+<p>Note: Buckle up for this example, as romantic composers use dense harmonies and uneven segment lengths to decorate and disguise sequences, similar to Dobrowen's example below. The upwards pull of the stepwise climbing of the melody is the signature sound of this family of sonorities.</p>
+<p>At 2:00, the sequence starts with a DoLaReTi bass Monte Principale, which takes modal detours to create iiø7-V7-iii progressions borrowed from a minor Monte Principale with U4D3 bass.</p>
+<p>Gmaj -> Emin -> Amin (-> Aø7 -> D7) -> Bmin (-> Bø7 -> E7) -> Aø7</p>
+<p>i.e *1] -> [*6 -> *2] (-> local *2 -> *5) -> [*7 -> (-> local *2 -> *5) -> *2</p>
+<p>i.e. in terms of DoLaReTi and MP building blocks: DoLaReTi (*1 *6 *2) -> MP (*1 -> *4 -> *2) -> MP (*1 -> *4 -> *2)</p>
+<?php yt("wkci_fyEot8", 120) ?>
+
+<br>
+<p>This sequence returns at the end of the piece for the culmination of the concerto, and is very nicely illustrated in the video below, even if the notation in roman numerals isn't the best to see what's going on. The two notable elements are the chain of DoLaReTi with U4D3 Monte Principale components as well as the transition from a minor chord to a half-diminished chord with the same root.</p>
+<?php yt("0ZGz1SPqRUk", 1474) ?>
+
+
 <?php tt("Chopin - Scherzo n°1")?>
 <p>At 4:59, last row, bars 4-6: G#(63)] -> [A#(753 -> 63)] -> [B(53 -> 63)] -> [C#(753 -> 63)]</p>
 <?php yt("38VShqkukWY", 299) ?>

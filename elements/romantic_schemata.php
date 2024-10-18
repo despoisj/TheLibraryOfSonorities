@@ -33,6 +33,10 @@
 <p>At 2:51</p>
 <?php yt("nlLznjrHvoo", 171) ?>
 
+<?php tt("Ignacy Paderewski - Sarabande a l'Antique, Op.14/2")?>
+<p>First many circle of fifths, then the monte romanesca at 1:00</p>
+<?php yt("QnFV5DrxhGw", 60) ?>
+
 
 <h4 class="elementExampleTitle">Romanesca</h4>
 
@@ -59,3 +63,9 @@
 <?php tt("Francis Thomé - Simple Aveu")?>
 <p>At 0:54: Leaping Romanesca</p>
 <?php yt("Sd_1KV6VqY8", 53) ?>
+
+<?php tt("Liszt - La lampe du temple – Andante lagrimoso (first version)")?>
+<p>At 55:25: Leaping Romanesca with suspensions</p>
+<?php yt("S2TEUjBG40g", 3325) ?>
+
+

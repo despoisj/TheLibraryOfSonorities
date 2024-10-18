@@ -32,11 +32,17 @@
 <div style="margin-top: -10px; margin-bottom: 25px;"><small>*M*</small></div>
 <p>In major, iim7 and iim65 are very common, with iim65 being the Rule of the Octave on *4.</p>
 <p>A nice move is to go from iim65 to iim7 with a wedge motion: iim65 = (*4 ^6 ^8 ^2) -> (*3 ^6 ^8 ^3) -> iim7 = (*2 ^6 ^8 ^4).</p>
+
 <p><b>PREDOMINANT EXTENSION:</b> when using ii or viiø7 on top of *5, you get a nV9 chord with or without the third. You get the opportunity to resolve the chord either down to V7, or by bringing the 9th up in a V9 Dream Cadence. When using IV or iim7, the chord becomes nV11, which resolves either down to V7, or by bringing the upper third up in a V11 Dream Cadence.</p>
 <p>Note: even though you can freely move between the inversions of ii and iim7, the best effect is usually when the 9th (or 11th) is the highest voice. To learn more about the Dream Cadence, see here:</p>
 
 <br>
 <?php linkSingleElement("V9_chord") ?>
+
+<?php tt("Liszt - Benedetto s’il giorno, S.158 n°2 (First version of S.161 n°4)") ?>
+<p>At 9:50, last row. (in G): G64 -> Am7 / D -> D7 -> G i.e. I64 -> ~iim7 / *5 -> V7 > I</p>
+<?php yt("Nc09wbZhwws", 590) ?>
+
 
 <br>
 <h3 id="b" class="elementExampleTitle">ii° & vii°7</h3>
@@ -101,6 +107,10 @@
 <p>At 0:49, mm. 2-3: AMaj7 / B -> B7 -> E i.e. IVM7 / *5 -> V7 -> I</p>
 <?php yt("S2TEUjBG40g", 49) ?>
 
+<?php tt("Anatoly Lyadov - Prelude in Db major, Op. 57 n°1")?>
+<p>At 7:55, 5th chord is GbMaj7 / Ab i.e. IVM7 / *5 -> ~I</p>
+<?php yt("GDBYoLPFAkk", 475) ?>
+
 <br>
 <h3 id="e" class="elementExampleTitle">ivm7 & ivø7</h3>
 <div style="margin-top: -10px; margin-bottom: 25px;"><small>*m*</small></div>
@@ -116,6 +126,10 @@
 <?php tt("Rachmaninoff - Trio Élégiaque Op. 9 n°2") ?>
 <p>mm. 3-5 in Dm: i -> ivø65 / *5 -> i</p>
 <?php yt("qkSPBZoZSjI", 4) ?>
+
+<?php tt("Felix Blumenfeld - Etude-Fantaisie, Op. 48") ?>
+<p>At 6:19, last bar (in Fm): Bbø7 / C -> Fmin i.e. ivø7 / *5 -> i</p>
+<?php yt("7GHiKAvNGB4", 375) ?>
 
 
 <?php tt("Model for IVM7, ivm7 and ivø7")?>
