@@ -33,6 +33,11 @@
 <p>N6 -> i64 -> V -> i</p>
 <?php yt("zBNIlyTVIOY", 62) ?>
 
+<?php tt("Chopin - Etude Op. 25 n°12 'Ocean'")?>
+<p>I -> N6 -> V -> I</p>
+<p>Note: this example shows the N6 chord in *M*, which is rather rare. Here it's helped by the sudden modulation to C maj from C minor with some sort of a plagal <?php inlineLink("picardy_third", "picardy third") ?>.</p>
+<?php yt("9IbCEF1XF9Q", 15) ?>
+
 <?php tt("More Examples")?>
 <?php yt("ebWiF3XW4dU", 890) ?>
 

@@ -40,6 +40,7 @@
 	<tr><td>◯◯⬤</td><td>Move to the root position inversion through a major 64 on b*7 like IV6 -> I64 -> IV</td></tr>
 	<tr><td>◯◯⬤</td><td>Start a sequence</td></tr>
 	<tr><td>◯◯⬤</td><td>RO motions: *6 *7 *1 or *M* *3 *4 *5 or *M* *3 *2 *1 etc.</td></tr>
+	<tr><td>◯◯⬤</td><td>Modulating RO motion: *M* *6 *5 (*1)</td></tr>
 	<tr><td>◯⬤⬤</td><td>Transform the 63 into a an <?php inlineLink("augmented_triads", "augmented b6/3 (6/+3)") ?></td></tr>
 	<tr><td>◯⬤⬤</td><td>Reinterpret as a <?php inlineLink("n6", "neapolitan 6th chord") ?>: *M* 63 on *1 -> *m* 64 on *2 -> *M* 53 on *2 etc.</td></tr>
 	<tr><td>◯⬤⬤</td><td>Approach b*7 with vii°/b*7: split the 6th in a wedge of +1HS and -1HS, like in Chopin Op. 10 n°1</td></tr>

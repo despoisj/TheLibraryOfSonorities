@@ -21,6 +21,10 @@
 <p>C minor -> C major.</p>
 <?php yt("HB8-w5CvMls", 92) ?>
 
+<?php tt("Liszt - Miserere, d’après Palestrina, S.173 n°8")?>
+<p>Cadence in E minor arriving on E major.</p>
+<?php yt("Wd5Puo9GOaE", 29) ?>
+
 <?php tt("Fauré - Requiem, Libera Me")?>
 <p>We first get A minor (mm. 4), then A major.</p>
 <?php yt("ot4ulSeYcHU", 31) ?>
@@ -28,7 +32,6 @@
 <?php tt("Chopin - Etude Op. 10 n°6")?>
 <p>Eb minor -> Eb Major.</p>
 <?php yt("kY768DAyTuk", 236) ?>
-
 
 <?php tt("Bach - French Suite n°1, 'Sarabande' BWV 812")?>
 <p>D minor -> D major.</p>

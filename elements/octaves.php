@@ -31,6 +31,10 @@
 <p>At 12:29</p>
 <?php yt("wkci_fyEot8", 749) ?>
 
+<?php tt("Debussy - Clair de Lune")?>
+<p>At 1:00</p>
+<?php yt("FoD_AxKoJDs", 62) ?>
+
 <?php tt("Rachmaninoff - Prelude Op. 23 n°4")?>
 <p>At 3:20</p>
 <?php yt("1qoPDQzXVmk", 200) ?>
