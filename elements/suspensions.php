@@ -64,9 +64,16 @@
 
 
 
-<h3 class="elementExampleTitle">(W.I.P) Other usual suspensions</h3>
+<h3 class="elementExampleTitle">(W.I.P) Other notable suspensions</h3>
 
 <p>Among other very poignant romantic suspensions, we can note the 9th added to a minor triad, to iiø65 or iiø7 like just above, or to the Neapolitan Sixth chord.</p>
 
 <?php tt("En Blanc Et Noir - Neapolitan 9th Suspension") ?>
 <?php yt("ySWyg85r-5w") ?>
+
+<br>
+
+<?php tt("Liszt - Sonata in B minor") ?>
+<p>At  24:00 the accented E -> D# over F#°7.</p>
+<p>Note: this isn't a WSS, but only a half step suspension. To be investigated more.</p>
+<?php yt("IeKMMDxrsBE", 1440) ?>

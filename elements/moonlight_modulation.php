@@ -56,6 +56,10 @@
 <p>At 3:50 Dm -> F7/C -> Bb</p>
 <?php yt("nlLznjrHvoo", 230) ?>
 
+<?php tt("Clara Schumann - Piano Concerto in A minor, Op. 7")?>
+<p>At 2:14 Em -> G7/D -> (aborted)</p>
+<?php yt("sHnYlORpL5Q", 134) ?>
+
 <?php tt("Chopin - Polonaise Op. 26 n°2")?>
 <p>End of page: D#min -> F#7 -> B (here B7)</p>
 <p>Note: here the bass is *1 b*3 b*6, also listen how the F#7 chord's sound is emphasized.</p>

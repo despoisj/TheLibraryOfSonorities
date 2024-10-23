@@ -145,12 +145,10 @@
 <p>This is a good example of the link between the 5-6 monte and the Monte Principale.</p>
 <?php yt("YmEHs7MKYMg", 3) ?>
 
-<?php tt("Hubert Parry - 'Long Since in Egypt\'s Pleasant Land'")?>
+<?php tt("Hubert Parry - 'Long Since in Egypt's Pleasant Land'")?>
 <p>At 0:21, with added sevenths and a DoLaReTi bass.</p>
 <p>Note: the first chord of the sequence is a Maj7#5 chord: AbMaj7#5 -> Fmin. For more info on that sonority, see below.</p>
 <?php linkSingleElement("augmented_maj7")?>
-
-
 <?php yt("KZrsR3qkPS4", 20) ?>
 
 
@@ -179,10 +177,13 @@
 <p>At 3:12 (and before at 1:44), try to listen for the building energy with the Up and Down motion: THINGS↑ -> feels↓ -> WORDS↑ -> kneels↓.</p>
 <?php yt("qQzdAsjWGPg", 192) ?>
 
-
 <?php tt("Joe Hisaishi - Bygone Days") ?>
 <p>We only get the parallel stepwise seventh but with a similar effect: Cmin7 -> Dmin7 -> EbMaj7</p>
 <?php yt("6tLvXyYvS0o", 61) ?>
+
+<?php tt("Adolf Deutsch - Theme from 'The Apartment'") ?>
+<p>At 2:10</p>
+<?php yt("UpOYy6sW29I", 127) ?>
 
 
 <?php tt("Video highlighting some Chromatic, 5-6 and Principale Montes") ?>

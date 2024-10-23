@@ -37,6 +37,10 @@
 <p>mm. 7: Descending A harmonic minor (note the G#).</p>
 <?php yt("dcapH7xANkI", 86) ?>
 
+<?php tt("Fikret Amirov - 12 Miniatures, n°5 'Lyrical Dance'") ?>
+<p>At 3:38 piu mosso: B harmonic minor (note the A#).</p>
+<?php yt("YyAIrOPc_eM", 218) ?>
+
 
 <h3 class="elementExampleTitle">Hungarian Minor</h3>
 <p>If we raise the 4th degree of the harmonic minor scale, we obtain the double harmonic minor or <a href="https://en.wikipedia.org/wiki/Harmonic_minor_scale">Hungarian Minor</a> scale. Portion of the scale can be used, like adding the #4 degree in a minor ^1 b^3 ^5 arpeggio to create a mysterious sound, or longer scale runs for an even more ominous sonority.</p>

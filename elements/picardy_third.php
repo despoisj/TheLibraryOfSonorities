@@ -37,9 +37,11 @@
 <p>D minor -> D major.</p>
 <?php yt("nabd9V8C3MY", 440) ?>
 
-
 <?php tt("Samuel Maykapar - Arietta in A minor")?>
 <p>- At 2:10, the first measure of the 2nd row gives an A major (A7) sound in a piece where we always had A minor.</p>
 <p>- At 2:50 the piece ends with the A major chord.</p>
 <?php yt("dcapH7xANkI", 130) ?>
 
+<?php tt("Fikret Amirov - 12 Miniatures, n°5 'Lyrical Dance'") ?>
+<p>At 4:15 after a piece in mostly B harmonic minor, it ends on B major.</p>
+<?php yt("YyAIrOPc_eM", 255) ?>
